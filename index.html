@@ -1,0 +1,540 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>AMZ Norte | Notícias do Amazonas</title>
+  <meta name="description" content="AMZ Norte - Portal de notícias do Amazonas. Cobertura completa de segurança, política, economia e meio ambiente por Paulo Amazonas."/>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"/>
+  <style>
+    :root{--red:#c8102e;--green:#065f30;--green2:#0a7a3f;--dark:#0a0c10;--gray:#64748b;--line:#e2e8f0;--bg:#f1f5f9;--white:#fff;--shadow:0 1px 3px rgba(0,0,0,.08),0 1px 2px rgba(0,0,0,.06);--shadow-lg:0 10px 25px rgba(0,0,0,.1);--radius:8px}
+    *{box-sizing:border-box;margin:0;padding:0}
+    html{scroll-behavior:smooth}
+    body{font-family:Inter,system-ui,sans-serif;background:var(--bg);color:var(--dark);line-height:1.6}
+    a{color:inherit;text-decoration:none;transition:all .2s}
+    img{width:100%;display:block;object-fit:cover}
+    .container{width:min(1200px,calc(100% - 32px));margin:0 auto}
+
+    /* TOPBAR */
+    .topbar{background:linear-gradient(90deg,#050505,#111827);color:#e2e8f0;font-size:13px}
+    .topbar .container{height:40px;display:flex;align-items:center;justify-content:space-between;gap:16px}
+    .live{display:flex;align-items:center;gap:10px;white-space:nowrap;overflow:hidden}
+    .badge-live{background:var(--red);color:#fff;font-weight:800;padding:4px 10px;border-radius:3px;text-transform:uppercase;font-size:11px;letter-spacing:.5px;animation:pulse-badge 2s infinite}
+    @keyframes pulse-badge{0%,100%{opacity:1}50%{opacity:.6}}
+    .live-text{overflow:hidden;white-space:nowrap}
+    .live-text span{display:inline-block;animation:marquee 20s linear infinite}
+    @keyframes marquee{0%{transform:translateX(0)}100%{transform:translateX(-50%)}}
+    .top-right{display:flex;gap:16px;align-items:center;font-size:13px}
+    .social-icons{display:flex;gap:12px;align-items:center}
+    .social-icons a{color:#94a3b8;transition:color .2s}
+    .social-icons a:hover{color:#fff}
+    .weather{display:flex;align-items:center;gap:6px;color:#fbbf24}
+
+    /* HEADER */
+    header{background:#fff;border-bottom:1px solid var(--line);position:sticky;top:0;z-index:100;backdrop-filter:blur(12px);background:rgba(255,255,255,.97)}
+    .brand-row{min-height:80px;display:flex;align-items:center;justify-content:space-between;gap:20px}
+    .logo{display:flex;align-items:baseline;gap:6px;font-weight:900;font-size:clamp(32px,5vw,48px);letter-spacing:-2px;line-height:1}
+    .logo-red{color:var(--red)}
+    .logo-dark{color:var(--dark)}
+    .logo-tag{font-size:11px;letter-spacing:5px;color:var(--gray);text-transform:uppercase;font-weight:600;margin-left:4px}
+    .header-right{display:flex;align-items:center;gap:20px}
+    .author-badge{font-size:14px;color:var(--gray)}
+    .author-badge strong{color:var(--green)}
+    .search{position:relative}
+    .search input{width:220px;height:42px;border:1px solid var(--line);border-radius:24px;padding:0 40px 0 18px;font-size:14px;background:var(--bg);transition:all .3s}
+    .search input:focus{outline:none;border-color:var(--green);width:280px;box-shadow:0 0 0 3px rgba(6,95,48,.1)}
+    .search button{position:absolute;right:4px;top:4px;width:34px;height:34px;border:0;background:var(--green);border-radius:50%;color:#fff;cursor:pointer;font-size:14px;transition:background .2s}
+    .search button:hover{background:var(--green2)}
+
+    /* NAV */
+    nav{background:var(--green);color:#fff}
+    .nav-row{display:flex;align-items:center;min-height:48px;overflow-x:auto;scrollbar-width:none}
+    .nav-row::-webkit-scrollbar{display:none}
+    .menu-btn{background:rgba(0,0,0,.2);padding:14px 18px;font-size:18px;cursor:pointer;transition:background .2s}
+    .menu-btn:hover{background:rgba(0,0,0,.3)}
+    .nav-row a{padding:14px 18px;font-weight:700;font-size:13px;text-transform:uppercase;white-space:nowrap;letter-spacing:.3px;transition:background .2s}
+    .nav-row a:hover{background:var(--green2)}
+    .urgent-nav{margin-left:auto;background:var(--red)!important}
+    .urgent-nav:hover{background:#a00d24!important}
+
+    /* TICKER */
+    .ticker{background:#fff;border-bottom:1px solid var(--line)}
+    .ticker .container{display:flex;align-items:center;gap:16px;min-height:52px}
+    .ticker-label{background:var(--red);color:#fff;padding:8px 14px;font-weight:800;text-transform:uppercase;font-size:12px;white-space:nowrap;letter-spacing:.5px;border-radius:3px}
+    .ticker p{font-weight:600;font-size:14px;flex:1}
+    .ticker .time{color:var(--red);font-weight:800;font-size:13px;white-space:nowrap}
+
+    /* HERO */
+    .hero{position:relative;min-height:500px;border-radius:var(--radius);overflow:hidden;background:#111}
+    .hero img{height:500px;opacity:.75;transition:transform 6s}
+    .hero:hover img{transform:scale(1.03)}
+    .hero::after{content:"";position:absolute;inset:0;background:linear-gradient(180deg,transparent 30%,rgba(0,0,0,.85))}
+    .hero-content{position:absolute;z-index:2;left:32px;right:32px;bottom:32px;color:#fff}
+    .cat-badge{display:inline-block;background:var(--red);color:#fff;padding:6px 14px;font-weight:800;text-transform:uppercase;font-size:11px;border-radius:3px;margin-bottom:16px;letter-spacing:.5px}
+    .hero h1{font-size:clamp(28px,4vw,44px);margin:0 0 12px;line-height:1.1;letter-spacing:-.5px;font-weight:900}
+    .hero p{font-size:17px;line-height:1.5;margin:0 0 16px;color:#d1d5db;max-width:700px}
+    .meta{color:var(--gray);display:flex;gap:8px;flex-wrap:wrap;align-items:center;font-size:13px;font-weight:500}
+    .hero .meta{color:rgba(255,255,255,.8)}
+
+    /* GRID */
+    .main-grid{display:grid;grid-template-columns:1fr 340px;gap:28px;padding:28px 0}
+
+    /* CARDS */
+    .cards{display:grid;grid-template-columns:repeat(2,1fr);gap:18px;margin-top:22px}
+    .card{background:#fff;border:1px solid var(--line);border-radius:var(--radius);overflow:hidden;transition:transform .3s,box-shadow .3s}
+    .card:hover{transform:translateY(-4px);box-shadow:var(--shadow-lg)}
+    .card img{height:160px;transition:transform .4s}
+    .card:hover img{transform:scale(1.05)}
+    .card-body{padding:16px}
+    .card h3{font-size:16px;line-height:1.3;margin:0 0 10px;font-weight:700}
+    .pill{display:inline-block;font-size:10px;font-weight:800;color:#fff;padding:4px 10px;text-transform:uppercase;border-radius:3px;margin-bottom:8px;letter-spacing:.5px}
+    .pill-green{background:var(--green)}.pill-red{background:var(--red)}.pill-amber{background:#b45309}.pill-blue{background:#1d4ed8}
+
+    /* SIDEBAR */
+    .sidebar-box{background:#fff;border:1px solid var(--line);border-radius:var(--radius);margin-bottom:20px;overflow:hidden}
+    .box-title{padding:14px 18px;font-weight:800;text-transform:uppercase;font-size:13px;letter-spacing:.5px;color:#fff;display:flex;align-items:center;gap:8px}
+    .box-title.red{background:var(--red)}.box-title.green{background:var(--green)}.box-title.dark{background:var(--dark)}
+    .news-list{padding:6px 16px 16px}
+    .news-item{display:flex;justify-content:space-between;gap:12px;padding:14px 0;border-bottom:1px solid var(--line);font-weight:600;font-size:14px;line-height:1.4;transition:color .2s;cursor:pointer}
+    .news-item:last-child{border-bottom:0}
+    .news-item:hover{color:var(--red)}
+    .news-item time{color:var(--red);font-weight:800;font-size:12px;white-space:nowrap}
+    .rank-item{display:grid;grid-template-columns:36px 1fr;gap:12px;padding:12px 0;border-bottom:1px solid var(--line);line-height:1.35;cursor:pointer;transition:color .2s}
+    .rank-item:hover{color:var(--green)}
+    .rank-num{font-size:32px;font-weight:900;color:var(--green);line-height:1}
+    .rank-item p{margin:0;font-weight:600;font-size:14px}
+    .btn-outline{display:block;text-align:center;border:2px solid var(--line);padding:10px;margin-top:12px;font-weight:700;border-radius:var(--radius);font-size:12px;text-transform:uppercase;letter-spacing:.5px;transition:all .2s;cursor:pointer}
+    .btn-outline:hover{border-color:var(--green);color:var(--green);background:rgba(6,95,48,.04)}
+
+    /* SECTION */
+    .section{margin-top:32px;background:#fff;border-radius:var(--radius);padding:24px;border:1px solid var(--line)}
+    .section-header{display:flex;align-items:center;gap:12px;margin-bottom:22px}
+    .section-header::before{content:"";width:4px;height:28px;background:var(--red);border-radius:2px}
+    .section h2{font-size:20px;text-transform:uppercase;letter-spacing:.5px}
+    .content-columns{display:grid;grid-template-columns:1.2fr .8fr;gap:28px}
+
+    /* STORIES */
+    .story{display:grid;grid-template-columns:200px 1fr;gap:18px;padding-bottom:20px;margin-bottom:20px;border-bottom:1px solid var(--line);transition:transform .2s}
+    .story:hover{transform:translateX(4px)}
+    .story:last-child{border-bottom:0;margin-bottom:0;padding-bottom:0}
+    .story img{height:130px;border-radius:6px;transition:transform .3s}
+    .story:hover img{transform:scale(1.03)}
+    .story h3{margin:4px 0 8px;font-size:18px;line-height:1.25;font-weight:700}
+    .story p{margin:0 0 8px;color:#64748b;font-size:14px;line-height:1.5}
+
+    /* VIDEO */
+    .video-card{position:relative;margin-bottom:18px;border-radius:var(--radius);overflow:hidden;cursor:pointer}
+    .video-card img{height:200px;transition:transform .4s}
+    .video-card:hover img{transform:scale(1.05)}
+    .play-btn{position:absolute;inset:0;display:grid;place-items:center;color:#fff;font-size:48px;background:rgba(0,0,0,.25);transition:background .3s}
+    .video-card:hover .play-btn{background:rgba(0,0,0,.4)}
+
+    /* NEWSLETTER */
+    .nl{padding:20px}
+    .nl h3{font-size:16px;margin-bottom:6px}
+    .nl p{font-size:13px;color:var(--gray);margin-bottom:12px}
+    .nl input{width:100%;height:42px;border:1px solid var(--line);padding:0 14px;border-radius:6px;font-size:14px;margin-bottom:10px}
+    .nl input:focus{outline:none;border-color:var(--green)}
+    .nl button{width:100%;height:44px;border:0;background:var(--red);color:#fff;font-weight:800;border-radius:6px;cursor:pointer;font-size:14px;transition:background .2s}
+    .nl button:hover{background:#a00d24}
+
+    /* OPINION */
+    .opinion-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:20px}
+    .opinion-card{background:#fff;border:1px solid var(--line);border-radius:var(--radius);padding:24px;text-align:center;transition:transform .3s,box-shadow .3s}
+    .opinion-card:hover{transform:translateY(-4px);box-shadow:var(--shadow-lg)}
+    .opinion-avatar{width:72px;height:72px;border-radius:50%;margin:0 auto 14px;border:3px solid var(--green);object-fit:cover}
+    .opinion-card h4{font-size:16px;margin-bottom:4px}
+    .opinion-card small{color:var(--gray);font-size:12px}
+    .opinion-card p{margin-top:12px;font-size:14px;color:#475569;line-height:1.5;font-style:italic}
+
+    /* GALLERY */
+    .gallery-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:12px}
+    .gallery-item{position:relative;border-radius:var(--radius);overflow:hidden;cursor:pointer}
+    .gallery-item img{height:180px;transition:transform .4s}
+    .gallery-item:hover img{transform:scale(1.08)}
+    .gallery-overlay{position:absolute;inset:0;background:linear-gradient(transparent 50%,rgba(0,0,0,.7));display:flex;align-items:flex-end;padding:14px;color:#fff;font-weight:700;font-size:13px;opacity:0;transition:opacity .3s}
+    .gallery-item:hover .gallery-overlay{opacity:1}
+
+    /* STATS */
+    .stats-bar{background:linear-gradient(135deg,var(--green),#0a7a3f);border-radius:var(--radius);padding:32px;display:grid;grid-template-columns:repeat(4,1fr);gap:20px;margin-top:32px;color:#fff}
+    .stat{text-align:center}
+    .stat-num{font-size:36px;font-weight:900;line-height:1}
+    .stat-label{font-size:13px;opacity:.85;margin-top:6px}
+
+    /* FOOTER */
+    footer{background:linear-gradient(180deg,#0a0c10,#111827);color:#e2e8f0;margin-top:40px;padding:48px 0 0}
+    .footer-grid{display:grid;grid-template-columns:1.5fr 1fr 1fr 1fr;gap:36px}
+    footer .logo{font-size:32px;letter-spacing:-1px;margin-bottom:12px}
+    footer p{color:#94a3b8;font-size:14px;line-height:1.7}
+    footer ul{list-style:none}
+    footer li{padding:4px 0}
+    footer li a{color:#94a3b8;font-size:14px;transition:color .2s}
+    footer li a:hover{color:#fff}
+    footer h4{text-transform:uppercase;font-size:13px;letter-spacing:1px;margin-bottom:16px;color:#fff}
+    .footer-bottom{border-top:1px solid rgba(255,255,255,.08);margin-top:36px;padding:20px 0;display:flex;justify-content:space-between;align-items:center;font-size:13px;color:#64748b}
+    .footer-social{display:flex;gap:16px}
+    .footer-social a{color:#64748b;font-size:18px;transition:color .2s}
+    .footer-social a:hover{color:#fff}
+
+    /* BACK TO TOP */
+    .back-top{position:fixed;bottom:28px;right:28px;width:48px;height:48px;background:var(--green);color:#fff;border:0;border-radius:50%;font-size:20px;cursor:pointer;box-shadow:var(--shadow-lg);opacity:0;transform:translateY(20px);transition:all .3s;z-index:99;display:grid;place-items:center}
+    .back-top.show{opacity:1;transform:translateY(0)}
+    .back-top:hover{background:var(--green2);transform:translateY(-2px)}
+
+    /* ANIMATIONS */
+    .fade-in{opacity:0;transform:translateY(20px);transition:opacity .6s,transform .6s}
+    .fade-in.visible{opacity:1;transform:translateY(0)}
+
+    /* RESPONSIVE */
+    @media(max-width:960px){
+      .brand-row{flex-wrap:wrap;padding:16px 0;gap:12px}
+      .main-grid,.content-columns{grid-template-columns:1fr}
+      .cards{grid-template-columns:repeat(2,1fr)}
+      .footer-grid{grid-template-columns:1fr 1fr}
+      .opinion-grid{grid-template-columns:1fr}
+      .gallery-grid{grid-template-columns:repeat(2,1fr)}
+      .stats-bar{grid-template-columns:repeat(2,1fr)}
+    }
+    @media(max-width:640px){
+      .topbar .container{height:auto;padding:8px 0;flex-direction:column;align-items:flex-start;gap:6px}
+      .logo{font-size:32px}
+      .header-right{flex-wrap:wrap}
+      .search input{width:180px}
+      .search input:focus{width:220px}
+      .hero,.hero img{min-height:380px;height:380px}
+      .hero-content{left:18px;right:18px;bottom:18px}
+      .cards{grid-template-columns:1fr}
+      .story{grid-template-columns:1fr}
+      .story img{height:200px}
+      .footer-grid{grid-template-columns:1fr}
+      .gallery-grid{grid-template-columns:1fr 1fr}
+      .stats-bar{grid-template-columns:1fr 1fr}
+      .opinion-grid{grid-template-columns:1fr}
+    }
+  </style>
+</head>
+<body>
+
+<!-- TOPBAR -->
+<div class="topbar">
+  <div class="container">
+    <div class="live">
+      <span class="badge-live"><i class="fas fa-circle" style="font-size:8px;margin-right:4px"></i> Ao Vivo</span>
+      <div class="live-text"><span>Urgente: Operação da PF combate garimpo ilegal no interior do Amazonas &nbsp;&bull;&nbsp; Facções avançam em municípios estratégicos &nbsp;&bull;&nbsp;</span></div>
+    </div>
+    <div class="top-right">
+      <div class="social-icons">
+        <a href="#"><i class="fab fa-facebook-f"></i></a>
+        <a href="#"><i class="fab fa-instagram"></i></a>
+        <a href="#"><i class="fab fa-youtube"></i></a>
+        <a href="#"><i class="fab fa-x-twitter"></i></a>
+      </div>
+      <strong style="color:#e2e8f0">Manaus, 25 de abril de 2026</strong>
+      <div class="weather"><i class="fas fa-cloud-sun"></i> 28°C</div>
+    </div>
+  </div>
+</div>
+
+<!-- HEADER -->
+<header>
+  <div class="container brand-row">
+    <div style="display:flex;align-items:center;gap:16px">
+      <div class="logo"><span class="logo-red">AMZ</span><span class="logo-dark">NORTE</span></div>
+      <span class="logo-tag">Notícias do Amazonas</span>
+    </div>
+    <div class="header-right">
+      <div class="author-badge">Por <strong>Paulo Amazonas</strong></div>
+      <form class="search" onsubmit="return false">
+        <input type="search" placeholder="Buscar notícia..." id="searchInput"/>
+        <button type="button"><i class="fas fa-search"></i></button>
+      </form>
+    </div>
+  </div>
+</header>
+
+<!-- NAV -->
+<nav>
+  <div class="container nav-row">
+    <div class="menu-btn" id="menuBtn"><i class="fas fa-bars"></i></div>
+    <a href="#">Amazonas</a><a href="#">Manaus</a><a href="#">Segurança</a>
+    <a href="#">Política</a><a href="#">Economia</a><a href="#">Meio Ambiente</a>
+    <a href="#">Brasil</a><a href="#">Colunas</a><a href="#">Vídeos</a>
+    <a class="urgent-nav" href="#"><i class="fas fa-bolt"></i> Urgente</a>
+  </div>
+</nav>
+
+<!-- TICKER -->
+<div class="ticker">
+  <div class="container">
+    <span class="ticker-label"><i class="fas fa-bolt"></i> Últimas</span>
+    <p>• Facções avançam na Amazônia e já estão presentes em municípios estratégicos, aponta relatório</p>
+    <span class="time">09:45</span>
+  </div>
+</div>
+
+<!-- MAIN -->
+<main>
+  <div class="container main-grid">
+    <section>
+      <!-- HERO -->
+      <article class="hero fade-in">
+        <img src="https://images.unsplash.com/photo-1518182170546-07661fd94144?auto=format&fit=crop&w=1600&q=80" alt="Vista aérea de Manaus e rio Amazonas"/>
+        <div class="hero-content">
+          <span class="cat-badge"><i class="fas fa-star"></i> Destaque</span>
+          <h1>Facções avançam no interior do Amazonas e ampliam controle em municípios estratégicos</h1>
+          <p>Relatórios das forças de segurança apontam expansão de grupos criminosos e aumento da violência em cidades do interior.</p>
+          <div class="meta">● Por Paulo Amazonas <span>•</span> 25 de abril de 2026 <span>•</span> <i class="far fa-clock"></i> 5 min de leitura</div>
+        </div>
+      </article>
+
+      <!-- CARDS -->
+      <div class="cards">
+        <article class="card fade-in">
+          <img src="https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80" alt="Segurança"/>
+          <div class="card-body">
+            <span class="pill pill-red">Segurança</span>
+            <h3>Operação prende suspeitos de tráfico de drogas em Manaus</h3>
+            <div class="meta">Por Paulo Amazonas • 10:20</div>
+          </div>
+        </article>
+        <article class="card fade-in">
+          <img src="https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=600&q=80" alt="Política"/>
+          <div class="card-body">
+            <span class="pill pill-green">Política</span>
+            <h3>Aleam aprova projetos voltados à segurança e saúde pública</h3>
+            <div class="meta">Por Paulo Amazonas • 09:45</div>
+          </div>
+        </article>
+        <article class="card fade-in">
+          <img src="https://images.unsplash.com/photo-1591081658714-f576fb7ea3ed?auto=format&fit=crop&w=600&q=80" alt="Meio Ambiente"/>
+          <div class="card-body">
+            <span class="pill pill-green">Meio Ambiente</span>
+            <h3>Desmatamento na Amazônia preocupa especialistas internacionais</h3>
+            <div class="meta">Por Paulo Amazonas • 08:30</div>
+          </div>
+        </article>
+        <article class="card fade-in">
+          <img src="https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?auto=format&fit=crop&w=600&q=80" alt="Economia"/>
+          <div class="card-body">
+            <span class="pill pill-amber">Economia</span>
+            <h3>Zona Franca de Manaus gera novos empregos no mês de abril</h3>
+            <div class="meta">Por Paulo Amazonas • 07:50</div>
+          </div>
+        </article>
+      </div>
+    </section>
+
+    <!-- SIDEBAR -->
+    <aside>
+      <div class="sidebar-box">
+        <div class="box-title red"><i class="fas fa-bolt"></i> Urgente</div>
+        <div class="news-list">
+          <div class="news-item"><span>Operação da PF combate garimpo ilegal no interior do AM</span><time>10:45</time></div>
+          <div class="news-item"><span>Suspeito de matar policial militar é preso em Manaus</span><time>09:32</time></div>
+          <div class="news-item"><span>Alerta de chuvas intensas para todo o Amazonas</span><time>08:15</time></div>
+          <div class="news-item"><span>Governo anuncia novos investimentos na saúde pública</span><time>07:40</time></div>
+          <a class="btn-outline" href="#">Ver Todas →</a>
+        </div>
+      </div>
+      <div class="sidebar-box">
+        <div class="box-title green"><i class="fas fa-fire"></i> Mais Lidas</div>
+        <div class="news-list">
+          <div class="rank-item"><span class="rank-num">1</span><p>Facções avançam no interior do Amazonas e ampliam controle</p></div>
+          <div class="rank-item"><span class="rank-num">2</span><p>Operação da PF combate garimpo ilegal no interior do AM</p></div>
+          <div class="rank-item"><span class="rank-num">3</span><p>Suspeito de matar policial militar é preso em Manaus</p></div>
+          <div class="rank-item"><span class="rank-num">4</span><p>Governo anuncia novos investimentos na saúde pública</p></div>
+          <div class="rank-item"><span class="rank-num">5</span><p>Chuvas intensas: Defesa Civil emite alerta para todo o estado</p></div>
+          <a class="btn-outline" href="#">Ver Todas →</a>
+        </div>
+      </div>
+      <div class="sidebar-box">
+        <div class="nl">
+          <h3><i class="fas fa-envelope" style="color:var(--red);margin-right:6px"></i> Receba nossas notícias</h3>
+          <p>Receba as principais notícias do Amazonas no seu e-mail todos os dias.</p>
+          <input type="email" placeholder="Seu melhor e-mail"/>
+          <button>Cadastrar <i class="fas fa-arrow-right"></i></button>
+        </div>
+      </div>
+    </aside>
+  </div>
+
+  <!-- ÚLTIMAS NOTÍCIAS -->
+  <section class="container section fade-in">
+    <div class="section-header"><h2>Últimas Notícias</h2></div>
+    <div class="content-columns">
+      <div>
+        <article class="story">
+          <img src="https://images.unsplash.com/photo-1614064641938-3bbee52942c7?auto=format&fit=crop&w=700&q=80" alt="Operação policial"/>
+          <div>
+            <span class="pill pill-red">Segurança</span>
+            <h3>Polícia Civil apreende arsenal e prende grupo ligado a crimes no Amazonas</h3>
+            <p>Armas, munições e drogas foram apreendidas durante operação em Manaus.</p>
+            <div class="meta">Por Paulo Amazonas • 25 de abril de 2026 • 10:20</div>
+          </div>
+        </article>
+        <article class="story">
+          <img src="https://images.unsplash.com/photo-1604599340287-2042e85a3802?auto=format&fit=crop&w=700&q=80" alt="Comunidade ribeirinha"/>
+          <div>
+            <span class="pill pill-green">Amazonas</span>
+            <h3>Comunidades ribeirinhas sofrem com cheia dos rios no interior</h3>
+            <p>Famílias estão ilhadas e pedem ajuda das autoridades no interior do estado.</p>
+            <div class="meta">Por Paulo Amazonas • 25 de abril de 2026 • 09:10</div>
+          </div>
+        </article>
+        <article class="story">
+          <img src="https://images.unsplash.com/photo-1557804506-669a67965ba0?auto=format&fit=crop&w=700&q=80" alt="Coletiva"/>
+          <div>
+            <span class="pill pill-green">Política</span>
+            <h3>Prefeitura de Manaus anuncia pacote de obras para a zona Leste</h3>
+            <p>Investimentos ultrapassam R$ 200 milhões em infraestrutura e mobilidade.</p>
+            <div class="meta">Por Paulo Amazonas • 25 de abril de 2026 • 08:30</div>
+          </div>
+        </article>
+      </div>
+      <aside>
+        <h2 style="font-size:18px;margin-bottom:16px"><i class="fas fa-play-circle" style="color:var(--red);margin-right:6px"></i> Vídeos</h2>
+        <div class="video-card">
+          <img src="https://images.unsplash.com/photo-1564760055775-d63b17a55c44?auto=format&fit=crop&w=700&q=80" alt="Amazônia"/>
+          <div class="play-btn"><i class="fas fa-play-circle"></i></div>
+        </div>
+        <h3 style="font-size:16px;margin-bottom:4px">Imagens mostram impactos do desmatamento na Amazônia</h3>
+        <div class="meta" style="margin-bottom:20px">25 de abril de 2026</div>
+        <div class="sidebar-box">
+          <div class="box-title green"><i class="fas fa-pen-fancy"></i> Colunas</div>
+          <div class="news-list">
+            <div class="news-item"><span>Bastidores da Política<br><small style="color:var(--gray)">Por Paulo Amazonas</small></span></div>
+            <div class="news-item"><span>Observatório da Amazônia<br><small style="color:var(--gray)">Por Paulo Amazonas</small></span></div>
+            <div class="news-item"><span>Amazonas em Foco<br><small style="color:var(--gray)">Por Paulo Amazonas</small></span></div>
+            <a class="btn-outline" href="#">Ver Todas →</a>
+          </div>
+        </div>
+      </aside>
+    </div>
+  </section>
+
+  <!-- OPINIÃO / COLUNISTAS -->
+  <section class="container section fade-in">
+    <div class="section-header"><h2>Opinião</h2></div>
+    <div class="opinion-grid">
+      <div class="opinion-card">
+        <img class="opinion-avatar" src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=200&q=80" alt="Colunista"/>
+        <h4>Paulo Amazonas</h4>
+        <small>Bastidores da Política</small>
+        <p>"O cenário político no Amazonas vive um momento de instabilidade. As alianças mudam a cada semana e o futuro é incerto."</p>
+      </div>
+      <div class="opinion-card">
+        <img class="opinion-avatar" src="https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=200&q=80" alt="Colunista"/>
+        <h4>Ana Ribeiro</h4>
+        <small>Observatório da Amazônia</small>
+        <p>"O desmatamento continua sendo a maior ameaça ao bioma. Precisamos de ações concretas e urgentes para proteger a floresta."</p>
+      </div>
+      <div class="opinion-card">
+        <img class="opinion-avatar" src="https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&w=200&q=80" alt="Colunista"/>
+        <h4>Carlos Mendes</h4>
+        <small>Economia em Foco</small>
+        <p>"A Zona Franca de Manaus é fundamental para a economia da região. Renovar os incentivos é garantir empregos para milhares."</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- GALERIA -->
+  <section class="container section fade-in">
+    <div class="section-header"><h2><i class="fas fa-images" style="color:var(--red);margin-right:8px"></i> Galeria</h2></div>
+    <div class="gallery-grid">
+      <div class="gallery-item">
+        <img src="https://images.unsplash.com/photo-1508739773434-c26b3d09e071?auto=format&fit=crop&w=600&q=80" alt="Amazônia"/>
+        <div class="gallery-overlay">Rio Amazonas ao entardecer</div>
+      </div>
+      <div class="gallery-item">
+        <img src="https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=600&q=80" alt="Manaus"/>
+        <div class="gallery-overlay">Teatro Amazonas</div>
+      </div>
+      <div class="gallery-item">
+        <img src="https://images.unsplash.com/photo-1440581572325-0bea30075d9d?auto=format&fit=crop&w=600&q=80" alt="Floresta"/>
+        <div class="gallery-overlay">Floresta Amazônica</div>
+      </div>
+      <div class="gallery-item">
+        <img src="https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=600&q=80" alt="Encontro das águas"/>
+        <div class="gallery-overlay">Encontro das Águas</div>
+      </div>
+    </div>
+  </section>
+
+  <!-- STATS -->
+  <div class="container stats-bar fade-in">
+    <div class="stat"><div class="stat-num">2.5M+</div><div class="stat-label">Leitores Mensais</div></div>
+    <div class="stat"><div class="stat-num">15K+</div><div class="stat-label">Matérias Publicadas</div></div>
+    <div class="stat"><div class="stat-num">62</div><div class="stat-label">Municípios Cobertos</div></div>
+    <div class="stat"><div class="stat-num">24/7</div><div class="stat-label">Cobertura Ininterrupta</div></div>
+  </div>
+</main>
+
+<!-- FOOTER -->
+<footer>
+  <div class="container footer-grid">
+    <div>
+      <div class="logo"><span class="logo-red">AMZ</span><span style="color:#fff">NORTE</span></div>
+      <p>Informação com credibilidade, compromisso com a verdade e com o povo do Amazonas. O portal de notícias mais completo da região Norte.</p>
+      <div class="footer-social" style="margin-top:18px">
+        <a href="#"><i class="fab fa-facebook-f"></i></a>
+        <a href="#"><i class="fab fa-instagram"></i></a>
+        <a href="#"><i class="fab fa-youtube"></i></a>
+        <a href="#"><i class="fab fa-x-twitter"></i></a>
+        <a href="#"><i class="fab fa-tiktok"></i></a>
+      </div>
+    </div>
+    <div>
+      <h4>Navegação</h4>
+      <ul>
+        <li><a href="#">Amazonas</a></li><li><a href="#">Manaus</a></li>
+        <li><a href="#">Segurança</a></li><li><a href="#">Política</a></li>
+        <li><a href="#">Economia</a></li><li><a href="#">Meio Ambiente</a></li>
+      </ul>
+    </div>
+    <div>
+      <h4>Institucional</h4>
+      <ul>
+        <li><a href="#">Sobre Nós</a></li><li><a href="#">Equipe</a></li>
+        <li><a href="#">Anuncie</a></li><li><a href="#">Termos de Uso</a></li>
+        <li><a href="#">Política de Privacidade</a></li>
+      </ul>
+    </div>
+    <div>
+      <h4>Fale Conosco</h4>
+      <p><i class="fas fa-envelope" style="margin-right:6px"></i> contato@amznorte.com.br</p>
+      <p><i class="fas fa-phone" style="margin-right:6px"></i> (92) 99999-9999</p>
+      <p><i class="fas fa-map-marker-alt" style="margin-right:6px"></i> Manaus - Amazonas - Brasil</p>
+    </div>
+  </div>
+  <div class="container footer-bottom">
+    <span>© 2026 AMZ Norte. Todos os direitos reservados.</span>
+    <span>Desenvolvido com ❤ na Amazônia</span>
+  </div>
+</footer>
+
+<!-- BACK TO TOP -->
+<button class="back-top" id="backTop" onclick="window.scrollTo({top:0})"><i class="fas fa-chevron-up"></i></button>
+
+<script>
+// Scroll animations
+const observer = new IntersectionObserver((entries) => {
+  entries.forEach(e => { if(e.isIntersecting) e.target.classList.add('visible'); });
+}, { threshold: 0.1 });
+document.querySelectorAll('.fade-in').forEach(el => observer.observe(el));
+
+// Back to top
+window.addEventListener('scroll', () => {
+  document.getElementById('backTop').classList.toggle('show', window.scrollY > 400);
+});
+
+// Sticky header shadow
+window.addEventListener('scroll', () => {
+  const h = document.querySelector('header');
+  h.style.boxShadow = window.scrollY > 10 ? '0 2px 20px rgba(0,0,0,.08)' : 'none';
+});
+</script>
+</body>
+</html>
