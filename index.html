@@ -184,6 +184,24 @@
     .back-top.show{opacity:1;transform:translateY(0)}
     .back-top:hover{background:var(--green2);transform:translateY(-2px)}
 
+    /* LINKS DE NOTÍCIA (abrem a página da notícia em nova aba) */
+    a.news-link{color:inherit;text-decoration:none;display:block}
+    a.news-link:hover{color:inherit}
+    .card-body h3 a, .story h3 a, .hero h1 a, #tickerText a{color:inherit;text-decoration:none}
+    .card:hover h3 a, .story:hover h3 a{color:var(--red)}
+
+    /* NACIONAL & INTERNACIONAL (compacto) */
+    .nacint-grid{display:grid;grid-template-columns:1fr 1fr;gap:28px}
+    .nacint-col{min-width:0}
+    .nacint-titulo{font-size:12px;text-transform:uppercase;letter-spacing:.8px;color:var(--green);border-bottom:2px solid var(--green);padding-bottom:6px;margin-bottom:8px;font-weight:800}
+    .nacint-item{display:grid;grid-template-columns:56px 1fr;gap:10px;padding:6px 0;border-bottom:1px dashed var(--line);align-items:center}
+    .nacint-item:last-child{border-bottom:0}
+    .nacint-item img{width:56px;height:42px;border-radius:4px;object-fit:cover;flex-shrink:0}
+    .nacint-item h4{font-size:12.5px;line-height:1.3;margin:0;font-weight:600}
+    .nacint-item h4 a{color:inherit;text-decoration:none}
+    .nacint-item:hover h4 a{color:var(--red)}
+    .nacint-fonte{font-size:10px;color:var(--gray);text-transform:uppercase;letter-spacing:.4px;margin-top:2px;font-weight:600}
+
     /* ANIMATIONS */
     .fade-in{opacity:0;transform:translateY(20px);transition:opacity .6s,transform .6s}
     .fade-in.visible{opacity:1;transform:translateY(0)}
@@ -209,6 +227,7 @@
       .cards{grid-template-columns:1fr}
       .story{grid-template-columns:1fr}
       .story img{height:200px}
+      .nacint-grid{grid-template-columns:1fr}
       .footer-grid{grid-template-columns:1fr}
       .gallery-grid{grid-template-columns:1fr 1fr}
       .stats-bar{grid-template-columns:1fr 1fr}
@@ -232,7 +251,7 @@
         <a href="#"><i class="fab fa-youtube"></i></a>
         <a href="#"><i class="fab fa-x-twitter"></i></a>
       </div>
-      <strong style="color:#e2e8f0" id="currentDate">Manaus, 12 de August de 2026</strong>
+      <strong style="color:#e2e8f0" id="currentDate">Manaus, 12 de agosto de 2026</strong>
       <div class="weather"><i class="fas fa-cloud-sun"></i> 28°C</div>
     </div>
   </div>
@@ -270,8 +289,8 @@
 <div class="ticker">
   <div class="container">
     <span class="ticker-label"><i class="fas fa-bolt"></i> Últimas</span>
-    <p id="tickerText">• Ônibus escolar rural poderá atender outros alunos e professores, aprova CE</p>
-    <span class="time" id="tickerTime">12:39</span>
+    <p id="tickerText"><a href="noticia.html?u=&t=Justi%C3%A7a%20rejeita%20novo%20pedido%20para%20suspender%20decis%C3%A3o%20sobre%20obras%20na%20BR-319&r=A%20Justi%C3%A7a%20Federal%20negou%20novo%20pedido%20de%20suspens%C3%A3o%20das%20obras%20de%20asfaltamento%20da%20BR-319%2C%20rodovia%20que%20liga%20Manaus%20a%20Porto%20Velho.%20Decis%C3%A3o%20mant%C3%A9m%20o%20cronograma%20de%20obras%20para%20os%20pr%C3%B3ximos%20meses.&c=pol%C3%ADtica&i=https%3A//images.unsplash.com/photo-1518182170546-07661fd94144%3Fauto%3Dformat%26fit%3Dcrop%26w%3D700%26q%3D80" target="_blank" rel="noopener">• Justiça rejeita novo pedido para suspender decisão sobre obras na BR-319</a></p>
+    <span class="time" id="tickerTime">10:47</span>
   </div>
 </div>
 
@@ -281,11 +300,11 @@
     <section>
       <!-- HERO -->
       <article class="hero fade-in" id="heroArticle">
-        <img src="https://amazonas1.com.br/wp-content/uploads/2026/08/onibus-escolar-rural-podera-at.jpg" alt="Vista aérea de Manaus e rio Amazonas"/>
+        <img src="https://images.unsplash.com/photo-1518182170546-07661fd94144?auto=format&fit=crop&w=700&q=80" alt="Vista aérea de Manaus e rio Amazonas"/>
         <div class="hero-content">
           <span class="cat-badge"><i class="fas fa-star"></i> Destaque</span>
-          <h1 id="heroTitle">Ônibus escolar rural poderá atender outros alunos e professores, aprova CE</h1>
-          <p id="heroSummary">Camilo Santana leu o relatório de Jussara Lima para o PL 743/2023. O post Ônibus escolar rural poderá atender outros alunos e professores, aprova CE apareceu primeiro em Amazonas1 | Últimas notícias d</p>
+          <h1 id="heroTitle"><a href="noticia.html?u=&t=Justi%C3%A7a%20rejeita%20novo%20pedido%20para%20suspender%20decis%C3%A3o%20sobre%20obras%20na%20BR-319&r=A%20Justi%C3%A7a%20Federal%20negou%20novo%20pedido%20de%20suspens%C3%A3o%20das%20obras%20de%20asfaltamento%20da%20BR-319%2C%20rodovia%20que%20liga%20Manaus%20a%20Porto%20Velho.%20Decis%C3%A3o%20mant%C3%A9m%20o%20cronograma%20de%20obras%20para%20os%20pr%C3%B3ximos%20meses.&c=pol%C3%ADtica&i=https%3A//images.unsplash.com/photo-1518182170546-07661fd94144%3Fauto%3Dformat%26fit%3Dcrop%26w%3D700%26q%3D80" target="_blank" rel="noopener">Justiça rejeita novo pedido para suspender decisão sobre obras na BR-319</a></h1>
+          <p id="heroSummary">A Justiça Federal negou novo pedido de suspensão das obras de asfaltamento da BR-319, rodovia que liga Manaus a Porto Velho. Decisão mantém o cronograma de obras para os próximos meses.</p>
           <div class="meta">● Por Paulo Amazonas <span>•</span> 12 de agosto de 2026<span>•</span> <i class="far fa-clock"></i> 5 min de leitura</div>
         </div>
       </article>
@@ -293,33 +312,41 @@
       <!-- CARDS -->
       <div class="cards" id="cardsContainer">
                 <article class="card fade-in">
-          <img src="https://amazonas1.com.br/wp-content/uploads/2026/08/onibus-escolar-rural-podera-at.jpg" alt="Educação"/>
+          <a class="news-link" href="noticia.html?u=&t=Justi%C3%A7a%20rejeita%20novo%20pedido%20para%20suspender%20decis%C3%A3o%20sobre%20obras%20na%20BR-319&r=A%20Justi%C3%A7a%20Federal%20negou%20novo%20pedido%20de%20suspens%C3%A3o%20das%20obras%20de%20asfaltamento%20da%20BR-319%2C%20rodovia%20que%20liga%20Manaus%20a%20Porto%20Velho.%20Decis%C3%A3o%20mant%C3%A9m%20o%20cronograma%20de%20obras%20para%20os%20pr%C3%B3ximos%20meses.&c=pol%C3%ADtica&i=https%3A//images.unsplash.com/photo-1518182170546-07661fd94144%3Fauto%3Dformat%26fit%3Dcrop%26w%3D700%26q%3D80" target="_blank" rel="noopener">
+          <img src="https://images.unsplash.com/photo-1518182170546-07661fd94144?auto=format&fit=crop&w=700&q=80" alt="política" loading="lazy"/>
           <div class="card-body">
-            <span class="pill pill-blue">Educação</span>
-            <h3>Ônibus escolar rural poderá atender outros alunos e professores, aprova CE</h3>
-            <div class="meta">Por Paulo Amazonas • 12:39</div>
-          </div>
-        </article>        <article class="card fade-in">
-          <img src="https://emtempo.com.br/wp-content/uploads/2026/08/Omar-2-2.jpeg" alt="Educação"/>
-          <div class="card-body">
-            <span class="pill pill-blue">Educação</span>
-            <h3>Omar coloca valorização dos professores no centro de proposta para recuperar educação do Amazonas</h3>
-            <div class="meta">Por Paulo Amazonas • 11:41</div>
-          </div>
-        </article>        <article class="card fade-in">
-          <img src="https://images.unsplash.com/photo-1518182170546-07661fd94144?auto=format&fit=crop&w=700&q=80" alt="Política"/>
-          <div class="card-body">
-            <span class="pill pill-blue">Política</span>
+            <span class="pill pill-blue">política</span>
             <h3>Justiça rejeita novo pedido para suspender decisão sobre obras na BR-319</h3>
             <div class="meta">Por Paulo Amazonas • 10:47</div>
           </div>
+          </a>
         </article>        <article class="card fade-in">
-          <img src="https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80" alt="Urgente"/>
+          <a class="news-link" href="noticia.html?u=&t=Inc%C3%AAndio%20destr%C3%B3i%20galp%C3%A3o%20de%20loja%20no%20Centro%20de%20Manaus&r=Um%20inc%C3%AAndio%20de%20grandes%20propor%C3%A7%C3%B5es%20consumiu%20um%20galp%C3%A3o%20comercial%20no%20Centro%20hist%C3%B3rico%20de%20Manaus%20na%20madrugada%20desta%20ter%C3%A7a-feira%20%2811%29.%20Bombeiros%20levaram%204%20horas%20para%20controlar%20as%20chamas.%20N%C3%A3o%20h%C3%A1%20v%C3%ADtimas%20fatais.&c=urgente&i=https%3A//images.unsplash.com/photo-1597733336794-12d05021d510%3Fauto%3Dformat%26fit%3Dcrop%26w%3D600%26q%3D80" target="_blank" rel="noopener">
+          <img src="https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80" alt="urgente" loading="lazy"/>
           <div class="card-body">
-            <span class="pill pill-red">Urgente</span>
+            <span class="pill pill-red">urgente</span>
             <h3>Incêndio destrói galpão de loja no Centro de Manaus</h3>
             <div class="meta">Por Paulo Amazonas • 10:47</div>
           </div>
+          </a>
+        </article>        <article class="card fade-in">
+          <a class="news-link" href="noticia.html?u=&t=Opera%C3%A7%C3%A3o%20contra%20agiotagem%20cumpre%20mandados%20no%20AM%20ap%C3%B3s%20den%C3%BAncia%20de%20cobran%C3%A7as%20com%20amea%C3%A7as&r=Pol%C3%ADcia%20Civil%20deflagrou%20opera%C3%A7%C3%A3o%20em%20Manaus%20e%20munic%C3%ADpios%20do%20interior.%20Seis%20pessoas%20foram%20presas%20e%20documentos%2C%20armas%20e%20dinheiro%20foram%20apreendidos.%20V%C3%ADtimas%20relatavam%20juros%20de%20at%C3%A9%2050%25%20ao%20m%C3%AAs.&c=seguran%C3%A7a&i=https%3A//images.unsplash.com/photo-1581091226825-a6a2a5aee158%3Fauto%3Dformat%26fit%3Dcrop%26w%3D600%26q%3D80" target="_blank" rel="noopener">
+          <img src="https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?auto=format&fit=crop&w=600&q=80" alt="segurança" loading="lazy"/>
+          <div class="card-body">
+            <span class="pill pill-red">segurança</span>
+            <h3>Operação contra agiotagem cumpre mandados no AM após denúncia de cobranças com ameaças</h3>
+            <div class="meta">Por Paulo Amazonas • 10:47</div>
+          </div>
+          </a>
+        </article>        <article class="card fade-in">
+          <a class="news-link" href="noticia.html?u=&t=Manaus%20registra%20quase%201%2C2%20mil%20inc%C3%AAndios%20em%202026%2C%20aponta%20monitoramento&r=Dados%20do%20Corpo%20de%20Bombeiros%20mostram%20aumento%20de%2034%25%20nos%20registros%20comparado%20ao%20mesmo%20per%C3%ADodo%20de%202025.%20Zona%20norte%20e%20leste%20concentram%20maior%20n%C3%BAmero%20de%20ocorr%C3%AAncias.&c=meio%20ambiente&i=https%3A//images.unsplash.com/photo-1469474968028-56623f02e42e%3Fauto%3Dformat%26fit%3Dcrop%26w%3D600%26q%3D80" target="_blank" rel="noopener">
+          <img src="https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=600&q=80" alt="meio ambiente" loading="lazy"/>
+          <div class="card-body">
+            <span class="pill pill-green">meio ambiente</span>
+            <h3>Manaus registra quase 1,2 mil incêndios em 2026, aponta monitoramento</h3>
+            <div class="meta">Por Paulo Amazonas • 10:47</div>
+          </div>
+          </a>
         </article>
       </div>
     </section>
@@ -329,40 +356,58 @@
       <div class="sidebar-box">
         <div class="box-title red"><i class="fas fa-bolt"></i> Urgente</div>
         <div class="news-list" id="urgentesList">
-                    <div class="news-item">
-            <span>Incêndio destrói galpão de loja no Centro de Manaus</span>
-            <time>10:47</time>
-          </div>          <div class="news-item">
-            <span>VÍDEO: Incêndio assusta moradores e atinge área de vegetação na Avenida das Torres</span>
-            <time>10:47</time>
-          </div>          <div class="news-item">
-            <span>Incêndio atinge borracharia e casas no bairro Parque das Nações</span>
-            <time>10:47</time>
-          </div>          <div class="news-item">
-            <span>Operação contra agiotagem cumpre mandados no AM após denúncia de cobranças com ameaças</span>
-            <time>10:47</time>
-          </div>          <a class="btn-outline" href="#">Ver Todas →</a>
+                    <a class="news-link" href="noticia.html?u=&t=Inc%C3%AAndio%20destr%C3%B3i%20galp%C3%A3o%20de%20loja%20no%20Centro%20de%20Manaus&r=&c=&i=" target="_blank" rel="noopener">
+            <div class="news-item">
+              <span>Incêndio destrói galpão de loja no Centro de Manaus</span>
+              <time>10:47</time>
+            </div>
+          </a>          <a class="news-link" href="noticia.html?u=&t=V%C3%8DDEO%3A%20Inc%C3%AAndio%20assusta%20moradores%20e%20atinge%20%C3%A1rea%20de%20vegeta%C3%A7%C3%A3o%20na%20Avenida%20das%20Torres&r=&c=&i=" target="_blank" rel="noopener">
+            <div class="news-item">
+              <span>VÍDEO: Incêndio assusta moradores e atinge área de vegetação na Avenida das Torres</span>
+              <time>10:47</time>
+            </div>
+          </a>          <a class="news-link" href="noticia.html?u=&t=Inc%C3%AAndio%20atinge%20borracharia%20e%20casas%20no%20bairro%20Parque%20das%20Na%C3%A7%C3%B5es&r=&c=&i=" target="_blank" rel="noopener">
+            <div class="news-item">
+              <span>Incêndio atinge borracharia e casas no bairro Parque das Nações</span>
+              <time>10:47</time>
+            </div>
+          </a>          <a class="news-link" href="noticia.html?u=&t=Opera%C3%A7%C3%A3o%20contra%20agiotagem%20cumpre%20mandados%20no%20AM%20ap%C3%B3s%20den%C3%BAncia%20de%20cobran%C3%A7as%20com%20amea%C3%A7as&r=&c=&i=" target="_blank" rel="noopener">
+            <div class="news-item">
+              <span>Operação contra agiotagem cumpre mandados no AM após denúncia de cobranças com ameaças</span>
+              <time>10:47</time>
+            </div>
+          </a>          <a class="btn-outline" href="#">Ver Todas →</a>
         </div>
       </div>
       <div class="sidebar-box">
         <div class="box-title green"><i class="fas fa-fire"></i> Mais Lidas</div>
         <div class="news-list" id="maisLidasList">
-                    <div class="rank-item">
-            <span class="rank-num">1</span>
-            <p>Ônibus escolar rural poderá atender outros alunos e professores, aprova CE</p>
-          </div>          <div class="rank-item">
-            <span class="rank-num">2</span>
-            <p>Omar coloca valorização dos professores no centro de proposta para recuperar educação do Amazonas</p>
-          </div>          <div class="rank-item">
-            <span class="rank-num">3</span>
-            <p>Operação contra agiotagem cumpre mandados no AM após denúncia de cobranças com ameaças</p>
-          </div>          <div class="rank-item">
-            <span class="rank-num">4</span>
-            <p>Manaus registra quase 1,2 mil incêndios em 2026, aponta monitoramento</p>
-          </div>          <div class="rank-item">
-            <span class="rank-num">5</span>
-            <p>VÍDEO: Incêndio assusta moradores e atinge área de vegetação na Avenida das Torres</p>
-          </div>          <a class="btn-outline" href="#">Ver Todas →</a>
+                    <a class="news-link" href="noticia.html?u=&t=%C3%94nibus%20escolar%20rural%20poder%C3%A1%20atender%20outros%20alunos%20e%20professores%2C%20aprova%20CE&r=Camilo%20Santana%20leu%20o%20relat%C3%B3rio%20de%20Jussara%20Lima%20para%20o%20PL%20743/2023.%20O%20post%20%C3%94nibus%20escolar%20rural%20poder%C3%A1%20atender%20outros%20alunos%20e%20professores%2C%20aprova%20CE%20apareceu%20primeiro%20em%20Amazonas1%20%7C%20%C3%9Altimas%20not%C3%ADcias%20d&c=Educa%C3%A7%C3%A3o&i=https%3A//amazonas1.com.br/wp-content/uploads/2026/08/onibus-escolar-rural-podera-at.jpg" target="_blank" rel="noopener">
+            <div class="rank-item">
+              <span class="rank-num">1</span>
+              <p>Ônibus escolar rural poderá atender outros alunos e professores, aprova CE</p>
+            </div>
+          </a>          <a class="news-link" href="noticia.html?u=&t=Omar%20coloca%20valoriza%C3%A7%C3%A3o%20dos%20professores%20no%20centro%20de%20proposta%20para%20recuperar%20educa%C3%A7%C3%A3o%20do%20Amazonas&r=A%20valoriza%C3%A7%C3%A3o%20dos%20professores%20ser%C3%A1%20um%20dos%20pilares%20da%20proposta%20de%20Omar%20Aziz%20para%20reestruturar%20a%20educa%C3%A7%C3%A3o%20p%C3%BAblica%20do%20Amazonas.%20O%20candidato%20ao%20Governo%20defende%20o%20cumprimento%20da%20data-base%2C%20o%20fortalecimento%20do%20PCCR%20e%20a%20retomada%20das%20progress%C3%B5es%20na%20carreira%20docente.&c=Educa%C3%A7%C3%A3o&i=https%3A//emtempo.com.br/wp-content/uploads/2026/08/Omar-2-2.jpeg" target="_blank" rel="noopener">
+            <div class="rank-item">
+              <span class="rank-num">2</span>
+              <p>Omar coloca valorização dos professores no centro de proposta para recuperar educação do Amazonas</p>
+            </div>
+          </a>          <a class="news-link" href="noticia.html?u=&t=Opera%C3%A7%C3%A3o%20contra%20agiotagem%20cumpre%20mandados%20no%20AM%20ap%C3%B3s%20den%C3%BAncia%20de%20cobran%C3%A7as%20com%20amea%C3%A7as&r=Pol%C3%ADcia%20Civil%20deflagrou%20opera%C3%A7%C3%A3o%20em%20Manaus%20e%20munic%C3%ADpios%20do%20interior.%20Seis%20pessoas%20foram%20presas%20e%20documentos%2C%20armas%20e%20dinheiro%20foram%20apreendidos.%20V%C3%ADtimas%20relatavam%20juros%20de%20at%C3%A9%2050%25%20ao%20m%C3%AAs.&c=seguran%C3%A7a&i=https%3A//images.unsplash.com/photo-1581091226825-a6a2a5aee158%3Fauto%3Dformat%26fit%3Dcrop%26w%3D600%26q%3D80" target="_blank" rel="noopener">
+            <div class="rank-item">
+              <span class="rank-num">3</span>
+              <p>Operação contra agiotagem cumpre mandados no AM após denúncia de cobranças com ameaças</p>
+            </div>
+          </a>          <a class="news-link" href="noticia.html?u=&t=Manaus%20registra%20quase%201%2C2%20mil%20inc%C3%AAndios%20em%202026%2C%20aponta%20monitoramento&r=Dados%20do%20Corpo%20de%20Bombeiros%20mostram%20aumento%20de%2034%25%20nos%20registros%20comparado%20ao%20mesmo%20per%C3%ADodo%20de%202025.%20Zona%20norte%20e%20leste%20concentram%20maior%20n%C3%BAmero%20de%20ocorr%C3%AAncias.&c=meio%20ambiente&i=https%3A//images.unsplash.com/photo-1469474968028-56623f02e42e%3Fauto%3Dformat%26fit%3Dcrop%26w%3D600%26q%3D80" target="_blank" rel="noopener">
+            <div class="rank-item">
+              <span class="rank-num">4</span>
+              <p>Manaus registra quase 1,2 mil incêndios em 2026, aponta monitoramento</p>
+            </div>
+          </a>          <a class="news-link" href="noticia.html?u=&t=V%C3%8DDEO%3A%20Inc%C3%AAndio%20assusta%20moradores%20e%20atinge%20%C3%A1rea%20de%20vegeta%C3%A7%C3%A3o%20na%20Avenida%20das%20Torres&r=Chamas%20se%20espalharam%20pelo%20local%20na%20noite%20desta%20ter%C3%A7a-feira%20%2811%29%2C%20no%20bairro%20Aleixo%2C%20em%20Manaus.%20Tr%C3%A2nsito%20foi%20interditado%20temporariamente.%20Causas%20est%C3%A3o%20sendo%20investigadas.&c=urgente&i=https%3A//images.unsplash.com/photo-1564760055775-d63b17a55c44%3Fauto%3Dformat%26fit%3Dcrop%26w%3D700%26q%3D80" target="_blank" rel="noopener">
+            <div class="rank-item">
+              <span class="rank-num">5</span>
+              <p>VÍDEO: Incêndio assusta moradores e atinge área de vegetação na Avenida das Torres</p>
+            </div>
+          </a>          <a class="btn-outline" href="#">Ver Todas →</a>
         </div>
       </div>
       <div class="sidebar-box">
@@ -382,27 +427,27 @@
     <div class="content-columns">
       <div id="ultimasNoticiasContainer">
                 <article class="story fade-in">
-          <img src="https://amazonas1.com.br/wp-content/uploads/2026/08/onibus-escolar-rural-podera-at.jpg" alt="Ônibus escolar rural poderá atender outros alunos e professores, aprova CE"/>
+          <img src="https://images.unsplash.com/photo-1518182170546-07661fd94144?auto=format&fit=crop&w=700&q=80" alt="Justiça rejeita novo pedido para suspender decisão sobre obras na BR-319" loading="lazy"/>
           <div>
-            <span class="pill pill-blue">Educação</span>
-            <h3>Ônibus escolar rural poderá atender outros alunos e professores, aprova CE</h3>
-            <p>Camilo Santana leu o relatório de Jussara Lima para o PL 743/2023. O post Ônibus escolar rural poderá atender outros alunos e professores, aprova CE apareceu primeiro em Amazonas1 | Últimas notícias d</p>
-            <div class="meta">Por Paulo Amazonas • 12 de agosto de 2026 • 12:39</div>
-          </div>
-        </article>        <article class="story fade-in">
-          <img src="https://emtempo.com.br/wp-content/uploads/2026/08/Omar-2-2.jpeg" alt="Omar coloca valorização dos professores no centro de proposta para recuperar educação do Amazonas"/>
-          <div>
-            <span class="pill pill-blue">Educação</span>
-            <h3>Omar coloca valorização dos professores no centro de proposta para recuperar educação do Amazonas</h3>
-            <p>A valorização dos professores será um dos pilares da proposta de Omar Aziz para reestruturar a educação pública do Amazonas. O candidato ao Governo defende o cumprimento da data-base, o fortalecimento do PCCR e a retomada das progressões na carreira docente.</p>
-            <div class="meta">Por Paulo Amazonas • 12 de agosto de 2026 • 11:41</div>
-          </div>
-        </article>        <article class="story fade-in">
-          <img src="https://images.unsplash.com/photo-1518182170546-07661fd94144?auto=format&fit=crop&w=700&q=80" alt="Justiça rejeita novo pedido para suspender decisão sobre obras na BR-319"/>
-          <div>
-            <span class="pill pill-blue">Política</span>
-            <h3>Justiça rejeita novo pedido para suspender decisão sobre obras na BR-319</h3>
+            <span class="pill pill-blue">política</span>
+            <h3><a href="noticia.html?u=&t=Justi%C3%A7a%20rejeita%20novo%20pedido%20para%20suspender%20decis%C3%A3o%20sobre%20obras%20na%20BR-319&r=A%20Justi%C3%A7a%20Federal%20negou%20novo%20pedido%20de%20suspens%C3%A3o%20das%20obras%20de%20asfaltamento%20da%20BR-319%2C%20rodovia%20que%20liga%20Manaus%20a%20Porto%20Velho.%20Decis%C3%A3o%20mant%C3%A9m%20o%20cronograma%20de%20obras%20para%20os%20pr%C3%B3ximos%20meses.&c=pol%C3%ADtica&i=https%3A//images.unsplash.com/photo-1518182170546-07661fd94144%3Fauto%3Dformat%26fit%3Dcrop%26w%3D700%26q%3D80" target="_blank" rel="noopener">Justiça rejeita novo pedido para suspender decisão sobre obras na BR-319</a></h3>
             <p>A Justiça Federal negou novo pedido de suspensão das obras de asfaltamento da BR-319, rodovia que liga Manaus a Porto Velho. Decisão mantém o cronograma de obras para os próximos meses.</p>
+            <div class="meta">Por Paulo Amazonas • 12 de August de 2026 • 10:47</div>
+          </div>
+        </article>        <article class="story fade-in">
+          <img src="https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80" alt="Incêndio destrói galpão de loja no Centro de Manaus" loading="lazy"/>
+          <div>
+            <span class="pill pill-red">urgente</span>
+            <h3><a href="noticia.html?u=&t=Inc%C3%AAndio%20destr%C3%B3i%20galp%C3%A3o%20de%20loja%20no%20Centro%20de%20Manaus&r=Um%20inc%C3%AAndio%20de%20grandes%20propor%C3%A7%C3%B5es%20consumiu%20um%20galp%C3%A3o%20comercial%20no%20Centro%20hist%C3%B3rico%20de%20Manaus%20na%20madrugada%20desta%20ter%C3%A7a-feira%20%2811%29.%20Bombeiros%20levaram%204%20horas%20para%20controlar%20as%20chamas.%20N%C3%A3o%20h%C3%A1%20v%C3%ADtimas%20fatais.&c=urgente&i=https%3A//images.unsplash.com/photo-1597733336794-12d05021d510%3Fauto%3Dformat%26fit%3Dcrop%26w%3D600%26q%3D80" target="_blank" rel="noopener">Incêndio destrói galpão de loja no Centro de Manaus</a></h3>
+            <p>Um incêndio de grandes proporções consumiu um galpão comercial no Centro histórico de Manaus na madrugada desta terça-feira (11). Bombeiros levaram 4 horas para controlar as chamas. Não há vítimas fatais.</p>
+            <div class="meta">Por Paulo Amazonas • 12 de August de 2026 • 10:47</div>
+          </div>
+        </article>        <article class="story fade-in">
+          <img src="https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?auto=format&fit=crop&w=600&q=80" alt="Operação contra agiotagem cumpre mandados no AM após denúncia de cobranças com ameaças" loading="lazy"/>
+          <div>
+            <span class="pill pill-red">segurança</span>
+            <h3><a href="noticia.html?u=&t=Opera%C3%A7%C3%A3o%20contra%20agiotagem%20cumpre%20mandados%20no%20AM%20ap%C3%B3s%20den%C3%BAncia%20de%20cobran%C3%A7as%20com%20amea%C3%A7as&r=Pol%C3%ADcia%20Civil%20deflagrou%20opera%C3%A7%C3%A3o%20em%20Manaus%20e%20munic%C3%ADpios%20do%20interior.%20Seis%20pessoas%20foram%20presas%20e%20documentos%2C%20armas%20e%20dinheiro%20foram%20apreendidos.%20V%C3%ADtimas%20relatavam%20juros%20de%20at%C3%A9%2050%25%20ao%20m%C3%AAs.&c=seguran%C3%A7a&i=https%3A//images.unsplash.com/photo-1581091226825-a6a2a5aee158%3Fauto%3Dformat%26fit%3Dcrop%26w%3D600%26q%3D80" target="_blank" rel="noopener">Operação contra agiotagem cumpre mandados no AM após denúncia de cobranças com ameaças</a></h3>
+            <p>Polícia Civil deflagrou operação em Manaus e municípios do interior. Seis pessoas foram presas e documentos, armas e dinheiro foram apreendidos. Vítimas relatavam juros de até 50% ao mês.</p>
             <div class="meta">Por Paulo Amazonas • 12 de August de 2026 • 10:47</div>
           </div>
         </article>
@@ -431,12 +476,103 @@
     </div>
   </section>
 
+  <!-- NACIONAL & INTERNACIONAL -->
+  <section class="container section fade-in">
+    <div class="section-header"><h2><i class="fas fa-globe-americas" style="color:var(--red);margin-right:8px"></i> Nacional &amp; Internacional</h2></div>
+    <div class="nacint-grid">
+      <div class="nacint-col">
+        <h3 class="nacint-titulo"><i class="fas fa-flag" style="margin-right:6px"></i>Nacional</h3>
+        <div id="nacionaisList">
+                    <div class="nacint-item">
+            <img src="https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/WhatsApp-Image-2026-08-12-at-13.15.33.jpeg?w=1136&amp;amp;h=630&amp;amp;crop=1" alt="Como funcionam os “adesivos de espinha”," loading="lazy" onerror="this.style.display='none'"/>
+            <div>
+              <h4><a href="noticia.html?u=https%3A//www.cnnbrasil.com.br/saude/como-funcionam-os-adesivos-de-espinha-febre-entre-a-geracao-z/&t=Como%20funcionam%20os%20%E2%80%9Cadesivos%20de%20espinha%E2%80%9D%2C%20febre%C2%A0entre%20a%20Gera%C3%A7%C3%A3o%20Z&r=Especialistas%20alertam%20que%20itens%20s%C3%A3o%20coadjuvantes%20no%20tratamento%20e%20n%C3%A3o%20substituem%20a%20consulta%20com%20dermatologista&c=Amazonas&i=https%3A//admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/WhatsApp-Image-2026-08-12-at-13.15.33.jpeg%3Fw%3D1136%26amp%3Bh%3D630%26amp%3Bcrop%3D1" target="_blank" rel="noopener">Como funcionam os “adesivos de espinha”, febre entre a Geração Z</a></h4>
+              <div class="nacint-fonte">CNN Brasil</div>
+            </div>
+          </div>          <div class="nacint-item">
+            <img src="https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportBusinessNews/tagreuters.com2026binary_LYNXMPEM2D0A1-BASEIMAGE.jpg?w=800&amp;amp;h=533&amp;amp;crop=1" alt="Haddad relata que motorista foi seguido " loading="lazy" onerror="this.style.display='none'"/>
+            <div>
+              <h4><a href="noticia.html?u=https%3A//www.cnnbrasil.com.br/eleicoes/haddad-relata-que-motorista-foi-seguido-pela-pm-apos-deixa-lo-em-casa/&t=Haddad%20relata%20que%20motorista%20foi%20seguido%20pela%20PM%20ap%C3%B3s%20deix%C3%A1-lo%20em%20casa&r=Candidato%20ao%20governo%20de%20S%C3%A3o%20Paulo%20afirma%20que%20acompanhamento%20durou%20cerca%20de%2040%20minutos%20e%20diz%20que%20abordagem%20%E2%80%9Cn%C3%A3o%20foi%20padr%C3%A3o%E2%80%9D&c=Amazonas&i=https%3A//admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportBusinessNews/tagreuters.com2026binary_LYNXMPEM2D0A1-BASEIMAGE.jpg%3Fw%3D800%26amp%3Bh%3D533%26amp%3Bcrop%3D1" target="_blank" rel="noopener">Haddad relata que motorista foi seguido pela PM após deixá-lo em casa</a></h4>
+              <div class="nacint-fonte">CNN Brasil</div>
+            </div>
+          </div>          <div class="nacint-item">
+            <img src="https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/VIDEO-FALSA-VIATURA.jpg?w=1200&amp;amp;h=630&amp;amp;crop=1" alt="Vídeo: homem é agredido e colocado no po" loading="lazy" onerror="this.style.display='none'"/>
+            <div>
+              <h4><a href="noticia.html?u=https%3A//www.cnnbrasil.com.br/nacional/sudeste/sp/video-homem-e-agredido-e-colocado-no-porta-malas-de-falsa-viatura-em-sp/&t=V%C3%ADdeo%3A%20homem%20%C3%A9%20agredido%20e%20colocado%20no%20porta-malas%20de%20falsa%20viatura%20em%20SP&r=Grupo%20colocou%20a%20v%C3%ADtima%20em%20um%20ve%C3%ADculo%20preto%20semelhante%20a%20uma%20viatura%20descaracterizada%3B%20c%C3%A2meras%20flagraram%20as%20agress%C3%B5es&c=Amazonas&i=https%3A//admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/VIDEO-FALSA-VIATURA.jpg%3Fw%3D1200%26amp%3Bh%3D630%26amp%3Bcrop%3D1" target="_blank" rel="noopener">Vídeo: homem é agredido e colocado no porta-malas de falsa viatura em SP</a></h4>
+              <div class="nacint-fonte">CNN Brasil</div>
+            </div>
+          </div>          <div class="nacint-item">
+            <img src="https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2022/05/bndes.jpg?w=1200&amp;amp;h=630&amp;amp;crop=1" alt="BNDES aprova R$ 46 bilhões em crédito pa" loading="lazy" onerror="this.style.display='none'"/>
+            <div>
+              <h4><a href="noticia.html?u=https%3A//www.cnnbrasil.com.br/infra/bndes-aprova-r-46-bilhoes-em-credito-para-infraestrutura-no-semestre/&t=BNDES%20aprova%20R%24%2046%20bilh%C3%B5es%20em%20cr%C3%A9dito%20para%20infraestrutura%20no%20semestre&r=Valor%20representa%20alta%20de%2091%25%20na%20compara%C3%A7%C3%A3o%20com%20os%20primeiros%20seis%20meses%20de%202025%20e%20foi%20o%20maior%20avan%C3%A7o%20entre%20os%20setores%20financiados%20pelo%20banco&c=Amazonas&i=https%3A//admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2022/05/bndes.jpg%3Fw%3D1200%26amp%3Bh%3D630%26amp%3Bcrop%3D1" target="_blank" rel="noopener">BNDES aprova R$ 46 bilhões em crédito para infraestrutura no semestre</a></h4>
+              <div class="nacint-fonte">CNN Brasil</div>
+            </div>
+          </div>          <div class="nacint-item">
+            <img src="https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/Gato-e-resgatdo-de-escombros-apos-terremoto-na-Colombia.jpeg?w=1200&amp;amp;h=630&amp;amp;crop=1" alt="Vídeo: Filhote de gato é resgatado de es" loading="lazy" onerror="this.style.display='none'"/>
+            <div>
+              <h4><a href="noticia.html?u=https%3A//www.cnnbrasil.com.br/internacional/video-filhote-de-gato-e-resgatado-de-escombros-na-colombia-apos-terremoto/&t=V%C3%ADdeo%3A%20Filhote%20de%20gato%20%C3%A9%20resgatado%20de%20escombros%20na%20Col%C3%B4mbia%20ap%C3%B3s%20terremoto&r=Equipes%20de%20busca%20retiram%20o%20animal%20de%20pr%C3%A9dio%20na%20cidade%20de%20Pereira%2C%20gerando%20aplausos%20e%20emo%C3%A7%C3%A3o%20ap%C3%B3s%20mais%20de%2012%20horas%20de%20trabalho&c=Amazonas&i=https%3A//admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/Gato-e-resgatdo-de-escombros-apos-terremoto-na-Colombia.jpeg%3Fw%3D1200%26amp%3Bh%3D630%26amp%3Bcrop%3D1" target="_blank" rel="noopener">Vídeo: Filhote de gato é resgatado de escombros na Colômbia após terremoto</a></h4>
+              <div class="nacint-fonte">CNN Brasil</div>
+            </div>
+          </div>          <div class="nacint-item">
+            <img src="https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/03/Carne-bovina-Foto-CNA.jpg?w=799&amp;amp;h=533&amp;amp;crop=1" alt="USDA recolhe de carne bovina argentina d" loading="lazy" onerror="this.style.display='none'"/>
+            <div>
+              <h4><a href="noticia.html?u=https%3A//www.cnnbrasil.com.br/agro/usda-recolhe-de-carne-bovina-argentina-distribuida-nos-eua/&t=USDA%20recolhe%20de%20carne%20bovina%20argentina%20distribu%C3%ADda%20nos%20EUA&r=Produtos%20importados%20n%C3%A3o%20passaram%20por%20reinspe%C3%A7%C3%A3o%20obrigat%C3%B3ria%20do%20USDA%20e%20foram%20distribu%C3%ADdos%20na%20Fl%C3%B3rida%20e%20Texas&c=Amazonas&i=https%3A//admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/03/Carne-bovina-Foto-CNA.jpg%3Fw%3D799%26amp%3Bh%3D533%26amp%3Bcrop%3D1" target="_blank" rel="noopener">USDA recolhe de carne bovina argentina distribuída nos EUA</a></h4>
+              <div class="nacint-fonte">CNN Brasil</div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="nacint-col">
+        <h3 class="nacint-titulo"><i class="fas fa-earth-americas" style="margin-right:6px"></i>Internacional</h3>
+        <div id="internacionaisList">
+                    <div class="nacint-item">
+            <img src="https://static01.nyt.com/images/2026/08/12/multimedia/12CLI-ELNINO-EFFECTS-01-lwzg/12CLI-ELNINO-EFFECTS-01-lwzg-mediumSquareAt3X.jpg" alt="Effects of Record-Breaking El Niño Are H" loading="lazy" onerror="this.style.display='none'"/>
+            <div>
+              <h4><a href="noticia.html?u=https%3A//www.nytimes.com/2026/08/12/climate/el-nino-early-onset-effects.html&t=Effects%20of%20Record-Breaking%20El%20Ni%C3%B1o%20Are%20Happening%20on%203%20Continents&r=The%20recurring%20climate%20phenomenon%20is%20expected%20to%20peak%20later%20this%20year%2C%20but%20it%20is%20already%20causing%20dry%20spells%20and%20crop%20failures%20on%20three%20continents.&c=Amazonas&i=https%3A//static01.nyt.com/images/2026/08/12/multimedia/12CLI-ELNINO-EFFECTS-01-lwzg/12CLI-ELNINO-EFFECTS-01-lwzg-mediumSquareAt3X.jpg" target="_blank" rel="noopener">Effects of Record-Breaking El Niño Are Happening on 3 Continents</a></h4>
+              <div class="nacint-fonte">NYT</div>
+            </div>
+          </div>          <div class="nacint-item">
+            <img src="https://static01.nyt.com/images/2026/08/12/multimedia/12europe-eclipse-iceland-scene-topart/12europe-eclipse-iceland-scene-topart-mediumSquareAt3X.jpg" alt="Eclipse chasers stake out their viewing " loading="lazy" onerror="this.style.display='none'"/>
+            <div>
+              <h4><a href="noticia.html?u=https%3A//www.nytimes.com/live/2026/08/12/world/solar-eclipse-2026-updates/eclipse-chasers-stake-out-their-viewing-spots-in-iceland&t=Eclipse%20chasers%20stake%20out%20their%20viewing%20spots%20in%20Iceland.&r=&c=Amazonas&i=https%3A//static01.nyt.com/images/2026/08/12/multimedia/12europe-eclipse-iceland-scene-topart/12europe-eclipse-iceland-scene-topart-mediumSquareAt3X.jpg" target="_blank" rel="noopener">Eclipse chasers stake out their viewing spots in Iceland.</a></h4>
+              <div class="nacint-fonte">NYT</div>
+            </div>
+          </div>          <div class="nacint-item">
+            <img src="https://i.guim.co.uk/img/media/4a15db7473076dcd48ebf52b9cd21e4730937e90/471_0_3985_3187/master/3985.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1e0c63eb5345bf9e54b62b8b459c802b" alt="Honk if your barn is burning: pet goose " loading="lazy" onerror="this.style.display='none'"/>
+            <div>
+              <h4><a href="noticia.html?u=https%3A//www.theguardian.com/us-news/2026/aug/12/goose-alerts-family-burning-barn-texas&t=Honk%20if%20your%20barn%20is%20burning%3A%20pet%20goose%20alerts%20sleeping%20Texas%20family%20to%20blaze&r=Family%20%E2%80%98extremely%20grateful%E2%80%99%20to%20four-month-old%20%E2%80%98Goosey%E2%80%99%20who%20ran%20out%20of%20fire-billowing%20building%20and%20repeatedly%20squawked%20A%20pet%20goose%20is%20being%20credited%20with%20helping%20save%20a%20Texas%20family%E2%80%99s%20animals%20after%20sou&c=Amazonas&i=https%3A//i.guim.co.uk/img/media/4a15db7473076dcd48ebf52b9cd21e4730937e90/471_0_3985_3187/master/3985.jpg%3Fwidth%3D140%26quality%3D85%26auto%3Dformat%26fit%3Dmax%26s%3D1e0c63eb5345bf9e54b62b8b459c802b" target="_blank" rel="noopener">Honk if your barn is burning: pet goose alerts sleeping Texas family to blaze</a></h4>
+              <div class="nacint-fonte">The Guardian</div>
+            </div>
+          </div>          <div class="nacint-item">
+            <img src="https://i.guim.co.uk/img/media/c4d16d5a6ba5c21685735554d47da14ad151cbf7/471_0_2733_2187/master/2733.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=518042062160fc5a46ed27a98698ef51" alt="Unexpected hearing scheduled for Luigi M" loading="lazy" onerror="this.style.display='none'"/>
+            <div>
+              <h4><a href="noticia.html?u=https%3A//www.theguardian.com/us-news/2026/aug/12/luigi-mangione-united-health-murder-hearing&t=Unexpected%20hearing%20scheduled%20for%20Luigi%20Mangione%20sparks%20plea%20deal%20speculation&r=Rumors%20of%20plea%20deal%20in%20federal%20case%20have%20been%20circulating%20since%20June%20for%20suspect%20accused%20of%20killing%20Brian%20Thompson%20An%20unexpected%20hearing%20in%20the%20federal%20stalking%20case%20against%20Luigi%20Mangione%20has%20been%20sc&c=Amazonas&i=https%3A//i.guim.co.uk/img/media/c4d16d5a6ba5c21685735554d47da14ad151cbf7/471_0_2733_2187/master/2733.jpg%3Fwidth%3D140%26quality%3D85%26auto%3Dformat%26fit%3Dmax%26s%3D518042062160fc5a46ed27a98698ef51" target="_blank" rel="noopener">Unexpected hearing scheduled for Luigi Mangione sparks plea deal speculation</a></h4>
+              <div class="nacint-fonte">The Guardian</div>
+            </div>
+          </div>          <div class="nacint-item">
+            <img src="https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a53f/live/2137b990-9656-11f1-9743-c91876572530.jpg" alt="&#x27;Tenho dúvidas se vou continuar jog" loading="lazy" onerror="this.style.display='none'"/>
+            <div>
+              <h4><a href="noticia.html?u=https%3A//www.bbc.com/portuguese/articles/c5y49gy8845o%3Fat_medium%3DRSS%26at_campaign%3Drss&t=%27Tenho%20d%C3%BAvidas%20se%20vou%20continuar%20jogando%20futebol%27%3A%20a%20emocionante%20mensagem%20de%20Lionel%20Messi%20dedicada%20a%20seu%20pai%20ap%C3%B3s%20a%20sua%20morte&r=Lionel%20Messi%20afirmou%20que%20n%C3%A3o%20sabe%20por%20quanto%20tempo%20continuar%C3%A1%20jogando%20futebol%2C%20em%20uma%20homenagem%20emocionada%20ao%20seu%20pai%2C%20rec%C3%A9m-falecido%2C%20nas%20redes%20sociais.&c=Seguran%C3%A7a&i=https%3A//ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a53f/live/2137b990-9656-11f1-9743-c91876572530.jpg" target="_blank" rel="noopener">&#x27;Tenho dúvidas se vou continuar jogando futebol&#x27;: a emocionante mensagem de Lionel Messi dedicada a seu pai após a sua morte</a></h4>
+              <div class="nacint-fonte">BBC Brasil</div>
+            </div>
+          </div>          <div class="nacint-item">
+            <img src="https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8ca1/live/fb244850-94b0-11f1-afe9-fb1a837ec5d9.jpg" alt="Por quanto tempo o Irã pode sustentar a " loading="lazy" onerror="this.style.display='none'"/>
+            <div>
+              <h4><a href="noticia.html?u=https%3A//www.bbc.com/portuguese/articles/c0l52gxn7xlo%3Fat_medium%3DRSS%26at_campaign%3Drss&t=Por%20quanto%20tempo%20o%20Ir%C3%A3%20pode%20sustentar%20a%20guerra%20com%20os%20EUA%20e%20Israel%3F&r=Sete%20meses%20ap%C3%B3s%20o%20in%C3%ADcio%20da%20guerra%2C%20e%20apesar%20da%20forte%20press%C3%A3o%20sobre%20a%20economia%20e%20a%20infraestrutura%20do%20pa%C3%ADs%2C%20os%20l%C3%ADderes%20iranianos%20ainda%20n%C3%A3o%20parecem%20ter%20pressa%20para%20encerr%C3%A1-la.%20Mas%20por%20quanto%20tempo%20o%20Ir%C3%A3&c=Amazonas&i=https%3A//ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8ca1/live/fb244850-94b0-11f1-afe9-fb1a837ec5d9.jpg" target="_blank" rel="noopener">Por quanto tempo o Irã pode sustentar a guerra com os EUA e Israel?</a></h4>
+              <div class="nacint-fonte">BBC Brasil</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
   <!-- OPINIÃO / COLUNISTAS -->
   <section class="container section fade-in">
     <div class="section-header"><h2>Opinião</h2></div>
     <div class="opinion-grid">
       <div class="opinion-card">
-        <img class="opinion-avatar" src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=200&q=80" alt="Colunista"/>
+        <img class="opinion-avatar" src="foto-paulo-avatar.jpg" alt="Colunista"/>
         <h4>Paulo Amazonas</h4>
         <small>Bastidores da Política</small>
         <p>"O cenário político no Amazonas vive um momento de instabilidade. As alianças mudam a cada semana e o futuro é incerto."</p>

@@ -30,9 +30,7 @@ FLAGS (one-liner)
 """
 
 import argparse
-import html
 import os
-import re
 import subprocess
 import sys
 from datetime import datetime
@@ -124,45 +122,9 @@ def perguntar(mensagem: str, default: str | None = None, obrigatorio: bool = Fal
 # Site (index.html)
 # ---------------------------------------------------------------------------
 
-def patch_ticker_e_hero(titulo: str, hora: str):
-    """Atualiza o ticker ('Últimas') e a data do hero no index.html."""
-    index = Path("index.html")
-    if not index.exists():
-        return
-    conteudo = index.read_text(encoding="utf-8")
-    titulo_seguro = html.escape(titulo)
-
-    # Ticker: <p id="tickerText">• ...</p> e <span class="time" id="tickerTime">HH:MM</span>
-    conteudo = re.sub(
-        r'(<p id="tickerText">).*?(</p>)',
-        rf'\g<1>• {titulo_seguro}\g<2>',
-        conteudo, count=1, flags=re.S,
-    )
-    conteudo = re.sub(
-        r'(<span class="time" id="tickerTime">).*?(</span>)',
-        rf'\g<1>{hora}\g<2>',
-        conteudo, count=1, flags=re.S,
-    )
-
-    # Data do hero: "● Por Paulo Amazonas <span>•</span> 12 de agosto de 2026"
-    conteudo = re.sub(
-        r'● Por [^<]*<span>•</span> [^<]+',
-        f"● Por Paulo Amazonas <span>•</span> {data_pt()}",
-        conteudo, count=1,
-    )
-
-    index.write_text(conteudo, encoding="utf-8")
-
-
 def regenerar_site():
-    """Regenera index.html + ticker/data do hero. Retorna True em caso de sucesso."""
-    if not post_news.update_index_html():
-        return False
-    data = post_news.load_news_data()
-    noticias = data.get("ultimas_noticias", [])
-    if noticias:
-        patch_ticker_e_hero(noticias[0]["titulo"], noticias[0].get("hora", ""))
-    return True
+    """Regenera index.html (hero, ticker e seções) a partir do template + dados."""
+    return post_news.update_index_html()
 
 
 # ---------------------------------------------------------------------------
@@ -307,7 +269,8 @@ def remover(alvo: str, publicar: bool):
 
 
 def adicionar(titulo: str, resumo: str, categoria: str, autor: str,
-              imagem: str | None, urgente: bool, publicar: bool):
+              imagem: str | None, urgente: bool, publicar: bool,
+              link: str | None = None):
     titulo = titulo.strip()
     resumo = resumo.strip()
     if not titulo:
@@ -331,7 +294,8 @@ def adicionar(titulo: str, resumo: str, categoria: str, autor: str,
         cat_norm = "Urgente"
     imagem = (imagem or "").strip() or imagem_automatica()
 
-    nova = post_news.add_new_noticia(titulo, resumo, cat_norm, autor or "Paulo Amazonas", imagem)
+    nova = post_news.add_new_noticia(titulo, resumo, cat_norm, autor or "Paulo Amazonas",
+                                     imagem, link=(link or "").strip() or None)
     nova["data"] = data_pt()
 
     # grava a data em pt-BR (add_new_noticia usa nome do mês em inglês)
@@ -377,6 +341,7 @@ def assistente(publicar_default: bool):
         print("  ⚠️ Opção inválida.")
 
     imagem = perguntar("URL da imagem (Enter = automática)")
+    link = perguntar("Link da matéria original (opcional, p/ o botão 'Ler matéria completa')")
     urgente = categoria == "Urgente" or categoria == "Segurança"
 
     print("\n──────────────────────────────────────────")
@@ -392,10 +357,10 @@ def assistente(publicar_default: bool):
 
     if not publicar:
         print("⚠️ Salvando localmente (sem publicar). Depois rode `python publicar.py --publicar` ou poste outra.")
-        adicionar(titulo, resumo, categoria, autor, imagem, urgente, publicar=False)
+        adicionar(titulo, resumo, categoria, autor, imagem, urgente, publicar=False, link=link)
         return
 
-    adicionar(titulo, resumo, categoria, autor, imagem, urgente, publicar=True)
+    adicionar(titulo, resumo, categoria, autor, imagem, urgente, publicar=True, link=link)
 
 
 # ---------------------------------------------------------------------------
@@ -414,6 +379,7 @@ def main():
     parser.add_argument("--cat", "--categoria", dest="categoria", default="Amazonas", help="Categoria da notícia")
     parser.add_argument("--autor", default="Paulo Amazonas", help="Autor (default: Paulo Amazonas)")
     parser.add_argument("--img", "--imagem", dest="imagem", default=None, help="URL da imagem")
+    parser.add_argument("--link", "--fonte", dest="link", default=None, help="URL da matéria original (fonte)")
     parser.add_argument("--urgente", action="store_true", help="Marca como urgente")
     parser.add_argument("--listar", action="store_true", help="Lista as notícias publicadas")
     parser.add_argument("--remover", metavar="N|TÍTULO", help="Remove a notícia (número ou trecho do título)")
@@ -440,7 +406,7 @@ def main():
 
     if args.titulo:
         adicionar(args.titulo, args.resumo or "", args.categoria, args.autor,
-                  args.imagem, args.urgente, publicar)
+                  args.imagem, args.urgente, publicar, args.link)
     else:
         assistente(publicar_default=publicar)
 

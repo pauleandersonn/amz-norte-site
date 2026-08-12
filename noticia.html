@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>AMZ Norte | Notícia</title>
+  <meta name="description" content="AMZ Norte - Notícias do Amazonas por Paulo Amazonas."/>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"/>
+  <style>
+    :root{--red:#c8102e;--green:#065f30;--green2:#0a7a3f;--dark:#0a0c10;--gray:#64748b;--line:#e2e8f0;--bg:#f1f5f9;--white:#fff;--radius:8px}
+    *{box-sizing:border-box;margin:0;padding:0}
+    body{font-family:Inter,system-ui,sans-serif;background:var(--bg);color:var(--dark);line-height:1.6}
+    a{color:inherit;text-decoration:none}
+    img{max-width:100%;display:block}
+    .container{width:min(820px,calc(100% - 32px));margin:0 auto}
+
+    header{background:#fff;border-bottom:1px solid var(--line);position:sticky;top:0;z-index:100}
+    .barra{display:flex;align-items:center;justify-content:space-between;min-height:64px;gap:16px}
+    .logo{display:flex;align-items:baseline;gap:6px;font-weight:900;font-size:28px;letter-spacing:-1.5px;line-height:1}
+    .logo-red{color:var(--red)}
+    .logo-dark{color:var(--dark)}
+    .voltar{font-size:13px;font-weight:700;color:var(--green);background:rgba(6,95,48,.07);padding:8px 14px;border-radius:24px;transition:background .2s}
+    .voltar:hover{background:rgba(6,95,48,.14)}
+
+    main{padding:28px 0 48px}
+    .artigo{background:var(--white);border:1px solid var(--line);border-radius:var(--radius);overflow:hidden;box-shadow:0 1px 3px rgba(0,0,0,.06)}
+    .artigo-img{width:100%;max-height:420px;object-fit:cover}
+    .artigo-corpo{padding:28px}
+    .cat-badge{display:inline-block;background:var(--red);color:#fff;padding:6px 14px;font-weight:800;text-transform:uppercase;font-size:11px;border-radius:3px;letter-spacing:.5px;margin-bottom:16px}
+    .artigo h1{font-size:clamp(22px,4vw,34px);line-height:1.15;letter-spacing:-.5px;font-weight:900;margin-bottom:14px}
+    .meta{color:var(--gray);display:flex;gap:8px;flex-wrap:wrap;align-items:center;font-size:13px;font-weight:500;margin-bottom:20px;padding-bottom:16px;border-bottom:1px solid var(--line)}
+    .artigo .resumo{font-size:18px;line-height:1.7;color:#1f2937;white-space:pre-line}
+    .btn-fonte{display:inline-block;margin-top:28px;background:var(--green);color:#fff;font-weight:800;padding:14px 24px;border-radius:var(--radius);font-size:14px;transition:background .2s}
+    .btn-fonte:hover{background:var(--green2)}
+    .btn-fonte i{margin-left:8px}
+    .sem-fonte{display:inline-block;margin-top:28px;color:var(--gray);font-size:13px;font-weight:600}
+
+    footer{background:linear-gradient(180deg,#0a0c10,#111827);color:#94a3b8;padding:28px 0;font-size:13px;text-align:center}
+    footer .logo{font-size:22px;justify-content:center;margin-bottom:8px;color:#fff}
+    footer .logo span{color:#fff}
+    footer .logo .logo-red{color:var(--red)}
+  </style>
+</head>
+<body>
+
+<header>
+  <div class="container barra">
+    <a class="logo" href="index.html"><span class="logo-red">AMZ</span><span class="logo-dark">NORTE</span></a>
+    <a class="voltar" href="index.html"><i class="fas fa-arrow-left" style="margin-right:6px"></i>Voltar ao site</a>
+  </div>
+</header>
+
+<main>
+  <div class="container">
+    <article class="artigo">
+      <img class="artigo-img" id="artigoImg" src="" alt="Imagem da notícia" style="display:none"/>
+      <div class="artigo-corpo">
+        <span class="cat-badge" id="artigoCat">Notícia</span>
+        <h1 id="artigoTitulo">Carregando notícia...</h1>
+        <div class="meta" id="artigoMeta">● Por Paulo Amazonas</div>
+        <div class="resumo" id="artigoResumo"></div>
+        <a class="btn-fonte" id="btnFonte" href="#" target="_blank" rel="noopener" style="display:none">
+          Ler matéria completa <i class="fas fa-external-link-alt"></i>
+        </a>
+        <span class="sem-fonte" id="semFonte" style="display:none">Fonte: AMZ Norte</span>
+      </div>
+    </article>
+  </div>
+</main>
+
+<footer>
+  <div class="container">
+    <div class="logo"><span class="logo-red">AMZ</span><span>NORTE</span></div>
+    <p>Informação com credibilidade, compromisso com a verdade e com o povo do Amazonas.</p>
+  </div>
+</footer>
+
+<script>
+// Carrega a notícia pela URL (noticia.html?u=...&t=...&r=...&c=...&i=...)
+(function () {
+  const q = new URLSearchParams(location.search);
+
+  function aplicar(item) {
+    document.title = (item.titulo || 'Notícia') + ' | AMZ Norte';
+    if (item.categoria) {
+      document.getElementById('artigoCat').textContent = item.categoria;
+    }
+    document.getElementById('artigoTitulo').textContent = item.titulo || 'Sem título';
+
+    const meta = document.getElementById('artigoMeta');
+    meta.textContent = '';
+    const partes = ['● Por ' + (item.autor || 'Paulo Amazonas')];
+    if (item.data) partes.push(item.data);
+    if (item.hora) partes.push(item.hora);
+    if (item.fonte) partes.push('Fonte: ' + item.fonte);
+    partes.forEach(function (p, idx) {
+      if (idx > 0) {
+        const sep = document.createElement('span');
+        sep.textContent = ' • ';
+        meta.appendChild(sep);
+      }
+      const span = document.createElement('span');
+      span.textContent = p;
+      meta.appendChild(span);
+    });
+
+    document.getElementById('artigoResumo').textContent =
+      item.resumo || 'Resumo não disponível. Clique em "Ler matéria completa" para ver a matéria original.';
+
+    const ehHttp = function (url) {
+      return /^https?:\/\//i.test(url || '');
+    };
+    if (item.imagem && ehHttp(item.imagem)) {
+      const img = document.getElementById('artigoImg');
+      img.src = item.imagem;
+      img.style.display = 'block';
+      img.onerror = function () { this.style.display = 'none'; };
+    }
+    if (item.link && ehHttp(item.link)) {
+      const btn = document.getElementById('btnFonte');
+      btn.href = item.link;
+      btn.style.display = 'inline-block';
+    } else {
+      document.getElementById('semFonte').style.display = 'inline-block';
+    }
+  }
+
+  const item = {
+    link: q.get('u') || '',
+    titulo: q.get('t') || '',
+    resumo: q.get('r') || '',
+    categoria: q.get('c') || '',
+    imagem: q.get('i') || '',
+    autor: 'Paulo Amazonas'
+  };
+
+  // Se tem link, tenta completar com os dados salvos no news_data.json
+  if (item.link) {
+    fetch('news_data.json')
+      .then(function (r) { return r.json(); })
+      .then(function (data) {
+        const listas = ['ultimas_noticias', 'nacionais', 'internacionais', 'mais_lidas'];
+        let achou = null;
+        listas.forEach(function (lista) {
+          (data[lista] || []).forEach(function (n) {
+            if (n.link && n.link === item.link && !achou) achou = n;
+          });
+        });
+        if (achou) {
+          item.titulo = achou.titulo || item.titulo;
+          item.resumo = achou.resumo || item.resumo;
+          item.categoria = achou.categoria || item.categoria;
+          item.imagem = achou.imagem || item.imagem;
+          item.autor = achou.autor || item.autor;
+          item.data = achou.data || '';
+          item.hora = achou.hora || '';
+          item.fonte = achou.fonte || '';
+        }
+        aplicar(item);
+      })
+      .catch(function () { aplicar(item); });
+  } else {
+    aplicar(item);
+  }
+})();
+</script>
+</body>
+</html>

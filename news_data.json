@@ -297,5 +297,129 @@
       "nome": "Amazonas em Foco",
       "autor": "Paulo Amazonas"
     }
+  ],
+  "nacionais": [
+    {
+      "titulo": "Como funcionam os “adesivos de espinha”, febre entre a Geração Z",
+      "resumo": "Especialistas alertam que itens são coadjuvantes no tratamento e não substituem a consulta com dermatologista",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/WhatsApp-Image-2026-08-12-at-13.15.33.jpeg?w=1136&amp;h=630&amp;crop=1",
+      "link": "https://www.cnnbrasil.com.br/saude/como-funcionam-os-adesivos-de-espinha-febre-entre-a-geracao-z/",
+      "fonte": "CNN Brasil",
+      "encontrada_em": "2026-08-12T13:09:15"
+    },
+    {
+      "titulo": "Haddad relata que motorista foi seguido pela PM após deixá-lo em casa",
+      "resumo": "Candidato ao governo de São Paulo afirma que acompanhamento durou cerca de 40 minutos e diz que abordagem “não foi padrão”",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportBusinessNews/tagreuters.com2026binary_LYNXMPEM2D0A1-BASEIMAGE.jpg?w=800&amp;h=533&amp;crop=1",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/haddad-relata-que-motorista-foi-seguido-pela-pm-apos-deixa-lo-em-casa/",
+      "fonte": "CNN Brasil",
+      "encontrada_em": "2026-08-12T13:09:15"
+    },
+    {
+      "titulo": "Vídeo: homem é agredido e colocado no porta-malas de falsa viatura em SP",
+      "resumo": "Grupo colocou a vítima em um veículo preto semelhante a uma viatura descaracterizada; câmeras flagraram as agressões",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/VIDEO-FALSA-VIATURA.jpg?w=1200&amp;h=630&amp;crop=1",
+      "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/video-homem-e-agredido-e-colocado-no-porta-malas-de-falsa-viatura-em-sp/",
+      "fonte": "CNN Brasil",
+      "encontrada_em": "2026-08-12T13:09:15"
+    },
+    {
+      "titulo": "BNDES aprova R$ 46 bilhões em crédito para infraestrutura no semestre",
+      "resumo": "Valor representa alta de 91% na comparação com os primeiros seis meses de 2025 e foi o maior avanço entre os setores financiados pelo banco",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2022/05/bndes.jpg?w=1200&amp;h=630&amp;crop=1",
+      "link": "https://www.cnnbrasil.com.br/infra/bndes-aprova-r-46-bilhoes-em-credito-para-infraestrutura-no-semestre/",
+      "fonte": "CNN Brasil",
+      "encontrada_em": "2026-08-12T13:09:15"
+    },
+    {
+      "titulo": "Vídeo: Filhote de gato é resgatado de escombros na Colômbia após terremoto",
+      "resumo": "Equipes de busca retiram o animal de prédio na cidade de Pereira, gerando aplausos e emoção após mais de 12 horas de trabalho",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/Gato-e-resgatdo-de-escombros-apos-terremoto-na-Colombia.jpeg?w=1200&amp;h=630&amp;crop=1",
+      "link": "https://www.cnnbrasil.com.br/internacional/video-filhote-de-gato-e-resgatado-de-escombros-na-colombia-apos-terremoto/",
+      "fonte": "CNN Brasil",
+      "encontrada_em": "2026-08-12T13:09:15"
+    },
+    {
+      "titulo": "USDA recolhe de carne bovina argentina distribuída nos EUA",
+      "resumo": "Produtos importados não passaram por reinspeção obrigatória do USDA e foram distribuídos na Flórida e Texas",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/03/Carne-bovina-Foto-CNA.jpg?w=799&amp;h=533&amp;crop=1",
+      "link": "https://www.cnnbrasil.com.br/agro/usda-recolhe-de-carne-bovina-argentina-distribuida-nos-eua/",
+      "fonte": "CNN Brasil",
+      "encontrada_em": "2026-08-12T13:09:15"
+    }
+  ],
+  "internacionais": [
+    {
+      "titulo": "Effects of Record-Breaking El Niño Are Happening on 3 Continents",
+      "resumo": "The recurring climate phenomenon is expected to peak later this year, but it is already causing dry spells and crop failures on three continents.",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://static01.nyt.com/images/2026/08/12/multimedia/12CLI-ELNINO-EFFECTS-01-lwzg/12CLI-ELNINO-EFFECTS-01-lwzg-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/08/12/climate/el-nino-early-onset-effects.html",
+      "fonte": "NYT",
+      "encontrada_em": "2026-08-12T13:09:17"
+    },
+    {
+      "titulo": "Eclipse chasers stake out their viewing spots in Iceland.",
+      "resumo": "",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://static01.nyt.com/images/2026/08/12/multimedia/12europe-eclipse-iceland-scene-topart/12europe-eclipse-iceland-scene-topart-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/live/2026/08/12/world/solar-eclipse-2026-updates/eclipse-chasers-stake-out-their-viewing-spots-in-iceland",
+      "fonte": "NYT",
+      "encontrada_em": "2026-08-12T13:09:17"
+    },
+    {
+      "titulo": "Honk if your barn is burning: pet goose alerts sleeping Texas family to blaze",
+      "resumo": "Family ‘extremely grateful’ to four-month-old ‘Goosey’ who ran out of fire-billowing building and repeatedly squawked A pet goose is being credited with helping save a Texas family’s animals after sou",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://i.guim.co.uk/img/media/4a15db7473076dcd48ebf52b9cd21e4730937e90/471_0_3985_3187/master/3985.jpg?width=140&quality=85&auto=format&fit=max&s=1e0c63eb5345bf9e54b62b8b459c802b",
+      "link": "https://www.theguardian.com/us-news/2026/aug/12/goose-alerts-family-burning-barn-texas",
+      "fonte": "The Guardian",
+      "encontrada_em": "2026-08-12T13:09:17"
+    },
+    {
+      "titulo": "Unexpected hearing scheduled for Luigi Mangione sparks plea deal speculation",
+      "resumo": "Rumors of plea deal in federal case have been circulating since June for suspect accused of killing Brian Thompson An unexpected hearing in the federal stalking case against Luigi Mangione has been sc",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://i.guim.co.uk/img/media/c4d16d5a6ba5c21685735554d47da14ad151cbf7/471_0_2733_2187/master/2733.jpg?width=140&quality=85&auto=format&fit=max&s=518042062160fc5a46ed27a98698ef51",
+      "link": "https://www.theguardian.com/us-news/2026/aug/12/luigi-mangione-united-health-murder-hearing",
+      "fonte": "The Guardian",
+      "encontrada_em": "2026-08-12T13:09:17"
+    },
+    {
+      "titulo": "'Tenho dúvidas se vou continuar jogando futebol': a emocionante mensagem de Lionel Messi dedicada a seu pai após a sua morte",
+      "resumo": "Lionel Messi afirmou que não sabe por quanto tempo continuará jogando futebol, em uma homenagem emocionada ao seu pai, recém-falecido, nas redes sociais.",
+      "categoria": "Segurança",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a53f/live/2137b990-9656-11f1-9743-c91876572530.jpg",
+      "link": "https://www.bbc.com/portuguese/articles/c5y49gy8845o?at_medium=RSS&at_campaign=rss",
+      "fonte": "BBC Brasil",
+      "encontrada_em": "2026-08-12T13:09:16"
+    },
+    {
+      "titulo": "Por quanto tempo o Irã pode sustentar a guerra com os EUA e Israel?",
+      "resumo": "Sete meses após o início da guerra, e apesar da forte pressão sobre a economia e a infraestrutura do país, os líderes iranianos ainda não parecem ter pressa para encerrá-la. Mas por quanto tempo o Irã",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8ca1/live/fb244850-94b0-11f1-afe9-fb1a837ec5d9.jpg",
+      "link": "https://www.bbc.com/portuguese/articles/c0l52gxn7xlo?at_medium=RSS&at_campaign=rss",
+      "fonte": "BBC Brasil",
+      "encontrada_em": "2026-08-12T13:09:16"
+    }
   ]
 }
