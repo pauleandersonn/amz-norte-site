@@ -216,6 +216,30 @@ def generate_nacint_html(noticias):
     return html_out
 
 
+def enriquecer_urgentes(news_data):
+    """Preenche resumo/link/imagem/categoria dos urgentes antigos que foram
+    salvos só com título (bug antigo), cruzando com as notícias completas."""
+    completas = news_data.get("ultimas_noticias", []) + news_data.get("mais_lidas", [])
+    por_titulo = {}
+    for n in completas:
+        t = (n.get("titulo") or "").strip().lower()
+        if t and t not in por_titulo:
+            por_titulo[t] = n
+    mudou = False
+    for u in news_data.get("urgentes", []):
+        if u.get("resumo") or u.get("link"):
+            continue  # já completo
+        completo = por_titulo.get((u.get("titulo") or "").strip().lower())
+        if completo:
+            for k in ("resumo", "link", "imagem", "categoria", "fonte", "data", "autor"):
+                if k not in u and completo.get(k):
+                    u[k] = completo[k]
+            mudou = True
+    if mudou:
+        save_news_data(news_data)
+    return mudou
+
+
 def update_index_html():
     """Update the index.html file with latest news from template"""
     template_path = Path("template.html")
@@ -229,6 +253,9 @@ def update_index_html():
         html_content = f.read()
 
     news_data = load_news_data()
+
+    # Corrige urgentes antigos salvos só com título (clique abria página vazia)
+    enriquecer_urgentes(news_data)
 
     cards_html = generate_cards_html(news_data["ultimas_noticias"])
     urgentes_html = generate_urgentes_html(news_data["urgentes"])
@@ -335,12 +362,12 @@ def add_new_noticia(titulo, resumo, categoria="amazonas", autor="Paulo Amazonas"
     news_data["ultimas_noticias"].insert(0, nova_noticia)
     news_data["ultimas_noticias"] = news_data["ultimas_noticias"][:50]
 
-    # Also add to urgentes if it's breaking news
+    # Also add to urgentes if it's breaking news (guarda a notícia completa,
+    # para o clique abrir a página da notícia com resumo/foto/link)
     if categoria.lower() in ["urgente", "segurança", "política", "polícia"]:
-        news_data["urgentes"].insert(0, {
-            "titulo": titulo,
-            "hora": datetime.now().strftime('%H:%M')
-        })
+        urgente_item = dict(nova_noticia)
+        urgente_item.setdefault("hora", datetime.now().strftime('%H:%M'))
+        news_data["urgentes"].insert(0, urgente_item)
         news_data["urgentes"] = news_data["urgentes"][:10]
 
     # Update mais lidas

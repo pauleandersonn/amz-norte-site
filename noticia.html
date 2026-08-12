@@ -137,34 +137,41 @@
     autor: 'Paulo Amazonas'
   };
 
-  // Se tem link, tenta completar com os dados salvos no news_data.json
-  if (item.link) {
-    fetch('news_data.json')
-      .then(function (r) { return r.json(); })
-      .then(function (data) {
-        const listas = ['ultimas_noticias', 'nacionais', 'internacionais', 'mais_lidas'];
-        let achou = null;
-        listas.forEach(function (lista) {
-          (data[lista] || []).forEach(function (n) {
-            if (n.link && n.link === item.link && !achou) achou = n;
-          });
-        });
-        if (achou) {
-          item.titulo = achou.titulo || item.titulo;
-          item.resumo = achou.resumo || item.resumo;
-          item.categoria = achou.categoria || item.categoria;
-          item.imagem = achou.imagem || item.imagem;
-          item.autor = achou.autor || item.autor;
-          item.data = achou.data || '';
-          item.hora = achou.hora || '';
-          item.fonte = achou.fonte || '';
-        }
-        aplicar(item);
-      })
-      .catch(function () { aplicar(item); });
-  } else {
-    aplicar(item);
+  // Busca os dados completos no news_data.json (casa por link OU título)
+  // — assim notícias sem link (ex.: urgentes) também mostram resumo/foto.
+  function normalizar(s) {
+    return (s || '').toLowerCase()
+      .normalize('NFD').replace(/[\u0300-\u036f]/g, '')
+      .replace(/[^a-z0-9 ]/g, ' ').replace(/\s+/g, ' ').trim();
   }
+  const alvoNormal = normalizar(item.titulo);
+  fetch('news_data.json')
+    .then(function (r) { return r.json(); })
+    .then(function (data) {
+      const listas = ['ultimas_noticias', 'urgentes', 'nacionais', 'internacionais', 'mais_lidas'];
+      let achou = null;
+      listas.forEach(function (lista) {
+        (data[lista] || []).forEach(function (n) {
+          if (achou) return;
+          const porLink = item.link && n.link && n.link === item.link;
+          const porTitulo = alvoNormal && normalizar(n.titulo) === alvoNormal;
+          if (porLink || porTitulo) achou = n;
+        });
+      });
+      if (achou) {
+        item.titulo = achou.titulo || item.titulo;
+        item.resumo = achou.resumo || item.resumo;
+        item.categoria = achou.categoria || item.categoria;
+        item.imagem = achou.imagem || item.imagem;
+        item.link = achou.link || item.link;
+        item.autor = achou.autor || item.autor;
+        item.data = achou.data || '';
+        item.hora = achou.hora || '';
+        item.fonte = achou.fonte || '';
+      }
+      aplicar(item);
+    })
+    .catch(function () { aplicar(item); });
 })();
 </script>
 </body>
