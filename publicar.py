@@ -84,10 +84,6 @@ IMAGENS_PADRAO = [
     "https://images.unsplash.com/photo-1557804506-669a67965ba0?auto=format&fit=crop&w=1200&q=80",
 ]
 
-# Categorias que entram na sidebar "Urgente"
-URGENTES = {"urgente", "segurança", "polícia"}
-
-
 # ---------------------------------------------------------------------------
 # Helpers
 # ---------------------------------------------------------------------------
@@ -100,13 +96,6 @@ def data_pt(agora: datetime | None = None) -> str:
 
 def normalizar_categoria(valor: str) -> str:
     return CATEGORIAS.get(valor.strip().lower(), valor.strip().title() or "Amazonas")
-
-
-def categoria_class(cat: str) -> str:
-    """CSS class do pill (reusa post_news e cobre 'urgente')."""
-    if cat.strip().lower() in URGENTES:
-        return "red"
-    return post_news.get_category_class(cat)
 
 
 def imagem_automatica() -> str:
@@ -231,8 +220,13 @@ def publicar_no_netlify(mensagem: str) -> bool:
         print("  ⚠️ netlify CLI não encontrado — o push no GitHub deve publicar sozinho (CI).")
     else:
         try:
+            if netlify_bin.lower().endswith(".cmd"):
+                comando = ["cmd", "/c", netlify_bin, "deploy", "--prod", "--dir", "."]
+            else:
+                # shim do npm sem extensão (script bash) — precisa rodar via sh
+                comando = ["sh", "-c", f'"{netlify_bin}" deploy --prod --dir "."']
             r = subprocess.run(
-                ["cmd", "/c", netlify_bin, "deploy", "--prod", "--dir", "."],
+                comando,
                 capture_output=True, text=True,
                 encoding="utf-8", errors="replace", cwd=str(BASE_DIR), timeout=240,
             )
@@ -319,6 +313,16 @@ def adicionar(titulo: str, resumo: str, categoria: str, autor: str,
     if not titulo:
         print("❌ Título obrigatório.")
         return
+
+    # evita duplicar a mesma notícia por engano
+    existentes = post_news.load_news_data().get("ultimas_noticias", [])
+    if any(
+        (n.get("titulo") or "").strip().lower() == titulo.lower()
+        for n in existentes
+    ):
+        print(f"⚠️ Já existe uma notícia com este título. Nada foi adicionado.")
+        return
+
     if not resumo:
         resumo = "Leia a matéria completa no AMZ Norte."  # resumo opcional com fallback
 
@@ -387,7 +391,8 @@ def assistente(publicar_default: bool):
     publicar = confirmar.strip().lower() in ("s", "sim", "y", "yes")
 
     if not publicar:
-        print("⚠️ Nada foi publicado. Re-execute sem --no-publicar quando quiser subir.")
+        print("⚠️ Salvando localmente (sem publicar). Depois rode `python publicar.py --publicar` ou poste outra.")
+        adicionar(titulo, resumo, categoria, autor, imagem, urgente, publicar=False)
         return
 
     adicionar(titulo, resumo, categoria, autor, imagem, urgente, publicar=True)
@@ -412,7 +417,7 @@ def main():
     parser.add_argument("--urgente", action="store_true", help="Marca como urgente")
     parser.add_argument("--listar", action="store_true", help="Lista as notícias publicadas")
     parser.add_argument("--remover", metavar="N|TÍTULO", help="Remove a notícia (número ou trecho do título)")
-    parser.add_argument("--atualizar", action="store_true", help="Só regenera o index.html dos dados atuais")
+    parser.add_argument("--atualizar", action="store_true", help="Só regenera o index.html local (use --publicar para subir)")
     parser.add_argument("--publicar", action="store_true", help="Força git push + deploy Netlify")
     parser.add_argument("--no-publicar", action="store_true", help="Só atualiza local, sem git push / deploy")
     args = parser.parse_args()
@@ -426,7 +431,7 @@ def main():
         print("🔄 Regenerando index.html...")
         if regenerar_site():
             print("✅ Site local atualizado.")
-            if publicar:
+            if args.publicar:
                 publicar_no_netlify("update: index.html")
         return
     if args.remover:
