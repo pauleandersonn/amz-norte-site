@@ -1,121 +1,13 @@
 {
   "ultimas_noticias": [
     {
-      "titulo": "Primeira promotora trans do Brasil toma posse no Amazonas",
-      "resumo": "Fabi Diniz de Queiroz Pilate será empossada no cargo nesta sexta-feira (31), em Manaus, durante cerimônia na sede da Procuradoria-Geral de Justiça. Marco histórico para diversidade no sistema de justiça.",
+      "titulo": "Justiça rejeita novo pedido para suspender decisão sobre obras na BR-319",
+      "resumo": "A Justiça Federal negou novo pedido de suspensão das obras de asfaltamento da BR-319, rodovia que liga Manaus a Porto Velho. Decisão mantém o cronograma de obras para os próximos meses.",
       "categoria": "política",
       "autor": "Paulo Amazonas",
       "data": "12 de August de 2026",
       "hora": "10:47",
-      "imagem": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=200&q=80"
-    },
-    {
-      "titulo": "Agenda cultural movimenta fim de semana no interior do Amazonas",
-      "resumo": "Festivais em Presidente Figueiredo, Manaquiri, São Sebastião do Uatumã e Benjamin Constant estão entre os destaques. Manaus recebe shows, arraial e novidades nas telonas.",
-      "categoria": "cultura",
-      "autor": "Paulo Amazonas",
-      "data": "12 de August de 2026",
-      "hora": "10:47",
-      "imagem": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&w=200&q=80"
-    },
-    {
-      "titulo": "Agente do IMMU denuncia ordem para direcionar blitzes durante convenções políticas em Manaus",
-      "resumo": "Servidor do Instituto Municipal de Mobilidade Urbana alega pressão para fiscalizar adversários políticos. Ministério Público abriu inquérito para apurar denúncia de uso eleitoral da máquina pública.",
-      "categoria": "política",
-      "autor": "Paulo Amazonas",
-      "data": "12 de August de 2026",
-      "hora": "10:47",
-      "imagem": "https://images.unsplash.com/photo-1604599340287-2042e85a3802?auto=format&fit=crop&w=700&q=80"
-    },
-    {
-      "titulo": "MEC destina R$ 1 bilhão para a educação no Amazonas",
-      "resumo": "Recursos serão aplicados em construção de escolas, compra de equipamentos e programas de alfabetização. Anúncio foi feito durante visita de comitiva federal a Manaus.",
-      "categoria": "educação",
-      "autor": "Paulo Amazonas",
-      "data": "12 de August de 2026",
-      "hora": "10:47",
-      "imagem": "https://images.unsplash.com/photo-1440581572325-0bea30075d9d?auto=format&fit=crop&w=600&q=80"
-    },
-    {
-      "titulo": "Manaus conquista melhor desempenho no Ideb entre as maiores redes municipais do Brasil",
-      "resumo": "Resultado divulgado pelo MEC mostra que a capital amazonense lidera ranking entre capitais com mais de 1 milhão de habitantes. Investimentos em formação de professores e infraestrutura foram decisivos.",
-      "categoria": "educação",
-      "autor": "Paulo Amazonas",
-      "data": "12 de August de 2026",
-      "hora": "10:47",
-      "imagem": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=600&q=80"
-    },
-    {
-      "titulo": "Calor, incêndios e saúde: Manaus enfrenta avanço das ocorrências em 2026",
-      "resumo": "Relatório da Secretaria de Saúde aponta aumento de 40% nas doenças respiratórias atendidas na rede pública. Fumaça das queimadas agrava quadro de asma e bronquite na população.",
-      "categoria": "saúde",
-      "autor": "Paulo Amazonas",
-      "data": "12 de August de 2026",
-      "hora": "10:47",
-      "imagem": "https://images.unsplash.com/photo-1508739773434-c26b3d09e071?auto=format&fit=crop&w=600&q=80"
-    },
-    {
-      "titulo": "TCE-AM julga 123 processos na sessão desta quarta-feira",
-      "resumo": "Tribunal de Contas do Estado analisou contas de prefeituras, câmaras municipais e órgãos estaduais. Dezesseis gestores tiveram contas reprovadas com aplicação de multas.",
-      "categoria": "política",
-      "autor": "Paulo Amazonas",
-      "data": "12 de August de 2026",
-      "hora": "10:47",
-      "imagem": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=600&q=80"
-    },
-    {
-      "titulo": "VÍDEO: Incêndio assusta moradores e atinge área de vegetação na Avenida das Torres",
-      "resumo": "Chamas se espalharam pelo local na noite desta terça-feira (11), no bairro Aleixo, em Manaus. Trânsito foi interditado temporariamente. Causas estão sendo investigadas.",
-      "categoria": "urgente",
-      "autor": "Paulo Amazonas",
-      "data": "12 de August de 2026",
-      "hora": "10:47",
-      "imagem": "https://images.unsplash.com/photo-1564760055775-d63b17a55c44?auto=format&fit=crop&w=700&q=80"
-    },
-    {
-      "titulo": "Manaus registra quase 1,2 mil incêndios em 2026, aponta monitoramento",
-      "resumo": "Dados do Corpo de Bombeiros mostram aumento de 34% nos registros comparado ao mesmo período de 2025. Zona norte e leste concentram maior número de ocorrências.",
-      "categoria": "meio ambiente",
-      "autor": "Paulo Amazonas",
-      "data": "12 de August de 2026",
-      "hora": "10:47",
-      "imagem": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=600&q=80"
-    },
-    {
-      "titulo": "Operação contra agiotagem cumpre mandados no AM após denúncia de cobranças com ameaças",
-      "resumo": "Polícia Civil deflagrou operação em Manaus e municípios do interior. Seis pessoas foram presas e documentos, armas e dinheiro foram apreendidos. Vítimas relatavam juros de até 50% ao mês.",
-      "categoria": "segurança",
-      "autor": "Paulo Amazonas",
-      "data": "12 de August de 2026",
-      "hora": "10:47",
-      "imagem": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?auto=format&fit=crop&w=600&q=80"
-    },
-    {
-      "titulo": "Incêndio atinge borracharia e casas no bairro Parque das Nações",
-      "resumo": "Chamas se espalharam rapidamente devido ao tempo seco. Moradores foram evacuados e equipes do Corpo de Bombeiros atuaram no local. Prejuízos materiais ainda estão sendo contabilizados.",
-      "categoria": "segurança",
-      "autor": "Paulo Amazonas",
-      "data": "12 de August de 2026",
-      "hora": "10:47",
-      "imagem": "https://images.unsplash.com/photo-1614064641938-3bbee52942c7?auto=format&fit=crop&w=700&q=80"
-    },
-    {
-      "titulo": "Senador Braga se reúne com Lula e trata de pautas prioritárias do Amazonas",
-      "resumo": "Encontro em Brasília discutiu investimentos federais para infraestrutura, saúde e segurança no estado. ZFM, BR-319 e combate ao crime organizado estiveram na pauta da reunião.",
-      "categoria": "política",
-      "autor": "Paulo Amazonas",
-      "data": "12 de August de 2026",
-      "hora": "10:47",
-      "imagem": "https://images.unsplash.com/photo-1557804506-669a67965ba0?auto=format&fit=crop&w=700&q=80"
-    },
-    {
-      "titulo": "Vazante do Rio Negro está acelerada e mais acentuada, aponta SGB",
-      "resumo": "Dados do Serviço Geológico do Brasil mostram que o nível do rio caiu 58 centímetros entre os dias 1º e 10 de agosto. Especialistas alertam para possibilidade de seca severa nos próximos meses.",
-      "categoria": "meio ambiente",
-      "autor": "Paulo Amazonas",
-      "data": "12 de August de 2026",
-      "hora": "10:47",
-      "imagem": "https://images.unsplash.com/photo-1591081658714-f576fb7ea3ed?auto=format&fit=crop&w=600&q=80"
+      "imagem": "https://images.unsplash.com/photo-1518182170546-07661fd94144?auto=format&fit=crop&w=700&q=80"
     },
     {
       "titulo": "Incêndio destrói galpão de loja no Centro de Manaus",
@@ -127,87 +19,40 @@
       "imagem": "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80"
     },
     {
-      "titulo": "Justiça rejeita novo pedido para suspender decisão sobre obras na BR-319",
-      "resumo": "A Justiça Federal negou novo pedido de suspensão das obras de asfaltamento da BR-319, rodovia que liga Manaus a Porto Velho. Decisão mantém o cronograma de obras para os próximos meses.",
+      "titulo": "Vazante do Rio Negro está acelerada e mais acentuada, aponta SGB",
+      "resumo": "Dados do Serviço Geológico do Brasil mostram que o nível do rio caiu 58 centímetros entre os dias 1º e 10 de agosto. Especialistas alertam para possibilidade de seca severa nos próximos meses.",
+      "categoria": "meio ambiente",
+      "autor": "Paulo Amazonas",
+      "data": "12 de August de 2026",
+      "hora": "10:47",
+      "imagem": "https://images.unsplash.com/photo-1591081658714-f576fb7ea3ed?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "titulo": "Senador Braga se reúne com Lula e trata de pautas prioritárias do Amazonas",
+      "resumo": "Encontro em Brasília discutiu investimentos federais para infraestrutura, saúde e segurança no estado. ZFM, BR-319 e combate ao crime organizado estiveram na pauta da reunião.",
       "categoria": "política",
       "autor": "Paulo Amazonas",
       "data": "12 de August de 2026",
       "hora": "10:47",
-      "imagem": "https://images.unsplash.com/photo-1518182170546-07661fd94144?auto=format&fit=crop&w=700&q=80"
-    }
-  ],
-  "mais_lidas": [
-    {
-      "titulo": "Primeira promotora trans do Brasil toma posse no Amazonas",
-      "resumo": "Fabi Diniz de Queiroz Pilate será empossada no cargo nesta sexta-feira (31), em Manaus, durante cerimônia na sede da Procuradoria-Geral de Justiça. Marco histórico para diversidade no sistema de justiça.",
-      "categoria": "política",
-      "autor": "Paulo Amazonas",
-      "data": "12 de August de 2026",
-      "hora": "10:47",
-      "imagem": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=200&q=80"
+      "imagem": "https://images.unsplash.com/photo-1557804506-669a67965ba0?auto=format&fit=crop&w=700&q=80"
     },
     {
-      "titulo": "Agenda cultural movimenta fim de semana no interior do Amazonas",
-      "resumo": "Festivais em Presidente Figueiredo, Manaquiri, São Sebastião do Uatumã e Benjamin Constant estão entre os destaques. Manaus recebe shows, arraial e novidades nas telonas.",
-      "categoria": "cultura",
+      "titulo": "Incêndio atinge borracharia e casas no bairro Parque das Nações",
+      "resumo": "Chamas se espalharam rapidamente devido ao tempo seco. Moradores foram evacuados e equipes do Corpo de Bombeiros atuaram no local. Prejuízos materiais ainda estão sendo contabilizados.",
+      "categoria": "segurança",
       "autor": "Paulo Amazonas",
       "data": "12 de August de 2026",
       "hora": "10:47",
-      "imagem": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&w=200&q=80"
+      "imagem": "https://images.unsplash.com/photo-1614064641938-3bbee52942c7?auto=format&fit=crop&w=700&q=80"
     },
     {
-      "titulo": "Agente do IMMU denuncia ordem para direcionar blitzes durante convenções políticas em Manaus",
-      "resumo": "Servidor do Instituto Municipal de Mobilidade Urbana alega pressão para fiscalizar adversários políticos. Ministério Público abriu inquérito para apurar denúncia de uso eleitoral da máquina pública.",
-      "categoria": "política",
+      "titulo": "Operação contra agiotagem cumpre mandados no AM após denúncia de cobranças com ameaças",
+      "resumo": "Polícia Civil deflagrou operação em Manaus e municípios do interior. Seis pessoas foram presas e documentos, armas e dinheiro foram apreendidos. Vítimas relatavam juros de até 50% ao mês.",
+      "categoria": "segurança",
       "autor": "Paulo Amazonas",
       "data": "12 de August de 2026",
       "hora": "10:47",
-      "imagem": "https://images.unsplash.com/photo-1604599340287-2042e85a3802?auto=format&fit=crop&w=700&q=80"
-    },
-    {
-      "titulo": "MEC destina R$ 1 bilhão para a educação no Amazonas",
-      "resumo": "Recursos serão aplicados em construção de escolas, compra de equipamentos e programas de alfabetização. Anúncio foi feito durante visita de comitiva federal a Manaus.",
-      "categoria": "educação",
-      "autor": "Paulo Amazonas",
-      "data": "12 de August de 2026",
-      "hora": "10:47",
-      "imagem": "https://images.unsplash.com/photo-1440581572325-0bea30075d9d?auto=format&fit=crop&w=600&q=80"
-    },
-    {
-      "titulo": "Manaus conquista melhor desempenho no Ideb entre as maiores redes municipais do Brasil",
-      "resumo": "Resultado divulgado pelo MEC mostra que a capital amazonense lidera ranking entre capitais com mais de 1 milhão de habitantes. Investimentos em formação de professores e infraestrutura foram decisivos.",
-      "categoria": "educação",
-      "autor": "Paulo Amazonas",
-      "data": "12 de August de 2026",
-      "hora": "10:47",
-      "imagem": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=600&q=80"
-    },
-    {
-      "titulo": "Calor, incêndios e saúde: Manaus enfrenta avanço das ocorrências em 2026",
-      "resumo": "Relatório da Secretaria de Saúde aponta aumento de 40% nas doenças respiratórias atendidas na rede pública. Fumaça das queimadas agrava quadro de asma e bronquite na população.",
-      "categoria": "saúde",
-      "autor": "Paulo Amazonas",
-      "data": "12 de August de 2026",
-      "hora": "10:47",
-      "imagem": "https://images.unsplash.com/photo-1508739773434-c26b3d09e071?auto=format&fit=crop&w=600&q=80"
-    },
-    {
-      "titulo": "TCE-AM julga 123 processos na sessão desta quarta-feira",
-      "resumo": "Tribunal de Contas do Estado analisou contas de prefeituras, câmaras municipais e órgãos estaduais. Dezesseis gestores tiveram contas reprovadas com aplicação de multas.",
-      "categoria": "política",
-      "autor": "Paulo Amazonas",
-      "data": "12 de August de 2026",
-      "hora": "10:47",
-      "imagem": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=600&q=80"
-    },
-    {
-      "titulo": "VÍDEO: Incêndio assusta moradores e atinge área de vegetação na Avenida das Torres",
-      "resumo": "Chamas se espalharam pelo local na noite desta terça-feira (11), no bairro Aleixo, em Manaus. Trânsito foi interditado temporariamente. Causas estão sendo investigadas.",
-      "categoria": "urgente",
-      "autor": "Paulo Amazonas",
-      "data": "12 de August de 2026",
-      "hora": "10:47",
-      "imagem": "https://images.unsplash.com/photo-1564760055775-d63b17a55c44?auto=format&fit=crop&w=700&q=80"
+      "imagem": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?auto=format&fit=crop&w=600&q=80"
     },
     {
       "titulo": "Manaus registra quase 1,2 mil incêndios em 2026, aponta monitoramento",
@@ -219,6 +64,80 @@
       "imagem": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=600&q=80"
     },
     {
+      "titulo": "VÍDEO: Incêndio assusta moradores e atinge área de vegetação na Avenida das Torres",
+      "resumo": "Chamas se espalharam pelo local na noite desta terça-feira (11), no bairro Aleixo, em Manaus. Trânsito foi interditado temporariamente. Causas estão sendo investigadas.",
+      "categoria": "urgente",
+      "autor": "Paulo Amazonas",
+      "data": "12 de August de 2026",
+      "hora": "10:47",
+      "imagem": "https://images.unsplash.com/photo-1564760055775-d63b17a55c44?auto=format&fit=crop&w=700&q=80"
+    },
+    {
+      "titulo": "TCE-AM julga 123 processos na sessão desta quarta-feira",
+      "resumo": "Tribunal de Contas do Estado analisou contas de prefeituras, câmaras municipais e órgãos estaduais. Dezesseis gestores tiveram contas reprovadas com aplicação de multas.",
+      "categoria": "política",
+      "autor": "Paulo Amazonas",
+      "data": "12 de August de 2026",
+      "hora": "10:47",
+      "imagem": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "titulo": "Calor, incêndios e saúde: Manaus enfrenta avanço das ocorrências em 2026",
+      "resumo": "Relatório da Secretaria de Saúde aponta aumento de 40% nas doenças respiratórias atendidas na rede pública. Fumaça das queimadas agrava quadro de asma e bronquite na população.",
+      "categoria": "saúde",
+      "autor": "Paulo Amazonas",
+      "data": "12 de August de 2026",
+      "hora": "10:47",
+      "imagem": "https://images.unsplash.com/photo-1508739773434-c26b3d09e071?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "titulo": "Manaus conquista melhor desempenho no Ideb entre as maiores redes municipais do Brasil",
+      "resumo": "Resultado divulgado pelo MEC mostra que a capital amazonense lidera ranking entre capitais com mais de 1 milhão de habitantes. Investimentos em formação de professores e infraestrutura foram decisivos.",
+      "categoria": "educação",
+      "autor": "Paulo Amazonas",
+      "data": "12 de August de 2026",
+      "hora": "10:47",
+      "imagem": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "titulo": "MEC destina R$ 1 bilhão para a educação no Amazonas",
+      "resumo": "Recursos serão aplicados em construção de escolas, compra de equipamentos e programas de alfabetização. Anúncio foi feito durante visita de comitiva federal a Manaus.",
+      "categoria": "educação",
+      "autor": "Paulo Amazonas",
+      "data": "12 de August de 2026",
+      "hora": "10:47",
+      "imagem": "https://images.unsplash.com/photo-1440581572325-0bea30075d9d?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "titulo": "Agente do IMMU denuncia ordem para direcionar blitzes durante convenções políticas em Manaus",
+      "resumo": "Servidor do Instituto Municipal de Mobilidade Urbana alega pressão para fiscalizar adversários políticos. Ministério Público abriu inquérito para apurar denúncia de uso eleitoral da máquina pública.",
+      "categoria": "política",
+      "autor": "Paulo Amazonas",
+      "data": "12 de August de 2026",
+      "hora": "10:47",
+      "imagem": "https://images.unsplash.com/photo-1604599340287-2042e85a3802?auto=format&fit=crop&w=700&q=80"
+    },
+    {
+      "titulo": "Agenda cultural movimenta fim de semana no interior do Amazonas",
+      "resumo": "Festivais em Presidente Figueiredo, Manaquiri, São Sebastião do Uatumã e Benjamin Constant estão entre os destaques. Manaus recebe shows, arraial e novidades nas telonas.",
+      "categoria": "cultura",
+      "autor": "Paulo Amazonas",
+      "data": "12 de August de 2026",
+      "hora": "10:47",
+      "imagem": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&w=200&q=80"
+    },
+    {
+      "titulo": "Primeira promotora trans do Brasil toma posse no Amazonas",
+      "resumo": "Fabi Diniz de Queiroz Pilate será empossada no cargo nesta sexta-feira (31), em Manaus, durante cerimônia na sede da Procuradoria-Geral de Justiça. Marco histórico para diversidade no sistema de justiça.",
+      "categoria": "política",
+      "autor": "Paulo Amazonas",
+      "data": "12 de August de 2026",
+      "hora": "10:47",
+      "imagem": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=200&q=80"
+    }
+  ],
+  "mais_lidas": [
+    {
       "titulo": "Operação contra agiotagem cumpre mandados no AM após denúncia de cobranças com ameaças",
       "resumo": "Polícia Civil deflagrou operação em Manaus e municípios do interior. Seis pessoas foram presas e documentos, armas e dinheiro foram apreendidos. Vítimas relatavam juros de até 50% ao mês.",
       "categoria": "segurança",
@@ -226,9 +145,105 @@
       "data": "12 de August de 2026",
       "hora": "10:47",
       "imagem": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "titulo": "Manaus registra quase 1,2 mil incêndios em 2026, aponta monitoramento",
+      "resumo": "Dados do Corpo de Bombeiros mostram aumento de 34% nos registros comparado ao mesmo período de 2025. Zona norte e leste concentram maior número de ocorrências.",
+      "categoria": "meio ambiente",
+      "autor": "Paulo Amazonas",
+      "data": "12 de August de 2026",
+      "hora": "10:47",
+      "imagem": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "titulo": "VÍDEO: Incêndio assusta moradores e atinge área de vegetação na Avenida das Torres",
+      "resumo": "Chamas se espalharam pelo local na noite desta terça-feira (11), no bairro Aleixo, em Manaus. Trânsito foi interditado temporariamente. Causas estão sendo investigadas.",
+      "categoria": "urgente",
+      "autor": "Paulo Amazonas",
+      "data": "12 de August de 2026",
+      "hora": "10:47",
+      "imagem": "https://images.unsplash.com/photo-1564760055775-d63b17a55c44?auto=format&fit=crop&w=700&q=80"
+    },
+    {
+      "titulo": "TCE-AM julga 123 processos na sessão desta quarta-feira",
+      "resumo": "Tribunal de Contas do Estado analisou contas de prefeituras, câmaras municipais e órgãos estaduais. Dezesseis gestores tiveram contas reprovadas com aplicação de multas.",
+      "categoria": "política",
+      "autor": "Paulo Amazonas",
+      "data": "12 de August de 2026",
+      "hora": "10:47",
+      "imagem": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "titulo": "Calor, incêndios e saúde: Manaus enfrenta avanço das ocorrências em 2026",
+      "resumo": "Relatório da Secretaria de Saúde aponta aumento de 40% nas doenças respiratórias atendidas na rede pública. Fumaça das queimadas agrava quadro de asma e bronquite na população.",
+      "categoria": "saúde",
+      "autor": "Paulo Amazonas",
+      "data": "12 de August de 2026",
+      "hora": "10:47",
+      "imagem": "https://images.unsplash.com/photo-1508739773434-c26b3d09e071?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "titulo": "Manaus conquista melhor desempenho no Ideb entre as maiores redes municipais do Brasil",
+      "resumo": "Resultado divulgado pelo MEC mostra que a capital amazonense lidera ranking entre capitais com mais de 1 milhão de habitantes. Investimentos em formação de professores e infraestrutura foram decisivos.",
+      "categoria": "educação",
+      "autor": "Paulo Amazonas",
+      "data": "12 de August de 2026",
+      "hora": "10:47",
+      "imagem": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "titulo": "MEC destina R$ 1 bilhão para a educação no Amazonas",
+      "resumo": "Recursos serão aplicados em construção de escolas, compra de equipamentos e programas de alfabetização. Anúncio foi feito durante visita de comitiva federal a Manaus.",
+      "categoria": "educação",
+      "autor": "Paulo Amazonas",
+      "data": "12 de August de 2026",
+      "hora": "10:47",
+      "imagem": "https://images.unsplash.com/photo-1440581572325-0bea30075d9d?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "titulo": "Agente do IMMU denuncia ordem para direcionar blitzes durante convenções políticas em Manaus",
+      "resumo": "Servidor do Instituto Municipal de Mobilidade Urbana alega pressão para fiscalizar adversários políticos. Ministério Público abriu inquérito para apurar denúncia de uso eleitoral da máquina pública.",
+      "categoria": "política",
+      "autor": "Paulo Amazonas",
+      "data": "12 de August de 2026",
+      "hora": "10:47",
+      "imagem": "https://images.unsplash.com/photo-1604599340287-2042e85a3802?auto=format&fit=crop&w=700&q=80"
+    },
+    {
+      "titulo": "Agenda cultural movimenta fim de semana no interior do Amazonas",
+      "resumo": "Festivais em Presidente Figueiredo, Manaquiri, São Sebastião do Uatumã e Benjamin Constant estão entre os destaques. Manaus recebe shows, arraial e novidades nas telonas.",
+      "categoria": "cultura",
+      "autor": "Paulo Amazonas",
+      "data": "12 de August de 2026",
+      "hora": "10:47",
+      "imagem": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&w=200&q=80"
     }
   ],
   "urgentes": [
+    {
+      "titulo": "Incêndio destrói galpão de loja no Centro de Manaus",
+      "hora": "10:47"
+    },
+    {
+      "titulo": "VÍDEO: Incêndio assusta moradores e atinge área de vegetação na Avenida das Torres",
+      "hora": "10:47"
+    },
+    {
+      "titulo": "Incêndio atinge borracharia e casas no bairro Parque das Nações",
+      "hora": "10:47"
+    },
+    {
+      "titulo": "Operação contra agiotagem cumpre mandados no AM após denúncia de cobranças com ameaças",
+      "hora": "10:47"
+    },
+    {
+      "titulo": "Justiça rejeita novo pedido para suspender decisão sobre obras na BR-319",
+      "hora": "10:47"
+    },
+    {
+      "titulo": "Senador Braga se reúne com Lula e trata de pautas prioritárias do Amazonas",
+      "hora": "10:47"
+    },
     {
       "titulo": "Primeira promotora trans do Brasil toma posse no Amazonas",
       "hora": "10:47"
@@ -239,30 +254,6 @@
     },
     {
       "titulo": "TCE-AM julga 123 processos na sessão desta quarta-feira",
-      "hora": "10:47"
-    },
-    {
-      "titulo": "VÍDEO: Incêndio assusta moradores e atinge área de vegetação na Avenida das Torres",
-      "hora": "10:47"
-    },
-    {
-      "titulo": "Operação contra agiotagem cumpre mandados no AM após denúncia de cobranças com ameaças",
-      "hora": "10:47"
-    },
-    {
-      "titulo": "Incêndio atinge borracharia e casas no bairro Parque das Nações",
-      "hora": "10:47"
-    },
-    {
-      "titulo": "Senador Braga se reúne com Lula e trata de pautas prioritárias do Amazonas",
-      "hora": "10:47"
-    },
-    {
-      "titulo": "Incêndio destrói galpão de loja no Centro de Manaus",
-      "hora": "10:47"
-    },
-    {
-      "titulo": "Justiça rejeita novo pedido para suspender decisão sobre obras na BR-319",
       "hora": "10:47"
     }
   ],

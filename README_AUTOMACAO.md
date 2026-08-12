@@ -10,6 +10,33 @@ Este diretório contém um sistema de automação para gerenciar e publicar not�
 
 ## �� 🚀 Como Usar
 
+## 🚀 Como Usar
+
+### 0. Postar notícia de forma simples (recomendado) 🆕
+
+O comando `publicar.py` faz tudo sozinho: salva a notícia, atualiza o site, faz
+git push e publica no Netlify.
+
+**Modo assistente (pergunta tudo):**
+```bash
+python publicar.py
+```
+Ou dê dois cliques em `postar-noticia.bat` (na pasta `site noticia -amz noticia`).
+
+**Modo one-liner:**
+```bash
+python publicar.py "Título da notícia" "Resumo aqui" --cat politica
+python publicar.py "Título" "Resumo" --cat seguranca --img https://.../foto.jpg --urgente
+```
+
+**Gerenciamento:**
+```bash
+python publicar.py --listar          # lista as notícias
+python publicar.py --remover 3       # remove a de número 3
+python publicar.py --atualizar       # só regenera o index.html
+python publicar.py "Título" "Resumo" --no-publicar   # testa sem publicar
+```
+
 ### 1. Atualizar o site com notícias existentes
 ```bash
 python post_news.py update
