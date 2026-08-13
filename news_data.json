@@ -860,6 +860,26 @@
   ],
   "nacionais": [
     {
+      "titulo": "Cuba celebra 100 anos de Fidel Castro em meio à crise econômica",
+      "resumo": "Centenário do líder revolucionário é celebrado enquanto país enfrenta embargo petrolífero de washington e sanções mais severas",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/Fidel-castro.jpg?w=960&amp;h=540&amp;crop=1",
+      "link": "https://www.cnnbrasil.com.br/internacional/cuba-celebra-100-anos-de-fidel-castro-em-meio-a-crise-economica/",
+      "fonte": "CNN Brasil",
+      "encontrada_em": "2026-08-13T19:47:12"
+    },
+    {
+      "titulo": "Policial civil tem prisão decretada por sequestro em falsa viatura em SP",
+      "resumo": "Agente é um dos três suspeitos identificados por agredir e colocar homem no porta-malas de carro em Artur Alvim",
+      "categoria": "Segurança",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/VIDEO-FALSA-VIATURA.jpg?w=1200&amp;h=630&amp;crop=1",
+      "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/policial-civil-tem-prisao-decretada-por-sequestro-em-falsa-viatura-em-sp/",
+      "fonte": "CNN Brasil",
+      "encontrada_em": "2026-08-13T19:47:12"
+    },
+    {
       "titulo": "Polícia recupera 8 obras de Matisse roubadas da Biblioteca Mário de Andrade",
       "resumo": "Obras recuperadas estão avaliadas em mais de R$ 1 milhão; gravuras de Candido Portinari seguem desaparecidas.",
       "categoria": "Segurança",
@@ -898,29 +918,19 @@
       "link": "https://www.cnnbrasil.com.br/nacional/brasil/qual-e-a-funcao-de-cada-pessoa-dentro-de-um-aeroporto-para-evitar-desastres/",
       "fonte": "CNN Brasil",
       "encontrada_em": "2026-08-13T19:42:19"
-    },
-    {
-      "titulo": "Grupo Petz Cobasi registra lucro de R$ 70,3 milhões no 2° tri, alta de 8,4%",
-      "resumo": "Lucro líquido alcançou R$ 100,4 milhões, avanço anual de 43,5%",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2024/04/Cobasi-e-Petz-1.png?w=1200&amp;h=630&amp;crop=1",
-      "link": "https://www.cnnbrasil.com.br/economia/negocios/grupo-petz-cobasi-registra-lucro-de-r-703-milhoes-no-2-tri-alta-de-84/",
-      "fonte": "CNN Brasil",
-      "encontrada_em": "2026-08-13T19:42:19"
-    },
-    {
-      "titulo": "Cienciano x Botafogo: escalações e onde assistir ao jogo da Sul-Americana",
-      "resumo": "Equipes vão a campo nesta quinta-feira (13), pelo jogo de ida das oitavas de final da competição",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/05/estadio-inca-garcilaso-de-la-vega.jpeg?w=1200&amp;h=630&amp;crop=1",
-      "link": "https://www.cnnbrasil.com.br/esportes/futebol/botafogo/cienciano-x-botafogo-escalacoes-e-onde-assistir-ao-jogo-da-sul-americana/",
-      "fonte": "CNN Brasil",
-      "encontrada_em": "2026-08-13T19:42:19"
     }
   ],
   "internacionais": [
+    {
+      "titulo": "After 2 Plasma Donor Deaths, Company Pauses Clinics in Canada",
+      "resumo": "Grifols, a Spanish company, said “unfounded attention” on its blood plasma business in Canada had led it to temporarily end collections at 17 clinics.",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://static01.nyt.com/images/2026/08/13/multimedia/13int-canada-bjhg/13int-canada-bjhg-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/08/13/world/canada/plasma-blood-donation-deaths-grifols.html",
+      "fonte": "NYT",
+      "encontrada_em": "2026-08-13T19:47:14"
+    },
     {
       "titulo": "Engine Blade Hit Window on Jet When Man Was Partly Sucked Outside, Report Says",
       "resumo": "The National Transportation Safety Board said it had found a bird’s remains and feathers on a broken engine.",
@@ -968,16 +978,6 @@
       "autor": "Paulo Amazonas",
       "imagem": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5379/live/8df8b7e0-485a-11f1-ac78-2112837ce2aa.jpg",
       "link": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss",
-      "fonte": "BBC Brasil",
-      "encontrada_em": "2026-08-13T19:17:14"
-    },
-    {
-      "titulo": "Os trabalhadores que 'dão adeus à CLT' atrás do sonho de viver fazendo vídeos de IA",
-      "resumo": "Ferramentas automatizam da escolha do tema à publicação e alimentam um mercado dos chamados 'canais dark', cursos e mentorias; YouTube permite monetização, mas diz que tenta barrar produção em massa d",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1bfc/live/e0cf2690-9623-11f1-870d-5d08c49babb2.jpg",
-      "link": "https://www.bbc.com/portuguese/articles/c5yzyy730nro?at_medium=RSS&at_campaign=rss",
       "fonte": "BBC Brasil",
       "encontrada_em": "2026-08-13T19:17:14"
     }
