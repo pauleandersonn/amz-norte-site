@@ -861,6 +861,16 @@
   ],
   "nacionais": [
     {
+      "titulo": "Suzano reforça objetivos em alienação e desalavancagem",
+      "resumo": "Prioridades incluem ganhos de eficiência, evitando investimentos mais agressivos e endividamento",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2023/12/logo-suzano.jpg?w=1200&amp;h=630&amp;crop=1",
+      "link": "https://www.cnnbrasil.com.br/agro/suzano-reforca-objetivos-em-alienacao-e-desalavancagem/",
+      "fonte": "CNN Brasil",
+      "encontrada_em": "2026-08-13T11:47:16"
+    },
+    {
       "titulo": "Nunes Marques vota contra pedido do PT para aumentar seu fundo eleitoral",
       "resumo": "Pedido de vista da ministra Estela Aranha trava distribuição dos recursos até conclusão do julgamento",
       "categoria": "Amazonas",
@@ -909,19 +919,19 @@
       "link": "https://www.cnnbrasil.com.br/economia/macroeconomia/endividamento-da-mrv-deve-cair-quase-30-ate-o-fim-de-2026-diz-cfo/",
       "fonte": "CNN Brasil",
       "encontrada_em": "2026-08-13T11:37:13"
-    },
-    {
-      "titulo": "PRF desmente apreensão de veículo de “Caçador de Tornados” no Paraná",
-      "resumo": "Polícia Rodoviária Federal alerta que publicação viral com imagens geradas por inteligência artificial é falsa",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2024/09/PRF-DIVULGACAO-e1727173490548.jpeg?w=768&amp;h=432&amp;crop=1",
-      "link": "https://www.cnnbrasil.com.br/nacional/sul/pr/prf-desmente-apreensao-de-veiculo-de-cacador-de-tornados-no-parana/",
-      "fonte": "CNN Brasil",
-      "encontrada_em": "2026-08-13T11:37:13"
     }
   ],
   "internacionais": [
+    {
+      "titulo": "Oklahoma man put to death in first of three US executions scheduled on same day",
+      "resumo": "If all executions go ahead, it will be first time in over 15 years there have been over three judicial killings in US in one day Carlos Cuesta-Rodriguez has been put to death by the state of Oklahoma,",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://i.guim.co.uk/img/media/e9039afefd31782618d1d335fe5a5b9a4b674d36/115_0_2729_2184/master/2729.jpg?width=140&quality=85&auto=format&fit=max&s=d8ba24586d86efe2a868b5f3b7b4d35c",
+      "link": "https://www.theguardian.com/us-news/2026/aug/13/executions-oklahoma-alabama-tennessee",
+      "fonte": "The Guardian",
+      "encontrada_em": "2026-08-13T11:47:19"
+    },
     {
       "titulo": "Person fined after using foghorn to wake sleeping polar bear",
       "resumo": "Under local regulations in the region, \"it is forbidden to needlessly disturb, attract or pursue a polar bear\".",
@@ -969,16 +979,6 @@
       "autor": "Paulo Amazonas",
       "imagem": "https://i.guim.co.uk/img/media/2515dc3b3f947cb8d57a0809e08e92d73c2412c0/0_411_900_719/master/900.jpg?width=140&quality=85&auto=format&fit=max&s=5139aa45297d372b73b6644a36202f9d",
       "link": "https://www.theguardian.com/science/2026/aug/13/guardian-readers-share-solar-eclipse-experience",
-      "fonte": "The Guardian",
-      "encontrada_em": "2026-08-13T11:22:13"
-    },
-    {
-      "titulo": "Hegseth criticized for locking Democrats out of closed-door defense budget talks",
-      "resumo": "Republican lawmakers express concern after US defense secretary repeatedly excluded Democrats from briefings US politics live – latest updates Republican senators have criticized the Pentagon for lock",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://i.guim.co.uk/img/media/a10315cdd795677260cb07ba8c424aff90587dad/1361_0_6829_5464/master/6829.jpg?width=140&quality=85&auto=format&fit=max&s=9e208f1bed28ad8b8aad36f0169dd571",
-      "link": "https://www.theguardian.com/us-news/2026/aug/13/pete-hegseth-democrats-budget",
       "fonte": "The Guardian",
       "encontrada_em": "2026-08-13T11:22:13"
     }

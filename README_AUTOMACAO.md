@@ -39,7 +39,11 @@ Publicação manual continua igual: `python publicar.py "Título" "Resumo" --cat
   Facebook, X (Twitter), Telegram e "Copiar link" no rodapé
 - **Seção Emprego** no topo do `index.html`: banda verde com até 3 vagas —
   dados em `news_data.json` → `"empregos": [{vaga, empresa, tipo, local,
-  salario?, descricao, link}]` (gerenciar por lá; regenera via `post_news.py`)
+  salario?, descricao}]` (gerenciar por lá; regenera via `post_news.py`)
+- **Cards de vaga abrem página interna**: o card linka pra `vaga.html?v=N`
+  (nada de site externo) — página que busca a vaga no `news_data.json` e
+  mostra badge, título, empresa/local/data, salário em destaque, descrição
+  completa e compartilhar
 - **Página de Oportunidades & Negócios**: `oportunidades.html` (Cursos
   Gratuitos, Palestras, Workshops, Feiras, Apresentações) + divulgação via
   WhatsApp/e-mail
