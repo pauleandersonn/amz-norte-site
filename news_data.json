@@ -922,6 +922,16 @@
   ],
   "internacionais": [
     {
+      "titulo": "Flock Safety attempts to curb police abuse of its surveillance cameras after scandals",
+      "resumo": "CEO announces measures after reports that system is used to target immigrants or people seeking out-of-state abortions For nearly a decade, the company Flock Safety has gradually built out a network o",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://i.guim.co.uk/img/media/a7b61ee934e84026966be174a99e9956e3c1ae5f/720_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=f642970a912d5c1a57b996894269f11d",
+      "link": "https://www.theguardian.com/technology/2026/aug/13/flock-safety-police-abuse-surveillance-cameras",
+      "fonte": "The Guardian",
+      "encontrada_em": "2026-08-13T16:22:15"
+    },
+    {
       "titulo": "At least 44 dead after overcrowded ferry capsizes on Lake Kariba in Zimbabwe",
       "resumo": "Operation under way to rescue dozens missing after boat overturned by waves at world’s largest human-made lake At least 44 people have died after an overcrowded ferry capsized on Lake Kariba in Zimbab",
       "categoria": "Amazonas",
@@ -968,16 +978,6 @@
       "autor": "Paulo Amazonas",
       "imagem": "https://i.guim.co.uk/img/media/61a4b85fd3aa13e7e5f7eeb77da07c7d3e7a9ef3/693_0_3467_2773/master/3467.jpg?width=140&quality=85&auto=format&fit=max&s=5cfd7be58936229d9e68dc4ee2995445",
       "link": "https://www.theguardian.com/world/2026/aug/10/colombia-earthquake-cali-pereira-choco",
-      "fonte": "The Guardian",
-      "encontrada_em": "2026-08-13T16:17:15"
-    },
-    {
-      "titulo": "Colombia quake leaves more than 110 dead – as it happened",
-      "resumo": "This blog is now closed – a full report is here People remain trapped in Cali, one of Colombia’s largest cities, ​after more than two dozen structures ‌collapsed, mayor Alejandro Eder said. ‌ He added",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://i.guim.co.uk/img/media/9ada7efe0440a985b43f294d081bd99e5f27be14/1376_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=d708d575017a4953b585d99fb4dea378",
-      "link": "https://www.theguardian.com/world/live/2026/aug/10/74-magnitude-earthquake-shakes-colombia-causing-serious-damage-latest-news",
       "fonte": "The Guardian",
       "encontrada_em": "2026-08-13T16:17:15"
     }
