@@ -1,6 +1,17 @@
 {
   "ultimas_noticias": [
     {
+      "titulo": "Noite de tensão: fogo toma área de vegetação e ameaça comércio na Zona Norte de Manaus",
+      "resumo": "Manaus &#8211; Na noite desta quarta-feira (12), um incêndio em uma área de vegetação assustou moradores e comerciantes na rua Sucupira, no bairro Colônia Terra Nova, Zona Norte de Manaus. As chamas c",
+      "categoria": "Manaus",
+      "autor": "Paulo Amazonas",
+      "data": "12 de agosto de 2026",
+      "hora": "23:09",
+      "imagem": "https://www.cm7brasil.com",
+      "link": "https://www.cm7brasil.com/noticias/cidades/noite-de-tensao-fogo-toma-area-de-vegetacao-e-ameaca-comercio-na-zona-norte-de-manaus/",
+      "fonte": "cm7brasil.com"
+    },
+    {
       "titulo": "Mais de 730 vagas de emprego estarão disponíveis em feira gratuita em Manaus",
       "resumo": "Manaus &#8211; Quem está em busca de emprego, recolocação profissional ou novas possibilidades de carreira terá uma oportunidade gratuita em Manaus. No dia 21 de agosto, das 9h às 17h, o Serviço Socia",
       "categoria": "Manaus",
@@ -299,6 +310,17 @@
   ],
   "mais_lidas": [
     {
+      "titulo": "Noite de tensão: fogo toma área de vegetação e ameaça comércio na Zona Norte de Manaus",
+      "resumo": "Manaus &#8211; Na noite desta quarta-feira (12), um incêndio em uma área de vegetação assustou moradores e comerciantes na rua Sucupira, no bairro Colônia Terra Nova, Zona Norte de Manaus. As chamas c",
+      "categoria": "Manaus",
+      "autor": "Paulo Amazonas",
+      "data": "12 de agosto de 2026",
+      "hora": "23:09",
+      "imagem": "https://www.cm7brasil.com",
+      "link": "https://www.cm7brasil.com/noticias/cidades/noite-de-tensao-fogo-toma-area-de-vegetacao-e-ameaca-comercio-na-zona-norte-de-manaus/",
+      "fonte": "cm7brasil.com"
+    },
+    {
       "titulo": "Mais de 730 vagas de emprego estarão disponíveis em feira gratuita em Manaus",
       "resumo": "Manaus &#8211; Quem está em busca de emprego, recolocação profissional ou novas possibilidades de carreira terá uma oportunidade gratuita em Manaus. No dia 21 de agosto, das 9h às 17h, o Serviço Socia",
       "categoria": "Manaus",
@@ -396,17 +418,6 @@
       "imagem": "https://amazonasnoticias.com.br/wp-content/uploads/2026/08/cao-farejador-da-policia-ambiental-inspeciona-uma-mochila-no-porta-malas.jpg",
       "link": "https://amazonasnoticias.com.br/acao-policial-com-apoio-de-cao-farejador-resulta-na-prisao-de-mulher-com-25-kg-de-entorpecentes-na-rodovia-am-254-em-autazes/",
       "fonte": "amazonasnoticias.com.br"
-    },
-    {
-      "titulo": "Ambev abre vagas de trainee com salário de R$ 9,5 mil e experiência internacional",
-      "resumo": "A Ambev abriu inscrições para o Programa Global de Trainee 2027. Os interessados podem se candidatar até 2 de setembro. O programa dura dez meses e oferece salário de R$ 9.500. Além da remuneração, os",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "data": "12 de agosto de 2026",
-      "hora": "17:54",
-      "imagem": "https://emtempo.com.br/wp-content/uploads/2026/08/AMBEV-vagas.jpg",
-      "link": "https://emtempo.com.br/481287/economia/ambev-abre-vagas-de-trainee-com-salario-de-r-95-mil-e-experiencia-internacional/",
-      "fonte": "emtempo.com.br"
     }
   ],
   "urgentes": [
@@ -587,6 +598,26 @@
   ],
   "internacionais": [
     {
+      "titulo": "Ibac charges police officer accused of repeatedly hitting Indigenous man with Taser during Melbourne arrest",
+      "resumo": "Victorian corruption watchdog alleges weapon was used to hit man’s head, with another officer accused of kneeing him in same incident last year Two Victorian police officers have been charged with ass",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://i.guim.co.uk/img/media/dfaeec39b6c3460bd13df5201b7631ba7daa9228/921_0_6438_5153/master/6438.jpg?width=140&quality=85&auto=format&fit=max&s=7952a24502a1efb9d27775053791af8e",
+      "link": "https://www.theguardian.com/australia-news/2026/aug/13/ibac-victoria-police-officers-charged-indigenous-man-taser-ntwnfb",
+      "fonte": "The Guardian",
+      "encontrada_em": "2026-08-12T22:54:11"
+    },
+    {
+      "titulo": "'Ao sentir terremoto, voltei à escola da minha filha e menina de 10 anos morreu em meus braços'",
+      "resumo": "Em meio ao colapso em Cali, a psicóloga Kelly Díaz prestou os primeiros socorros após a escola de sua filha desabar.",
+      "categoria": "Educação",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0e70/live/85b71980-9677-11f1-82fc-4d0c496681c3.jpg",
+      "link": "https://www.bbc.com/portuguese/articles/cd7lpzw11w9o?at_medium=RSS&at_campaign=rss",
+      "fonte": "BBC Brasil",
+      "encontrada_em": "2026-08-12T22:54:10"
+    },
+    {
       "titulo": "Three men will be executed on the same day as death penalties rise in US",
       "resumo": "Despite growing opposition to the death penalty, one state is behind the rising numbers.",
       "categoria": "Amazonas",
@@ -625,26 +656,6 @@
       "link": "https://www.theguardian.com/us-news/2026/aug/12/surrogate-mother-texas-gives-birth",
       "fonte": "The Guardian",
       "encontrada_em": "2026-08-12T22:24:10"
-    },
-    {
-      "titulo": "Ebola outbreak on track to be deadliest ever, WHO chief says",
-      "resumo": "The outbreak, declared on 15 May, has caused more than 2,000 deaths, with thousands more reported cases.",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/45e0/live/2fd6c2d0-96a5-11f1-b2ab-0dd01740f9f6.jpg",
-      "link": "https://www.bbc.co.uk/news/articles/cgk4pex4mn8o?at_medium=RSS&at_campaign=rss",
-      "fonte": "BBC World",
-      "encontrada_em": "2026-08-12T22:09:13"
-    },
-    {
-      "titulo": "Telstra CEO gets $700,000 pay rise to $6.8m despite Australia-wide outage",
-      "resumo": "Telco board cuts senior executive bonuses by total $1.3m after tech fail that affected millions Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily n",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://i.guim.co.uk/img/media/b61c05a4d57d31999a4407cf6b498dceb891a303/502_0_5023_4019/master/5023.jpg?width=140&quality=85&auto=format&fit=max&s=90bc58fe291733269c3255455cc56b92",
-      "link": "https://www.theguardian.com/business/2026/aug/13/telstra-ceo-pay-rise-vicki-brady",
-      "fonte": "The Guardian",
-      "encontrada_em": "2026-08-12T22:09:11"
     }
   ]
 }
