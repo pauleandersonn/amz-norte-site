@@ -1,6 +1,17 @@
 {
   "ultimas_noticias": [
     {
+      "titulo": "Urgente: GAECO e Polícia Federal deflagram operação contra empresários envolvidos no tráfico de drogas",
+      "resumo": "Amazonas &#8211; O Grupo de Atuação Especial de Combate ao Crime Organizado (GAECO), do Ministério Público do Amazonas, e a Polícia Federal deflagraram, na manhã desta quinta-feira (13), uma operação",
+      "categoria": "Segurança",
+      "autor": "Paulo Amazonas",
+      "data": "13 de agosto de 2026",
+      "hora": "06:54",
+      "imagem": "https://cm7.nyc3.cdn.digitaloceanspaces.com/wp-content/uploads/2022/09/logo-cm7.png",
+      "link": "https://www.cm7brasil.com/noticias/policia/urgente-gaeco-e-policia-federal-deflagram-operacao-contra-empresarios-envolvidos-no-trafico-de-drogas/",
+      "fonte": "cm7brasil.com"
+    },
+    {
       "titulo": "Reposição de testosterona não é obrigatória para mulheres; veja efeitos adversos",
       "resumo": "Uso indiscriminado desse hormônio para fins estéticos e tratamento de sintomas da menopausa pode gerar efeitos irreversíveis à saúde O post Reposição de testosterona não é obrigatória para mulheres; v",
       "categoria": "Amazonas",
@@ -376,6 +387,17 @@
   ],
   "mais_lidas": [
     {
+      "titulo": "Urgente: GAECO e Polícia Federal deflagram operação contra empresários envolvidos no tráfico de drogas",
+      "resumo": "Amazonas &#8211; O Grupo de Atuação Especial de Combate ao Crime Organizado (GAECO), do Ministério Público do Amazonas, e a Polícia Federal deflagraram, na manhã desta quinta-feira (13), uma operação",
+      "categoria": "Segurança",
+      "autor": "Paulo Amazonas",
+      "data": "13 de agosto de 2026",
+      "hora": "06:54",
+      "imagem": "https://cm7.nyc3.cdn.digitaloceanspaces.com/wp-content/uploads/2022/09/logo-cm7.png",
+      "link": "https://www.cm7brasil.com/noticias/policia/urgente-gaeco-e-policia-federal-deflagram-operacao-contra-empresarios-envolvidos-no-trafico-de-drogas/",
+      "fonte": "cm7brasil.com"
+    },
+    {
       "titulo": "Reposição de testosterona não é obrigatória para mulheres; veja efeitos adversos",
       "resumo": "Uso indiscriminado desse hormônio para fins estéticos e tratamento de sintomas da menopausa pode gerar efeitos irreversíveis à saúde O post Reposição de testosterona não é obrigatória para mulheres; v",
       "categoria": "Amazonas",
@@ -473,20 +495,20 @@
       "imagem": "https://amazonasnoticias.com.br/wp-content/uploads/2026/08/Prefeitura-de-Manaus-e-Concultura-apoiam-abertura-do-projeto-Toadeiro-Hit-Tribal.jpeg",
       "link": "https://amazonasnoticias.com.br/prefeitura-de-manaus-e-concultura-apoiam-abertura-do-projeto-toadeiro-hit-tribal/",
       "fonte": "amazonasnoticias.com.br"
-    },
-    {
-      "titulo": "Raulzinho parabeniza Marco Choy por vaga no TJAM e exalta trajetória de Grace Benayon",
-      "resumo": "Manaus &#8211; O vereador Raulzinho (MDB) parabenizou, durante sessão da Câmara Municipal de Manaus, o advogado Marco Aurélio Choy pela escolha para o cargo de desembargador do Tribunal de Justiça do",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "data": "12 de agosto de 2026",
-      "hora": "22:24",
-      "imagem": "https://cm7.nyc3.cdn.digitaloceanspaces.com/wp-content/uploads/2026/08/12221938/capatheflashsscassdd-38.jpg",
-      "link": "https://www.cm7brasil.com/noticias/politica/raulzinho-parabeniza-marco-choy-por-vaga-no-tjam-e-exalta-trajetoria-de-grace-benayon/",
-      "fonte": "cm7brasil.com"
     }
   ],
   "urgentes": [
+    {
+      "titulo": "Urgente: GAECO e Polícia Federal deflagram operação contra empresários envolvidos no tráfico de drogas",
+      "resumo": "Amazonas &#8211; O Grupo de Atuação Especial de Combate ao Crime Organizado (GAECO), do Ministério Público do Amazonas, e a Polícia Federal deflagraram, na manhã desta quinta-feira (13), uma operação",
+      "categoria": "Segurança",
+      "autor": "Paulo Amazonas",
+      "data": "13 de agosto de 2026",
+      "hora": "06:54",
+      "imagem": "https://cm7.nyc3.cdn.digitaloceanspaces.com/wp-content/uploads/2022/09/logo-cm7.png",
+      "link": "https://www.cm7brasil.com/noticias/policia/urgente-gaeco-e-policia-federal-deflagram-operacao-contra-empresarios-envolvidos-no-trafico-de-drogas/",
+      "fonte": "cm7brasil.com"
+    },
     {
       "titulo": "Prefeitura de Manaus e Concultura apoiam abertura do projeto “Toadeiro Hit Tribal”",
       "resumo": "A&#160;Prefeitura de Manaus, por meio do Conselho Municipal de Cultura (Concultura), realizou, na terça-feira, 11/8, a abertura oficial do projeto Toadeiro Hit Tribal. Contemplada pela Política Nacion",
@@ -575,15 +597,6 @@
       "categoria": "política",
       "data": "12 de August de 2026",
       "autor": "Paulo Amazonas"
-    },
-    {
-      "titulo": "Senador Braga se reúne com Lula e trata de pautas prioritárias do Amazonas",
-      "hora": "10:47",
-      "resumo": "Encontro em Brasília discutiu investimentos federais para infraestrutura, saúde e segurança no estado. ZFM, BR-319 e combate ao crime organizado estiveram na pauta da reunião.",
-      "imagem": "https://images.unsplash.com/photo-1557804506-669a67965ba0?auto=format&fit=crop&w=700&q=80",
-      "categoria": "política",
-      "data": "12 de August de 2026",
-      "autor": "Paulo Amazonas"
     }
   ],
   "colunas": [
@@ -602,67 +615,87 @@
   ],
   "nacionais": [
     {
-      "titulo": "STJ afasta prescrição de Crimes de Maio e reconhece graves violações",
-      "resumo": "Ação civil pública deve voltar à 1ª instância para análise dos pedidos de indenização contra o Estado de São Paulo; votação terminou em 4 a 3",
-      "categoria": "Segurança",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/05/CRIMES-DE-MAIO-14.png?w=1200&amp;h=630&amp;crop=1",
-      "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/stj-afasta-prescricao-de-crimes-de-maio-e-reconhece-graves-violacoes/",
-      "fonte": "CNN Brasil",
-      "encontrada_em": "2026-08-13T06:09:07"
-    },
-    {
-      "titulo": "Quem é Nigel Farage, candidato da ultradireita de eleição do Reino Unido?",
-      "resumo": "Líder do partido de ultradireita Reform UK disputa uma cadeira no Parlamento contra o \"Cara de Lata de Lixo\", pseudômino do comediante Jon Harvey",
-      "categoria": "Política",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportWorldNews/tagreuters.com2024binary_LYNXMPEK520RU-FILEDIMAGE.jpg?w=1200&amp;h=630&amp;crop=1",
-      "link": "https://www.cnnbrasil.com.br/internacional/quem-e-nigel-farage-candidato-da-ultradireita-de-eleicao-do-reino-unido/",
-      "fonte": "CNN Brasil",
-      "encontrada_em": "2026-08-13T06:09:07"
-    },
-    {
-      "titulo": "Quem é Abdul El-Sayed, candidato que expôs racha no Partido Democrata",
-      "resumo": "Progressista venceu as primárias no Michigan e pode se tornar o primeiro muçulmano a chegar ao Senado dos EUA",
+      "titulo": "'O que vivi não tem como apagar': Andrea Nóbrega se manifesta após ameaça de processo do ex, Carlos Alberto de Nóbrega; polêmica envolve rumor de trai",
+      "resumo": "Andrea Nóbrega foi às suas redes sociais após o ex-marido, Carlos Alberto de Nóbrega, ameaça-la ...",
       "categoria": "Amazonas",
       "autor": "Paulo Amazonas",
-      "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/Abdul-El-Sayed-vencedor-das-primarias-democratas-em-Michigan-nos-EUA-5-de-agosto-de-2026.jpg?w=1200&amp;h=630&amp;crop=1",
-      "link": "https://www.cnnbrasil.com.br/internacional/quem-e-abdul-el-sayed-candidato-que-expos-racha-no-partido-democrata/",
-      "fonte": "CNN Brasil",
-      "encontrada_em": "2026-08-13T06:09:07"
-    },
-    {
-      "titulo": "Cienciano x Botafogo: horário e onde assistir ao jogo da Sul-Americana",
-      "resumo": "Equipes vão a campo nesta quinta-feira (13), pelo jogo de ida das oitavas de final da competição",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/05/estadio-garcilaso-e1746630360949.jpeg?w=1200&amp;h=630&amp;crop=1",
-      "link": "https://www.cnnbrasil.com.br/esportes/futebol/botafogo/cienciano-x-botafogo-horario-e-onde-assistir-ao-jogo-da-sul-americana/",
-      "fonte": "CNN Brasil",
-      "encontrada_em": "2026-08-13T06:09:07"
-    },
-    {
-      "titulo": "Carlos Miguel acumula falhas, mas dá recado otimista no Palmeiras",
-      "resumo": "Após erro em empate pela Libertadores, goleiro do Palmeiras é defendido por Abel Ferreira e Flaco López e se mostra confiante",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/falha-carlos-miguel-palmeiras-cerro-762x429.jpg.webp?w=762&amp;h=429&amp;crop=1",
-      "link": "https://www.cnnbrasil.com.br/esportes/futebol/palmeiras/carlos-miguel-acumula-falhas-mas-da-recado-otimista-no-palmeiras/",
-      "fonte": "CNN Brasil",
-      "encontrada_em": "2026-08-13T06:09:07"
-    },
-    {
-      "titulo": "Onda de calor na Espanha pode levar ao aumento do preço do azeite?",
-      "resumo": "Sul da Europa é o maior produtor de azeite de oliva do mundo. Após crise nos preços em 2024 ...",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/13/44783255-67656869354.jpg",
-      "link": "https://www.terra.com.br/economia/onda-de-calor-na-espanha-pode-levar-ao-aumento-do-preco-do-azeite,b827eb87ccb2ceb3a9667cec7251316e1hzz5uyy.html",
+      "imagem": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/13/780514105-1ab20d05b8a96c93-1400x823-1.jpg",
+      "link": "https://www.terra.com.br/diversao/gente/o-que-vivi-nao-tem-como-apagar-andrea-nobrega-se-manifesta-apos-ameaca-de-processo-do-ex-carlos-alberto-de-nobrega-polemica-envolve-rumor-de-traicao,ffe3c59864fd7094979d763a9d541a50qsmqtv2c.html",
       "fonte": "Terra",
-      "encontrada_em": "2026-08-13T06:09:07"
+      "encontrada_em": "2026-08-13T06:39:06"
+    },
+    {
+      "titulo": "Invisíveis na sala de aula: por que a superdotação ainda é ignorada nas escolas do Brasil",
+      "resumo": "Associciar a superdotação unicamente a estudantes com boletins impecáveis ou desempenho ...",
+      "categoria": "Educação",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/13/1189491195-capa-bons-fluidos-43-3.jpg",
+      "link": "https://www.terra.com.br/vida-e-estilo/comportamento/invisiveis-na-sala-de-aula-por-que-a-superdotacao-ainda-e-ignorada-nas-escolas-do-brasil,89fe3da95976b69d24a7106aa09a9ff4kjryx6n6.html",
+      "fonte": "Terra",
+      "encontrada_em": "2026-08-13T06:39:06"
+    },
+    {
+      "titulo": "Jejum intermitente pode não auxiliar na perda de peso",
+      "resumo": "13 de agosto de 2026 (Bibliomed). O jejum intermitente tornou-se uma tendência popular de saúde, ...",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/13/1147285266-intermittent-fasting-food-clock-with-broccoli-and-2026-03-16-02-39-24-utc.jpg",
+      "link": "https://www.terra.com.br/vida-e-estilo/saude/jejum-intermitente-pode-nao-auxiliar-na-perda-de-peso,35ed8da73702827b9815a1209c7dd5das1mwbg6y.html",
+      "fonte": "Terra",
+      "encontrada_em": "2026-08-13T06:39:06"
+    },
+    {
+      "titulo": "Vitamina C pode ajudar a preservar o volume da massa cinzenta cerebral em idosos",
+      "resumo": "13 de agosto de 2026 (Bibliomed). À medida que nosso corpo envelhece naturalmente, o mesmo ...",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/13/109696411-vitamin-c-still-life-with-pills-and-orange-2026-03-24-23-49-40-utc.jpg",
+      "link": "https://www.terra.com.br/vida-e-estilo/saude/vitamina-c-pode-ajudar-a-preservar-o-volume-da-massa-cinzenta-cerebral-em-idosos,b9fc09f8016b6ce3eff40c5d4325b1fde2npfuyf.html",
+      "fonte": "Terra",
+      "encontrada_em": "2026-08-13T06:39:06"
+    },
+    {
+      "titulo": "Mamografia com inteligência artificial podem detectar câncer de mama até seis anos antes",
+      "resumo": "13 de agosto de 2026 (Bibliomed). Três sistemas de mamografia baseados em IA foram capazes de ...",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/13/1646938185-woman-having-mammogram-at-hospital-with-technologi-2026-03-26-08-50-00-utc.jpg",
+      "link": "https://www.terra.com.br/vida-e-estilo/saude/mamografia-com-inteligencia-artificial-podem-detectar-cancer-de-mama-ate-seis-anos-antes,a250d457c21571e1db78e80a5402f081yee2posy.html",
+      "fonte": "Terra",
+      "encontrada_em": "2026-08-13T06:39:06"
+    },
+    {
+      "titulo": "CSN registra prejuízo de R$773,1 mi no 2° tri",
+      "resumo": "A CSN anunciou ‌na noite de quarta-feira prejuízo líquido de R$773,1 milhões no segundo ...",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
+      "link": "https://www.terra.com.br/economia/csn-registra-prejuizo-de-r7731-mi-no-2-tri,9d3e8412f9c57cce316fa17230bbdebass7m3azh.html",
+      "fonte": "Terra",
+      "encontrada_em": "2026-08-13T06:39:06"
     }
   ],
   "internacionais": [
+    {
+      "titulo": "UK economy shows surprising resilience – but that might not last | Richard Partington",
+      "resumo": "Weaker growth, rising energy costs and persistent inflation mean Britain could face tougher times in the autumn UK economic growth slows down Business live – latest updates In the spring the Internati",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://i.guim.co.uk/img/media/96ac372d7409315b7187f24be0185c5dc13730d9/307_0_4640_3712/master/4640.jpg?width=140&quality=85&auto=format&fit=max&s=4db78d75420fc7fa4086df714eba6fc2",
+      "link": "https://www.theguardian.com/business/2026/aug/13/uk-economy-gdp-growth-energy-costs-inflation",
+      "fonte": "The Guardian",
+      "encontrada_em": "2026-08-13T06:39:08"
+    },
+    {
+      "titulo": "Russell Westbrook announces NBA retirement after 18 seasons",
+      "resumo": "Westbrook, a former NBA Most Valuable Player, holds the record for the most career triple-doubles in league history.",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-01-03T034706Z_32841514_MT1USATODAY27922192_RTRMADP_3_NBA-SACRAMENTO-KINGS-AT-PHOENIX-SUNS-1786616104_6804f3-1786616704.jpg?resize=1200%2C630&amp;quality=80",
+      "link": "https://www.aljazeera.com/sports/2026/8/13/russell-westbrook-announces-nba-retirement-after-18-seasons?traffic_source=rss",
+      "fonte": "Al Jazeera",
+      "encontrada_em": "2026-08-13T06:39:07"
+    },
     {
       "titulo": "UK defends seizing shadow fleet tanker after Putin threat",
       "resumo": "The UK government says it is \"disrupting and deterring shadow fleet vessels\" in accordance with the law.",
@@ -700,26 +733,6 @@
       "autor": "Paulo Amazonas",
       "imagem": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1786614242.jpg?resize=1875%2C1080&amp;quality=80",
       "link": "https://www.aljazeera.com/video/centre-stage/2026/8/13/what-postcolonialism-looks-like-in-southeast-asia?traffic_source=rss",
-      "fonte": "Al Jazeera",
-      "encontrada_em": "2026-08-13T06:09:08"
-    },
-    {
-      "titulo": "Japan protests as Russia’s Putin visits disputed Kuril Islands",
-      "resumo": "Japanese PM says Putin&#039;s visit to the Pacific island chain, seized by the Soviet Union in 1945, is &#039;unacceptable&#039;.",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://www.aljazeera.com/wp-content/uploads/2026/08/ap_6a7d855c9e9f3-1786611036.jpg?resize=1920%2C1440",
-      "link": "https://www.aljazeera.com/news/2026/8/13/japan-protests-as-russias-putin-visits-disputed-kuril-islands?traffic_source=rss",
-      "fonte": "Al Jazeera",
-      "encontrada_em": "2026-08-13T06:09:08"
-    },
-    {
-      "titulo": "Singapore-flagged container ship crashes into riverbank in India",
-      "resumo": "A Singapore-flagged container ship crashed into a bank of the Hooghly River in eastern India.",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1786614126.jpg?resize=1920%2C1080&amp;quality=80",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/13-08-clip-singapore-ship-crashes-kolkatta-in?traffic_source=rss",
       "fonte": "Al Jazeera",
       "encontrada_em": "2026-08-13T06:09:08"
     }
