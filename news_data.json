@@ -861,6 +861,16 @@
   ],
   "nacionais": [
     {
+      "titulo": "IA pode injetar quase R$ 1 trilhão na economia brasileira, mostra estudo",
+      "resumo": "Tecnologia pode elevar produtividade de setores como indústria, serviços, comércio e agropecuária; impacto, porém, deve ocorrer de forma gradual",
+      "categoria": "Economia",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/02/apps-de-ia-inteligencia-artificial.jpg?w=1200&amp;h=630&amp;crop=1",
+      "link": "https://www.cnnbrasil.com.br/tecnologia/ia-pode-injetar-quase-r-1-trilhao-na-economia-brasileira-mostra-estudo/",
+      "fonte": "CNN Brasil",
+      "encontrada_em": "2026-08-13T11:52:11"
+    },
+    {
       "titulo": "Suzano reforça objetivos em alienação e desalavancagem",
       "resumo": "Prioridades incluem ganhos de eficiência, evitando investimentos mais agressivos e endividamento",
       "categoria": "Amazonas",
@@ -909,19 +919,29 @@
       "link": "https://www.cnnbrasil.com.br/nacional/sul/rs/torcedores-do-inter-sao-presos-por-tentativa-de-homicidio-de-gremista-no-rs/",
       "fonte": "CNN Brasil",
       "encontrada_em": "2026-08-13T11:37:13"
-    },
-    {
-      "titulo": "Endividamento da MRV deve cair quase 30% até o fim de 2026, diz CFO",
-      "resumo": "Ricardo Paixão detalhou ao CNN Money o balanço da incorporadora no segundo trimestre e as perspectivas de desalavancagem da companhia",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/05/Nova-Fachada-MRV.jpg?w=1200&amp;h=630&amp;crop=1",
-      "link": "https://www.cnnbrasil.com.br/economia/macroeconomia/endividamento-da-mrv-deve-cair-quase-30-ate-o-fim-de-2026-diz-cfo/",
-      "fonte": "CNN Brasil",
-      "encontrada_em": "2026-08-13T11:37:13"
     }
   ],
   "internacionais": [
+    {
+      "titulo": "UK records hottest day of the year as fifth summer heatwave reaches peak",
+      "resumo": "Kew Gardens in London hits 38.1C and 40C-plus expected in parts of Europe with continent trapped under heat dome Europe heatwave – latest updates The UK has recorded its hottest day of the year so far",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://i.guim.co.uk/img/media/c0e013e0b0f2e0cd419f3fa880b11e723b2ac6fe/540_0_3990_3192/master/3990.jpg?width=140&quality=85&auto=format&fit=max&s=3dcfe6971db7e026101c8754f4123d35",
+      "link": "https://www.theguardian.com/environment/2026/aug/13/uk-records-hottest-day-of-the-year-fifth-summer-heatwave-peak",
+      "fonte": "The Guardian",
+      "encontrada_em": "2026-08-13T11:52:14"
+    },
+    {
+      "titulo": "Will all-out war in Yemen reignite as the Houthis escalate attacks?",
+      "resumo": "Analysts say Saudi Arabia is strengthening its position with regional allies as the Houthis increase their attacks.",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-12T113811Z_1730422435_RC2YWMAAPNYL_RTRMADP_3_YEMEN-SECURITY-1786608934.jpg?resize=1920%2C1440",
+      "link": "https://www.aljazeera.com/news/2026/8/13/will-all-out-war-in-yemen-reignite-as-houthis-escalate-attacks?traffic_source=rss",
+      "fonte": "Al Jazeera",
+      "encontrada_em": "2026-08-13T11:52:13"
+    },
     {
       "titulo": "Oklahoma man put to death in first of three US executions scheduled on same day",
       "resumo": "If all executions go ahead, it will be first time in over 15 years there have been over three judicial killings in US in one day Carlos Cuesta-Rodriguez has been put to death by the state of Oklahoma,",
@@ -961,26 +981,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c0l5273xjnlo?at_medium=RSS&at_campaign=rss",
       "fonte": "BBC World",
       "encontrada_em": "2026-08-13T11:22:16"
-    },
-    {
-      "titulo": "DRC’s fast-growing Ebola outbreak spreads to sixth province",
-      "resumo": "Man dies in Bas-Uele after travelling from Haut-Uele, as head of WHO says outbreak on track to be deadliest ever The Ebola outbreak in the Democratic Republic of the Congo has spread to a sixth provin",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://i.guim.co.uk/img/media/7cdf83c55d79a96a161395d5c73576671830d88a/31_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=69ea3d0c862b6a5b0a713ec4ccab78d2",
-      "link": "https://www.theguardian.com/world/2026/aug/13/ebola-drc-democratic-republic-congo-sixth-province",
-      "fonte": "The Guardian",
-      "encontrada_em": "2026-08-13T11:22:13"
-    },
-    {
-      "titulo": "‘The colander worked best!’ Guardian readers share their experience of the solar eclipse",
-      "resumo": "Readers recall the breathtaking sight and community spirit of the rare celestial treat – and the handmade contraptions they saw it through On Wednesday evening, millions of people in Europe watched a ",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://i.guim.co.uk/img/media/2515dc3b3f947cb8d57a0809e08e92d73c2412c0/0_411_900_719/master/900.jpg?width=140&quality=85&auto=format&fit=max&s=5139aa45297d372b73b6644a36202f9d",
-      "link": "https://www.theguardian.com/science/2026/aug/13/guardian-readers-share-solar-eclipse-experience",
-      "fonte": "The Guardian",
-      "encontrada_em": "2026-08-13T11:22:13"
     }
   ],
   "empregos": [
