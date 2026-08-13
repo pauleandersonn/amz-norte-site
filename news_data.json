@@ -609,6 +609,16 @@
   ],
   "internacionais": [
     {
+      "titulo": "Solar eclipse carves Eiffel Tower’s silhouette in Paris sky",
+      "resumo": "A partial solar eclipse illuminated Paris’s sky over the city’s iconic Eiffel Tower.",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1786588917.jpg?resize=1920%2C1080&amp;quality=80",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/solar-eclipse-carves-eiffel-towers-silhouette-in-paris-sky?traffic_source=rss",
+      "fonte": "Al Jazeera",
+      "encontrada_em": "2026-08-12T23:24:10"
+    },
+    {
       "titulo": "Ibac charges police officer accused of repeatedly hitting Indigenous man with Taser during Melbourne arrest",
       "resumo": "Victorian corruption watchdog alleges weapon was used to hit man’s head, with another officer accused of kneeing him in same incident last year Two Victorian police officers have been charged with ass",
       "categoria": "Amazonas",
@@ -655,16 +665,6 @@
       "autor": "Paulo Amazonas",
       "imagem": "https://i.guim.co.uk/img/media/97c7657748f408b1a3ea905e830f9ea2abadde0a/475_0_4680_3744/master/4680.jpg?width=140&quality=85&auto=format&fit=max&s=c40237c3e15d7a984a1762818f3cb9aa",
       "link": "https://www.theguardian.com/australia-news/2026/aug/13/icac-corruption-inquiry-operation-rosny-reformers-nsw-liberals-catholic-schools-ntwnfb",
-      "fonte": "The Guardian",
-      "encontrada_em": "2026-08-12T22:24:10"
-    },
-    {
-      "titulo": "Surrogate mother who fled to Texas gives birth to baby with severe heart defect",
-      "resumo": "McKenna West initially agreed to an abortion after diagnosis, but then fled to state where abortion is illegal and broke contact with biological parents, attorney alleges A surrogate mother who travel",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://i.guim.co.uk/img/media/a3d22557b1eeb42aac7afaefdd6f06c644b3a1f9/0_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=a58031ceb24abb88d6468f172254d9e3",
-      "link": "https://www.theguardian.com/us-news/2026/aug/12/surrogate-mother-texas-gives-birth",
       "fonte": "The Guardian",
       "encontrada_em": "2026-08-12T22:24:10"
     }
