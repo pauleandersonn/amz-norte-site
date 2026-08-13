@@ -922,6 +922,16 @@
   ],
   "internacionais": [
     {
+      "titulo": "At least 44 die as ferry sinks in Zimbabwe's Lake Kariba",
+      "resumo": "The vessel is said to have overturned after being hit by strong waves.",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/64ae/live/552e0070-960f-11f1-9e5b-d5848bb02f11.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/czxe2vyxd7do?at_medium=RSS&at_campaign=rss",
+      "fonte": "BBC World",
+      "encontrada_em": "2026-08-13T15:52:17"
+    },
+    {
       "titulo": "Israeli Settlers Resume West Bank Siege After Eviction",
       "resumo": "The military’s failure to keep extremists away from two Palestinian families trapped in their West Bank homes made clear the chaos gripping the Israeli-occupied territory.",
       "categoria": "Amazonas",
@@ -968,16 +978,6 @@
       "autor": "Paulo Amazonas",
       "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/45a8/live/5bad4940-95ad-11f1-969e-eb6036cb8925.jpg",
       "link": "https://www.bbc.co.uk/news/videos/ckge0e0g95no?at_medium=RSS&at_campaign=rss",
-      "fonte": "BBC World",
-      "encontrada_em": "2026-08-13T15:42:16"
-    },
-    {
-      "titulo": "Watch: What is it like to travel on Air Force One with Trump?",
-      "resumo": "Donald Trump secretly swapped planes as he left a Nato summit in Turkey last month, deceiving even the press pool who flew on board without him.",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ac0/live/210d7380-95cd-11f1-b2ab-0dd01740f9f6.jpg",
-      "link": "https://www.bbc.co.uk/news/videos/cy4k1jldxnwo?at_medium=RSS&at_campaign=rss",
       "fonte": "BBC World",
       "encontrada_em": "2026-08-13T15:42:16"
     }
