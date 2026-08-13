@@ -1,6 +1,24 @@
-# �� 🤖 Automação de Postagem para AMZ Norte
+# 🤖 Automação de Postagem para AMZ Norte
 
 Este diretório contém um sistema de automação para gerenciar e publicar notícias no site AMZ Norte.
+
+## 🆕 Buscador automático → site (a cada 5 min)
+
+O `busca_noticias.py` (em `PROGRAMAÇÃO\publicação automatica`) roda a cada 5 min
+(tarefa Windows `AMZNorteBusca5min`) e publica **todas** as notícias novas no site:
+
+- **Tudo entra** (local + nacional + internacional) com **teto diário** (padrão
+  50/dia — env `AMZ_MAX_POSTS_DIA`) e até 5 por rodada (`AMZ_MAX_POSTS_RODADA`)
+- **Texto completo**: extrai a matéria original e **reescreve por IA** (alterando
+  as palavras, mantendo os fatos). O texto completo aparece na página da matéria
+- **Imagem**: foto real do RSS/og:image; quando não existe, gera **imagem por IA**
+  (Pollinations) relacionada ao tema
+- **1 deploy por rodada**: salva tudo e faz um único `git push` + Netlify
+- Ajustes rápidos no `.env` do pipeline: `AMZ_MAX_POSTS_DIA`, `AMZ_MAX_POSTS_RODADA`,
+  `AMZ_MAX_HORAS` (frescor da notícia)
+
+Publicação manual continua igual: `python publicar.py "Título" "Resumo" --cat X
+--img URL --link URL --texto "texto completo"` (a flag `--texto` é opcional).
 
 ## �� 📁 Estrutura dos Arquivos
 
