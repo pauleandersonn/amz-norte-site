@@ -922,6 +922,26 @@
   ],
   "internacionais": [
     {
+      "titulo": "Israeli settlers besieging Palestinian families in West Bank village",
+      "resumo": "Israeli security forces have reportedly withdrawn and about a dozen settlers are said to remain at the site where two families have been besieged since Sunday.",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/22b5/live/2509dcc0-9641-11f1-8414-97750c5a4202.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/cn0npjkqrleo?at_medium=RSS&at_campaign=rss",
+      "fonte": "BBC World",
+      "encontrada_em": "2026-08-13T15:57:15"
+    },
+    {
+      "titulo": "Woman pulled alive from rubble 36 hours after Colombia quake",
+      "resumo": "Following a 10-hour rescue operation, emergency workers pulled the 32-year-old from beneath slabs of concrete.",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b547/live/5e706700-9654-11f1-b2ab-0dd01740f9f6.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/cz7d2e5wlgno?at_medium=RSS&at_campaign=rss",
+      "fonte": "BBC World",
+      "encontrada_em": "2026-08-13T15:57:15"
+    },
+    {
       "titulo": "At least 44 die as ferry sinks in Zimbabwe's Lake Kariba",
       "resumo": "The vessel is said to have overturned after being hit by strong waves.",
       "categoria": "Amazonas",
@@ -960,26 +980,6 @@
       "link": "https://www.aljazeera.com/news/2026/8/13/colombia-earthquake-hospitals-adapt-to-save-lives-amid-widespread-damage?traffic_source=rss",
       "fonte": "Al Jazeera",
       "encontrada_em": "2026-08-13T15:47:14"
-    },
-    {
-      "titulo": "Baby Shark boy set to make K-pop debut",
-      "resumo": "The boy from the most-watched YouTube video of all time is now 17 years old, and wants to be a K-pop star.",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8101/live/a7391c20-95f5-11f1-870d-5d08c49babb2.jpg",
-      "link": "https://www.bbc.co.uk/news/videos/cvg7zrxknvno?at_medium=RSS&at_campaign=rss",
-      "fonte": "BBC World",
-      "encontrada_em": "2026-08-13T15:42:16"
-    },
-    {
-      "titulo": "In shattered Cali, residents search for loved ones and signs of hope",
-      "resumo": "Most deaths from the magnitude-7.4 quake were reported in Cali, Colombia’s third-most populous city, as crews search collapsed buildings for those still trapped.",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/45a8/live/5bad4940-95ad-11f1-969e-eb6036cb8925.jpg",
-      "link": "https://www.bbc.co.uk/news/videos/ckge0e0g95no?at_medium=RSS&at_campaign=rss",
-      "fonte": "BBC World",
-      "encontrada_em": "2026-08-13T15:42:16"
     }
   ],
   "empregos": [
