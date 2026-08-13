@@ -37,11 +37,6 @@
     .texto-completo .paragrafo{margin-bottom:16px;font-size:16px;line-height:1.75;color:#1f2937}
     .texto-credito{margin-top:20px;padding:12px 16px;background:var(--bg);border-radius:6px;font-size:12px;color:var(--gray);line-height:1.5}
     .texto-credito strong{color:var(--dark)}
-    .btn-fonte{display:inline-block;margin-top:28px;background:var(--green);color:#fff;font-weight:800;padding:14px 24px;border-radius:var(--radius);font-size:14px;transition:background .2s}
-    .btn-fonte:hover{background:var(--green2)}
-    .btn-fonte i{margin-left:8px}
-    .sem-fonte{display:inline-block;margin-top:28px;color:var(--gray);font-size:13px;font-weight:600}
-
     /* COMPARTILHAR NAS REDES */
     .share-bar{margin-top:28px;padding-top:20px;border-top:1px solid var(--line);display:flex;align-items:center;gap:10px;flex-wrap:wrap}
     .share-label{font-size:13px;font-weight:800;text-transform:uppercase;letter-spacing:.5px;color:var(--gray);margin-right:4px;display:flex;align-items:center;gap:6px}
@@ -77,11 +72,6 @@
           <div id="artigoTextoConteudo"></div>
           <p class="texto-credito">📰 Texto adaptado pelo <strong>AMZ Norte</strong> a partir da matéria original<span id="textoFonteNome"></span>. Fatos e informações preservados.</p>
         </div>
-        <a class="btn-fonte" id="btnFonte" href="#" target="_blank" rel="noopener" style="display:none">
-          Ler matéria completa <i class="fas fa-external-link-alt"></i>
-        </a>
-        <span class="sem-fonte" id="semFonte" style="display:none">Fonte: AMZ Norte</span>
-
         <!-- Compartilhar nas redes sociais -->
         <div class="share-bar">
           <span class="share-label"><i class="fas fa-share-alt" style="color:var(--red)"></i> Compartilhar</span>
@@ -133,7 +123,7 @@
     });
 
     document.getElementById('artigoResumo').textContent =
-      item.resumo || 'Resumo não disponível. Clique em "Ler matéria completa" para ver a matéria original.';
+      item.resumo || 'Resumo não disponível.';
 
     // Texto completo (quando a matéria foi reescrita/extraída)
     const textoDiv = document.getElementById('artigoTexto');
@@ -164,14 +154,6 @@
       img.style.display = 'block';
       img.onerror = function () { this.style.display = 'none'; };
     }
-    if (item.link && ehHttp(item.link)) {
-      const btn = document.getElementById('btnFonte');
-      btn.href = item.link;
-      btn.style.display = 'inline-block';
-    } else {
-      document.getElementById('semFonte').style.display = 'inline-block';
-    }
-
     // Compartilhar nas redes (usa a URL da própria página + título da matéria)
     const urlAtual = location.href.split('#')[0];
     const tituloShare = encodeURIComponent(item.titulo || 'AMZ Norte — Notícias do Amazonas');
