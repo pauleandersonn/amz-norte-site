@@ -23,6 +23,10 @@ O `busca_noticias.py` (em `PROGRAMAÇÃO\publicação automatica`) roda a cada 5
   horóscopo e loterias são descartados (futebol/BBB/fofoca continuam entrando)
 - **Relatório diário no Telegram**: no 1º run de cada dia novo, envia resumo do
   dia anterior — total, contagem por seção, cota esgotada e destaques do dia
+- **Watchdog** (tarefa `AMZNorteWatchdog30min`): verifica a cada 30 min se a
+  busca rodou (log do pipeline); se estiver parada há +30 min, manda **alerta no
+  Telegram** e avisa quando recuperar. Diagnóstico: `python watchdog_amznorte.py
+  --check`
 - Ajustes rápidos no `.env` do pipeline: `AMZ_MAX_POSTS_DIA`, `AMZ_MAX_POSTS_RODADA`,
   `AMZ_MAX_HORAS` (frescor da notícia)
 
