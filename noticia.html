@@ -195,8 +195,11 @@
         ta.style.opacity = '0';
         document.body.appendChild(ta);
         ta.select();
-        try { document.execCommand('copy'); copiou(); } catch (e) {}
+        let ok = false;
+        try { ok = document.execCommand('copy'); } catch (e) {}
         document.body.removeChild(ta);
+        if (ok) { copiou(); }
+        else { window.prompt('Copie o link da matéria:', urlAtual); }
       }
       if (navigator.clipboard && navigator.clipboard.writeText) {
         navigator.clipboard.writeText(urlAtual).then(copiou).catch(copiarFallback);
