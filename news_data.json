@@ -1,6 +1,17 @@
 {
   "ultimas_noticias": [
     {
+      "titulo": "O futuro não precisa destruir livros",
+      "resumo": "Vivemos uma das maiores revoluções tecnológicas da história. A inteligência artificial já transforma a medicina, a educação, a pesquisa científica, a indústria, a comunicação e inúmeras outras áreas.",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "data": "12 de agosto de 2026",
+      "hora": "20:54",
+      "imagem": "https://emtempo.com.br/wp-content/uploads/2022/04/doacao-de-livros.jpeg",
+      "link": "https://emtempo.com.br/481310/opiniao/inteligencia-artificial-valor-livros-direitos-autorais/",
+      "fonte": "emtempo.com.br"
+    },
+    {
       "titulo": "Em revelação de bastidores, Sabá Reis expõe detalhes do rompimento de Marcos Rotta com o grupo de David Almeida",
       "resumo": "Secretário refuta tese de traição, garante que ex-aliado tinha caminho livre para disputar qualquer cargo nas Eleições 2026 e indica aproximação de Rotta com o senador Omar Aziz A separação política e",
       "categoria": "Amazonas",
@@ -222,6 +233,17 @@
   ],
   "mais_lidas": [
     {
+      "titulo": "O futuro não precisa destruir livros",
+      "resumo": "Vivemos uma das maiores revoluções tecnológicas da história. A inteligência artificial já transforma a medicina, a educação, a pesquisa científica, a indústria, a comunicação e inúmeras outras áreas.",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "data": "12 de agosto de 2026",
+      "hora": "20:54",
+      "imagem": "https://emtempo.com.br/wp-content/uploads/2022/04/doacao-de-livros.jpeg",
+      "link": "https://emtempo.com.br/481310/opiniao/inteligencia-artificial-valor-livros-direitos-autorais/",
+      "fonte": "emtempo.com.br"
+    },
+    {
       "titulo": "Em revelação de bastidores, Sabá Reis expõe detalhes do rompimento de Marcos Rotta com o grupo de David Almeida",
       "resumo": "Secretário refuta tese de traição, garante que ex-aliado tinha caminho livre para disputar qualquer cargo nas Eleições 2026 e indica aproximação de Rotta com o senador Omar Aziz A separação política e",
       "categoria": "Amazonas",
@@ -313,15 +335,6 @@
       "data": "12 de August de 2026",
       "hora": "10:47",
       "imagem": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?auto=format&fit=crop&w=600&q=80"
-    },
-    {
-      "titulo": "Manaus registra quase 1,2 mil incêndios em 2026, aponta monitoramento",
-      "resumo": "Dados do Corpo de Bombeiros mostram aumento de 34% nos registros comparado ao mesmo período de 2025. Zona norte e leste concentram maior número de ocorrências.",
-      "categoria": "meio ambiente",
-      "autor": "Paulo Amazonas",
-      "data": "12 de August de 2026",
-      "hora": "10:47",
-      "imagem": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=600&q=80"
     }
   ],
   "urgentes": [
@@ -434,67 +447,107 @@
   ],
   "nacionais": [
     {
-      "titulo": "Bona: casa de shows mais aconchegante de São Paulo tem novidades e descontos exclusivos para clientes Elo",
-      "resumo": "Quem vive a cena musical em São Paulo provavelmente já conhece o Bona Casa de Música . Se você ...",
+      "titulo": "Luís Roberto comemora retorno às transmissões após tratamento contra o câncer",
+      "resumo": "O narrador Luís Roberto está de volta às transmissões após tratamento de uma neoplasia na região ...",
       "categoria": "Amazonas",
       "autor": "Paulo Amazonas",
-      "imagem": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/12/1581549231-bona-2.jpg",
-      "link": "https://www.terra.com.br/diversao/musica/meu-sonora/mpb/bona-casa-de-shows-mais-aconchegante-de-sao-paulo-tem-novidades-e-descontos-exclusivos-para-clientes-elo,37ae5af9b34cdc4735c4a52cfe88ba8b8x3c4wua.html",
+      "imagem": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/11/1987334990-mofi2m2adjesllo5ja5b3jwdhq.jpg",
+      "link": "https://www.terra.com.br/esportes/luis-roberto-comemora-retorno-as-transmissoes-apos-tratamento-contra-o-cancer,820aa883904f9711849cd31893b5471arzbazez4.html",
       "fonte": "Terra",
-      "encontrada_em": "2026-08-12T20:09:10"
+      "encontrada_em": "2026-08-12T20:39:09"
     },
     {
-      "titulo": "Pesca esportiva alia competição e preservação em torneio no Yacht Club de Ilhabela",
-      "resumo": "Oito embarcações participam no sábado (22), em Ilhabela, do 3º Torneio de Pesca de Fundo da ...",
+      "titulo": "PGR pede que STF mantenha proibição de visitas de Flávio a Jair Bolsonaro",
+      "resumo": "O procurador-geral da República, Paulo Gonet, recomendou nesta quarta-feira, 12, que o Supremo ...",
       "categoria": "Amazonas",
       "autor": "Paulo Amazonas",
-      "imagem": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/12/41298967-barco-de-pesca.jpg",
-      "link": "https://www.terra.com.br/esportes/pesca-esportiva-alia-competicao-e-preservacao-em-torneio-no-yacht-club-de-ilhabela,0c9d2fcc58a26406181ac0961f472997gns21dcc.html",
+      "imagem": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/13/2047359473-vvu7a3e7qzd2ppqejwmltywbbu.jpg",
+      "link": "https://www.terra.com.br/noticias/brasil/politica/pgr-pede-que-stf-mantenha-proibicao-de-visitas-de-flavio-a-jair-bolsonaro,ad7b53f5ee5b7af5db4b03a7eb1426d9avel73po.html",
       "fonte": "Terra",
-      "encontrada_em": "2026-08-12T20:09:10"
+      "encontrada_em": "2026-08-12T20:39:09"
     },
     {
-      "titulo": "Veterinário Wilson Grassi registra candidatura à Presidência e declara patrimônio de R$ 50 milhões",
-      "resumo": "O veterinário Wilson Grassi (Democrata) registrou nesta quarta-feira, 12, sua candidatura à ...",
-      "categoria": "Amazonas",
+      "titulo": "Policial Edjane registra candidatura ao governo de São Paulo e não declara possuir bens",
+      "resumo": "Edjane Lima de Sousa, a Policial Edjane (Agir), teve a candidatura ao governo de São Paulo ...",
+      "categoria": "Segurança",
       "autor": "Paulo Amazonas",
-      "imagem": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/12/84818331-zzxq7kmyyzay5ci2yjplhmej24.jpeg",
-      "link": "https://www.terra.com.br/noticias/brasil/politica/veterinario-wilson-grassi-registra-candidatura-a-presidencia-e-declara-patrimonio-de-r-50-milhoes,4167c87d8b4e0ff6825c9dd28bb1f36f5ofa4bp9.html",
+      "imagem": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/13/1715506487-y2ogvlxp3jfzxo6zxhskvzmy2y.png",
+      "link": "https://www.terra.com.br/noticias/brasil/politica/policial-edjane-registra-candidatura-ao-governo-de-sao-paulo-e-nao-declara-possuir-bens,26f409727ff030f1ae0fd7093303f694a1fkoy4o.html",
       "fonte": "Terra",
-      "encontrada_em": "2026-08-12T20:09:10"
+      "encontrada_em": "2026-08-12T20:39:09"
     },
     {
-      "titulo": "A declaração de Fábio após o tropeço na Libertadores",
-      "resumo": "O Fluminense deixou o Maracanã novamente sem vitória e aumentou a pressão sobre o elenco. No ...",
+      "titulo": "Atlético-MG supera o Red Bull Bragantino e abre vantagem em duelo brasileiro na Sul-Americana",
+      "resumo": "No único duelo brasileiro das oitavas de finais da Copa Sul-Americana, o Atlético-MG levou a ...",
       "categoria": "Amazonas",
       "autor": "Paulo Amazonas",
-      "imagem": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/12/488253586-fabio-goleiro-do-fluminense.jpg",
-      "link": "https://www.terra.com.br/esportes/fluminense/a-declaracao-de-fabio-apos-o-tropeco-na-libertadores,fa858032db937407a76667da7a04a5b9qmfr6e9k.html",
+      "imagem": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
+      "link": "https://www.terra.com.br/esportes/futebol/copa-sul-americana/atletico-mg-supera-o-red-bull-bragantino-e-abre-vantagem-em-duelo-brasileiro-na-sul-americana,8deb42eb5360fc2b9051be5010fd55c23kv984if.html",
       "fonte": "Terra",
-      "encontrada_em": "2026-08-12T20:09:10"
+      "encontrada_em": "2026-08-12T20:39:09"
     },
     {
-      "titulo": "Regulamento da Conmebol prevê punição ao Palmeiras por conta de Andreas Pereira",
-      "resumo": "O Palmeiras terá que desembolsar 2.000 dólares, cerca de 10.400 de reais, pelo cartão vermelho ...",
+      "titulo": "A declaração de Marlon Freitas direcionada a Palmeiras x Cerro Porteño",
+      "resumo": "O meio-campista Marlon Freitas concedeu entrevista ainda na beira do gramado da Arena Nubank ...",
       "categoria": "Amazonas",
       "autor": "Paulo Amazonas",
-      "imagem": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/12/175465493-andreas-pereira-treina-na-academia.jpg",
-      "link": "https://www.terra.com.br/esportes/palmeiras/regulamento-da-conmebol-preve-punicao-ao-palmeiras-por-conta-de-andreas-pereira,6c2881d882896dfcb347b5e6d393f2958ke9fhvn.html",
+      "imagem": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/13/1833068278-marlon-freitas-x-internacional.png",
+      "link": "https://www.terra.com.br/esportes/palmeiras/a-declaracao-de-marlon-freitas-direcionada-a-palmeiras-x-cerro-porteno,b90f03a3b8163b08e3468f3c273846a7ui60wyc2.html",
       "fonte": "Terra",
-      "encontrada_em": "2026-08-12T20:09:10"
+      "encontrada_em": "2026-08-12T20:39:09"
     },
     {
-      "titulo": "Torcida do Palmeiras exige a saída de Abel Ferreira",
-      "resumo": "A liderança do Campeonato Brasileiro e a classificação para as quartas de final da Copa do ...",
+      "titulo": "Palmeiras joga mal, leva empate graças à falha de Carlos Miguel e definirá vaga no Paraguai",
+      "resumo": "O Palmeiras voltou a apresentar um futebol pobre nesta quarta-feira e abriu a disputa por uma ...",
       "categoria": "Amazonas",
       "autor": "Paulo Amazonas",
-      "imagem": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/12/817245874-abel-ferreira-tecnico-do-palmeiras-5.jpg",
-      "link": "https://www.terra.com.br/esportes/palmeiras/torcida-do-palmeiras-exige-a-saida-de-abel-ferreira,b878bbc92ecdfce6ddc10759e6fe7df6i5ykfld8.html",
+      "imagem": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
+      "link": "https://www.terra.com.br/esportes/palmeiras/palmeiras-joga-mal-leva-empate-gracas-a-falha-de-carlos-miguel-e-definira-vaga-no-paraguai,1d8cde5c48e1b0d16b5094d43c6d6d22wp16hizd.html",
       "fonte": "Terra",
-      "encontrada_em": "2026-08-12T20:09:10"
+      "encontrada_em": "2026-08-12T20:39:09"
     }
   ],
   "internacionais": [
+    {
+      "titulo": "Travis Kelce says wedding to Taylor Swift was 'the best night of my life' in first official comments",
+      "resumo": "Kelce’s remarks on his marriage to Swift at Madison Square Garden comes weeks after the event, which remains shrouded in mystery American football star Travis Kelce has described his secretive early J",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://i.guim.co.uk/img/media/d1cae48ae61f8eb221627e045dce8839b116992a/64_0_3594_2876/master/3594.jpg?width=140&quality=85&auto=format&fit=max&s=853c8636f830628185d81b34c1debf19",
+      "link": "https://www.theguardian.com/music/2026/aug/13/travis-kelce-comments-taylor-swift-wedding-best-night-of-my-life",
+      "fonte": "The Guardian",
+      "encontrada_em": "2026-08-12T20:39:11"
+    },
+    {
+      "titulo": "Half a tonne of Erling Haaland branded cocaine seized in Ecuador",
+      "resumo": "Erling Haaland’s name and image turned up on hundreds of cocaine bricks seized by Ecuadorian police.",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1786579517.jpg?resize=1920%2C1080&amp;quality=80",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/aje-onl-nf_erling-haaland-branded-cocaine-seized-in-ecuador-120826?traffic_source=rss",
+      "fonte": "Al Jazeera",
+      "encontrada_em": "2026-08-12T20:24:11"
+    },
+    {
+      "titulo": "Iran war live: US, Tehran exchange opposing claims over Hormuz control",
+      "resumo": "President Trump again insists US has &#039;total control&#039; of strait, while Tehran resolute that the US must meet its demands.",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-07-30T103635Z_958657427_RC27OMAWQQQD_RTRMADP_3_IRAN-CRISIS-1786574527.jpg?resize=1920%2C1440",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/8/13/iran-war-live-us-and-iran-exchange-opposing-claims-over-hormuz-control?traffic_source=rss",
+      "fonte": "Al Jazeera",
+      "encontrada_em": "2026-08-12T20:24:11"
+    },
+    {
+      "titulo": "A Special U.S. Navy Squadron Photographed the Last Total Solar Eclipse in Spain in 1905",
+      "resumo": "Three American warships were sent to Valencia to capture pictures of the sun’s corona with a high-definition camera that would cost over $34,000 in today’s money.",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://static01.nyt.com/images/2026/08/12/multimedia/12europe-eclipse-squadron1/12europe-eclipse-squadron1-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/08/12/world/europe/total-solar-eclipse-spain-1905-us-navy.html",
+      "fonte": "NYT",
+      "encontrada_em": "2026-08-12T20:24:11"
+    },
     {
       "titulo": "Vultures are disappearing in Nigeria - but the 'Vulture King' is fighting to reverse the trend",
       "resumo": "Some see them as sinister or hunt them for ritual use but these birds play a vital role in nature's cycle.",
@@ -514,46 +567,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cwymw4434v7o?at_medium=RSS&at_campaign=rss",
       "fonte": "BBC World",
       "encontrada_em": "2026-08-12T19:54:14"
-    },
-    {
-      "titulo": "'If you're not conservative, don't come here': The town making missiles for Trump",
-      "resumo": "Trump's poll numbers appear to be down, but in this town, his support is as strong as ever.",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd7d/live/e8bc0e50-95af-11f1-969e-eb6036cb8925.jpg",
-      "link": "https://www.bbc.co.uk/news/articles/cn0n8nd6645o?at_medium=RSS&at_campaign=rss",
-      "fonte": "BBC World",
-      "encontrada_em": "2026-08-12T19:54:14"
-    },
-    {
-      "titulo": "Trump administration arrests Southern Poverty Law Center expert for fraud",
-      "resumo": "Heidi Beirich, an expert on far-right groups, has been charged over alleged misuse of donor funds to pay informants.",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://www.aljazeera.com/wp-content/uploads/2026/08/AFP__20260421__2272457136__v3__MidRes__ActingAgToddBlancheAndFbiDirectorKashPatelHol-1786573553.jpg?resize=1200%2C675",
-      "link": "https://www.aljazeera.com/news/2026/8/12/trump-administration-arrests-southern-poverty-law-center-expert-for-fraud?traffic_source=rss",
-      "fonte": "Al Jazeera",
-      "encontrada_em": "2026-08-12T19:54:12"
-    },
-    {
-      "titulo": "Media groups sue Trump over paid access to public social media posts",
-      "resumo": "Lawsuit claims Trump profits unfairly by charging up to $100,000 monthly for exclusive access to presidential posts.",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://www.aljazeera.com/wp-content/uploads/2026/08/ap_6a7cee2ba465c-1786572331.jpg?resize=1920%2C1440",
-      "link": "https://www.aljazeera.com/economy/2026/8/12/media-groups-sue-trump-over-paid-access-to-public-social-media-posts?traffic_source=rss",
-      "fonte": "Al Jazeera",
-      "encontrada_em": "2026-08-12T19:54:12"
-    },
-    {
-      "titulo": "San Francisco-area estate sells for $70m in sign of AI-fueled wealth explosion",
-      "resumo": "New owner is said to be involved in AI industry, as new class of multimillionaires is entering the real estate race A luxury Lake Como-inspired estate in the San Francisco Bay Area has sold to a buyer",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://i.guim.co.uk/img/media/7d9d381f45fe902c8c8f6e6f526ebeb6b2c15afc/785_0_3702_2962/master/3702.jpg?width=140&quality=85&auto=format&fit=max&s=2b5a47cf697fac9020a4575caa7d7802",
-      "link": "https://www.theguardian.com/us-news/2026/aug/12/san-francisco-70m-estate",
-      "fonte": "The Guardian",
-      "encontrada_em": "2026-08-12T19:39:12"
     }
   ]
 }
