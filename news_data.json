@@ -861,6 +861,16 @@
   ],
   "nacionais": [
     {
+      "titulo": "“Corrida dos Bichos” supera filmes estrangeiros no Prime Video em 1ª semana",
+      "resumo": "Longa também figura entre produções mais vistas mundialmente na plataforma",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/corrida-dos-bichos-filme.webp?w=1200&amp;h=630&amp;crop=1",
+      "link": "https://www.cnnbrasil.com.br/pop/streaming/corrida-dos-bichos-supera-filmes-estrangeiros-no-prime-video-em-1a-semana/",
+      "fonte": "CNN Brasil",
+      "encontrada_em": "2026-08-13T13:12:18"
+    },
+    {
       "titulo": "Lula retomará regulamentação de apps se eleito, diz ministro à CNN",
       "resumo": "Em abril, Lula 3 desistiu de tema; Luiz Marinho afirma à CNN que regulamentação seria prioridade em eventual Lula 4",
       "categoria": "Amazonas",
@@ -907,16 +917,6 @@
       "autor": "Paulo Amazonas",
       "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/GettyImages-2289482537.jpg?w=1200&amp;h=630&amp;crop=1",
       "link": "https://www.cnnbrasil.com.br/internacional/sobe-para-273-o-numero-de-mortos-pelo-terremoto-na-colombia/",
-      "fonte": "CNN Brasil",
-      "encontrada_em": "2026-08-13T13:07:11"
-    },
-    {
-      "titulo": "Senado aprova R$ 3,6 bilhões em operações de crédito internacionais para SP",
-      "resumo": "Autorizações aprovadas garantem recursos para a rede hospitalar e para o programa de eletrificação da frota de ônibus da capital paulista",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/06/plenario-senado-federal.jpg?w=1200&amp;h=630&amp;crop=1",
-      "link": "https://www.cnnbrasil.com.br/politica/senado-aprova-r-36-bilhoes-em-operacoes-de-credito-internacionais-para-sp/",
       "fonte": "CNN Brasil",
       "encontrada_em": "2026-08-13T13:07:11"
     }
