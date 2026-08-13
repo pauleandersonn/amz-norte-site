@@ -202,6 +202,26 @@
     .nacint-item:hover h4 a{color:var(--red)}
     .nacint-fonte{font-size:10px;color:var(--gray);text-transform:uppercase;letter-spacing:.4px;margin-top:2px;font-weight:600}
 
+    /* EMPREGO — banda bem visível no início da página */
+    .empregos-band{background:linear-gradient(135deg,var(--green),#0a7a3f);border-radius:var(--radius);margin:18px auto 0;color:#fff;padding:22px 26px;position:relative;overflow:hidden}
+    .empregos-band::after{content:"\f0b1";font-family:"Font Awesome 6 Free";font-weight:900;position:absolute;right:-14px;bottom:-34px;font-size:160px;opacity:.08;transform:rotate(-15deg)}
+    .empregos-head{display:flex;align-items:center;gap:14px;flex-wrap:wrap;justify-content:space-between;margin-bottom:6px}
+    .empregos-head h2{font-size:clamp(18px,2.5vw,24px);text-transform:uppercase;letter-spacing:.5px;display:flex;align-items:center;gap:10px}
+    .empregos-sub{font-size:13px;opacity:.9;margin-bottom:16px}
+    .empregos-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:14px}
+    .vaga-card{background:rgba(255,255,255,.12);border:1px solid rgba(255,255,255,.25);border-radius:var(--radius);padding:14px 16px;transition:background .2s,transform .2s}
+    .vaga-card:hover{background:rgba(255,255,255,.2);transform:translateY(-2px)}
+    .vaga-card .vaga-tipo{font-size:10px;font-weight:800;text-transform:uppercase;letter-spacing:.6px;color:#fde047;margin-bottom:6px}
+    .vaga-card h3{font-size:14px;line-height:1.35;margin-bottom:6px}
+    .vaga-card p{font-size:12px;opacity:.92;line-height:1.5}
+    .vaga-card .vaga-meta{font-size:11px;margin-top:8px;font-weight:800;color:#d1fae5}
+    .vaga-card a{color:#fff}
+    .vaga-card a:hover{text-decoration:underline}
+    .empregos-empty{background:rgba(255,255,255,.1);border:1px dashed rgba(255,255,255,.45);border-radius:var(--radius);padding:16px 18px;font-size:13px;text-align:center}
+    .empregos-empty a{font-weight:800;text-decoration:underline;color:#fff}
+    .vaga-btn{background:#fff;color:var(--green)!important;font-weight:800;font-size:12px;text-transform:uppercase;letter-spacing:.5px;padding:10px 18px;border-radius:24px;transition:background .2s}
+    .vaga-btn:hover{background:#f1f5f9}
+
     /* ANIMATIONS */
     .fade-in{opacity:0;transform:translateY(20px);transition:opacity .6s,transform .6s}
     .fade-in.visible{opacity:1;transform:translateY(0)}
@@ -215,6 +235,7 @@
       .opinion-grid{grid-template-columns:1fr}
       .gallery-grid{grid-template-columns:repeat(2,1fr)}
       .stats-bar{grid-template-columns:repeat(2,1fr)}
+      .empregos-grid{grid-template-columns:1fr 1fr}
     }
     @media(max-width:640px){
       .topbar .container{height:auto;padding:8px 0;flex-direction:column;align-items:flex-start;gap:6px}
@@ -232,6 +253,7 @@
       .gallery-grid{grid-template-columns:1fr 1fr}
       .stats-bar{grid-template-columns:1fr 1fr}
       .opinion-grid{grid-template-columns:1fr}
+      .empregos-grid{grid-template-columns:1fr}
     }
   </style>
 </head>
@@ -280,6 +302,7 @@
     <div class="menu-btn" id="menuBtn"><i class="fas fa-bars"></i></div>
     <a href="#">Amazonas</a><a href="#">Manaus</a><a href="#">Segurança</a>
     <a href="#">Política</a><a href="#">Economia</a><a href="#">Meio Ambiente</a>
+    <a href="#emprego"><i class="fas fa-briefcase"></i> Emprego</a><a href="oportunidades.html">Oportunidades</a>
     <a href="#">Brasil</a><a href="#">Colunas</a><a href="#">Vídeos</a>
     <a class="urgent-nav" href="#"><i class="fas fa-bolt"></i> Urgente</a>
   </div>
@@ -293,6 +316,24 @@
     <span class="time" id="tickerTime">09:51</span>
   </div>
 </div>
+
+<!-- EMPREGO — seção bem visível no início da página -->
+<section class="container empregos-band fade-in" id="emprego">
+  <div class="empregos-head">
+    <h2><i class="fas fa-briefcase"></i> Emprego no Amazonas</h2>
+    <a class="vaga-btn" href="mailto:portalamznorte@gmail.com?subject=Divulgar%20vaga%20de%20emprego"><i class="fas fa-plus"></i> Divulgar vaga</a>
+  </div>
+  <p class="empregos-sub">Vagas e concursos abertos em Manaus e no interior — atualizados pelo AMZ Norte.</p>
+  <div class="empregos-grid" id="empregosGrid">
+            <div class="vaga-card">
+          <a href="https://g1.globo.com/am/amazonas/noticia/2026/08/05/concursos-publicos-no-amazonas-confira-as-vagas-abertas-e-previstas-para-segundo-semestre-de-2026.ghtml" target="_blank" rel="noopener"><div class="vaga-tipo">Concurso Público</div><h3>Concurso com 7.862 vagas para profissionais da educação</h3><p>Seduc-AM — Manaus e interior do AM</p><p>6.422 vagas para professores, 433 para pedagogos e 1.007 para apoio à educação. Níveis superior, médio e fundamental.</p><div class="vaga-meta"><i class="fas fa-arrow-right"></i> Ver vaga</div></a>
+        </div>        <div class="vaga-card">
+          <a href="https://g1.globo.com/am/amazonas/noticia/2026/08/05/concursos-publicos-no-amazonas-confira-as-vagas-abertas-e-previstas-para-segundo-semestre-de-2026.ghtml" target="_blank" rel="noopener"><div class="vaga-tipo">Concurso Público · R$ 27.270,61</div><h3>Auditor Fiscal de Tributos Municipais (20 vagas)</h3><p>Semef Manaus — Manaus - AM</p><p>Inscrições abertas até 27/08. Ensino superior completo, jornada de 30h semanais.</p><div class="vaga-meta"><i class="fas fa-arrow-right"></i> Ver vaga</div></a>
+        </div>        <div class="vaga-card">
+          <a href="https://g1.globo.com/am/amazonas/noticia/2026/08/05/concursos-publicos-no-amazonas-confira-as-vagas-abertas-e-previstas-para-segundo-semestre-de-2026.ghtml" target="_blank" rel="noopener"><div class="vaga-tipo">Concurso Público</div><h3>Analista e Especialista em Regulação e Fiscalização (9 vagas)</h3><p>Ageman (Prefeitura de Manaus) — Manaus - AM</p><p>Primeiro concurso da Agência Reguladora de Manaus, previsto para o 2º semestre de 2026. Cargos efetivos.</p><div class="vaga-meta"><i class="fas fa-arrow-right"></i> Ver vaga</div></a>
+        </div>
+  </div>
+</section>
 
 <!-- MAIN -->
 <main>
@@ -356,7 +397,12 @@
       <div class="sidebar-box">
         <div class="box-title red"><i class="fas fa-bolt"></i> Urgente</div>
         <div class="news-list" id="urgentesList">
-                    <a class="news-link" href="noticia.html?u=https%3A//www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/cristiano-ronaldo-se-solidariza-a-messi-apos-morte-do-pai/&t=Cristiano%20Ronaldo%20manifesta%20apoio%20a%20Messi%20ap%C3%B3s%20falecimento%20de%20seu%20pai&r=O%20jogador%20portugu%C3%AAs%20enviou%20mensagem%20de%20solidariedade%20ao%20craque%20argentino%2C%20que%20perdeu%20o%20pai%20Jorge%20Messi%20na%20%C3%BAltima%20sexta-feira.%20CR7%20tamb%C3%A9m%20viveu%20luto%20semelhante%20em%202005.&c=Seguran%C3%A7a&i=https%3A//admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/IMG_8928-e1786542461254.jpg%3Fw%3D1179%26amp%3Bh%3D630%26amp%3Bcrop%3D1" target="_blank" rel="noopener">
+                    <a class="news-link" href="noticia.html?u=https%3A//www.cnnbrasil.com.br/politica/analise-reaproximacao-de-lula-e-alcolumbre-envolve-stf-e-eleicao-do-senado/&t=Lula%20e%20Alcolumbre%20retomam%20di%C3%A1logo%20ap%C3%B3s%20meses%20de%20tens%C3%A3o%20pol%C3%ADtica&r=Presidente%20e%20senador%20buscam%20acordo%20que%20envolve%20pautas%20travadas%20no%20Congresso%20e%20disputa%20pela%20presid%C3%AAncia%20do%20Senado%20em%202027.%20Jantar%20intermediado%20por%20ministro%20do%20STF%20deu%20in%C3%ADcio%20%C3%A0%20reaproxima%C3%A7%C3%A3o.&c=Pol%C3%ADtica&i=https%3A//admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/02/54305052590_c81ecfa0d6_o-e1739983282367.jpg%3Fw%3D1200%26amp%3Bh%3D630%26amp%3Bcrop%3D1" target="_blank" rel="noopener">
+            <div class="news-item">
+              <span>Lula e Alcolumbre retomam diálogo após meses de tensão política</span>
+              <time>10:07</time>
+            </div>
+          </a>          <a class="news-link" href="noticia.html?u=https%3A//www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/cristiano-ronaldo-se-solidariza-a-messi-apos-morte-do-pai/&t=Cristiano%20Ronaldo%20manifesta%20apoio%20a%20Messi%20ap%C3%B3s%20falecimento%20de%20seu%20pai&r=O%20jogador%20portugu%C3%AAs%20enviou%20mensagem%20de%20solidariedade%20ao%20craque%20argentino%2C%20que%20perdeu%20o%20pai%20Jorge%20Messi%20na%20%C3%BAltima%20sexta-feira.%20CR7%20tamb%C3%A9m%20viveu%20luto%20semelhante%20em%202005.&c=Seguran%C3%A7a&i=https%3A//admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/IMG_8928-e1786542461254.jpg%3Fw%3D1179%26amp%3Bh%3D630%26amp%3Bcrop%3D1" target="_blank" rel="noopener">
             <div class="news-item">
               <span>Cristiano Ronaldo manifesta apoio a Messi após falecimento de seu pai</span>
               <time>10:03</time>
@@ -371,41 +417,36 @@
               <span>Autor de literatura infantil é detido por armazenar conteúdo de abuso sexual contra crianças</span>
               <time>09:41</time>
             </div>
-          </a>          <a class="news-link" href="noticia.html?u=https%3A//d24am.com/amazonas/incendio-atinge-kitnet-e-deixa-duas-criancas-mortas-na-zona-oeste-de-manaus/&t=Duas%20crian%C3%A7as%20morrem%20em%20inc%C3%AAndio%20de%20kitnet%20no%20Tarum%C3%A3&r=O%20fogo%20atingiu%20um%20im%C3%B3vel%20na%20comunidade%20Parque%20S%C3%A3o%20Pedro%20na%20tarde%20desta%20quarta-feira%20%2812%29.%20As%20v%C3%ADtimas%20estavam%20sozinhas%20no%20local%20quando%20o%20inc%C3%AAndio%20come%C3%A7ou.&c=Seguran%C3%A7a&i=https%3A//d24am.com/wp-content/uploads/2026/08/incendio_manaus_d24am-5.png" target="_blank" rel="noopener">
-            <div class="news-item">
-              <span>Duas crianças morrem em incêndio de kitnet no Tarumã</span>
-              <time>09:25</time>
-            </div>
           </a>          <a class="btn-outline" href="#">Ver Todas →</a>
         </div>
       </div>
       <div class="sidebar-box">
         <div class="box-title green"><i class="fas fa-fire"></i> Mais Lidas</div>
         <div class="news-list" id="maisLidasList">
-                    <a class="news-link" href="noticia.html?u=https%3A//www.cnnbrasil.com.br/nacional/sudeste/rj/mulher-e-baleada-dentro-de-onibus-durante-tiroteio-no-rio/&t=Passageira%20%C3%A9%20ferida%20a%20tiro%20dentro%20de%20%C3%B4nibus%20durante%20confronto%20na%20zona%20Norte%20do%20Rio&r=Uma%20mulher%20que%20estava%20em%20um%20coletivo%20da%20linha%20629%20foi%20atingida%20por%20disparo%20durante%20tiroteio%20entre%20policiais%20militares%20e%20criminosos%20em%20Vicente%20de%20Carvalho.%20Ela%20foi%20socorrida%20e%20encaminhada%20ao%20Hospital%20Estadual%20Get%C3%BAlio%20Vargas.&c=Amazonas&i=https%3A//admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/Tiroteio-zona-norte.jpg%3Fw%3D1200%26amp%3Bh%3D630%26amp%3Bcrop%3D1" target="_blank" rel="noopener">
+                    <a class="news-link" href="noticia.html?u=https%3A//www.cnnbrasil.com.br/politica/apos-avc-deputado-pedro-uczai-apresenta-melhora-mas-segue-internado/&t=Deputado%20Pedro%20Uczai%20tem%20melhora%20ap%C3%B3s%20sofrer%20AVC%20em%20Bras%C3%ADlia&r=O%20l%C3%ADder%20do%20PT%20na%20C%C3%A2mara%20dos%20Deputados%20sofreu%20um%20AVC%20na%20ter%C3%A7a-feira%20%2811%29%20durante%20reuni%C3%A3o%20de%20l%C3%ADderes%20e%20permanece%20hospitalizado%20em%20Bras%C3%ADlia%20com%20quadro%20est%C3%A1vel.&c=Amazonas&i=https%3A//admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/04/pedro-uczai.jpg%3Fw%3D1200%26amp%3Bh%3D630%26amp%3Bcrop%3D1" target="_blank" rel="noopener">
             <div class="rank-item">
               <span class="rank-num">1</span>
-              <p>Passageira é ferida a tiro dentro de ônibus durante confronto na zona Norte do Rio</p>
+              <p>Deputado Pedro Uczai tem melhora após sofrer AVC em Brasília</p>
             </div>
-          </a>          <a class="news-link" href="noticia.html?u=https%3A//www.cnnbrasil.com.br/esportes/tenis/joao-fonseca-e-beneficiado-e-subira-no-ranking-da-atp/&t=Tenista%20Jo%C3%A3o%20Fonseca%20alcan%C3%A7a%2026%C2%AA%20posi%C3%A7%C3%A3o%20no%20ranking%20mundial%20da%20ATP&r=O%20brasileiro%20de%2019%20anos%20sobe%20no%20ranking%20ap%C3%B3s%20somar%20100%20pontos%20nas%20oitavas%20de%20final%20do%20Masters%201000%20de%20Montreal.%20A%20atualiza%C3%A7%C3%A3o%20oficial%20acontece%20na%20segunda-feira%20%2817%29.&c=Amazonas&i=https%3A//admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/joao-fonseca-vence-casper-ruud-montreal-3-e1786156060803.jpg%3Fw%3D900%26amp%3Bh%3D507%26amp%3Bcrop%3D1" target="_blank" rel="noopener">
+          </a>          <a class="news-link" href="noticia.html?u=https%3A//www.cnnbrasil.com.br/style/beleza/pele-de-miss-marcella-kozinski-revela-rotina-e-favoritos-de-skincare/&t=Miss%20Universe%20Brasil%20revela%20segredos%20de%20skincare%20na%20prepara%C3%A7%C3%A3o%20para%20concurso%20internacional&r=Marcella%20Kozinski%2C%20de%2026%20anos%2C%20que%20representa%20a%20Ilha%20do%20Mel%20no%20Miss%20Universe%202026%2C%20compartilha%20sua%20rotina%20completa%20de%20cuidados%20com%20a%20pele%20adaptada%20%C3%A0%20agenda%20intensa%20de%20prepara%C3%A7%C3%A3o%20para%20o%20concurso%20em%20Porto%20Rico.&c=Amazonas&i=https%3A//admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/marcella.jpg%3Fw%3D1200%26amp%3Bh%3D630%26amp%3Bcrop%3D1" target="_blank" rel="noopener">
             <div class="rank-item">
               <span class="rank-num">2</span>
-              <p>Tenista João Fonseca alcança 26ª posição no ranking mundial da ATP</p>
+              <p>Miss Universe Brasil revela segredos de skincare na preparação para concurso internacional</p>
             </div>
-          </a>          <a class="news-link" href="noticia.html?u=https%3A//www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/cristiano-ronaldo-se-solidariza-a-messi-apos-morte-do-pai/&t=Cristiano%20Ronaldo%20manifesta%20apoio%20a%20Messi%20ap%C3%B3s%20falecimento%20de%20seu%20pai&r=O%20jogador%20portugu%C3%AAs%20enviou%20mensagem%20de%20solidariedade%20ao%20craque%20argentino%2C%20que%20perdeu%20o%20pai%20Jorge%20Messi%20na%20%C3%BAltima%20sexta-feira.%20CR7%20tamb%C3%A9m%20viveu%20luto%20semelhante%20em%202005.&c=Seguran%C3%A7a&i=https%3A//admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/IMG_8928-e1786542461254.jpg%3Fw%3D1179%26amp%3Bh%3D630%26amp%3Bcrop%3D1" target="_blank" rel="noopener">
+          </a>          <a class="news-link" href="noticia.html?u=https%3A//www.cnnbrasil.com.br/nacional/sul/sc/justica-mantem-justa-causa-de-homem-que-dancou-de-muletas-na-oktoberfest/&t=Trabalhador%20perde%20a%C3%A7%C3%A3o%20ap%C3%B3s%20ser%20demitido%20por%20dan%C3%A7ar%20de%20muletas%20na%20Oktoberfest%20durante%20licen%C3%A7a%20m%C3%A9dica&r=A%204%C2%AA%20Vara%20do%20Trabalho%20de%20Blumenau%20rejeitou%20pedido%20de%20funcion%C3%A1rio%20que%20foi%20flagrado%20festejando%20durante%20afastamento%20de%2090%20dias%20por%20fratura%20no%20tornozelo.%20Ele%20alegou%20direito%20ao%20lazer%2C%20mas%20Justi%C3%A7a%20considerou%20conduta%20incompat%C3%ADvel%20com%20repouso%20m%C3%A9dico.&c=Amazonas&i=https%3A//admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportEntertainmentNews/tagreuters.com2025binary_LYNXNPEL901ZV-BASEIMAGE.jpg%3Fw%3D800%26amp%3Bh%3D533%26amp%3Bcrop%3D1" target="_blank" rel="noopener">
             <div class="rank-item">
               <span class="rank-num">3</span>
-              <p>Cristiano Ronaldo manifesta apoio a Messi após falecimento de seu pai</p>
+              <p>Trabalhador perde ação após ser demitido por dançar de muletas na Oktoberfest durante licença médica</p>
             </div>
-          </a>          <a class="news-link" href="noticia.html?u=https%3A//www.cnnbrasil.com.br/saude/tecnologia-e-capaz-de-detectar-anemia-a-partir-dos-olhos-diz-estudo/&t=Intelig%C3%AAncia%20artificial%20identifica%20anemia%20por%20meio%20de%20an%C3%A1lise%20dos%20olhos&r=Sistema%20desenvolvido%20por%20hospitais%20da%20Coreia%20do%20Sul%20e%20Israel%20usa%20IA%20para%20detectar%20anemia%20atrav%C3%A9s%20do%20fluxo%20sangu%C3%ADneo%20ocular%2C%20dispensando%20coleta%20de%20sangue%20invasiva.&c=Amazonas&i=https%3A//admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/03/10315.jpg%3Fw%3D1200%26amp%3Bh%3D630%26amp%3Bcrop%3D1" target="_blank" rel="noopener">
+          </a>          <a class="news-link" href="noticia.html?u=https%3A//www.cnnbrasil.com.br/nacional/sudeste/sp/tocha-olimpica-dos-jogos-rio-2016-furtada-em-2021-e-recuperada-no-guaruja/&t=PM%20recupera%20tocha%20ol%C3%ADmpica%20da%20Rio%202016%20roubada%20h%C3%A1%20tr%C3%AAs%20anos%20no%20litoral%20de%20SP&r=A%20tocha%20pertence%20ao%20ex-atleta%20Felipe%20Almeida%20e%20foi%20encontrada%20abandonada%20dentro%20de%20uma%20caixa%20de%20papel%C3%A3o%20no%20Guaruj%C3%A1.%20O%20objeto%20havia%20sido%20furtado%20em%202021.&c=Amazonas&i=https%3A//admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/ENCONTRA-TOCHA-OLIMPICA.png%3Fw%3D1200%26amp%3Bh%3D630%26amp%3Bcrop%3D1" target="_blank" rel="noopener">
             <div class="rank-item">
               <span class="rank-num">4</span>
-              <p>Inteligência artificial identifica anemia por meio de análise dos olhos</p>
+              <p>PM recupera tocha olímpica da Rio 2016 roubada há três anos no litoral de SP</p>
             </div>
-          </a>          <a class="news-link" href="noticia.html?u=https%3A//www.bncamazonas.com.br/o-vai-vem-eleitoral/&t=Artigo%20analisa%20hist%C3%B3rico%20de%20contesta%C3%A7%C3%B5es%20eleitorais%20no%20Amazonas&r=Membro%20da%20Academia%20Amazonense%20de%20Letras%20tra%C3%A7a%20panorama%20das%20disputas%20por%20mandatos%20no%20estado%2C%20desde%20o%20per%C3%ADodo%20provincial%20at%C3%A9%20os%20dias%20atuais%2C%20destacando%20pr%C3%A1ticas%20como%20fraudes%20em%20atas%20e%20interfer%C3%AAncias%20em%20apura%C3%A7%C3%B5es.&c=Amazonas&i=https%3A//cdn.bncamazonas.com.br/wp-content/uploads/2026/08/vai-e-vem-eleitoral.jpg" target="_blank" rel="noopener">
+          </a>          <a class="news-link" href="noticia.html?u=https%3A//www.cnnbrasil.com.br/politica/analise-reaproximacao-de-lula-e-alcolumbre-envolve-stf-e-eleicao-do-senado/&t=Lula%20e%20Alcolumbre%20retomam%20di%C3%A1logo%20ap%C3%B3s%20meses%20de%20tens%C3%A3o%20pol%C3%ADtica&r=Presidente%20e%20senador%20buscam%20acordo%20que%20envolve%20pautas%20travadas%20no%20Congresso%20e%20disputa%20pela%20presid%C3%AAncia%20do%20Senado%20em%202027.%20Jantar%20intermediado%20por%20ministro%20do%20STF%20deu%20in%C3%ADcio%20%C3%A0%20reaproxima%C3%A7%C3%A3o.&c=Pol%C3%ADtica&i=https%3A//admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/02/54305052590_c81ecfa0d6_o-e1739983282367.jpg%3Fw%3D1200%26amp%3Bh%3D630%26amp%3Bcrop%3D1" target="_blank" rel="noopener">
             <div class="rank-item">
               <span class="rank-num">5</span>
-              <p>Artigo analisa histórico de contestações eleitorais no Amazonas</p>
+              <p>Lula e Alcolumbre retomam diálogo após meses de tensão política</p>
             </div>
           </a>          <a class="btn-outline" href="#">Ver Todas →</a>
         </div>
@@ -484,40 +525,40 @@
         <h3 class="nacint-titulo"><i class="fas fa-flag" style="margin-right:6px"></i>Nacional</h3>
         <div id="nacionaisList">
                     <div class="nacint-item">
-            <img src="https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png" alt="Explosão em instalação de energia no por" loading="lazy" onerror="this.style.display='none'"/>
+            <img src="https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2023/01/policia_alemanha.jpg?w=1080&amp;amp;h=608&amp;amp;crop=1" alt="Polícia alemã diz que objeto suspeito no" loading="lazy" onerror="this.style.display='none'"/>
             <div>
-              <h4><a href="noticia.html?u=https%3A//www.terra.com.br/noticias/mundo/explosao-em-instalacao-de-energia-no-porto-de-roterda-deixa-1-morto%2Cc48644c103a0cb8fbff31266d73de5b9xgmo0lvp.html&t=Explos%C3%A3o%20em%20instala%C3%A7%C3%A3o%20de%20energia%20no%20porto%20de%20Roterd%C3%A3%20deixa%201%20morto&r=Uma%20explos%C3%A3o%20em%20uma%20instala%C3%A7%C3%A3o%20de%20armazenamento%20de%20derivados%20%E2%80%8Bde%20petr%C3%B3leo%20no%20porto%20de%20%E2%80%8BRoterd%C3%A3%2C%20...&c=Seguran%C3%A7a&i=https%3A//s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png" target="_blank" rel="noopener">Explosão em instalação de energia no porto de Roterdã deixa 1 morto</a></h4>
-              <div class="nacint-fonte">Terra</div>
+              <h4><a href="noticia.html?u=https%3A//www.cnnbrasil.com.br/internacional/policia-alema-diz-que-objeto-suspeito-nos-trilhos-nao-continha-explosivos/&t=Pol%C3%ADcia%20alem%C3%A3%20diz%20que%20objeto%20suspeito%20nos%20trilhos%20n%C3%A3o%20continha%20explosivos&r=Pr%C3%A9dios%20pr%C3%B3ximos%20foram%20desocupados%20para%20que%20item%20fosse%20removido%20com%20seguran%C3%A7a&c=Seguran%C3%A7a&i=https%3A//admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2023/01/policia_alemanha.jpg%3Fw%3D1080%26amp%3Bh%3D608%26amp%3Bcrop%3D1" target="_blank" rel="noopener">Polícia alemã diz que objeto suspeito nos trilhos não continha explosivos</a></h4>
+              <div class="nacint-fonte">CNN Brasil</div>
             </div>
           </div>          <div class="nacint-item">
-            <img src="https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/13/1613961940-mother-crying-baby-bedroom-with-portrait-sad-son-looking-upset-nap-time-children-love-insomnia-with-baby-boy-comfort-by-loving-parent-embracing-bond-their-home-together-scaled.jpg" alt="Acidente com crianças: médico alerta par" loading="lazy" onerror="this.style.display='none'"/>
+            <img src="https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/06/WhatsApp-Image-2026-06-15-at-13.00.06.jpeg?w=1200&amp;amp;h=630&amp;amp;crop=1" alt="Ex-secretária presa por eutanásias “em m" loading="lazy" onerror="this.style.display='none'"/>
             <div>
-              <h4><a href="noticia.html?u=https%3A//www.terra.com.br/vida-e-estilo/comportamento/acidente-com-criancas-medico-alerta-para-7-erros-comuns%2Ce213f8dd4834482b129a969c2fe6e230u49jgp1x.html&t=Acidente%20com%20crian%C3%A7as%3A%20m%C3%A9dico%20alerta%20para%207%20erros%20comuns&r=De%20aplicar%20receitas%20caseiras%20em%20queimaduras%20a%20ignorar%20sinais%20depois%20de%20uma%20queda%2C%20algumas%20...&c=Amazonas&i=https%3A//p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/13/1613961940-mother-crying-baby-bedroom-with-portrait-sad-son-looking-upset-nap-time-children-love-insomnia-with-baby-boy-comfort-by-loving-parent-embracing-bond-their-home-together-scaled.jpg" target="_blank" rel="noopener">Acidente com crianças: médico alerta para 7 erros comuns</a></h4>
-              <div class="nacint-fonte">Terra</div>
+              <h4><a href="noticia.html?u=https%3A//www.cnnbrasil.com.br/nacional/sul/rs/ex-secretaria-presa-por-eutanasias-em-massa-e-solta-pela-justica-do-rs/&t=Ex-secret%C3%A1ria%20presa%20por%20eutan%C3%A1sias%20%E2%80%9Cem%20massa%E2%80%9D%20%C3%A9%20solta%20pela%20Justi%C3%A7a%20do%20RS&r=Pris%C3%A3o%20preventiva%20de%20Paula%20Lopes%20foi%20substitu%C3%ADda%20por%20medidas%20cautelares%3B%20ela%20e%20outras%20oito%20pessoas%20s%C3%A3o%20r%C3%A9s%20por%20esquema%20de%20eutan%C3%A1sia%20em%20massa%20de%20c%C3%A3es%20e%20gatos&c=Amazonas&i=https%3A//admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/06/WhatsApp-Image-2026-06-15-at-13.00.06.jpeg%3Fw%3D1200%26amp%3Bh%3D630%26amp%3Bcrop%3D1" target="_blank" rel="noopener">Ex-secretária presa por eutanásias “em massa” é solta pela Justiça do RS</a></h4>
+              <div class="nacint-fonte">CNN Brasil</div>
             </div>
           </div>          <div class="nacint-item">
-            <img src="https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/13/701007425-snapinstato756590127182200654543274744210490732934767782n.jpg" alt="Fraldas que devolvem dignidade: projeto " loading="lazy" onerror="this.style.display='none'"/>
+            <img src="https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportDomesticNews/tagreuters.com2026binary_LYNXMPEM4Q21M-BASEIMAGE.jpg?w=800&amp;amp;h=533&amp;amp;crop=1" alt="Após erro em biografia, Flávio publica d" loading="lazy" onerror="this.style.display='none'"/>
             <div>
-              <h4><a href="noticia.html?u=https%3A//www.terra.com.br/noticias/fraldas-que-devolvem-dignidade-projeto-transforma-cuidado-em-recomeco-para-caes-paraplegicos%2C5fc6f09bfa9c80f7dd0cd9ab66947fffgovc2o4l.html&t=Fraldas%20que%20devolvem%20dignidade%3A%20projeto%20transforma%20cuidado%20em%20recome%C3%A7o%20para%20c%C3%A3es%20parapl%C3%A9gicos&r=Criada%20por%20Geovany%20Lima%2C%20campanha%20arrecadou%20recursos%20para%20garantir%20fraldas%20a%20c%C3%A3es%20resgatados%20e%20...&c=Amazonas&i=https%3A//p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/13/701007425-snapinstato756590127182200654543274744210490732934767782n.jpg" target="_blank" rel="noopener">Fraldas que devolvem dignidade: projeto transforma cuidado em recomeço para cães paraplégicos</a></h4>
-              <div class="nacint-fonte">Terra</div>
+              <h4><a href="noticia.html?u=https%3A//www.cnnbrasil.com.br/politica/apos-erro-em-biografia-flavio-publica-diplomas-de-graduacao-e-mba/&t=Ap%C3%B3s%20erro%20em%20biografia%2C%20Fl%C3%A1vio%20publica%20diplomas%20de%20gradua%C3%A7%C3%A3o%20e%20MBA&r=Candidato%20divulgou%20certificados%20e%20afirmou%20que%20foram%20conquistados%20%22%C3%A0%20base%20de%20v%C3%A1rios%20anos%20de%20muito%20estudo%20e%20dedica%C3%A7%C3%A3o%22&c=Amazonas&i=https%3A//admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportDomesticNews/tagreuters.com2026binary_LYNXMPEM4Q21M-BASEIMAGE.jpg%3Fw%3D800%26amp%3Bh%3D533%26amp%3Bcrop%3D1" target="_blank" rel="noopener">Após erro em biografia, Flávio publica diplomas de graduação e MBA</a></h4>
+              <div class="nacint-fonte">CNN Brasil</div>
             </div>
           </div>          <div class="nacint-item">
-            <img src="https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png" alt="Fed deveria aumentar juros para conter c" loading="lazy" onerror="this.style.display='none'"/>
+            <img src="https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportBusinessNews/tagreuters.com2024binary_LYNXMPEK7C0HK-BASEIMAGE.jpg?w=800&amp;amp;h=560&amp;amp;crop=1" alt="Shopee lança entregas em até 4 horas, co" loading="lazy" onerror="this.style.display='none'"/>
             <div>
-              <h4><a href="noticia.html?u=https%3A//www.terra.com.br/economia/fed-deveria-aumentar-juros-para-conter-crescimento-e-inflacao-diz-presidente-do-fed-de-cleveland%2C450d7cdef04970026b741d9b9e48a8dem6ueso4k.html&t=Fed%20deveria%20aumentar%20juros%20para%20conter%20crescimento%20e%20infla%C3%A7%C3%A3o%2C%20diz%20presidente%20do%20Fed%20de%20Cleveland&r=A%20presidente%20%E2%80%8Cdo%20Federal%20Reserve%20de%20Cleveland%2C%20Beth%20Hammack%2C%20reiterou%20%E2%80%8Bnesta%20quinta-feira%20sua%20...&c=Amazonas&i=https%3A//s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png" target="_blank" rel="noopener">Fed deveria aumentar juros para conter crescimento e inflação, diz presidente do Fed de Cleveland</a></h4>
-              <div class="nacint-fonte">Terra</div>
+              <h4><a href="noticia.html?u=https%3A//www.cnnbrasil.com.br/economia/negocios/shopee-lanca-entregas-em-ate-4-horas-com-estreia-de-itens-frescos/&t=Shopee%20lan%C3%A7a%20entregas%20em%20at%C3%A9%204%20horas%2C%20com%20estreia%20de%20itens%20frescos&r=Servi%C3%A7o%20ser%C3%A1%20lan%C3%A7ado%20com%20mais%20de%204.000%20vendedores%20e%20incluir%C3%A1%20a%20venda%20de%20mantimentos%2C%20como%20alimentos%20frescos%2C%20perec%C3%ADveis%20e%20congelados%2C%20al%C3%A9m%20de%20produtos%20para%20animais%20de%20estima%C3%A7%C3%A3o%20e%20roupas&c=Amazonas&i=https%3A//admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportBusinessNews/tagreuters.com2024binary_LYNXMPEK7C0HK-BASEIMAGE.jpg%3Fw%3D800%26amp%3Bh%3D560%26amp%3Bcrop%3D1" target="_blank" rel="noopener">Shopee lança entregas em até 4 horas, com estreia de itens frescos</a></h4>
+              <div class="nacint-fonte">CNN Brasil</div>
             </div>
           </div>          <div class="nacint-item">
-            <img src="https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/13/hpjmdxzxgaamsoj-1hv8sbech65wm.jpg" alt="KitKat e Gabriel Bortoleto lançam edição" loading="lazy" onerror="this.style.display='none'"/>
+            <img src="https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportBusinessNews/tagreuters.com2026binary_LYNXMPEM231GI-BASEIMAGE.jpg?w=800&amp;amp;h=533&amp;amp;crop=1" alt="Ações da MRV disparam mais de 10% após r" loading="lazy" onerror="this.style.display='none'"/>
             <div>
-              <h4><a href="noticia.html?u=https%3A//www.terra.com.br/esportes/automobilismo/formula1/kitkat-e-gabriel-bortoleto-lancam-edicao-limitada-para-apoiar-formacao-de-jovens-mecanicos%2C70807319d0aef6a356affa5ed5950b71vee2z34d.html&t=KitKat%20e%20Gabriel%20Bortoleto%20lan%C3%A7am%20edi%C3%A7%C3%A3o%20limitada%20para%20apoiar%20forma%C3%A7%C3%A3o%20de%20jovens%20mec%C3%A2nicos&r=A%20KitKat%2C%20marca%20da%20Nestl%C3%A9%2C%20e%20o%20piloto%20brasileiro%20Gabriel%20Bortoleto%20anunciaram%20uma%20edi%C3%A7%C3%A3o%20...&c=Amazonas&i=https%3A//p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/13/hpjmdxzxgaamsoj-1hv8sbech65wm.jpg" target="_blank" rel="noopener">KitKat e Gabriel Bortoleto lançam edição limitada para apoiar formação de jovens mecânicos</a></h4>
-              <div class="nacint-fonte">Terra</div>
+              <h4><a href="noticia.html?u=https%3A//www.cnnbrasil.com.br/economia/mercado/acoes-da-mrv-disparam-mais-de-10-apos-resultados-do-2o-trimestre/&t=A%C3%A7%C3%B5es%20da%20MRV%20disparam%20mais%20de%2010%25%20ap%C3%B3s%20resultados%20do%202%C2%BA%20trimestre&r=Pap%C3%A9is%20da%20incorporadora%20s%C3%A3o%20destaque%20no%20Ibovespa%20depois%20de%20balan%C3%A7o%20ser%20bem%20recebido%20pelo%20mercado&c=Amazonas&i=https%3A//admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportBusinessNews/tagreuters.com2026binary_LYNXMPEM231GI-BASEIMAGE.jpg%3Fw%3D800%26amp%3Bh%3D533%26amp%3Bcrop%3D1" target="_blank" rel="noopener">Ações da MRV disparam mais de 10% após resultados do 2º trimestre</a></h4>
+              <div class="nacint-fonte">CNN Brasil</div>
             </div>
           </div>          <div class="nacint-item">
-            <img src="https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png" alt="Wall Street abre em alta enquanto invest" loading="lazy" onerror="this.style.display='none'"/>
+            <img src="https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/06/54577953034_2e527476b6_o-e1768142966238.jpg?w=1200&amp;amp;h=630&amp;amp;crop=1" alt="Reserva de vagas para mulheres em concur" loading="lazy" onerror="this.style.display='none'"/>
             <div>
-              <h4><a href="noticia.html?u=https%3A//www.terra.com.br/economia/wall-street-abre-em-alta-enquanto-investidores-avaliam-queda-nos-precos-do-petroleo-e-dados-de-inflacao%2C62bf68275ae69a4039031d62587a9a73qswwezkh.html&t=Wall%20Street%20abre%20em%20alta%20enquanto%20investidores%20avaliam%20queda%20nos%20pre%C3%A7os%20do%20petr%C3%B3leo%20e%20dados%20de%20infla%C3%A7%C3%A3o&r=%E2%80%8COs%20principais%20%C3%ADndices%20de%20%E2%80%8BWall%20Street%20%E2%80%8Babriram%20em%20alta%20%E2%81%A0nesta%20quinta-feira%2C%20%E2%80%8Cconforme%20a%20queda%20...&c=Amazonas&i=https%3A//s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png" target="_blank" rel="noopener">Wall Street abre em alta enquanto investidores avaliam queda nos preços do petróleo e dados de inflação</a></h4>
-              <div class="nacint-fonte">Terra</div>
+              <h4><a href="noticia.html?u=https%3A//www.cnnbrasil.com.br/nacional/sudeste/sp/reserva-de-vagas-para-mulheres-em-concurso-e-piso-e-nao-teto-decide-tjsp/&t=Reserva%20de%20vagas%20para%20mulheres%20em%20concurso%20%C3%A9%20piso%20e%20n%C3%A3o%20teto%2C%20decide%20TJSP&r=%C3%93rg%C3%A3o%20Especial%20do%20Tribunal%20determina%20que%20cota%20em%20vagas%20da%20Guarda%20Municipal%20%C3%A9%20garantia%20de%20m%C3%ADnimo%20e%20n%C3%A3o%20impede%20candidatas%20de%20disputarem%20ampla%20concorr%C3%AAncia&c=Amazonas&i=https%3A//admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/06/54577953034_2e527476b6_o-e1768142966238.jpg%3Fw%3D1200%26amp%3Bh%3D630%26amp%3Bcrop%3D1" target="_blank" rel="noopener">Reserva de vagas para mulheres em concurso é piso e não teto, decide TJSP</a></h4>
+              <div class="nacint-fonte">CNN Brasil</div>
             </div>
           </div>
         </div>
@@ -526,6 +567,24 @@
         <h3 class="nacint-titulo"><i class="fas fa-earth-americas" style="margin-right:6px"></i>Internacional</h3>
         <div id="internacionaisList">
                     <div class="nacint-item">
+            <img src="https://i.guim.co.uk/img/media/e94b5ac86ee614185a611e168ae25400eabbcaf6/95_0_1465_1172/master/1465.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6486a7a6207ae2dfb1b6087021f5402e" alt="Man, 102, dies after alleged assault in " loading="lazy" onerror="this.style.display='none'"/>
+            <div>
+              <h4><a href="noticia.html?u=https%3A//www.theguardian.com/uk-news/2026/aug/13/phillip-ormerod-102-dies-alleged-assault-crows-nest-cwmbran-wales&t=Man%2C%20102%2C%20dies%20after%20alleged%20assault%20in%20south%20Wales%20pub&r=Phillip%20Ormerod%20was%20taken%20to%20hospital%20after%20the%20incident%20in%20the%20Crow%E2%80%99s%20Nest%20in%20Cwmbran%20and%20later%20died%20of%20his%20injuries%20A%20102-year-old%20man%20has%20died%20of%20his%20injuries%20after%20allegedly%20being%20assaulted%20at%20a%20p&c=Amazonas&i=https%3A//i.guim.co.uk/img/media/e94b5ac86ee614185a611e168ae25400eabbcaf6/95_0_1465_1172/master/1465.jpg%3Fwidth%3D140%26quality%3D85%26auto%3Dformat%26fit%3Dmax%26s%3D6486a7a6207ae2dfb1b6087021f5402e" target="_blank" rel="noopener">Man, 102, dies after alleged assault in south Wales pub</a></h4>
+              <div class="nacint-fonte">The Guardian</div>
+            </div>
+          </div>          <div class="nacint-item">
+            <img src="https://i.guim.co.uk/img/media/692d185ec37a9baff6a107e241557ad43b98c1ff/719_0_7202_5760/master/7202.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0e8324163ac6484a66e6d7aed1caab14" alt="Will Trump’s next press secretary be a b" loading="lazy" onerror="this.style.display='none'"/>
+            <div>
+              <h4><a href="noticia.html?u=https%3A//www.theguardian.com/us-news/2026/aug/13/trump-press-secretary-lies-karoline-leavitt&t=Will%20Trump%E2%80%99s%20next%20press%20secretary%20be%20a%20better%20liar%20than%20the%20first%20five%3F&r=As%20Karoline%20Leavitt%20plans%20to%20step%20down%2C%20it%E2%80%99s%20apparent%20how%20the%20president%20above%20all%20values%20a%20readiness%20to%20twist%20the%20truth%20As%20Karoline%20Leavitt%20prepares%20to%20step%20down%20from%20her%20role%20as%20Donald%20Trump%20%E2%80%99s%20fifth&c=Amazonas&i=https%3A//i.guim.co.uk/img/media/692d185ec37a9baff6a107e241557ad43b98c1ff/719_0_7202_5760/master/7202.jpg%3Fwidth%3D140%26quality%3D85%26auto%3Dformat%26fit%3Dmax%26s%3D0e8324163ac6484a66e6d7aed1caab14" target="_blank" rel="noopener">Will Trump’s next press secretary be a better liar than the first five?</a></h4>
+              <div class="nacint-fonte">The Guardian</div>
+            </div>
+          </div>          <div class="nacint-item">
+            <img src="https://i.guim.co.uk/img/media/8b19015d07e0286b2a073dd3908850699a6921e3/299_0_3392_2714/master/3392.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4fe5e8e7be900d2a7fbaddd4b7ef9408" alt="Lottery ticket sold at Illinois gas stat" loading="lazy" onerror="this.style.display='none'"/>
+            <div>
+              <h4><a href="noticia.html?u=https%3A//www.theguardian.com/us-news/2026/aug/13/lottery-1bn-powerball-jackpot-illinois&t=Lottery%20ticket%20sold%20at%20Illinois%20gas%20station%20wins%20%241bn%20Powerball%20jackpot&r=Prize%20was%20eighth%20largest%20in%20Powerball%20history%20and%20followed%20three%20months%20without%20a%20top%20prize%20winner%20A%20Powerball%20ticket%20sold%20at%20a%20gas%20station%20in%20western%20Illinois%20was%20the%20sole%20winner%20of%20the%20%241bn%20jackpot%2C&c=Amazonas&i=https%3A//i.guim.co.uk/img/media/8b19015d07e0286b2a073dd3908850699a6921e3/299_0_3392_2714/master/3392.jpg%3Fwidth%3D140%26quality%3D85%26auto%3Dformat%26fit%3Dmax%26s%3D4fe5e8e7be900d2a7fbaddd4b7ef9408" target="_blank" rel="noopener">Lottery ticket sold at Illinois gas station wins $1bn Powerball jackpot</a></h4>
+              <div class="nacint-fonte">The Guardian</div>
+            </div>
+          </div>          <div class="nacint-item">
             <img src="https://static01.nyt.com/images/2026/08/13/multimedia/13int-oz-bishop-blmv/13int-oz-bishop-blmv-mediumSquareAt3X.jpg" alt="Former Catholic Bishop Is Convicted of S" loading="lazy" onerror="this.style.display='none'"/>
             <div>
               <h4><a href="noticia.html?u=https%3A//www.nytimes.com/2026/08/13/world/australia/bishop-christopher-saunders-abuse.html&t=Former%20Catholic%20Bishop%20Is%20Convicted%20of%20Sexual%20Abuse%2C%20Australian%20News%20Outlets%20Say&r=A%20court%20found%20Christopher%20Alan%20Saunders%2C%20the%20former%20bishop%20of%20Broome%2C%20guilty%20of%20sexually%20abusing%20two%20men%2C%20the%20Australian%20Broadcasting%20Corporation%20reported.&c=Amazonas&i=https%3A//static01.nyt.com/images/2026/08/13/multimedia/13int-oz-bishop-blmv/13int-oz-bishop-blmv-mediumSquareAt3X.jpg" target="_blank" rel="noopener">Former Catholic Bishop Is Convicted of Sexual Abuse, Australian News Outlets Say</a></h4>
@@ -542,24 +601,6 @@
             <div>
               <h4><a href="noticia.html?u=https%3A//www.theguardian.com/world/2026/aug/13/italian-businessman-valter-lavitola-bomb-attack-journalist-friend-sigfrido-ranucci&t=Italian%20businessman%20admits%20organising%20bombing%20at%20home%20of%20journalist%20and%20friend&r=Valter%20Lavitola%E2%80%99s%20lawyer%20says%20he%20had%20intended%20attack%20to%20boost%20security%20for%20investigative%20reporter%20Sigfrido%20Ranucci%20An%20Italian%20businessman%20has%20admitted%20to%20masterminding%20a%20bomb%20attack%20at%20the%20home%20of%20Sig&c=Amazonas&i=https%3A//i.guim.co.uk/img/media/2c6d39c7cd0f2f6d7be34d852a9de339c5634107/243_0_2398_1918/master/2398.jpg%3Fwidth%3D140%26quality%3D85%26auto%3Dformat%26fit%3Dmax%26s%3Dda7702d033156acfeb185016de2c3446" target="_blank" rel="noopener">Italian businessman admits organising bombing at home of journalist and friend</a></h4>
               <div class="nacint-fonte">The Guardian</div>
-            </div>
-          </div>          <div class="nacint-item">
-            <img src="https://i.guim.co.uk/img/media/2e518cd3a699ed054bf17b5fbbfef89140e666df/139_0_2885_2308/master/2885.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9cc32f966d0d1ffdfaf34ffba2652c63" alt="Piranha drama: boy, 8, hooks fearsome ex" loading="lazy" onerror="this.style.display='none'"/>
-            <div>
-              <h4><a href="noticia.html?u=https%3A//www.theguardian.com/us-news/2026/aug/13/boy-catches-piranha-pennsylvania&t=Piranha%20drama%3A%20boy%2C%208%2C%20hooks%20fearsome%20exotic%20fish%20in%20Pennsylvania%20lake&r=South%20American%20fish%20with%20razor-toothed%20jaws%20was%20probably%20released%20by%20someone%20who%20owned%20it%20as%20a%20pet%2C%20officials%20say%20An%20eight-year-old%20boy%20fishing%20for%20bass%20in%20Pennsylvania%20was%20stunned%20to%20catch%20something%20&c=Amazonas&i=https%3A//i.guim.co.uk/img/media/2e518cd3a699ed054bf17b5fbbfef89140e666df/139_0_2885_2308/master/2885.jpg%3Fwidth%3D140%26quality%3D85%26auto%3Dformat%26fit%3Dmax%26s%3D9cc32f966d0d1ffdfaf34ffba2652c63" target="_blank" rel="noopener">Piranha drama: boy, 8, hooks fearsome exotic fish in Pennsylvania lake</a></h4>
-              <div class="nacint-fonte">The Guardian</div>
-            </div>
-          </div>          <div class="nacint-item">
-            <img src="https://www.aljazeera.com/wp-content/uploads/2026/05/reuters_6a009075-1778421877.jpg?resize=1920%2C1440" alt="Spanish Super Cup will be held in Turkiy" loading="lazy" onerror="this.style.display='none'"/>
-            <div>
-              <h4><a href="noticia.html?u=https%3A//www.aljazeera.com/sports/2026/8/13/spanish-super-cup-will-be-held-in-turkiye-in-2027%3Ftraffic_source%3Drss&t=Spanish%20Super%20Cup%20will%20be%20held%20in%20Turkiye%20in%202027&r=The%20tournament%20from%20February%202%20to%207%20will%20feature%20Barcelona%2C%20Real%20Madrid%2C%20Atletico%20Madrid%20and%20Real%20Sociedad.&c=Amazonas&i=https%3A//www.aljazeera.com/wp-content/uploads/2026/05/reuters_6a009075-1778421877.jpg%3Fresize%3D1920%252C1440" target="_blank" rel="noopener">Spanish Super Cup will be held in Turkiye in 2027</a></h4>
-              <div class="nacint-fonte">Al Jazeera</div>
-            </div>
-          </div>          <div class="nacint-item">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e29/live/ae2701f0-9717-11f1-a7ab-8b30adf0800a.jpg" alt="‘Justified’ or ’no business being there’" loading="lazy" onerror="this.style.display='none'"/>
-            <div>
-              <h4><a href="noticia.html?u=https%3A//www.bbc.co.uk/news/videos/cgewp4ep9dro%3Fat_medium%3DRSS%26at_campaign%3Drss&t=%E2%80%98Justified%E2%80%99%20or%20%E2%80%99no%20business%20being%20there%E2%80%99%3F%20Tennessee%20munitions%20town%20loyal%20to%20Trump%20but%20divided%20on%20Iran&r=Hear%20from%20voters%20in%20Kingsport%2C%20home%20to%20a%20munitions%20plant%20supplying%20the%20US%20military%2C%20as%20tensions%20over%20the%20Iran%20war%20spark%20debate.&c=Amazonas&i=https%3A//ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e29/live/ae2701f0-9717-11f1-a7ab-8b30adf0800a.jpg" target="_blank" rel="noopener">‘Justified’ or ’no business being there’? Tennessee munitions town loyal to Trump but divided on Iran</a></h4>
-              <div class="nacint-fonte">BBC World</div>
             </div>
           </div>
         </div>
@@ -644,6 +685,7 @@
         <li><a href="#">Amazonas</a></li><li><a href="#">Manaus</a></li>
         <li><a href="#">Segurança</a></li><li><a href="#">Política</a></li>
         <li><a href="#">Economia</a></li><li><a href="#">Meio Ambiente</a></li>
+        <li><a href="#emprego">Emprego</a></li><li><a href="oportunidades.html">Oportunidades &amp; Negócios</a></li>
       </ul>
     </div>
     <div>
@@ -656,8 +698,8 @@
     </div>
     <div>
       <h4>Fale Conosco</h4>
-      <p><i class="fas fa-envelope" style="margin-right:6px"></i> contato@amznorte.com.br</p>
-      <p><i class="fas fa-phone" style="margin-right:6px"></i> (92) 99999-9999</p>
+      <p><i class="fab fa-whatsapp" style="margin-right:6px"></i><a href="https://wa.me/5592992565334" target="_blank" rel="noopener" style="color:#94a3b8">(92) 99256-5334</a></p>
+      <p><i class="fas fa-envelope" style="margin-right:6px"></i><a href="mailto:portalamznorte@gmail.com" style="color:#94a3b8">portalamznorte@gmail.com</a></p>
       <p><i class="fas fa-map-marker-alt" style="margin-right:6px"></i> Manaus - Amazonas - Brasil</p>
     </div>
   </div>

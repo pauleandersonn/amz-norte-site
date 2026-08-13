@@ -42,6 +42,13 @@
     .btn-fonte i{margin-left:8px}
     .sem-fonte{display:inline-block;margin-top:28px;color:var(--gray);font-size:13px;font-weight:600}
 
+    /* COMPARTILHAR NAS REDES */
+    .share-bar{margin-top:28px;padding-top:20px;border-top:1px solid var(--line);display:flex;align-items:center;gap:10px;flex-wrap:wrap}
+    .share-label{font-size:13px;font-weight:800;text-transform:uppercase;letter-spacing:.5px;color:var(--gray);margin-right:4px;display:flex;align-items:center;gap:6px}
+    .share-btn{display:inline-flex;align-items:center;gap:8px;padding:10px 16px;border-radius:24px;color:#fff;font-size:13px;font-weight:700;cursor:pointer;border:0;transition:transform .2s,opacity .2s}
+    .share-btn:hover{transform:translateY(-2px);opacity:.9;color:#fff}
+    .share-wa{background:#25d366}.share-fb{background:#1877f2}.share-x{background:#0f1419}.share-tg{background:#229ed9}.share-cp{background:var(--green)}
+
     footer{background:linear-gradient(180deg,#0a0c10,#111827);color:#94a3b8;padding:28px 0;font-size:13px;text-align:center}
     footer .logo{font-size:22px;justify-content:center;margin-bottom:8px;color:#fff}
     footer .logo span{color:#fff}
@@ -74,6 +81,16 @@
           Ler matéria completa <i class="fas fa-external-link-alt"></i>
         </a>
         <span class="sem-fonte" id="semFonte" style="display:none">Fonte: AMZ Norte</span>
+
+        <!-- Compartilhar nas redes sociais -->
+        <div class="share-bar">
+          <span class="share-label"><i class="fas fa-share-alt" style="color:var(--red)"></i> Compartilhar</span>
+          <a class="share-btn share-wa" id="shareWa" href="#" target="_blank" rel="noopener"><i class="fab fa-whatsapp"></i> WhatsApp</a>
+          <a class="share-btn share-fb" id="shareFb" href="#" target="_blank" rel="noopener"><i class="fab fa-facebook-f"></i> Facebook</a>
+          <a class="share-btn share-x" id="shareX" href="#" target="_blank" rel="noopener"><i class="fab fa-x-twitter"></i> X (Twitter)</a>
+          <a class="share-btn share-tg" id="shareTg" href="#" target="_blank" rel="noopener"><i class="fab fa-telegram-plane"></i> Telegram</a>
+          <button class="share-btn share-cp" id="shareCp" type="button"><i class="fas fa-link"></i> Copiar link</button>
+        </div>
       </div>
     </article>
   </div>
@@ -154,6 +171,40 @@
     } else {
       document.getElementById('semFonte').style.display = 'inline-block';
     }
+
+    // Compartilhar nas redes (usa a URL da própria página + título da matéria)
+    const urlAtual = location.href.split('#')[0];
+    const tituloShare = encodeURIComponent(item.titulo || 'AMZ Norte — Notícias do Amazonas');
+    const urlEnc = encodeURIComponent(urlAtual);
+    document.getElementById('shareWa').href = 'https://wa.me/?text=' + tituloShare + '%20' + urlEnc;
+    document.getElementById('shareFb').href = 'https://www.facebook.com/sharer/sharer.php?u=' + urlEnc;
+    document.getElementById('shareX').href = 'https://twitter.com/intent/tweet?text=' + tituloShare + '&url=' + urlEnc;
+    document.getElementById('shareTg').href = 'https://t.me/share/url?url=' + urlEnc + '&text=' + tituloShare;
+    document.getElementById('shareCp').onclick = function () {
+      const b = document.getElementById('shareCp');
+      function copiou() {
+        b.innerHTML = '<i class="fas fa-check"></i> Link copiado!';
+        setTimeout(function () {
+          b.innerHTML = '<i class="fas fa-link"></i> Copiar link';
+        }, 2000);
+      }
+      function copiarFallback() {
+        const ta = document.createElement('textarea');
+        ta.value = urlAtual;
+        ta.style.position = 'fixed';
+        ta.style.opacity = '0';
+        document.body.appendChild(ta);
+        ta.select();
+        try { document.execCommand('copy'); copiou(); } catch (e) {}
+        document.body.removeChild(ta);
+      }
+      if (navigator.clipboard && navigator.clipboard.writeText) {
+        navigator.clipboard.writeText(urlAtual).then(copiou).catch(copiarFallback);
+      } else {
+        copiarFallback();
+      }
+    };
+
   }
 
   const item = {

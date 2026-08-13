@@ -49,6 +49,7 @@ def load_news_data():
             "urgentes": [],
             "nacionais": [],
             "internacionais": [],
+            "empregos": [],
             "colunas": [
                 {"nome": "Bastidores da Política", "autor": "Paulo Amazonas"},
                 {"nome": "Observatório da Amazônia", "autor": "Paulo Amazonas"},
@@ -198,6 +199,38 @@ def generate_colunas_html(colunas):
     return html_out
 
 
+def generate_empregos_html(empregos):
+    """Banda de Emprego no topo da página: até 3 vagas/concursos (ou estado vazio).
+    Cada item: vaga, empresa, tipo, local, salario (opcional), descricao, link."""
+    if not empregos:
+        return ('<div class="empregos-empty">💼 Novas vagas chegando em breve. '
+                'Tem uma vaga ou concurso aberto? '
+                '<a href="mailto:portalamznorte@gmail.com?subject=Divulgar%20vaga%20de%20emprego">'
+                'Envie para o AMZ Norte</a>.</div>')
+    html_out = ""
+    for vaga in empregos[:3]:
+        link = (vaga.get("link") or "").strip()
+        meta = esc(vaga.get("tipo", "Emprego"))
+        if vaga.get("salario"):
+            meta += f" · {esc(vaga['salario'])}"
+        local = esc(vaga.get("local", "Manaus - AM"))
+        corpo = (
+            f'<div class="vaga-tipo">{meta}</div>'
+            f'<h3>{esc(vaga.get("vaga", vaga.get("titulo", "Vaga")))}</h3>'
+            f'<p>{esc(vaga.get("empresa", vaga.get("fonte", "")))} — {local}</p>'
+            + (f'<p>{esc(vaga["descricao"])}</p>' if vaga.get("descricao") else "")
+        )
+        if link:
+            corpo = (f'<a href="{esc(link)}" target="_blank" rel="noopener">'
+                     f'{corpo}<div class="vaga-meta"><i class="fas fa-arrow-right"></i> Ver vaga</div></a>')
+        else:
+            corpo += '<div class="vaga-meta"><i class="fas fa-map-marker-alt"></i> Manaus - AM</div>'
+        html_out += f'''        <div class="vaga-card">
+          {corpo}
+        </div>'''
+    return html_out
+
+
 def generate_nacint_html(noticias):
     """Seção compacta Nacional/Internacional: miniatura real + título pequeno + fonte."""
     html_out = ""
@@ -264,6 +297,7 @@ def update_index_html():
     colunas_html = generate_colunas_html(news_data["colunas"])
     nacionais_html = generate_nacint_html(news_data.get("nacionais", []))
     internacionais_html = generate_nacint_html(news_data.get("internacionais", []))
+    empregos_html = generate_empregos_html(news_data.get("empregos", []))
 
     replacements = {
         '<!-- Cards will be inserted here -->': cards_html,
@@ -273,6 +307,7 @@ def update_index_html():
         '<!-- Colunas will be inserted here -->': colunas_html,
         '<!-- Nacionais will be inserted here -->': nacionais_html,
         '<!-- Internacionais will be inserted here -->': internacionais_html,
+        '<!-- Empregos will be inserted here -->': empregos_html,
     }
 
     for placeholder, content in replacements.items():

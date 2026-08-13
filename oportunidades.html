@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Oportunidades &amp; Negócios | AMZ Norte</title>
+  <meta name="description" content="AMZ Norte - Oportunidades e negócios no Amazonas: cursos gratuitos, palestras, workshops, feiras e apresentações."/>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"/>
+  <style>
+    :root{--red:#c8102e;--green:#065f30;--green2:#0a7a3f;--dark:#0a0c10;--gray:#64748b;--line:#e2e8f0;--bg:#f1f5f9;--white:#fff;--radius:10px}
+    *{box-sizing:border-box;margin:0;padding:0}
+    body{font-family:Inter,system-ui,sans-serif;background:var(--bg);color:var(--dark);line-height:1.6}
+    a{color:inherit;text-decoration:none}
+    img{max-width:100%;display:block}
+    .container{width:min(1080px,calc(100% - 32px));margin:0 auto}
+
+    header{background:#fff;border-bottom:1px solid var(--line);position:sticky;top:0;z-index:100}
+    .barra{display:flex;align-items:center;justify-content:space-between;min-height:64px;gap:16px}
+    .logo{display:flex;align-items:baseline;gap:6px;font-weight:900;font-size:28px;letter-spacing:-1.5px;line-height:1}
+    .logo-red{color:var(--red)}
+    .logo-dark{color:var(--dark)}
+    .voltar{font-size:13px;font-weight:700;color:var(--green);background:rgba(6,95,48,.07);padding:8px 14px;border-radius:24px;transition:background .2s}
+    .voltar:hover{background:rgba(6,95,48,.14)}
+
+    main{padding:28px 0 48px}
+
+    .hero-page{background:linear-gradient(135deg,#0a0c10,#111827);border-radius:var(--radius);color:#fff;padding:44px 34px;position:relative;overflow:hidden;margin-bottom:28px}
+    .hero-page::after{content:"\f0b1";font-family:"Font Awesome 6 Free";font-weight:900;position:absolute;right:-12px;bottom:-36px;font-size:180px;opacity:.07;transform:rotate(-15deg)}
+    .hero-page .cat-badge{display:inline-block;background:var(--red);color:#fff;padding:6px 14px;font-weight:800;text-transform:uppercase;font-size:11px;border-radius:3px;letter-spacing:.5px;margin-bottom:16px}
+    .hero-page h1{font-size:clamp(26px,4vw,38px);letter-spacing:-.5px;line-height:1.15;margin-bottom:10px}
+    .hero-page p{color:#cbd5e1;font-size:15px;max-width:640px}
+
+    .op-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:18px}
+    .op-card{background:var(--white);border:1px solid var(--line);border-radius:var(--radius);padding:26px;display:flex;flex-direction:column;gap:10px;transition:transform .3s,box-shadow .3s;position:relative;overflow:hidden}
+    .op-card:hover{transform:translateY(-4px);box-shadow:0 10px 25px rgba(0,0,0,.1)}
+    .op-card::before{content:"";position:absolute;top:0;left:0;right:0;height:4px;background:var(--green)}
+    .op-card:nth-child(2)::before,.op-card:nth-child(5)::before{background:var(--red)}
+    .op-card:nth-child(3)::before{background:#b45309}
+    .op-icon{width:52px;height:52px;border-radius:12px;display:grid;place-items:center;font-size:22px;color:#fff;background:var(--green)}
+    .op-card:nth-child(2) .op-icon,.op-card:nth-child(5) .op-icon{background:var(--red)}
+    .op-card:nth-child(3) .op-icon{background:#b45309}
+    .op-card h2{font-size:17px;text-transform:uppercase;letter-spacing:.4px}
+    .op-card p{font-size:13.5px;color:#475569;flex:1}
+    .op-card .op-status{font-size:12px;font-weight:700;color:var(--green);background:rgba(6,95,48,.08);border-radius:20px;padding:6px 12px;display:inline-block;align-self:flex-start}
+    .op-card .op-status i{margin-right:6px}
+
+    .cta-band{background:linear-gradient(135deg,var(--green),#0a7a3f);border-radius:var(--radius);color:#fff;padding:30px 34px;margin-top:28px;text-align:center}
+    .cta-band h2{font-size:22px;margin-bottom:8px}
+    .cta-band p{font-size:14px;opacity:.95;margin-bottom:20px}
+    .cta-btns{display:flex;gap:14px;justify-content:center;flex-wrap:wrap}
+    .cta-btn{display:inline-flex;align-items:center;gap:10px;background:#fff;color:var(--green)!important;font-weight:800;padding:13px 22px;border-radius:26px;font-size:14px;transition:transform .2s,background .2s}
+    .cta-btn:hover{transform:translateY(-2px);background:#f1f5f9}
+    .cta-btn.whats{background:#25d366;color:#fff!important}
+    .cta-btn.whats:hover{background:#1ebe5d}
+
+    .info-strip{margin-top:28px;display:grid;grid-template-columns:repeat(3,1fr);gap:18px}
+    .info-box{background:var(--white);border:1px solid var(--line);border-radius:var(--radius);padding:20px;display:flex;gap:14px;align-items:flex-start}
+    .info-box i{font-size:20px;color:var(--red);margin-top:2px}
+    .info-box h3{font-size:14px;margin-bottom:4px}
+    .info-box p{font-size:13px;color:var(--gray)}
+    .info-box a{color:var(--green);font-weight:700}
+    .info-box a:hover{text-decoration:underline}
+
+    footer{background:linear-gradient(180deg,#0a0c10,#111827);color:#94a3b8;padding:28px 0;font-size:13px;text-align:center}
+    footer .logo{font-size:22px;justify-content:center;margin-bottom:8px;color:#fff}
+    footer .logo span{color:#fff}
+    footer .logo .logo-red{color:var(--red)}
+    footer .footer-contato{margin-top:10px;font-size:13px}
+    footer .footer-contato a{color:#94a3b8}
+    footer .footer-contato a:hover{color:#fff}
+
+    @media(max-width:900px){
+      .op-grid{grid-template-columns:1fr 1fr}
+      .info-strip{grid-template-columns:1fr}
+    }
+    @media(max-width:600px){
+      .op-grid{grid-template-columns:1fr}
+      .hero-page{padding:32px 22px}
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <div class="container barra">
+    <a class="logo" href="index.html"><span class="logo-red">AMZ</span><span class="logo-dark">NORTE</span></a>
+    <a class="voltar" href="index.html"><i class="fas fa-arrow-left" style="margin-right:6px"></i>Voltar ao site</a>
+  </div>
+</header>
+
+<main>
+  <div class="container">
+    <section class="hero-page">
+      <span class="cat-badge"><i class="fas fa-lightbulb"></i> Oportunidades</span>
+      <h1>Oportunidades &amp; Negócios no Amazonas</h1>
+      <p>Cursos gratuitos, palestras, workshops, feiras e apresentações em Manaus e no interior — reunidos em um só lugar pelo AMZ Norte.</p>
+    </section>
+
+    <section class="op-grid">
+      <div class="op-card">
+        <div class="op-icon"><i class="fas fa-graduation-cap"></i></div>
+        <h2>Cursos Gratuitos</h2>
+        <p>Capacitações profissionais, cursos técnicos e qualificações oferecidas por instituições públicas e privadas no estado.</p>
+        <span class="op-status"><i class="fas fa-hourglass-half"></i> Em atualização</span>
+      </div>
+      <div class="op-card">
+        <div class="op-icon"><i class="fas fa-microphone-alt"></i></div>
+        <h2>Palestras</h2>
+        <p>Encontros com especialistas, debates e rodas de conversa sobre empreendedorismo, tecnologia, saúde e sociedade.</p>
+        <span class="op-status"><i class="fas fa-hourglass-half"></i> Em atualização</span>
+      </div>
+      <div class="op-card">
+        <div class="op-icon"><i class="fas fa-tools"></i></div>
+        <h2>Workshops</h2>
+        <p>Oficinas práticas e imersões curtas para desenvolver novas habilidades em diferentes áreas profissionais.</p>
+        <span class="op-status"><i class="fas fa-hourglass-half"></i> Em atualização</span>
+      </div>
+      <div class="op-card">
+        <div class="op-icon"><i class="fas fa-store"></i></div>
+        <h2>Feiras</h2>
+        <p>Feiras de emprego, negócios, agricultura familiar e eventos de networking que conectam quem oferece e quem busca.</p>
+        <span class="op-status"><i class="fas fa-hourglass-half"></i> Em atualização</span>
+      </div>
+      <div class="op-card">
+        <div class="op-icon"><i class="fas fa-theater-masks"></i></div>
+        <h2>Apresentações</h2>
+        <p>Shows, exposições, espetáculos e mostras culturais gratuitas ou com entrada solidária em todo o Amazonas.</p>
+        <span class="op-status"><i class="fas fa-hourglass-half"></i> Em atualização</span>
+      </div>
+      <div class="op-card">
+        <div class="op-icon" style="background:var(--red)"><i class="fas fa-briefcase"></i></div>
+        <h2>Vagas de Emprego</h2>
+        <p>Concursos e seleções abertas em Manaus e no interior. Confira a seção Emprego na página inicial do portal.</p>
+        <span class="op-status" style="color:var(--red);background:rgba(200,16,46,.08)"><i class="fas fa-arrow-right"></i> <a href="index.html#emprego">Ver vagas</a></span>
+      </div>
+    </section>
+
+    <section class="cta-band">
+      <h2><i class="fas fa-bullhorn" style="margin-right:8px"></i> Quer divulgar uma oportunidade?</h2>
+      <p>Envie cursos, palestras, workshops, feiras ou apresentações para o AMZ Norte e alcance milhares de leitores do Amazonas.</p>
+      <div class="cta-btns">
+        <a class="cta-btn whats" href="https://wa.me/5592992565334?text=Ol%C3%A1!%20Quero%20divulgar%20uma%20oportunidade%20no%20AMZ%20Norte." target="_blank" rel="noopener"><i class="fab fa-whatsapp"></i> (92) 99256-5334</a>
+        <a class="cta-btn" href="mailto:portalamznorte@gmail.com?subject=Divulgar%20oportunidade%20-%20AMZ%20Norte"><i class="fas fa-envelope"></i> portalamznorte@gmail.com</a>
+      </div>
+    </section>
+
+    <section class="info-strip">
+      <div class="info-box">
+        <i class="fas fa-newspaper"></i>
+        <div>
+          <h3>Notícias do Amazonas</h3>
+          <p>Acompanhe a cobertura completa em <a href="index.html">AMZ Norte</a>.</p>
+        </div>
+      </div>
+      <div class="info-box">
+        <i class="fab fa-whatsapp"></i>
+        <div>
+          <h3>Fale Conosco</h3>
+          <p><a href="https://wa.me/5592992565334" target="_blank" rel="noopener">(92) 99256-5334</a> — WhatsApp</p>
+        </div>
+      </div>
+      <div class="info-box">
+        <i class="fas fa-envelope"></i>
+        <div>
+          <h3>E-mail</h3>
+          <p><a href="mailto:portalamznorte@gmail.com">portalamznorte@gmail.com</a></p>
+        </div>
+      </div>
+    </section>
+  </div>
+</main>
+
+<footer>
+  <div class="container">
+    <div class="logo"><span class="logo-red">AMZ</span><span>NORTE</span></div>
+    <p>Informação com credibilidade, compromisso com a verdade e com o povo do Amazonas.</p>
+    <p class="footer-contato">
+      <a href="https://wa.me/5592992565334" target="_blank" rel="noopener"><i class="fab fa-whatsapp" style="margin-right:4px"></i>(92) 99256-5334</a>
+      &nbsp;•&nbsp;
+      <a href="mailto:portalamznorte@gmail.com"><i class="fas fa-envelope" style="margin-right:4px"></i>portalamznorte@gmail.com</a>
+    </p>
+  </div>
+</footer>
+
+</body>
+</html>
