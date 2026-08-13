@@ -33,6 +33,21 @@ O `busca_noticias.py` (em `PROGRAMAÇÃO\publicação automatica`) roda a cada 5
 Publicação manual continua igual: `python publicar.py "Título" "Resumo" --cat X
 --img URL --link URL --texto "texto completo"` (a flag `--texto` é opcional).
 
+## 🆕 Recursos do site (2026-08-13)
+
+- **Compartilhar**: cada matéria (`noticia.html`) tem botões de WhatsApp,
+  Facebook, X (Twitter), Telegram e "Copiar link" no rodapé
+- **Seção Emprego** no topo do `index.html`: banda verde com até 3 vagas —
+  dados em `news_data.json` → `"empregos": [{vaga, empresa, tipo, local,
+  salario?, descricao, link}]` (gerenciar por lá; regenera via `post_news.py`)
+- **Página de Oportunidades & Negócios**: `oportunidades.html` (Cursos
+  Gratuitos, Palestras, Workshops, Feiras, Apresentações) + divulgação via
+  WhatsApp/e-mail
+- **Fale Conosco**: WhatsApp (92) 99256-5334 · portalamznorte@gmail.com
+- ⚠️ Mudanças estruturais do `index.html` vão **sempre no `template.html`**
+  (o index é regenerado a cada rodada — editar o index direto perde na
+  próxima atualização)
+
 ## �� 📁 Estrutura dos Arquivos
 
 - `index.html` - O site principal do AMZ Norte
