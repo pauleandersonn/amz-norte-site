@@ -861,6 +861,26 @@
   ],
   "nacionais": [
     {
+      "titulo": "Atores curtem praia em meio a torcida por casal em “Quem Ama Cuida”",
+      "resumo": "Pietro Antonelli e João Victor Gonçalves interpretam Felipe e Maurício, respectivamente, na trama das 9",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/pietro-antonelli-joao-victor.jpg?w=956&amp;h=506&amp;crop=1",
+      "link": "https://www.cnnbrasil.com.br/pop/celebridades/atores-curtem-praia-em-meio-a-torcida-por-casal-em-quem-ama-cuida/",
+      "fonte": "CNN Brasil",
+      "encontrada_em": "2026-08-13T13:47:17"
+    },
+    {
+      "titulo": "TSE manda instaurar inquérito para apurar filiação de Flávio ao Missão",
+      "resumo": "Partido que recebeu pedido de filiação fala em fraude; campanha do PL acionou a Polícia Judiciária",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/AF820260801004.jpg?w=1200&amp;h=630&amp;crop=1",
+      "link": "https://www.cnnbrasil.com.br/politica/tse-manda-instaurar-inquerito-para-apurar-filiacao-de-flavio-ao-missao/",
+      "fonte": "CNN Brasil",
+      "encontrada_em": "2026-08-13T13:47:17"
+    },
+    {
       "titulo": "Concurso Fotógrafo Oceânico do Ano anuncia finalistas; veja imagens",
       "resumo": "Fotos mostram peixes protegendo filhotes e o impacto humano sobre os mares",
       "categoria": "Amazonas",
@@ -897,26 +917,6 @@
       "autor": "Paulo Amazonas",
       "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/05/GettyImages-2274704906-e1778030595925.jpg?w=1200&amp;h=630&amp;crop=1",
       "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/efeito-di-maria-rosario-central-chega-a-mais-de-100-mil-socios/",
-      "fonte": "CNN Brasil",
-      "encontrada_em": "2026-08-13T13:37:18"
-    },
-    {
-      "titulo": "“Gag de la gag”: as inspirações de Flávia Alessandra em “Quem Ama Cuida”",
-      "resumo": "À CNN Brasil, a atriz conta sobre processo criativo para viver dondoca na trama de Walcyr Carrasco e Claudia Souto",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/seis-anos-se-passam-e-adriana-sai-da-prisao-em-quem-ama-cuida-6c21bbaa1806.jpg?w=1200&amp;h=630&amp;crop=1",
-      "link": "https://www.cnnbrasil.com.br/pop/tv/gag-de-la-gag-as-inspiracoes-de-flavia-alessandra-em-quem-ama-cuida/",
-      "fonte": "CNN Brasil",
-      "encontrada_em": "2026-08-13T13:37:18"
-    },
-    {
-      "titulo": "Bolsas da Europa têm queda com balanços e perspectiva de juros do Fed",
-      "resumo": "FTSE 100 fechou com recuo de 0,56% e DAX cedeu 0,15%",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/07/2022-01-06T173220Z_1_LYNXMPEI050PZ_RTROPTP_4_BOLSAEUROPA-FECHA.webp?w=1200&amp;h=630&amp;crop=1",
-      "link": "https://www.cnnbrasil.com.br/economia/mercado/bolsas-da-europa-tem-queda-com-balancos-e-perspectiva-de-juros-do-fed/",
       "fonte": "CNN Brasil",
       "encontrada_em": "2026-08-13T13:37:18"
     }
