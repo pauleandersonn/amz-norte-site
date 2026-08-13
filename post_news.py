@@ -339,8 +339,13 @@ def update_index_html():
     return True
 
 
-def add_new_noticia(titulo, resumo, categoria="amazonas", autor="Paulo Amazonas", imagem=None, link=None, fonte=None):
-    """Add a new news item to the database"""
+def add_new_noticia(titulo, resumo, categoria="amazonas", autor="Paulo Amazonas", imagem=None, link=None, fonte=None, texto=None, secao=None):
+    """Add a new news item to the database
+
+    texto: texto completo da matéria (reescrito pelo AMZ Norte). Quando presente,
+    a página noticia.html mostra o texto completo em vez de só o resumo.
+    secao: local / nacional / internacional (opcional, p/ organização).
+    """
     news_data = load_news_data()
 
     nova_noticia = {
@@ -352,6 +357,10 @@ def add_new_noticia(titulo, resumo, categoria="amazonas", autor="Paulo Amazonas"
         "hora": datetime.now().strftime('%H:%M'),
         "imagem": imagem or f"https://images.unsplash.com/photo-{abs(hash(titulo)) % 1000000000}?auto=format&fit=crop&w=700&q=80"
     }
+    if texto and texto.strip():
+        nova_noticia["texto"] = texto.strip()
+    if secao:
+        nova_noticia["secao"] = secao
     if link:
         nova_noticia["link"] = link
         nova_noticia["fonte"] = fonte or link.split("//")[-1].split("/")[0].replace("www.", "")

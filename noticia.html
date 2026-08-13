@@ -33,6 +33,10 @@
     .artigo h1{font-size:clamp(22px,4vw,34px);line-height:1.15;letter-spacing:-.5px;font-weight:900;margin-bottom:14px}
     .meta{color:var(--gray);display:flex;gap:8px;flex-wrap:wrap;align-items:center;font-size:13px;font-weight:500;margin-bottom:20px;padding-bottom:16px;border-bottom:1px solid var(--line)}
     .artigo .resumo{font-size:18px;line-height:1.7;color:#1f2937;white-space:pre-line}
+    .texto-completo{margin-top:22px;padding-top:18px;border-top:1px solid var(--line)}
+    .texto-completo .paragrafo{margin-bottom:16px;font-size:16px;line-height:1.75;color:#1f2937}
+    .texto-credito{margin-top:20px;padding:12px 16px;background:var(--bg);border-radius:6px;font-size:12px;color:var(--gray);line-height:1.5}
+    .texto-credito strong{color:var(--dark)}
     .btn-fonte{display:inline-block;margin-top:28px;background:var(--green);color:#fff;font-weight:800;padding:14px 24px;border-radius:var(--radius);font-size:14px;transition:background .2s}
     .btn-fonte:hover{background:var(--green2)}
     .btn-fonte i{margin-left:8px}
@@ -62,6 +66,10 @@
         <h1 id="artigoTitulo">Carregando notícia...</h1>
         <div class="meta" id="artigoMeta">● Por Paulo Amazonas</div>
         <div class="resumo" id="artigoResumo"></div>
+        <div class="texto-completo" id="artigoTexto" style="display:none">
+          <div id="artigoTextoConteudo"></div>
+          <p class="texto-credito">📰 Texto adaptado pelo <strong>AMZ Norte</strong> a partir da matéria original<span id="textoFonteNome"></span>. Fatos e informações preservados.</p>
+        </div>
         <a class="btn-fonte" id="btnFonte" href="#" target="_blank" rel="noopener" style="display:none">
           Ler matéria completa <i class="fas fa-external-link-alt"></i>
         </a>
@@ -109,6 +117,26 @@
 
     document.getElementById('artigoResumo').textContent =
       item.resumo || 'Resumo não disponível. Clique em "Ler matéria completa" para ver a matéria original.';
+
+    // Texto completo (quando a matéria foi reescrita/extraída)
+    const textoDiv = document.getElementById('artigoTexto');
+    const textoConteudo = document.getElementById('artigoTextoConteudo');
+    textoConteudo.innerHTML = '';
+    if (item.texto) {
+      item.texto.split(/\n{2,}/).forEach(function (p) {
+        p = p.trim();
+        if (p) {
+          const par = document.createElement('p');
+          par.className = 'paragrafo';
+          par.textContent = p;
+          textoConteudo.appendChild(par);
+        }
+      });
+      if (item.fonte) {
+        document.getElementById('textoFonteNome').textContent = ' — ' + item.fonte;
+      }
+      textoDiv.style.display = 'block';
+    }
 
     const ehHttp = function (url) {
       return /^https?:\/\//i.test(url || '');
@@ -168,6 +196,7 @@
         item.data = achou.data || '';
         item.hora = achou.hora || '';
         item.fonte = achou.fonte || '';
+        item.texto = achou.texto || '';
       }
       aplicar(item);
     })

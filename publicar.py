@@ -270,7 +270,7 @@ def remover(alvo: str, publicar: bool):
 
 def adicionar(titulo: str, resumo: str, categoria: str, autor: str,
               imagem: str | None, urgente: bool, publicar: bool,
-              link: str | None = None):
+              link: str | None = None, texto: str | None = None):
     titulo = titulo.strip()
     resumo = resumo.strip()
     if not titulo:
@@ -295,7 +295,8 @@ def adicionar(titulo: str, resumo: str, categoria: str, autor: str,
     imagem = (imagem or "").strip() or imagem_automatica()
 
     nova = post_news.add_new_noticia(titulo, resumo, cat_norm, autor or "Paulo Amazonas",
-                                     imagem, link=(link or "").strip() or None)
+                                     imagem, link=(link or "").strip() or None,
+                                     texto=texto)
     nova["data"] = data_pt()
 
     # grava a data em pt-BR (add_new_noticia usa nome do mês em inglês)
@@ -380,6 +381,7 @@ def main():
     parser.add_argument("--autor", default="Paulo Amazonas", help="Autor (default: Paulo Amazonas)")
     parser.add_argument("--img", "--imagem", dest="imagem", default=None, help="URL da imagem")
     parser.add_argument("--link", "--fonte", dest="link", default=None, help="URL da matéria original (fonte)")
+    parser.add_argument("--texto", dest="texto", default=None, help="Texto completo da matéria (reescrito pelo AMZ Norte)")
     parser.add_argument("--urgente", action="store_true", help="Marca como urgente")
     parser.add_argument("--listar", action="store_true", help="Lista as notícias publicadas")
     parser.add_argument("--remover", metavar="N|TÍTULO", help="Remove a notícia (número ou trecho do título)")
@@ -406,7 +408,7 @@ def main():
 
     if args.titulo:
         adicionar(args.titulo, args.resumo or "", args.categoria, args.autor,
-                  args.imagem, args.urgente, publicar, args.link)
+                  args.imagem, args.urgente, publicar, args.link, args.texto)
     else:
         assistente(publicar_default=publicar)
 
