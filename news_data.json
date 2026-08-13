@@ -923,6 +923,16 @@
   ],
   "internacionais": [
     {
+      "titulo": "Romania shuts only nuclear plant as heat causes huge drop in Danube River level",
+      "resumo": "The Cernavodă plant, which produces 20% of Romania's electricity, is not expected to be restarted within the next 10 days.",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73db/live/5d4d0250-9728-11f1-808c-532494fd22c7.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/cqlxpq5q799o?at_medium=RSS&at_campaign=rss",
+      "fonte": "BBC World",
+      "encontrada_em": "2026-08-13T12:22:15"
+    },
+    {
       "titulo": "Zambian president Hichilema votes as he seeks second term",
       "resumo": "Zambian president Hakainde Hichilema has cast his vote in the capital Lusaka, as he bids for a second term.",
       "categoria": "Amazonas",
@@ -971,16 +981,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c2el29e3m3xo?at_medium=RSS&at_campaign=rss",
       "fonte": "BBC World",
       "encontrada_em": "2026-08-13T12:02:15"
-    },
-    {
-      "titulo": "UK records hottest day of the year as fifth summer heatwave reaches peak",
-      "resumo": "Kew Gardens in London hits 38.1C and 40C-plus expected in parts of Europe with continent trapped under heat dome Europe heatwave – latest updates The UK has recorded its hottest day of the year so far",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://i.guim.co.uk/img/media/c0e013e0b0f2e0cd419f3fa880b11e723b2ac6fe/540_0_3990_3192/master/3990.jpg?width=140&quality=85&auto=format&fit=max&s=3dcfe6971db7e026101c8754f4123d35",
-      "link": "https://www.theguardian.com/environment/2026/aug/13/uk-records-hottest-day-of-the-year-fifth-summer-heatwave-peak",
-      "fonte": "The Guardian",
-      "encontrada_em": "2026-08-13T11:52:14"
     }
   ],
   "empregos": [
