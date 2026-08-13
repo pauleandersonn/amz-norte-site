@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>AMZ Norte | Vaga de Emprego</title>
+  <meta name="description" content="AMZ Norte - Vagas e concursos no Amazonas por Paulo Amazonas."/>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"/>
+  <style>
+    :root{--red:#c8102e;--green:#065f30;--green2:#0a7a3f;--dark:#0a0c10;--gray:#64748b;--line:#e2e8f0;--bg:#f1f5f9;--white:#fff;--radius:8px}
+    *{box-sizing:border-box;margin:0;padding:0}
+    body{font-family:Inter,system-ui,sans-serif;background:var(--bg);color:var(--dark);line-height:1.6}
+    a{color:inherit;text-decoration:none}
+    img{max-width:100%;display:block}
+    .container{width:min(820px,calc(100% - 32px));margin:0 auto}
+
+    header{background:#fff;border-bottom:1px solid var(--line);position:sticky;top:0;z-index:100}
+    .barra{display:flex;align-items:center;justify-content:space-between;min-height:64px;gap:16px}
+    .logo{display:flex;align-items:baseline;gap:6px;font-weight:900;font-size:28px;letter-spacing:-1.5px;line-height:1}
+    .logo-red{color:var(--red)}
+    .logo-dark{color:var(--dark)}
+    .voltar{font-size:13px;font-weight:700;color:var(--green);background:rgba(6,95,48,.07);padding:8px 14px;border-radius:24px;transition:background .2s}
+    .voltar:hover{background:rgba(6,95,48,.14)}
+
+    main{padding:28px 0 48px}
+    .artigo{background:var(--white);border:1px solid var(--line);border-radius:var(--radius);overflow:hidden;box-shadow:0 1px 3px rgba(0,0,0,.06)}
+    .artigo-corpo{padding:28px}
+    .cat-badge{display:inline-block;background:var(--green);color:#fff;padding:6px 14px;font-weight:800;text-transform:uppercase;font-size:11px;border-radius:3px;letter-spacing:.5px;margin-bottom:16px}
+    .artigo h1{font-size:clamp(22px,4vw,34px);line-height:1.15;letter-spacing:-.5px;font-weight:900;margin-bottom:14px}
+    .meta{color:var(--gray);display:flex;gap:8px;flex-wrap:wrap;align-items:center;font-size:13px;font-weight:500;margin-bottom:20px;padding-bottom:16px;border-bottom:1px solid var(--line)}
+    .salario-destaque{display:inline-block;background:rgba(6,95,48,.08);color:var(--green);font-weight:900;font-size:15px;padding:8px 16px;border-radius:24px;margin-bottom:18px}
+    .vaga-descricao{margin-top:4px}
+    .vaga-descricao .paragrafo{margin-bottom:16px;font-size:16px;line-height:1.75;color:#1f2937}
+    .info-vaga{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:12px;margin-bottom:22px;padding-bottom:18px;border-bottom:1px solid var(--line)}
+    .info-item{background:var(--bg);border:1px solid var(--line);border-radius:var(--radius);padding:12px 14px}
+    .info-item .rotulo{font-size:10px;font-weight:800;text-transform:uppercase;letter-spacing:.6px;color:var(--gray);margin-bottom:4px}
+    .info-item .valor{font-size:14px;font-weight:700}
+    /* COMPARTILHAR NAS REDES */
+    .share-bar{margin-top:28px;padding-top:20px;border-top:1px solid var(--line);display:flex;align-items:center;gap:10px;flex-wrap:wrap}
+    .share-label{font-size:13px;font-weight:800;text-transform:uppercase;letter-spacing:.5px;color:var(--gray);margin-right:4px;display:flex;align-items:center;gap:6px}
+    .share-btn{display:inline-flex;align-items:center;gap:8px;padding:10px 16px;border-radius:24px;color:#fff;font-size:13px;font-weight:700;cursor:pointer;border:0;transition:transform .2s,opacity .2s}
+    .share-btn:hover{transform:translateY(-2px);opacity:.9;color:#fff}
+    .share-wa{background:#25d366}.share-fb{background:#1877f2}.share-x{background:#0f1419}.share-tg{background:#229ed9}.share-cp{background:var(--green)}
+
+    .erro{padding:60px 20px;text-align:center}
+    .erro h2{font-size:22px;margin-bottom:10px}
+    .erro a{color:var(--green);font-weight:800}
+
+    footer{background:linear-gradient(180deg,#0a0c10,#111827);color:#94a3b8;padding:28px 0;font-size:13px;text-align:center}
+    footer .logo{font-size:22px;justify-content:center;margin-bottom:8px;color:#fff}
+    footer .logo span{color:#fff}
+    footer .logo .logo-red{color:var(--red)}
+  </style>
+</head>
+<body>
+
+<header>
+  <div class="container barra">
+    <a class="logo" href="index.html"><span class="logo-red">AMZ</span><span class="logo-dark">NORTE</span></a>
+    <a class="voltar" href="index.html#emprego"><i class="fas fa-arrow-left" style="margin-right:6px"></i>Voltar ao site</a>
+  </div>
+</header>
+
+<main>
+  <div class="container">
+    <article class="artigo">
+      <div class="artigo-corpo" id="vagaConteudo">
+        <span class="cat-badge" id="vagaBadge">Emprego</span>
+        <h1 id="vagaTitulo">Carregando vaga...</h1>
+        <div class="meta" id="vagaMeta"></div>
+        <div class="info-vaga" id="vagaInfo"></div>
+        <div class="salario-destaque" id="vagaSalario" style="display:none"></div>
+        <div class="vaga-descricao" id="vagaDescricao"></div>
+        <!-- Compartilhar nas redes sociais -->
+        <div class="share-bar">
+          <span class="share-label"><i class="fas fa-share-alt" style="color:var(--green)"></i> Compartilhar</span>
+          <a class="share-btn share-wa" id="shareWa" href="#" target="_blank" rel="noopener"><i class="fab fa-whatsapp"></i> WhatsApp</a>
+          <a class="share-btn share-fb" id="shareFb" href="#" target="_blank" rel="noopener"><i class="fab fa-facebook-f"></i> Facebook</a>
+          <a class="share-btn share-x" id="shareX" href="#" target="_blank" rel="noopener"><i class="fab fa-x-twitter"></i> X (Twitter)</a>
+          <a class="share-btn share-tg" id="shareTg" href="#" target="_blank" rel="noopener"><i class="fab fa-telegram-plane"></i> Telegram</a>
+          <button class="share-btn share-cp" id="shareCp" type="button"><i class="fas fa-link"></i> Copiar link</button>
+        </div>
+      </div>
+    </article>
+  </div>
+</main>
+
+<footer>
+  <div class="container">
+    <div class="logo"><span class="logo-red">AMZ</span><span>NORTE</span></div>
+    <p>Informação com credibilidade, compromisso com a verdade e com o povo do Amazonas.</p>
+  </div>
+</footer>
+
+<script>
+// Carrega a vaga pelo índice/título (vaga.html?v=0)
+(function () {
+  const q = new URLSearchParams(location.search);
+
+  function normalizar(s) {
+    return (s || '').toLowerCase()
+      .normalize('NFD').replace(/[\u0300-\u036f]/g, '')
+      .replace(/[^a-z0-9 ]/g, ' ').replace(/\s+/g, ' ').trim();
+  }
+
+  function mostrarErro() {
+    document.title = 'Vaga não encontrada | AMZ Norte';
+    const corpo = document.getElementById('vagaConteudo');
+    corpo.innerHTML = '<div class="erro"><h2>😕 Vaga não encontrada</h2>' +
+      '<p>A vaga pode ter saído do ar ou o link está desatualizado.</p>' +
+      '<p style="margin-top:18px"><a href="index.html#emprego">← Voltar para a seção Emprego</a></p></div>';
+  }
+
+  function aplicar(vaga) {
+    document.title = (vaga.vaga || vaga.titulo || 'Vaga de emprego') + ' | AMZ Norte';
+    document.getElementById('vagaTitulo').textContent = vaga.vaga || vaga.titulo || 'Vaga de emprego';
+    document.getElementById('vagaBadge').textContent = vaga.tipo || 'Emprego';
+
+    const meta = document.getElementById('vagaMeta');
+    meta.textContent = '';
+    const partes = ['● ' + (vaga.empresa || vaga.fonte || 'AMZ Norte')];
+    if (vaga.data) partes.push('Atualizado em ' + vaga.data);
+    partes.forEach(function (p, idx) {
+      if (idx > 0) {
+        const sep = document.createElement('span');
+        sep.textContent = ' • ';
+        meta.appendChild(sep);
+      }
+      const span = document.createElement('span');
+      span.textContent = p;
+      meta.appendChild(span);
+    });
+
+    // Cards de informação (empresa, local, tipo, salário)
+    const info = document.getElementById('vagaInfo');
+    info.innerHTML = '';
+    const itens = [
+      { rotulo: 'Empresa', valor: vaga.empresa || vaga.fonte || '—' },
+      { rotulo: 'Local', valor: vaga.local || 'Manaus - AM' },
+      { rotulo: 'Tipo', valor: vaga.tipo || 'Emprego' },
+      { rotulo: 'Atualizada', valor: vaga.data || '—' }
+    ];
+    itens.forEach(function (it) {
+      const div = document.createElement('div');
+      div.className = 'info-item';
+      div.innerHTML = '<div class="rotulo">' + it.rotulo + '</div>' +
+        '<div class="valor"></div>';
+      div.querySelector('.valor').textContent = it.valor;
+      info.appendChild(div);
+    });
+
+    // Salário em destaque
+    const sal = document.getElementById('vagaSalario');
+    if (vaga.salario) {
+      sal.textContent = '💰 ' + vaga.salario;
+      sal.style.display = 'inline-block';
+    } else {
+      sal.style.display = 'none';
+    }
+
+    // Descrição completa (parágrafos)
+    const desc = document.getElementById('vagaDescricao');
+    desc.innerHTML = '';
+    const texto = vaga.descricao || vaga.texto || '';
+    if (texto) {
+      texto.split(/\n{2,}/).forEach(function (p) {
+        p = p.trim();
+        if (p) {
+          const par = document.createElement('p');
+          par.className = 'paragrafo';
+          par.textContent = p;
+          desc.appendChild(par);
+        }
+      });
+    } else {
+      const par = document.createElement('p');
+      par.className = 'paragrafo';
+      par.textContent = 'Detalhes desta oportunidade disponíveis em breve. Para divulgar uma vaga ou tirar dúvidas, fale com a nossa equipe.';
+      desc.appendChild(par);
+    }
+
+    // Compartilhar nas redes (usa a URL da própria página)
+    const urlAtual = location.href.split('#')[0];
+    const tituloShare = encodeURIComponent(vaga.vaga || vaga.titulo || 'Vaga de emprego AMZ Norte');
+    const urlEnc = encodeURIComponent(urlAtual);
+    document.getElementById('shareWa').href = 'https://wa.me/?text=' + tituloShare + '%20' + urlEnc;
+    document.getElementById('shareFb').href = 'https://www.facebook.com/sharer/sharer.php?u=' + urlEnc;
+    document.getElementById('shareX').href = 'https://twitter.com/intent/tweet?text=' + tituloShare + '&url=' + urlEnc;
+    document.getElementById('shareTg').href = 'https://t.me/share/url?url=' + urlEnc + '&text=' + tituloShare;
+    document.getElementById('shareCp').onclick = function () {
+      const b = document.getElementById('shareCp');
+      function copiou() {
+        b.innerHTML = '<i class="fas fa-check"></i> Link copiado!';
+        setTimeout(function () {
+          b.innerHTML = '<i class="fas fa-link"></i> Copiar link';
+        }, 2000);
+      }
+      function copiarFallback() {
+        const ta = document.createElement('textarea');
+        ta.value = urlAtual;
+        ta.style.position = 'fixed';
+        ta.style.opacity = '0';
+        document.body.appendChild(ta);
+        ta.select();
+        let ok = false;
+        try { ok = document.execCommand('copy'); } catch (e) {}
+        document.body.removeChild(ta);
+        if (ok) { copiou(); }
+        else { window.prompt('Copie o link da vaga:', urlAtual); }
+      }
+      if (navigator.clipboard && navigator.clipboard.writeText) {
+        navigator.clipboard.writeText(urlAtual).then(copiou).catch(copiarFallback);
+      } else {
+        copiarFallback();
+      }
+    };
+  }
+
+  const indiceParam = parseInt(q.get('v'), 10);
+
+  fetch('news_data.json')
+    .then(function (r) { return r.json(); })
+    .then(function (data) {
+      const empregos = data.empregos || [];
+      let vaga = null;
+      if (!isNaN(indiceParam) && empregos[indiceParam]) {
+        vaga = empregos[indiceParam];
+      } else {
+        // fallback: casa por título normalizado (caso o índice mude)
+        const tituloParam = normalizar(q.get('t') || q.get('vaga'));
+        if (tituloParam) {
+          empregos.forEach(function (e) {
+            if (!vaga && normalizar(e.vaga || e.titulo) === tituloParam) vaga = e;
+          });
+        }
+      }
+      if (vaga) aplicar(vaga);
+      else mostrarErro();
+    })
+    .catch(function () { mostrarErro(); });
+})();
+</script>
+</body>
+</html>

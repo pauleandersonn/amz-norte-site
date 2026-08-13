@@ -201,15 +201,15 @@ def generate_colunas_html(colunas):
 
 def generate_empregos_html(empregos):
     """Banda de Emprego no topo da página: até 3 vagas/concursos (ou estado vazio).
-    Cada item: vaga, empresa, tipo, local, salario (opcional), descricao, link."""
+    Cada item: vaga, empresa, tipo, local, salario (opcional), descricao.
+    O card abre a página interna vaga.html?v=N (nada de link externo)."""
     if not empregos:
         return ('<div class="empregos-empty">💼 Novas vagas chegando em breve. '
                 'Tem uma vaga ou concurso aberto? '
                 '<a href="mailto:portalamznorte@gmail.com?subject=Divulgar%20vaga%20de%20emprego">'
                 'Envie para o AMZ Norte</a>.</div>')
     html_out = ""
-    for vaga in empregos[:3]:
-        link = (vaga.get("link") or "").strip()
+    for i, vaga in enumerate(empregos[:3]):
         meta = esc(vaga.get("tipo", "Emprego"))
         if vaga.get("salario"):
             meta += f" · {esc(vaga['salario'])}"
@@ -220,13 +220,12 @@ def generate_empregos_html(empregos):
             f'<p>{esc(vaga.get("empresa", vaga.get("fonte", "")))} — {local}</p>'
             + (f'<p>{esc(vaga["descricao"])}</p>' if vaga.get("descricao") else "")
         )
-        if link:
-            corpo = (f'<a href="{esc(link)}" target="_blank" rel="noopener">'
-                     f'{corpo}<div class="vaga-meta"><i class="fas fa-arrow-right"></i> Ver vaga</div></a>')
-        else:
-            corpo += '<div class="vaga-meta"><i class="fas fa-map-marker-alt"></i> Manaus - AM</div>'
+        corpo += ('<div class="vaga-meta"><i class="fas fa-arrow-right"></i> '
+                  'Ver detalhes</div>')
         html_out += f'''        <div class="vaga-card">
-          {corpo}
+          <a href="vaga.html?v={i}">
+            {corpo}
+          </a>
         </div>'''
     return html_out
 
