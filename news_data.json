@@ -922,6 +922,36 @@
   ],
   "internacionais": [
     {
+      "titulo": "Israeli Settlers Resume West Bank Siege After Eviction",
+      "resumo": "The military’s failure to keep extremists away from two Palestinian families trapped in their West Bank homes made clear the chaos gripping the Israeli-occupied territory.",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://static01.nyt.com/images/2026/08/13/multimedia/13int-westbank-1-gqkf/13int-westbank-1-gqkf-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/08/13/world/middleeast/west-bank-siege-israeli-settlers.html",
+      "fonte": "NYT",
+      "encontrada_em": "2026-08-13T15:47:15"
+    },
+    {
+      "titulo": "Israeli forces order families to evacuate homes in Qusra",
+      "resumo": "Israeli forces have ordered Palestinian families in the occupied West Bank to evacuate their homes in Qusra",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1786649748.jpg?resize=1714%2C1080&amp;quality=80",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/israeli-forces-order-families-to-evacuate-homes-in-qusra?traffic_source=rss",
+      "fonte": "Al Jazeera",
+      "encontrada_em": "2026-08-13T15:47:14"
+    },
+    {
+      "titulo": "Colombia earthquake: Hospitals adapt to save lives amid widespread damage",
+      "resumo": "Earthquake damages Cali&#039;s hospitals, forcing medical staff to prioritize critical patients as rescue teams work nonstop.",
+      "categoria": "Saúde",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://www.aljazeera.com/wp-content/uploads/2026/08/getty_6a7dc5c1a2-1786627521.jpg?resize=1920%2C1440",
+      "link": "https://www.aljazeera.com/news/2026/8/13/colombia-earthquake-hospitals-adapt-to-save-lives-amid-widespread-damage?traffic_source=rss",
+      "fonte": "Al Jazeera",
+      "encontrada_em": "2026-08-13T15:47:14"
+    },
+    {
       "titulo": "Baby Shark boy set to make K-pop debut",
       "resumo": "The boy from the most-watched YouTube video of all time is now 17 years old, and wants to be a K-pop star.",
       "categoria": "Amazonas",
@@ -950,36 +980,6 @@
       "link": "https://www.bbc.co.uk/news/videos/cy4k1jldxnwo?at_medium=RSS&at_campaign=rss",
       "fonte": "BBC World",
       "encontrada_em": "2026-08-13T15:42:16"
-    },
-    {
-      "titulo": "Donald Trump deputizes US private companies to conduct cyber-attacks",
-      "resumo": "President signed memorandum giving private sector a role in combating ‘transnational criminal organizations’ Donald Trump signed a memo on Wednesday that aims to give private companies the power to ca",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://i.guim.co.uk/img/media/ab09f7de50f87ca623b3d22c65cc76a5af851f77/532_0_5300_4243/master/5300.jpg?width=140&quality=85&auto=format&fit=max&s=fe0e9ec5ffd8548434fe7c0a81d68bd4",
-      "link": "https://www.theguardian.com/us-news/2026/aug/13/donald-trump-private-companies-cyber-attack",
-      "fonte": "The Guardian",
-      "encontrada_em": "2026-08-13T15:37:15"
-    },
-    {
-      "titulo": "Early-Onset El Niño",
-      "resumo": "The global weather disrupter appears to be taking a toll, and its peak could still be months away.",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "",
-      "link": "https://www.nytimes.com/2026/08/13/climate/el-nino-effects.html",
-      "fonte": "NYT",
-      "encontrada_em": "2026-08-13T15:32:14"
-    },
-    {
-      "titulo": "Family of Irish plane crash victim awarded $29m in damages",
-      "resumo": "A jury in Chicago in the US awarded the sum to Michael Ryan's family after his widow Naoise Connolly Ryan brought a civil suit against Boeing.",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82a7/live/6b9bb890-973e-11f1-96db-71945ca8cae7.jpg",
-      "link": "https://www.bbc.co.uk/news/articles/ce85p80nn2yo?at_medium=RSS&at_campaign=rss",
-      "fonte": "BBC World",
-      "encontrada_em": "2026-08-13T15:17:15"
     }
   ],
   "empregos": [
