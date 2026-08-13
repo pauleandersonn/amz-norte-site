@@ -14,6 +14,15 @@ O `busca_noticias.py` (em `PROGRAMAÇÃO\publicação automatica`) roda a cada 5
 - **Imagem**: foto real do RSS/og:image; quando não existe, gera **imagem por IA**
   (Pollinations) relacionada ao tema
 - **1 deploy por rodada**: salva tudo e faz um único `git push` + Netlify
+- **Título também reescrito pela IA** no padrão AMZ Norte (mesma chamada, sem
+  custo extra) — evita títulos duplicados no site
+- **Cotas por seção** no lugar do teto único: 30 locais + 12 nacionais + 8
+  internacionais por dia (`AMZ_MAX_LOCAL_DIA`/`AMZ_MAX_NACIONAL_DIA`/
+  `AMZ_MAX_INTERNACIONAL_DIA`) — cota do Amazonas sempre garantida
+- **Filtro de lixo leve**: previsão do tempo de cidades que não são AM,
+  horóscopo e loterias são descartados (futebol/BBB/fofoca continuam entrando)
+- **Relatório diário no Telegram**: no 1º run de cada dia novo, envia resumo do
+  dia anterior — total, contagem por seção, cota esgotada e destaques do dia
 - Ajustes rápidos no `.env` do pipeline: `AMZ_MAX_POSTS_DIA`, `AMZ_MAX_POSTS_RODADA`,
   `AMZ_MAX_HORAS` (frescor da notícia)
 
