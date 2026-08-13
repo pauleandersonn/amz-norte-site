@@ -861,6 +861,26 @@
   ],
   "nacionais": [
     {
+      "titulo": "Cruzeirense é condenado por matar torcedor do Atlético-MG em emboscada",
+      "resumo": "Integrante da Máfia Azul foi considerado culpado pela morte de torcedor do Galo; emboscada, ocorrida em 2021, ainda deixou nove feridos",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/07/APURACAO-CNN-2-3.png?w=1200&amp;h=630&amp;crop=1",
+      "link": "https://www.cnnbrasil.com.br/nacional/sudeste/mg/cruzeirense-e-condenado-por-matar-torcedor-do-atletico-mg-em-emboscada/",
+      "fonte": "CNN Brasil",
+      "encontrada_em": "2026-08-13T12:12:13"
+    },
+    {
+      "titulo": "Tarcísio e Haddad definem agendas de lançamento de campanha para o governo",
+      "resumo": "Governador inicia atos no domingo em Osasco; petista faz caminhada com mulheres na segunda-feira, no centro de São Paulo",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2022/10/asdasdasdasdasdas.jpg?w=1022&amp;h=592&amp;crop=1",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/tarcisio-e-haddad-definem-agendas-de-lancamento-de-campanha-para-o-governo/",
+      "fonte": "CNN Brasil",
+      "encontrada_em": "2026-08-13T12:12:13"
+    },
+    {
       "titulo": "Bruno Henrique desabafa após polêmica: \"Estou f..\"",
       "resumo": "Se ao apito final, Bruno Henrique visou não entrar em polêmicas após o empate em 1 a 1 entre ...",
       "categoria": "Amazonas",
@@ -897,26 +917,6 @@
       "autor": "Paulo Amazonas",
       "imagem": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/13/1644136946-vinhaperfil-1024x627.jpeg",
       "link": "https://www.terra.com.br/vida-e-estilo/partiu-correr/jurema-run-nos-estaremos-em-iretama-para-viver-a-primeira-edicao-da-corrida,626982e86e169cc55beef499c27f983ffix84yj9.html",
-      "fonte": "Terra",
-      "encontrada_em": "2026-08-13T12:07:12"
-    },
-    {
-      "titulo": "Clube Saudita fica perto de contratar Reijnders, do Manchester City, aponta jornal",
-      "resumo": "O Manchester City pode perder Tijjani Reijnders apenas um ano após a contratação do meio- ...",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/13/269920517-newcastle-united-v-manchester-city-emirates-fa-cup-fifth-round-1-2048x1366.jpg",
-      "link": "https://www.terra.com.br/esportes/futebol/internacional/clube-saudita-fica-perto-de-contratar-reijnders-do-manchester-city-aponta-jornal,74f90fc6a332a43b3dd416bc13c2b9a0pkzck8q3.html",
-      "fonte": "Terra",
-      "encontrada_em": "2026-08-13T12:07:12"
-    },
-    {
-      "titulo": "Se for necessária intervenção na Bahia ou no Ceará, faremos, diz Renan Santos",
-      "resumo": "O candidato do Missão à Presidência da República, Renan Santos, afirmou nesta quinta-feira, 13, ...",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
-      "link": "https://www.terra.com.br/noticias/brasil/politica/se-for-necessaria-intervencao-na-bahia-ou-no-ceara-faremos-diz-renan-santos,868e9c40f5bbf0d54d87bb7a832a113doph0eur6.html",
       "fonte": "Terra",
       "encontrada_em": "2026-08-13T12:07:12"
     }
