@@ -49,7 +49,7 @@ os.chdir(BASE_DIR)
 
 import post_news  # reutiliza a lógica já existente do projeto
 
-SITE_URL = "https://peaceful-salamander-0032d1.netlify.app"
+SITE_URL = "https://amznorte.netlify.app"
 
 MESES_PT = {
     1: "janeiro", 2: "fevereiro", 3: "março", 4: "abril",
