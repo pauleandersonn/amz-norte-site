@@ -922,6 +922,16 @@
   ],
   "internacionais": [
     {
+      "titulo": "Are We in the Singularity?",
+      "resumo": "Sam Altman just said AI has entered &quot;the singularity.&quot;",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://www.aljazeera.com/wp-content/uploads/2026/08/Screenshot-2026-08-13-at-21.01.33-1786651519.png?resize=1920%2C1440",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/are-we-in-the-singularity?traffic_source=rss",
+      "fonte": "Al Jazeera",
+      "encontrada_em": "2026-08-13T16:27:14"
+    },
+    {
       "titulo": "Flock Safety attempts to curb police abuse of its surveillance cameras after scandals",
       "resumo": "CEO announces measures after reports that system is used to target immigrants or people seeking out-of-state abortions For nearly a decade, the company Flock Safety has gradually built out a network o",
       "categoria": "Amazonas",
@@ -968,16 +978,6 @@
       "autor": "Paulo Amazonas",
       "imagem": "https://i.guim.co.uk/img/media/1686abe5f640eb9a2cfd3e2149756f71805f5eef/277_0_2945_2357/master/2945.jpg?width=140&quality=85&auto=format&fit=max&s=1ebe1b249d31b780c1bb7483165dfe16",
       "link": "https://www.theguardian.com/business/2026/aug/11/canadian-airline-cancels-flight-after-child-refuses-to-wear-seatbelt",
-      "fonte": "The Guardian",
-      "encontrada_em": "2026-08-13T16:17:15"
-    },
-    {
-      "titulo": "Scores dead in Colombia after powerful earthquake strikes west of country",
-      "resumo": "Quake of 7.4 magnitude collapses and severely damages buildings in several major cities, including Cali and Pereira More than 100 people died after a powerful earthquake struck western Colombia, colla",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://i.guim.co.uk/img/media/61a4b85fd3aa13e7e5f7eeb77da07c7d3e7a9ef3/693_0_3467_2773/master/3467.jpg?width=140&quality=85&auto=format&fit=max&s=5cfd7be58936229d9e68dc4ee2995445",
-      "link": "https://www.theguardian.com/world/2026/aug/10/colombia-earthquake-cali-pereira-choco",
       "fonte": "The Guardian",
       "encontrada_em": "2026-08-13T16:17:15"
     }
