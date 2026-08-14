@@ -920,6 +920,16 @@
   ],
   "internacionais": [
     {
+      "titulo": "A City Mobilizes Against a Stubborn Health Threat: Mosquitoes",
+      "resumo": "The city of Belém in northern Brazil was overwhelmed by an outbreak of dengue two years ago. An all-out municipal effort has reduced cases and may offer lessons to American cities.",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://static01.nyt.com/images/2026/08/12/multimedia/00dc-mosquitoes-top-01-zmbl/00dc-mosquitoes-top-01-zmbl-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/08/13/health/mosquitoes-brazil-health-threat.html",
+      "fonte": "NYT",
+      "encontrada_em": "2026-08-14T19:52:15"
+    },
+    {
       "titulo": "How a Long-Shot U.S. Oil Drilling Project Is Shaking Up Greenland",
       "resumo": "A U.S. oil company says it could be on the verge of a major discovery in Greenland. The proposal comes at a tricky time for the Arctic island, and locals are lining up against it.",
       "categoria": "Amazonas",
@@ -968,16 +978,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cwy0nlq1l2wo?at_medium=RSS&at_campaign=rss",
       "fonte": "BBC World",
       "encontrada_em": "2026-08-14T19:12:17"
-    },
-    {
-      "titulo": "Lebanon’s PM urges timetable for Israeli withdrawal as Hezbollah slams deal",
-      "resumo": "Hezbollah criticises Beirut’s approach, accusing officials of exposing the Lebanese army to risks and Israeli pressure.",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a7f8f6d3e51-1786744685.jpg?resize=1920%2C1440",
-      "link": "https://www.aljazeera.com/news/2026/8/14/lebanons-pm-urges-timetable-for-israeli-withdrawal-as-hezbollah-slams-deal?traffic_source=rss",
-      "fonte": "Al Jazeera",
-      "encontrada_em": "2026-08-14T19:12:14"
     }
   ],
   "empregos": [
