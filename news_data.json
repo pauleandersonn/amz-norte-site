@@ -922,6 +922,16 @@
   ],
   "internacionais": [
     {
+      "titulo": "Iris Murdoch artworks from secret room go on display – including self-portrait",
+      "resumo": "Second world war paintings and sketches show novelist ‘engaging with her world in a new light’ For decades, they lay in a secret room in her attic gathering dust. Now, newly discovered artworks by the",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://i.guim.co.uk/img/media/eafa2beb9786e4b3a9b8ce6e3b7e432ca673405b/94_800_2809_2247/master/2809.jpg?width=140&quality=85&auto=format&fit=max&s=1fb9f29f55b9cf6d7af47b3beeea3c72",
+      "link": "https://www.theguardian.com/books/2026/aug/14/iris-murdoch-artworks-secret-room-self-portrait-novelist",
+      "fonte": "The Guardian",
+      "encontrada_em": "2026-08-14T02:17:11"
+    },
+    {
       "titulo": "North Korea fumes over upcoming US-South Korea military drills",
       "resumo": "Pyongyang has accused the US of pushing the world &#039;to the brink of nuclear war&#039;.",
       "categoria": "Amazonas",
@@ -970,16 +980,6 @@
       "link": "https://www.theguardian.com/politics/2026/aug/14/nigel-farage-wins-clacton-byelection-count-binface-boycotted-major-parties",
       "fonte": "The Guardian",
       "encontrada_em": "2026-08-14T01:27:13"
-    },
-    {
-      "titulo": "Farage Wins Special U.K. Election That He Initiated, as Expected",
-      "resumo": "Nigel Farage, the leader of Reform U.K., won the parliamentary by-election in Clacton. Count Binface, his costumed main rival, came second.",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://static01.nyt.com/images/2026/08/14/multimedia/14int-uk-farage-results-hfo-hzpf/14int-uk-farage-results-hfo-hzpf-mediumSquareAt3X.jpg",
-      "link": "https://www.nytimes.com/2026/08/14/world/europe/farage-binface-clacton-result-byelection.html",
-      "fonte": "NYT",
-      "encontrada_em": "2026-08-14T01:22:12"
     }
   ],
   "empregos": [
