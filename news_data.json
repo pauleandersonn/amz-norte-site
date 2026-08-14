@@ -920,6 +920,26 @@
   ],
   "internacionais": [
     {
+      "titulo": "‘It’s due to climate’: the people of Stourbridge on the town’s wildfires",
+      "resumo": "Thursday has been described by residents as ‘horrendous’, ‘distressing’ and ‘one of the scariest days of my life’ People in Stourbridge have described the fires that devastated more than a dozen homes",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://i.guim.co.uk/img/media/2fc10f98bfe654d69815398e0f728a529e374b06/473_0_6619_5296/master/6619.jpg?width=140&quality=85&auto=format&fit=max&s=3c8c0da1dcdaca0122bf43556a9d53b6",
+      "link": "https://www.theguardian.com/environment/2026/aug/14/stourbridge-wildfires-climate-change",
+      "fonte": "The Guardian",
+      "encontrada_em": "2026-08-14T13:27:14"
+    },
+    {
+      "titulo": "People detained at Mississippi ICE facility sickened by gas leak and denied medical care",
+      "resumo": "Facility also had no air conditioning for two days amid extreme heat, according to one of the people detained People detained at an overcrowded federal immigration camp in Mississippi were sickened by",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://i.guim.co.uk/img/media/151e70ee00643ec2bd016879ca551b1d7dddd24c/172_0_1487_1190/master/1487.jpg?width=140&quality=85&auto=format&fit=max&s=05dfe831f8ff43af66951cb8b2c5b6a9",
+      "link": "https://www.theguardian.com/us-news/2026/aug/14/mississippi-ice-facility-gas-leak",
+      "fonte": "The Guardian",
+      "encontrada_em": "2026-08-14T13:27:14"
+    },
+    {
       "titulo": "Russian Blockade of Major Ukrainian Ports Threatens Global Grain Supplies",
       "resumo": "The deadly strikes are part of a long-running maritime battle with Ukraine and echo battles over other key shipping routes around the world.",
       "categoria": "Amazonas",
@@ -958,26 +978,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cly5p995ykko?at_medium=RSS&at_campaign=rss",
       "fonte": "BBC World",
       "encontrada_em": "2026-08-14T13:17:23"
-    },
-    {
-      "titulo": "Zambia elections haunted by ghost of incumbent president’s arch-rival",
-      "resumo": "Hakainde Hichilema is bidding for second term, but feud between him and family of Edgar Lungu, who died in 2025, continues As Zambians go to the polls on Thursday, the ghost of the current president’s",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://i.guim.co.uk/img/media/7fb7bd10ff23989b0737c787f520bde17fc8ae97/0_0_4731_3785/master/4731.jpg?width=140&quality=85&auto=format&fit=max&s=5f09ed662705d0ebc4d6d90bb21b8f5c",
-      "link": "https://www.theguardian.com/world/2026/aug/13/zambia-elections-hakainde-hichilema-haunted-ghost-incumbent-president-arch-rival-edgar-lungu",
-      "fonte": "The Guardian",
-      "encontrada_em": "2026-08-14T13:17:20"
-    },
-    {
-      "titulo": "French court blocks Macron’s social media ban for under-15s",
-      "resumo": "Constitutional council says curbs infringe freedom of expression and privacy as president vows to rework legislation France’s top court has blocked a ban on social media access for under-15s, ruling t",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://i.guim.co.uk/img/media/37d9d05fd3b13992e53c2a7f0210f723e9bc0a54/92_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=d48ac485a44d0aa8c919e574f740994f",
-      "link": "https://www.theguardian.com/world/2026/aug/14/french-court-blocks-macron-social-media-ban-under-15s",
-      "fonte": "The Guardian",
-      "encontrada_em": "2026-08-14T13:12:16"
     }
   ],
   "empregos": [
