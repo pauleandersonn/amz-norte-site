@@ -920,6 +920,16 @@
   ],
   "internacionais": [
     {
+      "titulo": "US forest service chief reportedly pressed staff for more support for wildfire near his ranch",
+      "resumo": "Michael Boren requested more aircraft for 7-acre Cabin Creek fire, some of which were diverted from other fires Michael Boren, the US undersecretary of agriculture for natural resources and environmen",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://i.guim.co.uk/img/media/53e9d220265b6a2b92065a106d9958c729a2a488/580_0_2974_2381/master/2974.jpg?width=140&quality=85&auto=format&fit=max&s=6f0c72bc81878458e0670f8afac62909",
+      "link": "https://www.theguardian.com/us-news/2026/aug/14/michael-boren-idaho-wildfire-ranch",
+      "fonte": "The Guardian",
+      "encontrada_em": "2026-08-14T15:07:14"
+    },
+    {
       "titulo": "Art offers young Gaza survivors solace and escape from war’s devastation",
       "resumo": "Young survivors of Israel&#039;s genocidal war in Gaza find safe spaces to process trauma and rediscover joy.",
       "categoria": "Amazonas",
@@ -968,16 +978,6 @@
       "link": "https://www.nytimes.com/2026/08/13/world/africa/ebola-congo-patient-dies.html",
       "fonte": "NYT",
       "encontrada_em": "2026-08-14T14:52:12"
-    },
-    {
-      "titulo": "Palestinians told to leave homes in village where Israeli settlers besieged houses",
-      "resumo": "The mayor of Qusra says Israeli troops have been telling families to leave their houses, using some as barracks.",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4905/live/113cee30-9736-11f1-870d-5d08c49babb2.jpg",
-      "link": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
-      "fonte": "BBC World",
-      "encontrada_em": "2026-08-14T14:32:14"
     }
   ],
   "empregos": [
