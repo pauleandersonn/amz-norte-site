@@ -922,6 +922,16 @@
   ],
   "internacionais": [
     {
+      "titulo": "At Iceland’s eclipse festival, a prayer for sea cucumbers and ‘generosity from the sky.’",
+      "resumo": "",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://static01.nyt.com/images/2026/08/12/multimedia/12europe-eclipse-iceland-festival-hmvj/12europe-eclipse-iceland-festival-hmvj-mediumSquareAt3X-v2.jpg",
+      "link": "https://www.nytimes.com/live/2026/08/12/world/solar-eclipse-2026-updates/at-icelands-eclipse-festival-prayer-for-sea-cucumbers-and-generosity-from-the-sky",
+      "fonte": "NYT",
+      "encontrada_em": "2026-08-14T04:17:10"
+    },
+    {
       "titulo": "Another Day of Extreme Heat Bakes Europe, but Relief Is on the Horizon",
       "resumo": "Friday is delivering another day of near record heat to the continent, but toward the end of the weekend temperatures could retreat to seasonal averages.",
       "categoria": "Amazonas",
@@ -970,16 +980,6 @@
       "link": "https://www.theguardian.com/environment/2026/aug/14/first-white-storks-released-bodmin-moor-cornwall",
       "fonte": "The Guardian",
       "encontrada_em": "2026-08-14T04:07:12"
-    },
-    {
-      "titulo": "Three firefighters and a child hospitalised in England as fires blaze in UK, Greece, France and Croatia – Europe live",
-      "resumo": "Four people taken to hospital in Stourbridge, West Midlands with 500 people evacuated in southwest France Four taken to hospital and homes damaged in West Midlands fires UK prime minister Andy Burnham",
-      "categoria": "Saúde",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://i.guim.co.uk/img/media/aee51df3bb1baf36a1030762dc522a7b1c4f3685/289_0_2428_1943/master/2428.jpg?width=140&quality=85&auto=format&fit=max&s=dc62aad5e9d4f6407b91117bcb07b297",
-      "link": "https://www.theguardian.com/world/live/2026/aug/14/fires-wildfires-extreme-heat-west-midlands-stourbridge-uk-greece-france-croatia-climate-crisis-europe-latest-news-updates",
-      "fonte": "The Guardian",
-      "encontrada_em": "2026-08-14T03:57:25"
     }
   ],
   "empregos": [
