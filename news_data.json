@@ -860,6 +860,36 @@
   ],
   "nacionais": [
     {
+      "titulo": "Ser Educacional planeja melhorar ticket médio e reduzir custo, diz CEO",
+      "resumo": "Grupo registra alta de 30,7% no lucro líquido e planeja expansão com novas unidades e redução de custos",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2021/06/21964_3BDE98DDC235E888-1.jpg?w=1200&amp;h=630&amp;crop=1",
+      "link": "https://www.cnnbrasil.com.br/economia/negocios/ser-educacional-planeja-melhorar-ticket-medio-e-reduzir-custo-diz-ceo/",
+      "fonte": "CNN Brasil",
+      "encontrada_em": "2026-08-13T20:17:13"
+    },
+    {
+      "titulo": "Novo sistema alertará Enel sobre curto em subestações para evitar apagões",
+      "resumo": "Projeto em Diadema usa fibra óptica e sensores para monitoramento remoto, prometendo operações mais seguras e eficientes",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/APURACAO-CNN.png?w=1200&amp;h=630&amp;crop=1",
+      "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/novo-sistema-alertara-enel-sobre-curto-em-subestacoes-para-evitar-apagoes/",
+      "fonte": "CNN Brasil",
+      "encontrada_em": "2026-08-13T20:17:13"
+    },
+    {
+      "titulo": "Neymar e Gabigol brilham, e Santos vira sobre Macará na Sul-Americana",
+      "resumo": "Camisa 10 participa dos dois gols, enquanto centroavante marca o 100º pelo Peixe; Arão completa a virada na Vila Belmiro",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/Santos-Macara-Neymar-e1786665204909.jpg?w=1080&amp;h=608&amp;crop=1",
+      "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/sulamericana/neymar-e-gabigol-brilham-e-santos-vira-sobre-macara-na-sul-americana/",
+      "fonte": "CNN Brasil",
+      "encontrada_em": "2026-08-13T20:17:13"
+    },
+    {
       "titulo": "Vasco joga bem, mas fica no empate contra o Olimpia pela Copa Sul-Americana",
       "resumo": "Clube carioca domina, cria as melhores chances em São Januário, mas não consegue marcar no jogo de ida das oitavas de final",
       "categoria": "Amazonas",
@@ -888,39 +918,19 @@
       "link": "https://www.cnnbrasil.com.br/eleicoes/candidato-a-deputado-pelo-rj-declara-quase-r-12-milhoes-em-dinheiro-vivo/",
       "fonte": "CNN Brasil",
       "encontrada_em": "2026-08-13T20:12:12"
-    },
-    {
-      "titulo": "CEO da Track&Field: Somos menos sensíveis a juros altos",
-      "resumo": "Empresa cresceu 15,5% na comparação anual e afirma ser menos sensível ao patamar elevado da taxa básica de juros",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/BR_CNN_130826_MONEY_FERNANDO_TRACANELLA_frame_14007.jpeg?w=1200&amp;h=630&amp;crop=1",
-      "link": "https://www.cnnbrasil.com.br/economia/negocios/ceo-da-trackfield-somos-menos-sensiveis-a-juros-altos/",
-      "fonte": "CNN Brasil",
-      "encontrada_em": "2026-08-13T20:12:12"
-    },
-    {
-      "titulo": "Mulher fica ferida após cair durante salto de parapente em Brumadinho (MG)",
-      "resumo": "Vítima sofreu a queda logo após iniciar o salto e caiu de uma altura de cinco metros, ela foi encontrada consciente e levada para uma unidade hospitalar da região",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/cai-parapente-mg.jpg?w=1200&amp;h=630&amp;crop=1",
-      "link": "https://www.cnnbrasil.com.br/nacional/sudeste/mg/mulher-fica-ferida-apos-cair-durante-salto-de-parapente-em-brumadinho-mg/",
-      "fonte": "CNN Brasil",
-      "encontrada_em": "2026-08-13T20:12:12"
-    },
-    {
-      "titulo": "Agro exporta US$ 16,3 bi em julho e bate recorde para o mês, aponta Mapa",
-      "resumo": "Valor representa um aumento de 5,4% frente ao total embarcado no mesmo mês de 2025; setor correspondeu a 47,9% do total embarcado em julho",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/17391b38-f8d8-4456-a8ec-4de6c5c16c2f.png?w=768&amp;h=467&amp;crop=1",
-      "link": "https://www.cnnbrasil.com.br/agro/agro-exporta-us-163-bi-em-julho-e-bate-recorde-para-o-mes-aponta-mapa/",
-      "fonte": "CNN Brasil",
-      "encontrada_em": "2026-08-13T20:12:12"
     }
   ],
   "internacionais": [
+    {
+      "titulo": "How Scientists Use Eclipses for Research",
+      "resumo": "It’s a chance not just to study the sun but also space weather, light pollution and even animal behavior.",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://static01.nyt.com/images/2026/08/12/world/12europe-eclipse-scientists-0001/12europe-eclipse-scientists-0001-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/08/12/world/europe/eclipse-scientists.html",
+      "fonte": "NYT",
+      "encontrada_em": "2026-08-13T20:17:16"
+    },
     {
       "titulo": "Thousands of Canadians call for US ambassador's expulsion",
       "resumo": "An online petition accusing Pete Hoekstra of diplomatic interference in Canadian domestic affairs has garnered more than 60,000 signatures.",
@@ -970,16 +980,6 @@
       "link": "https://www.aljazeera.com/news/2026/8/13/gaza-city-police-chief-killed-as-israel-pushes-on-with-deadly-strikes?traffic_source=rss",
       "fonte": "Al Jazeera",
       "encontrada_em": "2026-08-13T19:17:15"
-    },
-    {
-      "titulo": "Cármen Lúcia participa de evento gratuito da BBC em SP sobre desinformação",
-      "resumo": "Programação inclui painéis, oficinas e sessões práticas nas quais participantes aprenderão técnicas para identificar conteúdos desinformativos.",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/adcc/live/1fa26770-910f-11f1-b2ab-0dd01740f9f6.jpg",
-      "link": "https://www.bbc.com/portuguese/articles/c4gwzww3p0wo?at_medium=RSS&at_campaign=rss",
-      "fonte": "BBC Brasil",
-      "encontrada_em": "2026-08-13T19:17:14"
     }
   ],
   "empregos": [
