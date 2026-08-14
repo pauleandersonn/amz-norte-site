@@ -922,6 +922,16 @@
   ],
   "internacionais": [
     {
+      "titulo": "Watch: What happens if Luigi Mangione pleads guilty?",
+      "resumo": "Mangione is accused of killing UnitedHealthcare CEO Brian Thompson in New York - but any plea deal in his federal case could impact a separate state trial.",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/23c8/live/687cc7b0-9772-11f1-a7ab-8b30adf0800a.jpg",
+      "link": "https://www.bbc.co.uk/news/videos/c36dyep3k1ko?at_medium=RSS&at_campaign=rss",
+      "fonte": "BBC World",
+      "encontrada_em": "2026-08-14T04:47:13"
+    },
+    {
       "titulo": "Stolen Matisse artworks recovered by police in Brazil",
       "resumo": "A man is arrested after eight works by the French artist are found at a home in greater São Paulo.",
       "categoria": "Amazonas",
@@ -968,16 +978,6 @@
       "autor": "Paulo Amazonas",
       "imagem": "https://www.aljazeera.com/wp-content/uploads/2026/08/IMG_9280-1-1786613088.jpg?resize=1920%2C1440",
       "link": "https://www.aljazeera.com/features/longform/2026/8/14/the-gambian-women-turning-grief-into-song?traffic_source=rss",
-      "fonte": "Al Jazeera",
-      "encontrada_em": "2026-08-14T04:27:10"
-    },
-    {
-      "titulo": "Stolen Matisse art found in Brazil",
-      "resumo": "Stolen Matisse art found in Brazil",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://www.aljazeera.com/wp-content/uploads/2026/08/matisse-horizontal-thumb-1786693509.jpg?resize=1920%2C1080&amp;quality=80",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/stolen-matisse-art-found-in-brazil?traffic_source=rss",
       "fonte": "Al Jazeera",
       "encontrada_em": "2026-08-14T04:27:10"
     }
