@@ -922,6 +922,16 @@
   ],
   "internacionais": [
     {
+      "titulo": "Farage Wins Special U.K. Election That He Initiated, as Expected",
+      "resumo": "Nigel Farage, the leader of Reform U.K., won the parliamentary by-election in Clacton. Count Binface, his costumed main rival, came second.",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://static01.nyt.com/images/2026/08/14/multimedia/14int-uk-farage-results-hfo-hzpf/14int-uk-farage-results-hfo-hzpf-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/08/14/world/europe/farage-binface-clacton-result-byelection.html",
+      "fonte": "NYT",
+      "encontrada_em": "2026-08-14T01:22:12"
+    },
+    {
       "titulo": "Padres brasileiros são excomungados em meio a conflito entre Vaticano e grupo ultraconservador",
       "resumo": "Conflito antigo entre o Vaticano e a Fraternidade Sacerdotal São Pio X ressurgiu no pontificado do papa Leão 14, com um vai e vem de ameaças e provocações que levou a uma onda de excomunhões, uma das ",
       "categoria": "Amazonas",
@@ -968,16 +978,6 @@
       "autor": "Paulo Amazonas",
       "imagem": "https://www.aljazeera.com/wp-content/uploads/2026/08/tanker-1786674299.jpeg?resize=1200%2C630",
       "link": "https://www.aljazeera.com/economy/2026/8/14/salvage-work-begins-on-tanker-leaking-oil-off-oman-risk-firm-says?traffic_source=rss",
-      "fonte": "Al Jazeera",
-      "encontrada_em": "2026-08-14T01:07:10"
-    },
-    {
-      "titulo": "How much power does the US hold in Venezuela?",
-      "resumo": "After Maduro’s removal, US influence in Venezuela soared, but experts say Washington may still have to ‘own’ Venezuela.",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1786683794.jpg?resize=1920%2C1080&amp;quality=80",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/aje-onl-nf_venezuela_-how-much-power-does-the-us-really-hold-140826?traffic_source=rss",
       "fonte": "Al Jazeera",
       "encontrada_em": "2026-08-14T01:07:10"
     }
