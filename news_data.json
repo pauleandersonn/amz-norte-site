@@ -920,6 +920,36 @@
   ],
   "internacionais": [
     {
+      "titulo": "Mangione admits killing healthcare CEO and pleads guilty to federal charges",
+      "resumo": "\"I shot Mr Thompson in Manhattan and he died,\" the 28-year-old said after pleading guilty to charges of stalking resulting in death.",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/475a/live/4ceb94d0-9827-11f1-87b9-bf39baa58377.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/cwy0nlq1l2wo?at_medium=RSS&at_campaign=rss",
+      "fonte": "BBC World",
+      "encontrada_em": "2026-08-14T19:12:17"
+    },
+    {
+      "titulo": "Lebanon’s PM urges timetable for Israeli withdrawal as Hezbollah slams deal",
+      "resumo": "Hezbollah criticises Beirut’s approach, accusing officials of exposing the Lebanese army to risks and Israeli pressure.",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a7f8f6d3e51-1786744685.jpg?resize=1920%2C1440",
+      "link": "https://www.aljazeera.com/news/2026/8/14/lebanons-pm-urges-timetable-for-israeli-withdrawal-as-hezbollah-slams-deal?traffic_source=rss",
+      "fonte": "Al Jazeera",
+      "encontrada_em": "2026-08-14T19:12:14"
+    },
+    {
+      "titulo": "Houthi attack on port kills four eroding truce with Yemen’s government",
+      "resumo": "Six Houthi ballistic missiles struck Yemen&#039;s government-held al-Makha port, killing at least four.",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://www.aljazeera.com/wp-content/uploads/2026/08/Screenshot-2026-08-14-at-23.55.01-1786748191.png?resize=1200%2C630",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/houthi-attack-on-port-kills-four-eroding-truce-with-yemens-government?traffic_source=rss",
+      "fonte": "Al Jazeera",
+      "encontrada_em": "2026-08-14T19:12:14"
+    },
+    {
       "titulo": "Former Catholic Bishop Is Convicted of Sexual Abuse, Australian News Outlets Say",
       "resumo": "A court found Christopher Alan Saunders, the former bishop of Broome, guilty of sexually abusing two men, the Australian Broadcasting Corporation reported.",
       "categoria": "Amazonas",
@@ -948,36 +978,6 @@
       "link": "https://www.theguardian.com/us-news/2026/aug/14/trump-uss-abraham-lincoln-deployment",
       "fonte": "The Guardian",
       "encontrada_em": "2026-08-14T18:22:21"
-    },
-    {
-      "titulo": "Trump says he will declare Strait of Hormuz a US ‘territory’ amid Iran war",
-      "resumo": "Control over the strait has been a sticking point in the ongoing ceasefire negotiations between the US and Iran.",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a7f7db610a9-1786740150.jpg?resize=1920%2C1440",
-      "link": "https://www.aljazeera.com/news/2026/8/14/trump-says-he-will-declare-strait-of-hormuz-a-us-territory?traffic_source=rss",
-      "fonte": "Al Jazeera",
-      "encontrada_em": "2026-08-14T18:02:13"
-    },
-    {
-      "titulo": "Wildfires rage across Europe as heatwaves drive record temperatures",
-      "resumo": "Wildfires fuelled by record heat are ravaging Europe, burning around 500,000 hectares and forcing thousands to flee.",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1786744215.jpg?resize=1620%2C1080&amp;quality=80",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/wildfires-rage-across-europe-as-heatwaves-drive-record-temperatures?traffic_source=rss",
-      "fonte": "Al Jazeera",
-      "encontrada_em": "2026-08-14T18:02:13"
-    },
-    {
-      "titulo": "Israeli soldiers accused of supporting ‘terrorist’ settlers in Qusra",
-      "resumo": "Israeli soldiers accused of supporting ‘terrorist’ settlers in Qusra",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1786743909.jpg?resize=1920%2C1080&amp;quality=80",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/israeli-soldiers-accused-of-supporting-terrorist-settlers-in-qusra?traffic_source=rss",
-      "fonte": "Al Jazeera",
-      "encontrada_em": "2026-08-14T18:02:13"
     }
   ],
   "empregos": [
