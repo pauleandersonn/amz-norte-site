@@ -922,6 +922,16 @@
   ],
   "internacionais": [
     {
+      "titulo": "Almost 500 arrested on suspicion of starting wildfires in France this summer",
+      "resumo": "More than 180 minors among those detained, as firefighters tackle blazes across Europe amid record-breaking heatwave Almost 500 people have been arrested on suspicion of starting wildfires in France s",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://i.guim.co.uk/img/media/4e74294d7fc12a4f6c823be60d68e8ff43d71b97/984_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=40fcf0dd5ba505158e68d69f898bc919",
+      "link": "https://www.theguardian.com/world/2026/aug/14/arrested-suspicion-starting-wildfires-europe-france",
+      "fonte": "The Guardian",
+      "encontrada_em": "2026-08-14T08:32:12"
+    },
+    {
       "titulo": "Israeli soldiers prevent aid delivery to besieged Palestinians",
       "resumo": "Israeli soldiers prevent aid delivery to besieged Palestinians",
       "categoria": "Amazonas",
@@ -968,16 +978,6 @@
       "autor": "Paulo Amazonas",
       "imagem": "https://i.guim.co.uk/img/media/c8c031b42d32695f15aefaf4bf8734b72b488929/292_0_2917_2333/master/2917.jpg?width=140&quality=85&auto=format&fit=max&s=da9505dc0de9bc9a47a093f3d5d7a732",
       "link": "https://www.theguardian.com/uk-news/2026/aug/14/digested-week-humid-new-york-london-oven-blast-heat",
-      "fonte": "The Guardian",
-      "encontrada_em": "2026-08-14T07:57:14"
-    },
-    {
-      "titulo": "Benjamin Netanyahu describes UK as ‘first Islamic republic to get a nuclear weapon’",
-      "resumo": "Israeli PM criticised by political rival for attacking an international ally and overseeing ‘horrific diplomatic failure’ The Israeli prime minister, Benjamin Netanyahu, called the UK “the Islamic rep",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://i.guim.co.uk/img/media/591f91a5b5ea545e21d01705a2e603e5af74b717/1331_263_3399_2719/master/3399.jpg?width=140&quality=85&auto=format&fit=max&s=845b7bcb4017ae2e9a9ce0ed12ead242",
-      "link": "https://www.theguardian.com/world/2026/aug/14/benjamin-netanyahu-describes-uk-first-islamic-republic-to-get-nuclear-weapon",
       "fonte": "The Guardian",
       "encontrada_em": "2026-08-14T07:57:14"
     }
