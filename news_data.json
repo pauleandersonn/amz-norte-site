@@ -920,6 +920,16 @@
   ],
   "internacionais": [
     {
+      "titulo": "Hawaii braces for direct hit from Tropical Storm Lala",
+      "resumo": "Storm expected to strengthen to hurricane as state of emergency declared amid danger of ‘life-threatening’ floods Tropical Storm Lala is set to hit Hawaii’s Big Island with hurricane force in a matter",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://i.guim.co.uk/img/media/d79448fe73575d2a7537a08a8dca3110befa2224/683_0_2608_2087/master/2608.jpg?width=140&quality=85&auto=format&fit=max&s=4d64688e7e1b5b62f60fd8a28dda6609",
+      "link": "https://www.theguardian.com/us-news/2026/aug/14/hawaii-tropical-storm-lala",
+      "fonte": "The Guardian",
+      "encontrada_em": "2026-08-14T14:27:12"
+    },
+    {
       "titulo": "Luigi Mangione pleads guilty in UnitedHealthcare CEO’s killing",
       "resumo": "Luigi Mangione pleaded guilty to killing UnitedHealthcare CEO Brian Thompson in 2024.",
       "categoria": "Amazonas",
@@ -968,16 +978,6 @@
       "link": "https://www.nytimes.com/2026/08/13/world/europe/farage-binface-uk-byelection-clacton.html",
       "fonte": "NYT",
       "encontrada_em": "2026-08-14T14:07:17"
-    },
-    {
-      "titulo": "O que o Brasil ganha e o que arrisca ao acionar lei para revidar 'tarifaço' dos EUA?",
-      "resumo": "Instrumento criado para responder a barreiras comerciais pode fortalecer a posição do país diante dos EUA, mas também elevar tensões e custos econômicos.",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2adf/live/b6d428f0-9802-11f1-b2ab-0dd01740f9f6.png",
-      "link": "https://www.bbc.com/portuguese/articles/clyqr3xl765o?at_medium=RSS&at_campaign=rss",
-      "fonte": "BBC Brasil",
-      "encontrada_em": "2026-08-14T14:02:14"
     }
   ],
   "empregos": [
