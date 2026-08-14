@@ -922,6 +922,26 @@
   ],
   "internacionais": [
     {
+      "titulo": "Record-Breaking Rainfall Leaves Eight Dead and Thousands Stranded in Japan",
+      "resumo": "Three months’ worth of rain fell in just 12 hours in a region east of Tokyo, leading to deadly flooding.",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://static01.nyt.com/images/2026/08/14/multimedia/14int-Japan-Rain1-whlj/14int-Japan-Rain1-whlj-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/08/14/world/asia/chiba-tokyo-flood-rain-deaths.html",
+      "fonte": "NYT",
+      "encontrada_em": "2026-08-14T05:47:10"
+    },
+    {
+      "titulo": "A Bright Spot in Colombia as Rescuers Free Quake Victim",
+      "resumo": "",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://static01.nyt.com/images/2026/08/12/world/12int-colombia-quake-oneimage-promo/12int-colombia-quake-oneimage-promo-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/08/12/world/americas/colombia-earthquake-rescue.html",
+      "fonte": "NYT",
+      "encontrada_em": "2026-08-14T05:47:10"
+    },
+    {
       "titulo": "Albanian ambassador attacks UK right wing for ‘unhinged’ fixation with 2022 migrant surge",
       "resumo": "Exclusive: Uran Ferizi says arrivals fell sharply after short-lived influx, but country continues to be stigmatised The number of Albanians who travelled to Britain in small boats four years ago remai",
       "categoria": "Amazonas",
@@ -960,26 +980,6 @@
       "link": "https://www.aljazeera.com/sports/2026/8/14/la-liga-barcelona-key-talking-points-heading-into-new-2026-27-season?traffic_source=rss",
       "fonte": "Al Jazeera",
       "encontrada_em": "2026-08-14T05:42:11"
-    },
-    {
-      "titulo": "A causa do acidente em que homem quase foi sugado para fora de avião pela janela, segundo relatório preliminar",
-      "resumo": "Relatório preliminar de investigadores americanos afirma que uma das pás de uma turbina se partiu durante um voo da Grécia para a Alemanha no mês passado.",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1623/live/fc15b5f0-975d-11f1-9240-c70a29f1c818.jpg",
-      "link": "https://www.bbc.com/portuguese/articles/c70gy6l9xj1o?at_medium=RSS&at_campaign=rss",
-      "fonte": "BBC Brasil",
-      "encontrada_em": "2026-08-14T05:27:11"
-    },
-    {
-      "titulo": "A year after student protests that shook Valjevo: Serbia at a crossroads",
-      "resumo": "Protests that erupted after railway station canopy collapsed, killing 16, have grown into a broad social movement.",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-02-15T123321Z_620746058_RC2BMJAMG7UB_RTRMADP_3_SERBIA-PROTESTS-1786697555.jpg?resize=1920%2C1440",
-      "link": "https://www.aljazeera.com/news/2026/8/14/a-year-after-the-violence-in-serbias-valjevo-at-a-crossroads?traffic_source=rss",
-      "fonte": "Al Jazeera",
-      "encontrada_em": "2026-08-14T05:27:11"
     }
   ],
   "empregos": [
