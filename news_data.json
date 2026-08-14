@@ -922,6 +922,26 @@
   ],
   "internacionais": [
     {
+      "titulo": "US says dozens of countries helped China dodge Trump's tariffs",
+      "resumo": "A new US report said China had moved goods through nations with lower tariffs to dodge higher levies.",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8fc/live/12e1de40-977b-11f1-a8a8-85d648bbf002.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss",
+      "fonte": "BBC World",
+      "encontrada_em": "2026-08-13T23:22:17"
+    },
+    {
+      "titulo": "Nigel Farage says he won’t attend count in Clacton byelection against Count Binface - UK politics live",
+      "resumo": "The Reform UK leader will not be present at vote count in byelection he has tried to frame as the ‘people versus the establishment’ Nigel Farage set for decisive but arguably empty victory in Clacton ",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://i.guim.co.uk/img/media/929441377e73eae945c753baab34b1f0f03ab06f/60_35_4863_3890/master/4863.jpg?width=140&quality=85&auto=format&fit=max&s=27111efd014b53d945d04fd81f06c8ef",
+      "link": "https://www.theguardian.com/politics/live/2026/aug/14/clacton-byelection-nigel-farage-count-binface-reform-uk-finances-donations-investigation-latest-news-updates",
+      "fonte": "The Guardian",
+      "encontrada_em": "2026-08-13T23:22:14"
+    },
+    {
       "titulo": "Major Russian grain export terminals hit in Ukraine Black Sea port attack",
       "resumo": "Grain exports from both Russia and Ukraine are falling as both countries attack each other's shipping facilities and ports.",
       "categoria": "Amazonas",
@@ -958,26 +978,6 @@
       "autor": "Paulo Amazonas",
       "imagem": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a7e64a87910-1786668200.jpg?resize=1920%2C1440",
       "link": "https://www.aljazeera.com/news/2026/8/14/un-palestinian-ministry-condemn-israeli-settler-siege-of-west-bank-homes?traffic_source=rss",
-      "fonte": "Al Jazeera",
-      "encontrada_em": "2026-08-13T23:12:13"
-    },
-    {
-      "titulo": "Could Trump actually run for a third term as president?",
-      "resumo": "Donald Trump says the law stopping him from seeking a third presidential term is ‘very strong’.",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1786673508.jpg?resize=1920%2C1080&amp;quality=80",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/could-trump-actually-run-for-a-third-term-as-president?traffic_source=rss",
-      "fonte": "Al Jazeera",
-      "encontrada_em": "2026-08-13T23:12:13"
-    },
-    {
-      "titulo": "Bodycam captures lightning striking metres from US police officers",
-      "resumo": "Bodycam video captured the moment lightning struck just metres from South Dakota Highway Patrol officers.",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1786673219.jpg?resize=1200%2C675",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/08-14-2026-s-dakota-lightning-clip?traffic_source=rss",
       "fonte": "Al Jazeera",
       "encontrada_em": "2026-08-13T23:12:13"
     }
