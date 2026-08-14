@@ -920,6 +920,16 @@
   ],
   "internacionais": [
     {
+      "titulo": "Magnitude 7.7 earthquake strikes off coast of Indonesia and tsunami warning issued",
+      "resumo": "Quake hit Indonesia’s Flores region with a depth of 10km early on Saturday morning A powerful 7.7-magnitude quake has struck off the coast of Indonesia, the US Geological Survey said. No immediate cas",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://i.guim.co.uk/img/media/dc44d61d4ec85814b0a54cc9224e3591f3565202/35_0_3122_2500/master/3122.jpg?width=140&quality=85&auto=format&fit=max&s=c18c8da557d556b8fb1f867f24ac353a",
+      "link": "https://www.theguardian.com/world/2026/aug/15/indonesia-earthquake",
+      "fonte": "The Guardian",
+      "encontrada_em": "2026-08-14T19:57:15"
+    },
+    {
       "titulo": "A City Mobilizes Against a Stubborn Health Threat: Mosquitoes",
       "resumo": "The city of Belém in northern Brazil was overwhelmed by an outbreak of dengue two years ago. An all-out municipal effort has reduced cases and may offer lessons to American cities.",
       "categoria": "Amazonas",
@@ -968,16 +978,6 @@
       "link": "https://www.bbc.com/portuguese/articles/cedj4e8ljyyo?at_medium=RSS&at_campaign=rss",
       "fonte": "BBC Brasil",
       "encontrada_em": "2026-08-14T19:22:13"
-    },
-    {
-      "titulo": "Mangione admits killing healthcare CEO and pleads guilty to federal charges",
-      "resumo": "\"I shot Mr Thompson in Manhattan and he died,\" the 28-year-old said after pleading guilty to charges of stalking resulting in death.",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/475a/live/4ceb94d0-9827-11f1-87b9-bf39baa58377.jpg",
-      "link": "https://www.bbc.co.uk/news/articles/cwy0nlq1l2wo?at_medium=RSS&at_campaign=rss",
-      "fonte": "BBC World",
-      "encontrada_em": "2026-08-14T19:12:17"
     }
   ],
   "empregos": [
