@@ -860,6 +860,16 @@
   ],
   "nacionais": [
     {
+      "titulo": "Conheça três jovens que estão brilhando no Brasileirão Sub-17",
+      "resumo": "Aos 17 anos, Lucca Caramico já se destaca entre os principais goleadores da base brasileira. O ...",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/14/1674840795-2026-lucca-caramico-corinthians-sub-17-brasileirao.jpg",
+      "link": "https://www.terra.com.br/esportes/futebol/conheca-tres-jovens-que-estao-brilhando-no-brasileirao-sub-17,8040d5f00b46c44f0e43304fa9d5273dzgznvcvt.html",
+      "fonte": "Terra",
+      "encontrada_em": "2026-08-14T01:42:09"
+    },
+    {
       "titulo": "Nigel Farage recupera cadeira no parlamento do Reino Unido",
       "resumo": "Eleição foi convocada pelo próprio líder do Reform UK para fortalecer posição contra alegações de irregularidades financeiras",
       "categoria": "Amazonas",
@@ -908,19 +918,19 @@
       "link": "https://www.terra.com.br/esportes/futebol/mercado-da-bola/america-rn-negocia-joia-de-18-anos-com-clube-da-mls,2b3590fa5a97edaaa7a4d600b42e33ba6q6enj86.html",
       "fonte": "Terra",
       "encontrada_em": "2026-08-14T01:12:10"
-    },
-    {
-      "titulo": "Jogador do Athletico-PR é condenado a 13 anos de prisão por estupro",
-      "resumo": "O lateral Léo Derik, do Athletico-PR, foi condenado a 13 anos de prisão por dois crimes de ...",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/14/1143361130-paranaense-v-flamengo-brasileirao-2026-2-2048x1366.jpg",
-      "link": "https://www.terra.com.br/esportes/futebol/jogador-do-athletico-pr-e-condenado-a-13-anos-de-prisao-por-estupro,4350138aef1727b40da089b8a95f64c06ald4y0w.html",
-      "fonte": "Terra",
-      "encontrada_em": "2026-08-14T00:37:09"
     }
   ],
   "internacionais": [
+    {
+      "titulo": "'Unprecedented' rains in Japan kill four people",
+      "resumo": "The storm cut power to more than 20,000 households and left 7,000 people stranded at Tokyo's Narita airport.",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fc8/live/6099c440-9794-11f1-8c8f-61df390540c2.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss",
+      "fonte": "BBC World",
+      "encontrada_em": "2026-08-14T01:42:12"
+    },
     {
       "titulo": "Fear and attacks grip Taybeh, the last all-Christian town in the West Bank",
       "resumo": "Historic Taybeh, a Palestinian Christian town in the occupied West Bank, targeted by settlers in coordinated attacks.",
@@ -970,16 +980,6 @@
       "link": "https://www.bbc.com/portuguese/articles/cn8n9d24n43o?at_medium=RSS&at_campaign=rss",
       "fonte": "BBC Brasil",
       "encontrada_em": "2026-08-14T01:12:10"
-    },
-    {
-      "titulo": "Searches for UK homes with air conditioning more than double",
-      "resumo": "Most owners would consider installing aircon as heatwaves lead buyers to focus on ability to stay cool, Rightmove says Searches for homes for sale in the UK with air conditioning have more than double",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://i.guim.co.uk/img/media/292d806c500390765a079ddabadf648f72fdbba4/361_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=26d3ac36582080c6a613136a4ebdbf62",
-      "link": "https://www.theguardian.com/business/2026/aug/14/heatwaves-air-conditioning-searches-uk-rightmove",
-      "fonte": "The Guardian",
-      "encontrada_em": "2026-08-14T01:07:11"
     }
   ],
   "empregos": [
