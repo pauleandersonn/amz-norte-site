@@ -922,6 +922,16 @@
   ],
   "internacionais": [
     {
+      "titulo": "Eclipse solar total: as imagens do fenômeno que aconteceu nesta quarta-feira na Europa",
+      "resumo": "O eclipse acontece nesta quarta-feira (12/8) e poderá ser observado em partes da Europa, incluindo regiões da Espanha, de Portugal e da Islândia. No Brasil, não será visível.",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9928/live/15b7e9e0-9684-11f1-a7ab-8b30adf0800a.jpg",
+      "link": "https://www.bbc.com/portuguese/articles/cd9wp02y9y0o?at_medium=RSS&at_campaign=rss",
+      "fonte": "BBC Brasil",
+      "encontrada_em": "2026-08-13T20:52:12"
+    },
+    {
       "titulo": "Yemen faces highest risk of returning to war since 2022 truce, UN warns",
       "resumo": "Civilian and military casualties have been reported as fighting has flared across Yemeni front lines in recent days.",
       "categoria": "Amazonas",
@@ -970,16 +980,6 @@
       "link": "https://www.nytimes.com/2026/08/13/world/canada/plasma-blood-donation-deaths-grifols.html",
       "fonte": "NYT",
       "encontrada_em": "2026-08-13T19:47:14"
-    },
-    {
-      "titulo": "Engine Blade Hit Window on Jet When Man Was Partly Sucked Outside, Report Says",
-      "resumo": "The National Transportation Safety Board said it had found a bird’s remains and feathers on a broken engine.",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://static01.nyt.com/images/2026/08/13/multimedia/13xp-plane-investigation-plane-zpml/13xp-plane-investigation-plane-zpml-mediumSquareAt3X.jpg",
-      "link": "https://www.nytimes.com/2026/08/13/world/europe/ryanair-flight-passenger-window.html",
-      "fonte": "NYT",
-      "encontrada_em": "2026-08-13T19:27:13"
     }
   ],
   "empregos": [
