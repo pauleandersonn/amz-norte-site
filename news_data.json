@@ -920,6 +920,16 @@
   ],
   "internacionais": [
     {
+      "titulo": "'Liberdade de imprensa não está em questão no Brasil', diz Cármen Lúcia",
+      "resumo": "Ministra do STF participa de evento promovido pela BBC que discute desinformação.",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8c62/live/5f91ec90-9815-11f1-870d-5d08c49babb2.jpg",
+      "link": "https://www.bbc.com/portuguese/articles/cp3r67p3q7do?at_medium=RSS&at_campaign=rss",
+      "fonte": "BBC Brasil",
+      "encontrada_em": "2026-08-14T15:42:12"
+    },
+    {
       "titulo": "‘Devastating’: bulldozers plough through Big Bend national park as Trump’s border work pushes ahead",
       "resumo": "Heavy machinery seen operating in famous Santa Elena Canyon amid outcry over new wall infrastructure in beloved Texas park Bulldozers have begun plowing up ground at the mouth of Big Bend national par",
       "categoria": "Amazonas",
@@ -968,16 +978,6 @@
       "link": "https://www.bbc.co.uk/news/articles/clyje43dz4eo?at_medium=RSS&at_campaign=rss",
       "fonte": "BBC World",
       "encontrada_em": "2026-08-14T15:22:15"
-    },
-    {
-      "titulo": "South Korean airport becomes busiest in world for global traffic amid Iran war",
-      "resumo": "Incheon airport had 38.39m international passengers in first half of 2026, as traffic diverted from Middle East hubs South Korea’s Incheon airport has become the world’s busiest airport for internatio",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://i.guim.co.uk/img/media/31460cef73bb388b13c5b1eaa9fd2a4f2c50c104/528_0_4672_3739/master/4672.jpg?width=140&quality=85&auto=format&fit=max&s=8fdefafbe506ac679ab4f3a2d5e23230",
-      "link": "https://www.theguardian.com/world/2026/aug/13/south-korea-incheon-airport-iran-war-middle-east",
-      "fonte": "The Guardian",
-      "encontrada_em": "2026-08-14T15:22:14"
     }
   ],
   "empregos": [
