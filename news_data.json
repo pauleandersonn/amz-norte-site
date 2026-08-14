@@ -860,6 +860,26 @@
   ],
   "nacionais": [
     {
+      "titulo": "Cantor gospel Marquinhos relatou descoberta de câncer antes de morrer",
+      "resumo": "Pastor compartilhou relato sobre dia em que recebeu diagnóstico em entrevista de 2024",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/Captura-de-tela-2026-08-14-112551.png?w=785&amp;h=515&amp;crop=1",
+      "link": "https://www.cnnbrasil.com.br/pop/celebridades/cantor-gospel-marquinhos-relatou-descoberta-de-cancer-antes-de-morrer/",
+      "fonte": "CNN Brasil",
+      "encontrada_em": "2026-08-14T10:57:17"
+    },
+    {
+      "titulo": "Quem é Léo Derik, lateral do Athletico-PR condenado a 13 anos por estupro",
+      "resumo": "Lateral-esquerdo de 21 anos foi formado nas categorias de base do Furacão, disputou o Mundial Sub-20 pela Seleção Brasileira e soma 39 jogos pelo time profissional",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/Leo-Derik-AthleticO-e1786718413174.webp?w=1200&amp;h=630&amp;crop=1",
+      "link": "https://www.cnnbrasil.com.br/esportes/futebol/athletico-paranaense/quem-e-leo-derik-lateral-do-athletico-pr-condenado-a-13-anos-por-estupro/",
+      "fonte": "CNN Brasil",
+      "encontrada_em": "2026-08-14T10:57:17"
+    },
+    {
       "titulo": "Grêmio lança terceiro uniforme para celebrar conquista histórica",
       "resumo": "O Grêmio apresentou nesta sexta-feira (14) o terceiro uniforme que usará nesta temporada. ...",
       "categoria": "Amazonas",
@@ -896,26 +916,6 @@
       "autor": "Paulo Amazonas",
       "imagem": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
       "link": "https://www.terra.com.br/noticias/brasil/politica/claudio-castro-e-alvo-da-pf-pela-2-vez-em-operacao-que-mira-fraude-de-r-52-bilhoes-da-refit,bb949b4d1c5bbcd611234b20c1088dc5fx0q8i8e.html",
-      "fonte": "Terra",
-      "encontrada_em": "2026-08-14T10:52:14"
-    },
-    {
-      "titulo": "Técnico do City deixa futuro de Rodri indefinido: 'A janela de transferência está aberta'",
-      "resumo": "\"Tudo pode acontecer\". Foi dessa maneira que o treinador Enzo Maresca se referiu ao futuro do ...",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/14/348660050-424uqpwovnbfbkzhs6oocv53cm.jpg",
-      "link": "https://www.terra.com.br/esportes/futebol/tecnico-do-city-deixa-futuro-de-rodri-indefinido-a-janela-de-transferencia-esta-aberta,23b6b05511ce5765df293d269afa1f77qkwy6et0.html",
-      "fonte": "Terra",
-      "encontrada_em": "2026-08-14T10:52:14"
-    },
-    {
-      "titulo": "Revelação na mira da Europa, possível mudança na Libertadores e declaração de Vegetti: as últimas notícias do Palmeiras",
-      "resumo": "Sabemos que nem sempre é possível acompanhar tudo o que acontece com o Palmeiras ao longo do ...",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/14/252832850-academia-de-futebol-do-palmeiras.jpg",
-      "link": "https://www.terra.com.br/esportes/palmeiras/revelacao-na-mira-da-europa-possivel-mudanca-na-libertadores-e-declaracao-de-vegetti-as-ultimas-noticias-do-palmeiras,1202c2ca56cde1f963b525b809863c8eu60v66p4.html",
       "fonte": "Terra",
       "encontrada_em": "2026-08-14T10:52:14"
     }
