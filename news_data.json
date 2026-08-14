@@ -922,6 +922,16 @@
   ],
   "internacionais": [
     {
+      "titulo": "Scottish police expect ‘great deal of public opposition’ to planned Larbert datacentre",
+      "resumo": "Planning consultation told ‘robust security measures’ will be needed amid growing resistance to such developments Scottish police have warned that a proposed datacentre will require “robust security m",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://i.guim.co.uk/img/media/65184f83e6747a64f330160115edcc9a26c143a4/57_0_1709_1367/master/1709.jpg?width=140&quality=85&auto=format&fit=max&s=ee772322670e0830c680577ec7df52dd",
+      "link": "https://www.theguardian.com/uk-news/2026/aug/14/scottish-police-expect-public-opposition-larbert-datacentre",
+      "fonte": "The Guardian",
+      "encontrada_em": "2026-08-14T12:27:27"
+    },
+    {
       "titulo": "Philippines drug war victims seek justice through truth commission",
       "resumo": "Families of drug war victims testify before the Truth Commission, seeking answers and closure after years of silence.",
       "categoria": "Amazonas",
@@ -968,16 +978,6 @@
       "autor": "Paulo Amazonas",
       "imagem": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1786722004.jpg?resize=1200%2C675",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/zambia-suspends-vote-counting-in-election-citing-violence?traffic_source=rss",
-      "fonte": "Al Jazeera",
-      "encontrada_em": "2026-08-14T12:07:15"
-    },
-    {
-      "titulo": "Qatar challenges AFC over open letter attacking FIFA President Infantino",
-      "resumo": "Qatar FA President Hamad bin Khalifa Al-Thani complains about lack of consultation about AFC open letter to FIFA.",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-14T145659Z_22400928_RC25VX94SXMT_RTRMADP_3_SOCCER-FIFA-QATAR-AFC-1786720679.jpg?resize=1920%2C1440",
-      "link": "https://www.aljazeera.com/sports/2026/8/14/qatar-challenges-afc-over-open-letter-attacking-fifa-president-infantino?traffic_source=rss",
       "fonte": "Al Jazeera",
       "encontrada_em": "2026-08-14T12:07:15"
     }
