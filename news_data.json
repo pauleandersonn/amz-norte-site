@@ -922,6 +922,26 @@
   ],
   "internacionais": [
     {
+      "titulo": "Effects of Record-Breaking El Niño Are Happening on 3 Continents",
+      "resumo": "The recurring climate phenomenon is expected to peak later this year, but it is already causing dry spells and crop failures on three continents.",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://static01.nyt.com/images/2026/08/12/multimedia/12CLI-ELNINO-EFFECTS-01-lwzg/12CLI-ELNINO-EFFECTS-01-lwzg-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/08/12/climate/el-nino-early-onset-effects.html",
+      "fonte": "NYT",
+      "encontrada_em": "2026-08-13T21:17:15"
+    },
+    {
+      "titulo": "Eclipse chasers stake out their viewing spots in Iceland.",
+      "resumo": "",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://static01.nyt.com/images/2026/08/12/multimedia/12europe-eclipse-iceland-scene-topart/12europe-eclipse-iceland-scene-topart-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/live/2026/08/12/world/solar-eclipse-2026-updates/eclipse-chasers-stake-out-their-viewing-spots-in-iceland",
+      "fonte": "NYT",
+      "encontrada_em": "2026-08-13T21:17:15"
+    },
+    {
       "titulo": "A Partial Solar Eclipse Will Be Visible in Parts of the U.S. and Canada",
       "resumo": "Parts of the United States and Canada will have the chance to see the moon block at least a small portion of the sun.",
       "categoria": "Amazonas",
@@ -960,26 +980,6 @@
       "link": "https://www.aljazeera.com/news/2026/8/14/uae-accuses-iran-of-attacks-on-two-adnoc-vessels-in-strait-of-hormuz?traffic_source=rss",
       "fonte": "Al Jazeera",
       "encontrada_em": "2026-08-13T21:02:13"
-    },
-    {
-      "titulo": "Eclipse solar total: as imagens do fenômeno que aconteceu nesta quarta-feira na Europa",
-      "resumo": "O eclipse acontece nesta quarta-feira (12/8) e poderá ser observado em partes da Europa, incluindo regiões da Espanha, de Portugal e da Islândia. No Brasil, não será visível.",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9928/live/15b7e9e0-9684-11f1-a7ab-8b30adf0800a.jpg",
-      "link": "https://www.bbc.com/portuguese/articles/cd9wp02y9y0o?at_medium=RSS&at_campaign=rss",
-      "fonte": "BBC Brasil",
-      "encontrada_em": "2026-08-13T20:52:12"
-    },
-    {
-      "titulo": "Yemen faces highest risk of returning to war since 2022 truce, UN warns",
-      "resumo": "Civilian and military casualties have been reported as fighting has flared across Yemeni front lines in recent days.",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-01-07T094617Z_210955806_RC2KZAAH0EJZ_RTRMADP_3_YEMEN-SECURITY-1786212975.jpg?resize=1920%2C1440",
-      "link": "https://www.aljazeera.com/news/2026/8/14/yemen-faces-highest-risk-of-returning-to-war-since-2022-truce-un-warns?traffic_source=rss",
-      "fonte": "Al Jazeera",
-      "encontrada_em": "2026-08-13T20:22:12"
     }
   ],
   "empregos": [
