@@ -922,6 +922,26 @@
   ],
   "internacionais": [
     {
+      "titulo": "Major Russian grain export terminals hit in Ukraine Black Sea port attack",
+      "resumo": "Grain exports from both Russia and Ukraine are falling as both countries attack each other's shipping facilities and ports.",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3190/live/fb878e50-966e-11f1-870d-5d08c49babb2.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/c5y49xp2wrno?at_medium=RSS&at_campaign=rss",
+      "fonte": "BBC World",
+      "encontrada_em": "2026-08-13T23:17:14"
+    },
+    {
+      "titulo": "Entrada da China na ação do Brasil na OMC ajuda a combater guerra tarifária contra os EUA?",
+      "resumo": "O Brasil ganhou um reforço importante no seu enfrentamento ao tarifaço dos Estados Unidos, segundo analistas ouvidos pela BBC News Brasil.",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/453f/live/cd1db6b0-9651-11f1-9a70-ddb12b8bcc9e.jpg",
+      "link": "https://www.bbc.com/portuguese/articles/c5yvrwxd6zzo?at_medium=RSS&at_campaign=rss",
+      "fonte": "BBC Brasil",
+      "encontrada_em": "2026-08-13T23:17:12"
+    },
+    {
       "titulo": "Why Osun’s election matters for Nigeria’s 2027 vote",
       "resumo": "The result could offer an early signal of shifting alliances and voter sentiment before the presidential race.",
       "categoria": "Amazonas",
@@ -958,26 +978,6 @@
       "autor": "Paulo Amazonas",
       "imagem": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1786673219.jpg?resize=1200%2C675",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/08-14-2026-s-dakota-lightning-clip?traffic_source=rss",
-      "fonte": "Al Jazeera",
-      "encontrada_em": "2026-08-13T23:12:13"
-    },
-    {
-      "titulo": "Talks between government and opposition mark a new chapter for Venezuela",
-      "resumo": "The government of Delcy Rodriguez held its first talks with part of Venezuela&#039;s opposition. But what will they achieve?",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://www.aljazeera.com/wp-content/uploads/2026/08/40BAB8FD-2DCE-46F3-99F8-75DF0EAA8B87-1786664889.jpeg?resize=1920%2C1440",
-      "link": "https://www.aljazeera.com/news/longform/2026/8/14/talks-between-government-and-opposition-mark-a-new-chapter-for-venezuela?traffic_source=rss",
-      "fonte": "Al Jazeera",
-      "encontrada_em": "2026-08-13T23:12:13"
-    },
-    {
-      "titulo": "AI escapes confinement",
-      "resumo": "Over the course of two weeks, AI companies said that some of their AI models managed to hack systems.",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1786672560.jpg?resize=1920%2C1080&amp;quality=80",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/ai-escapes-confinement?traffic_source=rss",
       "fonte": "Al Jazeera",
       "encontrada_em": "2026-08-13T23:12:13"
     }
