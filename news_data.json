@@ -920,6 +920,16 @@
   ],
   "internacionais": [
     {
+      "titulo": "As Army Fails to Protect Palestinians, Israeli Leaders Sympathize With Settlers",
+      "resumo": "Defense Minister Katz called for the military to turn over to the police the responsibility for protecting Palestinians after two West Bank families were besieged by violent settlers.",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://static01.nyt.com/images/2026/08/14/multimedia/14int-westbank-assess-lfzm/14int-westbank-assess-lfzm-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/08/14/world/middleeast/israel-west-bank-settler-violence-military-police.html",
+      "fonte": "NYT",
+      "encontrada_em": "2026-08-14T16:27:14"
+    },
+    {
       "titulo": "Jason Arday found dead after resigning from Cambridge over plagiarism claims",
       "resumo": "Academic was pronounced dead at his home in south London after police called to address after 3pm on Friday Jason Arday, the black academic who resigned last week as a professor at the University of C",
       "categoria": "Amazonas",
@@ -968,16 +978,6 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/new-aerial-video-reveals-huge-scale-of-oil-spill-off-oman?traffic_source=rss",
       "fonte": "Al Jazeera",
       "encontrada_em": "2026-08-14T16:02:14"
-    },
-    {
-      "titulo": "Jason Arday, Cambridge Scholar Who Resigned Under Scrutiny, Reported Dead",
-      "resumo": "The British police said a man had been found dead at a home linked to Mr. Arday, who resigned after the university announced an investigation into allegations of plagiarism and fabrication.",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "",
-      "link": "https://www.nytimes.com/2026/08/14/world/europe/jason-arday-dead.html",
-      "fonte": "NYT",
-      "encontrada_em": "2026-08-14T15:57:14"
     }
   ],
   "empregos": [
