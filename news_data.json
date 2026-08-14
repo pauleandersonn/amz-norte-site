@@ -922,6 +922,26 @@
   ],
   "internacionais": [
     {
+      "titulo": "Ahmed al-Sharaa: A New Vision for Syria",
+      "resumo": "An exclusive interview with the man who became president of Syria in 2025 about his vision for his country’s future.",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1786635977.jpg?resize=1920%2C1080&amp;quality=80",
+      "link": "https://www.aljazeera.com/video/al-jazeera-world/2026/8/14/ahmed-al-sharaa-a-new-vision-for-syria?traffic_source=rss",
+      "fonte": "Al Jazeera",
+      "encontrada_em": "2026-08-14T11:22:15"
+    },
+    {
+      "titulo": "Deepfake decide eleição? O que revelam 6 exemplos de outros países",
+      "resumo": "Na Irlanda, um deepfake divulgado poucos dias antes da eleição presidencial mostrava a principal candidata desistindo da campanha. Outros vídeos espalharam informações falsas sobre ameaças de seguranç",
+      "categoria": "Política",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d873/live/dd72e510-94d7-11f1-b2ab-0dd01740f9f6.jpg",
+      "link": "https://www.bbc.com/portuguese/articles/cedje8yeq7qo?at_medium=RSS&at_campaign=rss",
+      "fonte": "BBC Brasil",
+      "encontrada_em": "2026-08-14T11:22:14"
+    },
+    {
       "titulo": "Stolen Cézanne, Renoir and Matisse Works Are Recovered, Police Say",
       "resumo": "The Italian military police said that art collectively valued at more than $10 million had been found five months after being taken in a nighttime heist near Parma.",
       "categoria": "Amazonas",
@@ -960,26 +980,6 @@
       "link": "https://www.theguardian.com/science/2026/aug/14/scientists-young-universe-moon-dark-side-cosmocube-satellite-radio-signal-21cm-line",
       "fonte": "The Guardian",
       "encontrada_em": "2026-08-14T11:12:15"
-    },
-    {
-      "titulo": "Ministra do TSE que vai julgar 'Bolsonaro de IA': 'Autenticidade é um direito básico'",
-      "resumo": "'Daqui a pouco a gene vai ter só candidato de IA\", afirmou Estela Aranha. TSE julgará, ainda sem data confirmada, uso de avatar de Jair Bolsonaro em convenção do PL no fim de julho.",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e978/live/94939f40-97ea-11f1-a76b-f1c27c51f3da.jpg",
-      "link": "https://www.bbc.com/portuguese/articles/ceqed2992ppo?at_medium=RSS&at_campaign=rss",
-      "fonte": "BBC Brasil",
-      "encontrada_em": "2026-08-14T11:12:13"
-    },
-    {
-      "titulo": "Kushner to visit Israel after Netanyahu rejects Gaza Board of Peace plan",
-      "resumo": "Visit to address Israeli opposition to plan for Hamas to disarm, Israel to withdraw from Gaza, board official says.",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a7f24d5bcd9-1786717397.jpg?resize=1920%2C1440",
-      "link": "https://www.aljazeera.com/news/2026/8/14/kushner-to-visit-israel-after-netanyahu-rejects-gaza-board-of-peace-plan?traffic_source=rss",
-      "fonte": "Al Jazeera",
-      "encontrada_em": "2026-08-14T11:02:13"
     }
   ],
   "empregos": [
