@@ -922,6 +922,26 @@
   ],
   "internacionais": [
     {
+      "titulo": "Al Jazeera speaks to Count Binface as Farage claims Clacton victory",
+      "resumo": "Al Jazeera’s Jonah Hull spoke to candidate for MP, Count Binface, as votes were counted in Clacton.",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1786682179.jpg?resize=1200%2C675",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/08-14-2026-clacton-by-election-reported?traffic_source=rss",
+      "fonte": "Al Jazeera",
+      "encontrada_em": "2026-08-14T00:57:10"
+    },
+    {
+      "titulo": "Water supply for three US states drips down, Lake Mead at record low",
+      "resumo": "The largest reservoir in the United States, located on the border of Arizona and Nevada, just hit a record low.",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1786681478.jpg?resize=1620%2C1080&amp;quality=80",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/water-supply-for-three-us-states-drips-down-lake-mead-at-record-low?traffic_source=rss",
+      "fonte": "Al Jazeera",
+      "encontrada_em": "2026-08-14T00:57:10"
+    },
+    {
       "titulo": "‘Unprecedented’ rain kills four in Japan as thousands stranded at airport",
       "resumo": "Evacuation orders issued for 400,000 as torrential rains hit Chiba prefecture as flooding risks remain high despite rainfall easing At least four people died in eastern Japan after “unprecedented” hea",
       "categoria": "Amazonas",
@@ -929,7 +949,7 @@
       "imagem": "https://i.guim.co.uk/img/media/17e68e19ed25b80e37efd7f163ec27d98dba3af4/284_0_2842_2274/master/2842.jpg?width=140&quality=85&auto=format&fit=max&s=e40693c8a0ee296c9b0ec63ff8630adb",
       "link": "https://www.theguardian.com/world/2026/aug/14/japan-deadly-rain-evacuation-thousands-stranded-tokyo-airport-weather",
       "fonte": "The Guardian",
-      "encontrada_em": "2026-08-14T00:23:26"
+      "encontrada_em": "2026-08-14T00:24:45"
     },
     {
       "titulo": "Brazil begins exploring retaliatory options to new US tariffs",
@@ -939,7 +959,7 @@
       "imagem": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a7e8207de9b-1786675719.jpg?resize=1920%2C1440",
       "link": "https://www.aljazeera.com/news/2026/8/14/brazil-begins-exploring-retaliatory-options-to-new-us-tariffs?traffic_source=rss",
       "fonte": "Al Jazeera",
-      "encontrada_em": "2026-08-14T00:23:24"
+      "encontrada_em": "2026-08-14T00:22:11"
     },
     {
       "titulo": "Will Sudan’s El Obeid Become the Next El Fasher? What to Know.",
@@ -960,26 +980,6 @@
       "link": "https://www.nytimes.com/2026/08/12/world/africa/-zimbabwe-lake-kariba-ferry-capsize.html",
       "fonte": "NYT",
       "encontrada_em": "2026-08-14T00:12:11"
-    },
-    {
-      "titulo": "Ex-Myanmar ambassador to UK on trial for trespassing in diplomatic residence",
-      "resumo": "Kyaw Zwar Minn was ousted for declaring loyalty to Aung San Suu Kyi after 2021 coup but refused to leave his home Myanmar’s ousted ambassador to the UK has gone on trial on trespassing charges for ref",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://i.guim.co.uk/img/media/6e4bb74949a7b347a2e1ce91d2a79cddc01d5719/500_323_2579_2065/master/2579.jpg?width=140&quality=85&auto=format&fit=max&s=2aa7adec73c6c3e7fa65062208eceb50",
-      "link": "https://www.theguardian.com/uk-news/2026/aug/12/ex-myanmar-ambassador-uk-kyaw-zwar-minn-trial-trespassing-diplomatic-residence",
-      "fonte": "The Guardian",
-      "encontrada_em": "2026-08-14T00:12:11"
-    },
-    {
-      "titulo": "Indonesia wildfires threaten orangutans rescued from animal traffickers",
-      "resumo": "Blaze fuelled by hot, dry and windy conditions comes within metres of West Kalimantan rehabilitation centre Orangutans rescued from wildlife traffickers face a new threat from the record number of fir",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://i.guim.co.uk/img/media/365918ec3179a84ff298260a75a2f84e0be35263/34_0_3960_3168/master/3960.jpg?width=140&quality=85&auto=format&fit=max&s=b36dbdcf7004485e56ce49e75cd6d4e3",
-      "link": "https://www.theguardian.com/world/2026/aug/14/indonesia-wildfires-threaten-orangutans-rescued-from-animal-traffickers",
-      "fonte": "The Guardian",
-      "encontrada_em": "2026-08-14T00:07:11"
     }
   ],
   "empregos": [
