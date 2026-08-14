@@ -922,6 +922,26 @@
   ],
   "internacionais": [
     {
+      "titulo": "Indian solar mission's new findings throw light on enduring Sun mysteries",
+      "resumo": "Why is the Sun's corona millions of degrees hotter than its surface? And how does it maintain its inexplicably high temperature?",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb77/live/70033380-90be-11f1-b8f3-bf6a2c059a9b.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/c934wqpd74xo?at_medium=RSS&at_campaign=rss",
+      "fonte": "BBC World",
+      "encontrada_em": "2026-08-13T23:27:14"
+    },
+    {
+      "titulo": "BBC Verify speaks to woman who filmed ICE agent pointing gun at her",
+      "resumo": "BBC Verify has examined footage shared by a Virginia woman in which an ICE agent points his gun at her.",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2fcf/live/070284b0-9741-11f1-a7ab-8b30adf0800a.jpg",
+      "link": "https://www.bbc.co.uk/news/videos/c1m12m12nzzo?at_medium=RSS&at_campaign=rss",
+      "fonte": "BBC World",
+      "encontrada_em": "2026-08-13T23:27:14"
+    },
+    {
       "titulo": "US says dozens of countries helped China dodge Trump's tariffs",
       "resumo": "A new US report said China had moved goods through nations with lower tariffs to dodge higher levies.",
       "categoria": "Amazonas",
@@ -960,26 +980,6 @@
       "link": "https://www.bbc.com/portuguese/articles/c5yvrwxd6zzo?at_medium=RSS&at_campaign=rss",
       "fonte": "BBC Brasil",
       "encontrada_em": "2026-08-13T23:17:12"
-    },
-    {
-      "titulo": "Why Osun’s election matters for Nigeria’s 2027 vote",
-      "resumo": "The result could offer an early signal of shifting alliances and voter sentiment before the presidential race.",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://www.aljazeera.com/wp-content/uploads/2024/06/AFP__20230226__33A42T3__v1__HighRes__NigeriaPoliticsElection-1717235330.jpg?resize=1920%2C1440",
-      "link": "https://www.aljazeera.com/news/2026/8/14/why-osuns-election-matters-for-nigerias-2027-vote?traffic_source=rss",
-      "fonte": "Al Jazeera",
-      "encontrada_em": "2026-08-13T23:12:13"
-    },
-    {
-      "titulo": "UN, Palestinian ministry condemn Israeli settler siege of West Bank homes",
-      "resumo": "UN rights office and Palestine Foreign Ministry call days-long Israeli settler siege in Qusra &#039;criminal&#039; and &#039;inhumane&#039;.",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a7e64a87910-1786668200.jpg?resize=1920%2C1440",
-      "link": "https://www.aljazeera.com/news/2026/8/14/un-palestinian-ministry-condemn-israeli-settler-siege-of-west-bank-homes?traffic_source=rss",
-      "fonte": "Al Jazeera",
-      "encontrada_em": "2026-08-13T23:12:13"
     }
   ],
   "empregos": [
