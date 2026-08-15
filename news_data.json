@@ -858,6 +858,16 @@
   ],
   "nacionais": [
     {
+      "titulo": "Alfa Inteligência: Lula e Flávio esquecem de falar do futuro em propostas",
+      "resumo": "Ao WW, Emanoelton Borges, CEO da Alfa Inteligência, aponta que os dois principais candidatos focam no presente e deixam de apresentar visão de futuro ao eleitor",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/06/2_63aaf3.png?w=1200&amp;h=630&amp;crop=1",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/alfa-inteligencia-lula-e-flavio-esquecem-de-falar-do-futuro-em-propostas/",
+      "fonte": "CNN Brasil",
+      "encontrada_em": "2026-08-14T23:12:11"
+    },
+    {
       "titulo": "Brasileiro Feminino: Atlético tira série invicta do Grêmio e embola G8",
       "resumo": "Atlético e Grêmio abriram, na noite desta sexta-feira (14), a 16ª e penúltima rodada do ...",
       "categoria": "Amazonas",
@@ -904,16 +914,6 @@
       "autor": "Paulo Amazonas",
       "imagem": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/15/2062214957-23052026cgpalmeirasdestaque17335easy-resizecom-e1779589496201.jpg",
       "link": "https://www.terra.com.br/esportes/futebol/globo-atinge-121-milhoes-de-pessoas-com-o-brasileirao,e9eb926cbd6af5ab7a43fe05a12ea6025xv7hv2v.html",
-      "fonte": "Terra",
-      "encontrada_em": "2026-08-14T22:52:12"
-    },
-    {
-      "titulo": "O perigo da solidão acompanhada: por que estar em um relacionamento não garante felicidade?",
-      "resumo": "Todos os anos, quando chega o Dia do Solteiro, o cenário se repete. Vemos uma enxurrada de ...",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/15/2006254928-capa-bons-fluidos-71.jpg",
-      "link": "https://www.terra.com.br/vida-e-estilo/comportamento/o-perigo-da-solidao-acompanhada-por-que-estar-em-um-relacionamento-nao-garante-felicidade,c6eb006b720fd22797cd999af0e2f1b7k5zdzvzq.html",
       "fonte": "Terra",
       "encontrada_em": "2026-08-14T22:52:12"
     }
