@@ -920,6 +920,16 @@
   ],
   "internacionais": [
     {
+      "titulo": "HRW says US civil rights enforcement reduced under Trump: What to know",
+      "resumo": "A new report documents how federal agencies have reduced the number of civil rights cases they pursue as staffing falls.",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://www.aljazeera.com/wp-content/uploads/2026/08/reuters_6a7e3327-1786655527.jpg?resize=1920%2C1440",
+      "link": "https://www.aljazeera.com/news/2026/8/15/hrw-says-us-civil-rights-enforcement-reduced-under-trump-what-to-know?traffic_source=rss",
+      "fonte": "Al Jazeera",
+      "encontrada_em": "2026-08-14T23:17:15"
+    },
+    {
       "titulo": "Topos Azteca, a Mexican Volunteer Rescue Group, Helps With Rescue Efforts After Colombia Earthquake",
       "resumo": "Topos Azteca, a Mexican volunteer rescue group that works worldwide and helped after the Sept. 11 attacks, arrived in Colombia after searching for survivors in Venezuela.",
       "categoria": "Amazonas",
@@ -966,16 +976,6 @@
       "autor": "Paulo Amazonas",
       "imagem": "https://www.aljazeera.com/wp-content/uploads/2026/08/Screenshot-2026-08-15-at-03.20.15-1786760527.png?resize=1200%2C675",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/us-president-trump-says-he-will-declare-strait-of-hormuz-us-territory?traffic_source=rss",
-      "fonte": "Al Jazeera",
-      "encontrada_em": "2026-08-14T22:42:13"
-    },
-    {
-      "titulo": "Venezuela says 131 political prisoners freed amid post-Maduro talks",
-      "resumo": "As detainees granted &#039;alternative&#039; to imprisonment, US welcomes release as crucial step for Venezuela&#039;s reconciliation.",
-      "categoria": "Política",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a7fb5f3f054-1786754548.jpg?resize=1920%2C1440",
-      "link": "https://www.aljazeera.com/news/2026/8/15/venezuela-says-131-political-prisoners-freed-amid-post-maduro-talks?traffic_source=rss",
       "fonte": "Al Jazeera",
       "encontrada_em": "2026-08-14T22:42:13"
     }
