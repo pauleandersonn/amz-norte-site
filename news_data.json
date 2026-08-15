@@ -920,6 +920,26 @@
   ],
   "internacionais": [
     {
+      "titulo": "Brazil’s Disease-Fighting Mosquitoes",
+      "resumo": "Our reporter, Apoorva Mandavilli, goes inside a mosquito factory in Brazil, where scientists are producing millions of mosquitoes to fight deadly tropical diseases in a warming world.",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "",
+      "link": "https://www.nytimes.com/video/world/americas/100000011042147/brazils-disease-fighting-mosquitoes.html",
+      "fonte": "NYT",
+      "encontrada_em": "2026-08-14T20:47:13"
+    },
+    {
+      "titulo": "Decisão de Moraes sobre fonte de jornalista: entidades internacionais veem 'precedente perigoso' e 'grave ameaça' à imprensa no Brasil",
+      "resumo": "Entidades internacionais de defesa da liberdade de imprensa criticam a medida autorizada pelo ministro em 11 de agosto e alertam para riscos ao sigilo das fontes jornalísticas",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7c01/live/0f893670-9704-11f1-b72c-211ea4e0afc4.jpg",
+      "link": "https://www.bbc.com/portuguese/articles/cj9dpdy98g2o?at_medium=RSS&at_campaign=rss",
+      "fonte": "BBC Brasil",
+      "encontrada_em": "2026-08-14T20:47:12"
+    },
+    {
       "titulo": "Families angered by slow search for loved ones after Colombia quake",
       "resumo": "Families are demanding answers over loved ones buried under rubble in Cali, Colombia after Monday’s 7.4 magnitude quake.",
       "categoria": "Amazonas",
@@ -958,26 +978,6 @@
       "link": "https://www.nytimes.com/2026/08/13/health/mosquitoes-brazil-health-threat.html",
       "fonte": "NYT",
       "encontrada_em": "2026-08-14T19:52:15"
-    },
-    {
-      "titulo": "How a Long-Shot U.S. Oil Drilling Project Is Shaking Up Greenland",
-      "resumo": "A U.S. oil company says it could be on the verge of a major discovery in Greenland. The proposal comes at a tricky time for the Arctic island, and locals are lining up against it.",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://static01.nyt.com/images/2026/08/16/multimedia/00int-greenland-oil-01-jbqm/00int-greenland-oil-01-jbqm-mediumSquareAt3X.jpg",
-      "link": "https://www.nytimes.com/2026/08/13/world/europe/greenland-oil-project-us-dr-phil.html",
-      "fonte": "NYT",
-      "encontrada_em": "2026-08-14T19:27:16"
-    },
-    {
-      "titulo": "French ambassador to CAR investigated over claims he hosted dozens of women",
-      "resumo": "Disciplinary proceedings under way after security concerns raised over reported visits to official residence France has opened disciplinary proceedings against its ambassador to Central African Republ",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://i.guim.co.uk/img/media/926de377daf3d455ab452397d131d8d39c41f462/1949_201_2022_1617/master/2022.jpg?width=140&quality=85&auto=format&fit=max&s=964d77ed2d2442c2b3e772e1c4f77350",
-      "link": "https://www.theguardian.com/world/2026/aug/13/france-ambassador-car-central-african-republic-investigation-bruno-foucher",
-      "fonte": "The Guardian",
-      "encontrada_em": "2026-08-14T19:27:16"
     }
   ],
   "empregos": [
