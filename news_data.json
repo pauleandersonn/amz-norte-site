@@ -920,6 +920,16 @@
   ],
   "internacionais": [
     {
+      "titulo": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
+      "resumo": "Thousands of sailors on the USS Abraham Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard.",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20ef/live/60e60690-9733-11f1-bdbf-1b7b2a4a87a1.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/cyvl2d5j52lo?at_medium=RSS&at_campaign=rss",
+      "fonte": "BBC World",
+      "encontrada_em": "2026-08-14T23:27:15"
+    },
+    {
       "titulo": "HRW says US civil rights enforcement reduced under Trump: What to know",
       "resumo": "A new report documents how federal agencies have reduced the number of civil rights cases they pursue as staffing falls.",
       "categoria": "Amazonas",
@@ -967,16 +977,6 @@
       "imagem": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d8ae/live/c23c2310-9851-11f1-a7ab-8b30adf0800a.jpg",
       "link": "https://www.bbc.com/portuguese/articles/cq561131yq0o?at_medium=RSS&at_campaign=rss",
       "fonte": "BBC Brasil",
-      "encontrada_em": "2026-08-14T22:42:13"
-    },
-    {
-      "titulo": "US President Trump says he will declare Strait of Hormuz US territory",
-      "resumo": "US President Donald Trump said he will “soon” declare the Strait of Hormuz a US territory.",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://www.aljazeera.com/wp-content/uploads/2026/08/Screenshot-2026-08-15-at-03.20.15-1786760527.png?resize=1200%2C675",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/us-president-trump-says-he-will-declare-strait-of-hormuz-us-territory?traffic_source=rss",
-      "fonte": "Al Jazeera",
       "encontrada_em": "2026-08-14T22:42:13"
     }
   ],
