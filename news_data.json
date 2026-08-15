@@ -920,6 +920,16 @@
   ],
   "internacionais": [
     {
+      "titulo": "Picasso print stolen from Milwaukee art gallery in 2018 found by landlord while cleaning apartment",
+      "resumo": "Torero print, one of 30 known to exist signed by Picasso, was stolen from Bill DeLind’s gallery in 2018 Bill DeLind thought the Picasso print that was stolen from his Milwaukee gallery in 2018 was gon",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://i.guim.co.uk/img/media/a9c62938cf2e68e674062acaa10970b8e28f4db0/351_0_3538_2832/master/3538.jpg?width=140&quality=85&auto=format&fit=max&s=fd63317374606789daea93dea536972a",
+      "link": "https://www.theguardian.com/us-news/2026/aug/14/picasso-print-stolen-milwaukee",
+      "fonte": "The Guardian",
+      "encontrada_em": "2026-08-14T21:42:14"
+    },
+    {
       "titulo": "Mangione pleads guilty as polarising CEO killing reaches new phase",
       "resumo": "Luigi Mangione pleaded guilty to federal charges over the fatal shooting of UnitedHealthcare CEO Brian Thompson in 2024.",
       "categoria": "Amazonas",
@@ -968,16 +978,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c0l5273xjnlo?at_medium=RSS&at_campaign=rss",
       "fonte": "BBC World",
       "encontrada_em": "2026-08-14T20:57:19"
-    },
-    {
-      "titulo": "DRC’s fast-growing Ebola outbreak spreads to sixth province",
-      "resumo": "Man dies in Bas-Uele after travelling from Haut-Uele, as head of WHO says outbreak on track to be deadliest ever The Ebola outbreak in the Democratic Republic of the Congo has spread to a sixth provin",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://i.guim.co.uk/img/media/7cdf83c55d79a96a161395d5c73576671830d88a/31_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=69ea3d0c862b6a5b0a713ec4ccab78d2",
-      "link": "https://www.theguardian.com/world/2026/aug/13/ebola-drc-democratic-republic-congo-sixth-province",
-      "fonte": "The Guardian",
-      "encontrada_em": "2026-08-14T20:57:16"
     }
   ],
   "empregos": [
