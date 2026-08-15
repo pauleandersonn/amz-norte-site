@@ -858,6 +858,26 @@
   ],
   "nacionais": [
     {
+      "titulo": "Terremoto de magnitude 7,7 deixa ao menos dois mortos na Indonésia",
+      "resumo": "Alerta de tsunami foi suspenso; dezenas de réplicas foram registradas na região",
+      "categoria": "Segurança",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/1_ab6302.png?w=1143&amp;h=630&amp;crop=1",
+      "link": "https://www.cnnbrasil.com.br/internacional/terremoto-de-magnitude-77-deixa-mortos-na-indonesia/",
+      "fonte": "CNN Brasil",
+      "encontrada_em": "2026-08-14T22:47:12"
+    },
+    {
+      "titulo": "Reaproximação com Lula é gesto de “boa-vontade” de Alcolumbre, diz Arko",
+      "resumo": "Para Cristiano Noronha, vice-presidente da Arko Advice, ao WW, trâmites regimentais tornam improvável votação da PEC da Segurança Pública antes das eleições municipais",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/05/lula-davi.png?w=900&amp;h=506&amp;crop=1",
+      "link": "https://www.cnnbrasil.com.br/politica/reaproximacao-com-lula-e-gesto-de-boa-vontade-de-alcolumbre-diz-arko/",
+      "fonte": "CNN Brasil",
+      "encontrada_em": "2026-08-14T22:47:12"
+    },
+    {
       "titulo": "Técnico do São Paulo, Dorival Júnior vive tabu de seis meses sem vitória pelo Brasileirão",
       "resumo": "A sequência recente de Dorival Júnior no Brasileirão deixa o torcedor do São Paulo apreensivo. O ...",
       "categoria": "Amazonas",
@@ -896,29 +916,29 @@
       "link": "https://www.terra.com.br/diversao/tv/luciano-huck-anuncia-novo-participante-para-na-temporada-do-danca-dos-famosos,13625ca7b43b4b1fc3d6ed636011d57595l630ck.html",
       "fonte": "Terra",
       "encontrada_em": "2026-08-14T22:22:12"
-    },
-    {
-      "titulo": "“Camp Rock 4” vai acontecer? Veja o que se sabe",
-      "resumo": "Mesmo com o lançamento recente de “Camp Rock 3”, espectadores já discutem a possibilidade de uma sequência do popular filme teen",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/original.png?w=1200&amp;h=630&amp;crop=1",
-      "link": "https://www.cnnbrasil.com.br/pop/cinema/vai-ter-camp-rock-4-veja-o-que-se-sabe/",
-      "fonte": "CNN Brasil",
-      "encontrada_em": "2026-08-14T22:17:11"
-    },
-    {
-      "titulo": "Bruna Biancardi mostra festa de 87 anos de avó do Neymar; veja",
-      "resumo": "Influenciadora registrou o aniversário da matriarca da família do marido",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/vo-neymar.png?w=1200&amp;h=630&amp;crop=1",
-      "link": "https://www.cnnbrasil.com.br/pop/celebridades/bruna-biancardi-mostra-festa-de-87-anos-de-avo-do-neymar-veja/",
-      "fonte": "CNN Brasil",
-      "encontrada_em": "2026-08-14T22:17:11"
     }
   ],
   "internacionais": [
+    {
+      "titulo": "Romania shuts only nuclear plant as heat causes huge drop in Danube River level",
+      "resumo": "The Cernavodă plant, which produces 20% of Romania's electricity, is not expected to be restarted within the next 10 days.",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73db/live/5d4d0250-9728-11f1-808c-532494fd22c7.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/cqlxpq5q799o?at_medium=RSS&at_campaign=rss",
+      "fonte": "BBC World",
+      "encontrada_em": "2026-08-14T22:47:15"
+    },
+    {
+      "titulo": "The Man on a Mission to Build India’s Most Livable City",
+      "resumo": "The chief minister of Andhra Pradesh has 25,000 workers building his dream capital with waterways, bike lanes and a “Quantum Valley” tech hub.",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://static01.nyt.com/images/2026/08/13/multimedia/13int-india-city-phlq/13int-india-city-phlq-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/08/13/world/asia/one-mans-quest-to-build-indias-most-livable-city.html",
+      "fonte": "NYT",
+      "encontrada_em": "2026-08-14T22:47:14"
+    },
     {
       "titulo": "Petrobras encontra sinais de petróleo na bacia da Foz do Amazonas - por que projeto de exploração ali é controverso?",
       "resumo": "Sinais de petróleo foram encontrados a cerca de 175 km da costa do Amapá durante prospecção, que continuará.",
@@ -958,26 +978,6 @@
       "link": "https://www.theguardian.com/australia-news/2026/aug/15/coalition-split-on-andrew-bragg-speech-as-south-australian-senator-andrew-mclachlan-urges-colleagues-to-follow-his-lead",
       "fonte": "The Guardian",
       "encontrada_em": "2026-08-14T22:07:14"
-    },
-    {
-      "titulo": "7.7-magnitude earthquake strikes eastern Indonesia",
-      "resumo": "A powerful 7.7-magnitude earthquake struck eastern Indonesia, damaging buildings and sending residents to higher ground.",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1786759239.jpg?resize=1200%2C675",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/08-15-2026-indonesia-quake-sv-mp4?traffic_source=rss",
-      "fonte": "Al Jazeera",
-      "encontrada_em": "2026-08-14T22:07:13"
-    },
-    {
-      "titulo": "At least two killed as magnitude 7.7 quake hits Indonesia",
-      "resumo": "Authorities urge coastal residents to move inland or to higher ground following the quake near Flores Island.",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a7fc17b05ad-1786757499.jpg?resize=1920%2C1440",
-      "link": "https://www.aljazeera.com/news/2026/8/15/at-least-two-killed-as-magnitude-7-7-quake-hits-indonesia?traffic_source=rss",
-      "fonte": "Al Jazeera",
-      "encontrada_em": "2026-08-14T22:07:13"
     }
   ],
   "empregos": [
