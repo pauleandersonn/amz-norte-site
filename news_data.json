@@ -920,6 +920,16 @@
   ],
   "internacionais": [
     {
+      "titulo": "Train Derails Near Town of Lewes in East Sussex, U.K.",
+      "resumo": "Emergency services said they were working at the scene of a derailment near Lewes, in East Sussex, on Thursday. Eighteen other people were less badly hurt.",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://static01.nyt.com/images/2026/08/13/multimedia/13int-uk-train-mfwl/13int-uk-train-mfwl-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/08/13/world/europe/train-derails-southern-england.html",
+      "fonte": "NYT",
+      "encontrada_em": "2026-08-14T23:57:12"
+    },
+    {
       "titulo": "India marks 80th Independence Day with military display",
       "resumo": "India marked its 80th Independence Day at Delhi’s historic Red Fort.",
       "categoria": "Amazonas",
@@ -968,16 +978,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cqlxpq5q799o?at_medium=RSS&at_campaign=rss",
       "fonte": "BBC World",
       "encontrada_em": "2026-08-14T22:47:15"
-    },
-    {
-      "titulo": "The Man on a Mission to Build India’s Most Livable City",
-      "resumo": "The chief minister of Andhra Pradesh has 25,000 workers building his dream capital with waterways, bike lanes and a “Quantum Valley” tech hub.",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://static01.nyt.com/images/2026/08/13/multimedia/13int-india-city-phlq/13int-india-city-phlq-mediumSquareAt3X.jpg",
-      "link": "https://www.nytimes.com/2026/08/13/world/asia/one-mans-quest-to-build-indias-most-livable-city.html",
-      "fonte": "NYT",
-      "encontrada_em": "2026-08-14T22:47:14"
     }
   ],
   "empregos": [
