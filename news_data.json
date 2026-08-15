@@ -858,6 +858,16 @@
   ],
   "nacionais": [
     {
+      "titulo": "Em ascensão, Arroyo retorna a palco do seu “ápice” no Cruzeiro",
+      "resumo": "Jovem equatoriano vive grande fase e volta ao estádio onde marcou dois gols em semifinal da Copa do Brasil",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/11/arroyo-e1763949201403.jpg?w=1200&amp;h=630&amp;crop=1",
+      "link": "https://www.cnnbrasil.com.br/esportes/futebol/cruzeiro/em-ascensao-arroyo-retorna-a-palco-do-seu-apice-no-cruzeiro/",
+      "fonte": "CNN Brasil",
+      "encontrada_em": "2026-08-14T21:07:12"
+    },
+    {
       "titulo": "BC anuncia leilões de linha de no valor de até US$ 1 bi nesta segunda (17)",
       "resumo": "Objetivo é a rolagem do vencimento de 2 de setembro",
       "categoria": "Amazonas",
@@ -906,19 +916,19 @@
       "link": "https://www.cnnbrasil.com.br/economia/money/negocios/marisa-tem-prejuizo-de-r-684-milhoes-no-2-trimestre/",
       "fonte": "CNN Brasil",
       "encontrada_em": "2026-08-14T21:02:11"
-    },
-    {
-      "titulo": "Fitch reitera rating do Reino Unido em “AA-“, com perspectiva estável",
-      "resumo": "Agência de classificação de risco informou que os ratings do Reino Unido são apoiados por uma economia de alta renda, grande, diversificada e flexível",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/03/4326_72FBE4D5B776CF54-3.webp?w=1000&amp;h=586&amp;crop=1",
-      "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/fitch-reitera-rating-do-reino-unido-em-aa-com-perspectiva-estavel/",
-      "fonte": "CNN Brasil",
-      "encontrada_em": "2026-08-14T21:02:11"
     }
   ],
   "internacionais": [
+    {
+      "titulo": "Person fined after using foghorn to wake sleeping polar bear",
+      "resumo": "Under local regulations in the region, \"it is forbidden to needlessly disturb, attract or pursue a polar bear\".",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69e0/live/7dbeac50-9728-11f1-808c-532494fd22c7.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/cx2k1r97vx7o?at_medium=RSS&at_campaign=rss",
+      "fonte": "BBC World",
+      "encontrada_em": "2026-08-14T21:07:22"
+    },
     {
       "titulo": "Who could replace White House Press Secretary Karoline Leavitt?",
       "resumo": "The job requires managing a complex relationship with the media - as well Trump's high expectations.",
@@ -968,16 +978,6 @@
       "link": "https://www.aljazeera.com/news/2026/8/15/un-urges-support-for-afghan-womens-aid-five-years-into-taliban-rule?traffic_source=rss",
       "fonte": "Al Jazeera",
       "encontrada_em": "2026-08-14T20:57:15"
-    },
-    {
-      "titulo": "Brazil’s Disease-Fighting Mosquitoes",
-      "resumo": "Our reporter, Apoorva Mandavilli, goes inside a mosquito factory in Brazil, where scientists are producing millions of mosquitoes to fight deadly tropical diseases in a warming world.",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "",
-      "link": "https://www.nytimes.com/video/world/americas/100000011042147/brazils-disease-fighting-mosquitoes.html",
-      "fonte": "NYT",
-      "encontrada_em": "2026-08-14T20:47:13"
     }
   ],
   "empregos": [
