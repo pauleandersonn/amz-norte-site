@@ -920,6 +920,36 @@
   ],
   "internacionais": [
     {
+      "titulo": "Entrenched, Embattled and Defiant, the Taliban Celebrate 5 Years in Power",
+      "resumo": "The Taliban have Afghanistan in a chokehold that spares no one. But threats are starting to crack their veneer of stability and control.",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://static01.nyt.com/images/2026/08/15/multimedia/15int-afghanistan-anniversary-new-tmjv/15int-afghanistan-anniversary-new-tmjv-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/08/15/world/asia/entrenched-embattled-and-defiant-the-taliban-celebrate-5-years-in-power.html",
+      "fonte": "NYT",
+      "encontrada_em": "2026-08-15T00:07:10"
+    },
+    {
+      "titulo": "Heat Deaths in a ‘Cold’ Country Are a Warning to the Rest of Europe",
+      "resumo": "A June heat wave in Belgium and neighboring countries exposed a lethal lack of readiness. That’s a risk as another wave hits Europe.",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://static01.nyt.com/images/2026/08/15/multimedia/15int-belgium-heat-deaths-01-vmlz/15int-belgium-heat-deaths-01-vmlz-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/08/15/world/europe/heat-deaths-in-a-cold-country-are-a-warning-to-the-rest-of-europe.html",
+      "fonte": "NYT",
+      "encontrada_em": "2026-08-15T00:07:10"
+    },
+    {
+      "titulo": "Wary of Trump, Europe Seeks Role in Eventual Russia-Ukraine Talks",
+      "resumo": "French, German and British diplomats are working on a format for future negotiations — even if Russia has shown little interest.",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://static01.nyt.com/images/2026/08/15/multimedia/15int-russia-europe-ukraine-01-wqgp/15int-russia-europe-ukraine-01-wqgp-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/08/15/world/europe/wary-of-trump-europe-seeks-role-in-any-russia-ukraine-talks.html",
+      "fonte": "NYT",
+      "encontrada_em": "2026-08-15T00:07:10"
+    },
+    {
       "titulo": "Train Derails Near Town of Lewes in East Sussex, U.K.",
       "resumo": "Emergency services said they were working at the scene of a derailment near Lewes, in East Sussex, on Thursday. Eighteen other people were less badly hurt.",
       "categoria": "Amazonas",
@@ -948,36 +978,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cyvl2d5j52lo?at_medium=RSS&at_campaign=rss",
       "fonte": "BBC World",
       "encontrada_em": "2026-08-14T23:27:15"
-    },
-    {
-      "titulo": "HRW says US civil rights enforcement reduced under Trump: What to know",
-      "resumo": "A new report documents how federal agencies have reduced the number of civil rights cases they pursue as staffing falls.",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://www.aljazeera.com/wp-content/uploads/2026/08/reuters_6a7e3327-1786655527.jpg?resize=1920%2C1440",
-      "link": "https://www.aljazeera.com/news/2026/8/15/hrw-says-us-civil-rights-enforcement-reduced-under-trump-what-to-know?traffic_source=rss",
-      "fonte": "Al Jazeera",
-      "encontrada_em": "2026-08-14T23:17:15"
-    },
-    {
-      "titulo": "Topos Azteca, a Mexican Volunteer Rescue Group, Helps With Rescue Efforts After Colombia Earthquake",
-      "resumo": "Topos Azteca, a Mexican volunteer rescue group that works worldwide and helped after the Sept. 11 attacks, arrived in Colombia after searching for survivors in Venezuela.",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://static01.nyt.com/images/2026/08/13/world/13int-colombia-quake-rescue-promo/13int-colombia-quake-rescue-mediumSquareAt3X.jpg",
-      "link": "https://www.nytimes.com/2026/08/13/world/americas/topos-azteca-rescue-efforts-colombia-earthquake.html",
-      "fonte": "NYT",
-      "encontrada_em": "2026-08-14T22:52:13"
-    },
-    {
-      "titulo": "Romania shuts only nuclear plant as heat causes huge drop in Danube River level",
-      "resumo": "The Cernavodă plant, which produces 20% of Romania's electricity, is not expected to be restarted within the next 10 days.",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73db/live/5d4d0250-9728-11f1-808c-532494fd22c7.jpg",
-      "link": "https://www.bbc.co.uk/news/articles/cqlxpq5q799o?at_medium=RSS&at_campaign=rss",
-      "fonte": "BBC World",
-      "encontrada_em": "2026-08-14T22:47:15"
     }
   ],
   "empregos": [
