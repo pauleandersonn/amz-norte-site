@@ -920,6 +920,16 @@
   ],
   "internacionais": [
     {
+      "titulo": "BBC seeks to subpoena Trump's family members in Panorama lawsuit",
+      "resumo": "The BBC's lawyers argue Trump's family members \"have personal knowledge\" of his intentions in the speech he gave outside the US Capitol on 6 January 2021.",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8bb9/live/bd08d920-982d-11f1-8cf9-eb47c9176e95.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/cd69ely319eo?at_medium=RSS&at_campaign=rss",
+      "fonte": "BBC World",
+      "encontrada_em": "2026-08-15T01:07:12"
+    },
+    {
       "titulo": "Taiwan passes defence budget after record delay, retains drone funding",
       "resumo": "Taiwan parliament ends deadlock, ensuring vital drone programme funding amid rising cross-strait tensions with Beijing.",
       "categoria": "Amazonas",
@@ -966,16 +976,6 @@
       "autor": "Paulo Amazonas",
       "imagem": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a19c/live/d48d5480-9653-11f1-9a70-ddb12b8bcc9e.jpg",
       "link": "https://www.bbc.com/portuguese/articles/c36d27g1d62o?at_medium=RSS&at_campaign=rss",
-      "fonte": "BBC Brasil",
-      "encontrada_em": "2026-08-15T00:27:10"
-    },
-    {
-      "titulo": "Filha rebelde de Fidel Castro fala da relação com pai: 'Ele me deu um boneco vestido como ele'",
-      "resumo": "Desde muito cedo, Alina Fernández recebia em casa visitas frequentes de Fidel Castro, que faria 100 anos neste 13 de agosto. O que ela não sabia é que o líder cubano era seu pai.",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4e93/live/1f87ee80-95d9-11f1-8814-eb4e5c9628a6.jpg",
-      "link": "https://www.bbc.com/portuguese/articles/c2k72yvd5wyo?at_medium=RSS&at_campaign=rss",
       "fonte": "BBC Brasil",
       "encontrada_em": "2026-08-15T00:27:10"
     }
