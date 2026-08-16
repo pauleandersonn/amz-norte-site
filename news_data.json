@@ -858,6 +858,16 @@
   ],
   "nacionais": [
     {
+      "titulo": "Caça da Otan abate drone que violou espaço aéreo da Romênia",
+      "resumo": "Governo romeno confirmou invasão, mas não informou a origem",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/Caca-F-16-da-Romenia.png?w=1200&amp;h=630&amp;crop=1",
+      "link": "https://www.cnnbrasil.com.br/internacional/caca-da-otan-abate-drone-que-violou-espaco-aereo-da-romenia/",
+      "fonte": "CNN Brasil",
+      "encontrada_em": "2026-08-16T00:47:16"
+    },
+    {
       "titulo": "Dorival Jr admite frustração após São Paulo x Coritiba",
       "resumo": "A fase do São Paulo não é nada boa e parece não ter fim. O Tricolor recebeu o Coritiba neste ...",
       "categoria": "Amazonas",
@@ -904,16 +914,6 @@
       "autor": "Paulo Amazonas",
       "imagem": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/16/475797561-2026-vasco-x-santos-neymar-desempenho-retrospecto.jpg",
       "link": "https://www.terra.com.br/esportes/santos/neymar-contra-o-vasco-saiba-como-esta-o-retrospecto,417acaabd0dda9a8f35e131282c2c3bdzrjpzi6i.html",
-      "fonte": "Terra",
-      "encontrada_em": "2026-08-16T00:12:11"
-    },
-    {
-      "titulo": "Torcida do São Paulo protesta após empate contra o Coritiba",
-      "resumo": "O São Paulo mais uma vez decepcionou sua torcida jogando em casa. Na noite deste sábado (15), o ...",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/16/1722626706-torcida-do-sao-paulo.jpeg",
-      "link": "https://www.terra.com.br/esportes/sao-paulo/torcida-do-sao-paulo-protesta-apos-empate-contra-o-coritiba,0b4510902fa6e617a9631ca5cc06abcb1q93n2ur.html",
       "fonte": "Terra",
       "encontrada_em": "2026-08-16T00:12:11"
     }
