@@ -858,6 +858,26 @@
   ],
   "nacionais": [
     {
+      "titulo": "São Paulo empata com Coritiba e chega a 9 jogos sem vencer no Brasileirão",
+      "resumo": "Tricolor ainda não venceu no campeonato sob o comando de Dorival Júnior",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/sao-paulo-coritiba-brasileirao-1-e1786843457415.jpg?w=1200&amp;h=630&amp;crop=1",
+      "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/sao-paulo-empata-com-coritiba-e-chega-a-9-jogos-sem-vencer-no-brasileirao/",
+      "fonte": "CNN Brasil",
+      "encontrada_em": "2026-08-15T22:22:11"
+    },
+    {
+      "titulo": "Ameaçado por stalker da namorada, ex-Arsenal pede para sair do Galatasaray",
+      "resumo": "Meio-campista uruguaio teria acionado empresário depois que homem acusado de persegui-lo deixou a prisão e voltou a perseguir o casal",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/01/torreira-galatasaray-e1768528429863.jpg?w=1200&amp;h=630&amp;crop=1",
+      "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/ameacado-por-stalker-da-namorada-ex-arsenal-pede-para-sair-do-galatasaray/",
+      "fonte": "CNN Brasil",
+      "encontrada_em": "2026-08-15T22:22:11"
+    },
+    {
       "titulo": "Quem é Ivo Kos, empresário do mercado financeiro preso acusado de agredir a mulher em SP",
       "resumo": "Alerta: o texto abaixo aborda temas sensíveis como violência contra a mulher e violência ...",
       "categoria": "Segurança",
@@ -894,26 +914,6 @@
       "autor": "Paulo Amazonas",
       "imagem": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/16/1898394419-55466633470b01411eff8k.jpg",
       "link": "https://www.terra.com.br/esportes/fluminense/a-declaracao-de-marcao-direcionada-a-thiago-silva-do-fluminense,83162e910ca223d1790f4934897bda448czad5hj.html",
-      "fonte": "Terra",
-      "encontrada_em": "2026-08-15T22:07:20"
-    },
-    {
-      "titulo": "Ferroviária vira sobre o Inter e garante vaga no mata-mata do Brasileirão Feminino",
-      "resumo": "A Ferroviária está garantida na próxima fase da Série A1 do Campeonato Brasileiro Feminino . Em ...",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/16/116684712-2026-campeonato-brasileiro-feminino-ferroviaria-x-internacional.jpg",
-      "link": "https://www.terra.com.br/esportes/futebol/futebol-feminino/ferroviaria-vira-sobre-o-inter-e-garante-vaga-no-mata-mata-do-brasileirao-feminino,30617470ff1be3d0c7daa63e78e9a6de0nuaqkjz.html",
-      "fonte": "Terra",
-      "encontrada_em": "2026-08-15T22:07:20"
-    },
-    {
-      "titulo": "A declaração de Marcão, do Fluminense, direcionada a Marlon Freitas, do Palmeiras",
-      "resumo": "Marcão concedeu entrevista após a vitória de virada por 3 a 2 sobre o Palmeiras, pela 23ª rodada ...",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/16/106844028-15082026cgpalmeiras256738.png",
-      "link": "https://www.terra.com.br/esportes/fluminense/a-declaracao-de-marcao-do-fluminense-direcionada-a-marlon-freitas-do-palmeiras,8c717a5bcbfeec099d5fd0bb939888093trtjbwy.html",
       "fonte": "Terra",
       "encontrada_em": "2026-08-15T22:07:20"
     }
