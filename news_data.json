@@ -858,6 +858,16 @@
   ],
   "nacionais": [
     {
+      "titulo": "Terremoto na Indonésia: Número de mortos passa de 50; milhares deixam casas",
+      "resumo": "Tremor registrado no sábado foi seguido por centenas de réplicas, bloqueou estradas e provocou deslizamentos de terra",
+      "categoria": "Segurança",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/2026-08-15T141143Z_1_LYNXMPEM7E07O_RTROPTP_4_INDONESIA-QUAKE.jpg?w=1200&amp;h=630&amp;crop=1",
+      "link": "https://www.cnnbrasil.com.br/internacional/terremoto-na-indonesia-numero-de-mortos-passa-de-50-milhares-deixam-casas/",
+      "fonte": "CNN Brasil",
+      "encontrada_em": "2026-08-16T00:22:13"
+    },
+    {
       "titulo": "Neymar contra o Vasco: saiba como está o retrospecto",
       "resumo": "Neymar terá mais um desafio diante do Vasco neste domingo, 16, no Estádio de São Januário, pelo ...",
       "categoria": "Amazonas",
@@ -904,16 +914,6 @@
       "autor": "Paulo Amazonas",
       "imagem": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/16/333439621-pablo-maia-pelo-sao-paulo.jpg",
       "link": "https://www.terra.com.br/esportes/sao-paulo/pablo-maia-lamenta-outro-tropeco-do-sao-paulo-no-brasileirao,55f88e689eef5dc22bc07ab7074fedf6zca7zln2.html",
-      "fonte": "Terra",
-      "encontrada_em": "2026-08-16T00:12:11"
-    },
-    {
-      "titulo": "Dorival cobra elenco do São Paulo: \"A responsabilidade é nossa\"",
-      "resumo": "O técnico Dorival Júnior não escondeu a insatisfação com o desempenho do São Paulo no empate por ...",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/16/242965458-5546558492223fc007199k-610x400.jpg",
-      "link": "https://www.terra.com.br/esportes/sao-paulo/dorival-cobra-elenco-do-sao-paulo-a-responsabilidade-e-nossa,2bdf4651a3f762d04bdd528a4fef549011mrju4g.html",
       "fonte": "Terra",
       "encontrada_em": "2026-08-16T00:12:11"
     }
