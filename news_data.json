@@ -854,6 +854,26 @@
   ],
   "nacionais": [
     {
+      "titulo": "Fogo leva centenas a deixarem suas casas na Bélgica e na Alemanha",
+      "resumo": "Bélgica combate o maior incêndio florestal de sua história e autoridades alemãs ordenam retirada ...",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/17/1184713446-78387658354.jpg",
+      "link": "https://www.terra.com.br/noticias/fogo-leva-centenas-a-deixarem-suas-casas-na-belgica-e-na-alemanha,48e85c1b56ee2512e79db9aa31a80725bz3fu1n5.html",
+      "fonte": "Terra",
+      "encontrada_em": "2026-08-17T05:17:09"
+    },
+    {
+      "titulo": "Hayden Panettiere: o que se sabe sobre a morte da atriz de 'Heroes' aos 36 anos",
+      "resumo": "A atriz Hayden Panettiere, estrela das séries de TV americanas Heroes e Nashville, morreu aos 36 ...",
+      "categoria": "Segurança",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/17/1104523204-a28c5570-99f1-11f1-828b-990ef72ac649.jpg",
+      "link": "https://www.terra.com.br/noticias/mundo/hayden-panettiere-o-que-se-sabe-sobre-a-morte-da-atriz-de-heroes-aos-36-anos,c8989c204f3aff9b7d6ec69d68143212i3scwj1g.html",
+      "fonte": "Terra",
+      "encontrada_em": "2026-08-17T05:17:09"
+    },
+    {
       "titulo": "Casas Bahia pede recuperação judicial após confirmar fechamento de lojas",
       "resumo": "Após atrasar divulgação de resultados, companhia registrou prejuízo de R$ 10 bilhões no 2º trimestre, 18 vezes maior ante mesmo período do ano passado",
       "categoria": "Amazonas",
@@ -892,26 +912,6 @@
       "link": "https://www.cnnbrasil.com.br/agro/etanol-e-biometano-avancam-no-transporte-de-cargas/",
       "fonte": "CNN Brasil",
       "encontrada_em": "2026-08-17T05:12:08"
-    },
-    {
-      "titulo": "Anne Hathaway e Jonas Brothers se tornam lendas da Disney; veja como foi",
-      "resumo": "Cerimônia foi realizada neste domingo (16) durante a D23; várias artistas subiram ao palco",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/jonas-brothers_5ce950.jpg?w=1200&amp;h=630&amp;crop=1",
-      "link": "https://www.cnnbrasil.com.br/pop/celebridades/anne-hathaway-e-jonas-brothers-se-tornam-lendas-da-disney-veja-como-foi/",
-      "fonte": "CNN Brasil",
-      "encontrada_em": "2026-08-17T04:57:09"
-    },
-    {
-      "titulo": "Gastômetro de Lula mostra que presidente já gastou R$ 278,3 bilhões para tentar reeleição",
-      "resumo": "BRASÍLIA E SÃO PAULO — \"Papagaiada desgraçada\". Assim o presidente Luiz Inácio Lula da Silva ...",
-      "categoria": "Política",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
-      "link": "https://www.terra.com.br/economia/gastometro-de-lula-mostra-que-presidente-ja-gastou-r-2783-bilhoes-para-tentar-reeleicao,af4120652c69e5d6cdc607f488215f32jizx4c9z.html",
-      "fonte": "Terra",
-      "encontrada_em": "2026-08-17T04:47:09"
     }
   ],
   "internacionais": [
