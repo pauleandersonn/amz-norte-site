@@ -916,6 +916,16 @@
   ],
   "internacionais": [
     {
+      "titulo": "Japan’s economy slows, missing growth forecasts",
+      "resumo": "GDP rises 0.3 percent in the second quarter as consumption and capital spending sag.",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-07-28T082141Z_42050299_RC2TMMAEQ1YT_RTRMADP_3_JAPAN-ECONOMY-1786938604.jpg?resize=1920%2C1440",
+      "link": "https://www.aljazeera.com/economy/2026/8/17/japans-economy-slows-missing-growth-forecasts?traffic_source=rss",
+      "fonte": "Al Jazeera",
+      "encontrada_em": "2026-08-17T02:37:11"
+    },
+    {
       "titulo": "Cameroon dominates Malawi to win first Women’s Africa Cup of Nations title",
       "resumo": "The Indomitable Lionesses outshine their opponents to claim a first final victory on their fourth attempt in Morocco.",
       "categoria": "Amazonas",
@@ -964,16 +974,6 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/irans-top-negotiator-declares-victory-in-war-against-the-us-and-israel?traffic_source=rss",
       "fonte": "Al Jazeera",
       "encontrada_em": "2026-08-17T01:42:10"
-    },
-    {
-      "titulo": "Ukrainian strikes kill six in Russia, acting governor says",
-      "resumo": "A 14-year-old child was among four others injured, the acting governor of Russia's Belgorod region says.",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f2c/live/60f697b0-1203-11ef-82e8-cd354766a224.png",
-      "link": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss",
-      "fonte": "BBC World",
-      "encontrada_em": "2026-08-17T01:37:12"
     }
   ],
   "empregos": [
