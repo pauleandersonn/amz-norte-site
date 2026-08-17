@@ -858,6 +858,26 @@
   ],
   "nacionais": [
     {
+      "titulo": "Ciclone extratropical ameaça Brasil: entenda fenômeno e alerta",
+      "resumo": "Sistema deve atingir o Rio Grande do Sul a partir de quarta-feira, com impactos previstos para outras áreas do estado",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/WhatsApp-Image-2026-08-17-at-18.47.39-1-e1787007596894.jpeg?w=900&amp;h=450&amp;crop=1",
+      "link": "https://www.cnnbrasil.com.br/ciencia/ciclone-extratropical-ameaca-brasil-entenda-fenomeno-e-alerta/",
+      "fonte": "CNN Brasil",
+      "encontrada_em": "2026-08-17T19:06:10"
+    },
+    {
+      "titulo": "João Fonseca x Christopher O’Connell: horário e onde assistir ao jogo",
+      "resumo": "Brasileiro enfrenta o australiano pela terceira rodada do Masters 1000 de Cincinnati",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/joao-fonseca-vence-estreia-masters-cincinnati-2-e1786920220629.jpg?w=1200&amp;h=630&amp;crop=1",
+      "link": "https://www.cnnbrasil.com.br/esportes/tenis/joao-fonseca-x-christopher-oconnell-horario-e-onde-assistir-ao-jogo/",
+      "fonte": "CNN Brasil",
+      "encontrada_em": "2026-08-17T19:06:10"
+    },
+    {
       "titulo": "Grupo Pontal-Thopen pede recuperação judicial com passivo de R$ 4,6 bilhões",
       "resumo": "Grupo de energia diz que tentativa de acordo com credores fracassou, aponta juros altos, atrasos na conexão de usinas e acusa antigos controladores de inconsistências em informações financeiras",
       "categoria": "Amazonas",
@@ -894,26 +914,6 @@
       "autor": "Paulo Amazonas",
       "imagem": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
       "link": "https://www.terra.com.br/diversao/entre-telas/filmes/autopsia-de-hayden-panettiere-nao-encontra-sinais-de-trauma-atriz-morreu-aos-36-anos,adb06d4088c992d24cb33e629e10aff84f3ktw5m.html",
-      "fonte": "Terra",
-      "encontrada_em": "2026-08-17T18:56:12"
-    },
-    {
-      "titulo": "Para ver hoje na HBO Max: a melhor série sobre a Segunda Guerra Mundial da história da televisão completa 25 anos",
-      "resumo": "Quem gosta de histórias ambientadas em meio à guerra e ainda não assistiu a \"Band of Brothers\" ...",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/17/2020204346-dbccf1eee1892530-1400x823-2.jpg",
-      "link": "https://www.terra.com.br/diversao/tv/para-ver-hoje-na-hbo-max-a-melhor-serie-sobre-a-segunda-guerra-mundial-da-historia-da-televisao-completa-25-anos,d0a88bb6e06553df6ca60d41f3b12b3972lxsmmb.html",
-      "fonte": "Terra",
-      "encontrada_em": "2026-08-17T18:56:12"
-    },
-    {
-      "titulo": "A personagem de Hayden Panettiere em 'Nashville' ajudou a expor o lado sombrio da música country",
-      "resumo": "Quando a personagem de Hayden Panettiere, Juliette Barnes, se opôs às investidas indesejadas de ...",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/17/511658954-hayden-panettiere-foto-dimitrios-kambouris-getty-images.jpg",
-      "link": "https://www.terra.com.br/diversao/musica/a-personagem-de-hayden-panettiere-em-nashville-ajudou-a-expor-o-lado-sombrio-da-musica-country,72a78dfa18b34c63f37102cc7acffc68qsqegfju.html",
       "fonte": "Terra",
       "encontrada_em": "2026-08-17T18:56:12"
     }
