@@ -921,6 +921,16 @@
   ],
   "internacionais": [
     {
+      "titulo": "A Prominent Mexican Politician Says U.S. Revoked His Visa",
+      "resumo": "Andrés Manuel López Beltrán, a former president’s son, lashed out at the Trump administration after he said it canceled his visa, another flashpoint in the tense U.S.-Mexico relationship.",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://static01.nyt.com/images/2026/08/14/multimedia/14int-mexico-visa-hcvl/14int-mexico-visa-hcvl-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/08/14/world/americas/mexico-visas-lopez-beltran.html",
+      "fonte": "NYT",
+      "encontrada_em": "2026-08-17T12:26:13"
+    },
+    {
       "titulo": "How Russian dissidents are being punished by both Russia and Europe",
       "resumo": "While Moscow is stripping citizenship rights, European states are curbing access to legal status for Russian emigres.",
       "categoria": "Amazonas",
@@ -969,16 +979,6 @@
       "link": "https://www.theguardian.com/us-news/2026/aug/17/gas-prices-august-record-iran-war",
       "fonte": "The Guardian",
       "encontrada_em": "2026-08-17T12:11:14"
-    },
-    {
-      "titulo": "'Proibir redes sociais para jovens não será solução mágica', diz psicóloga canadense",
-      "resumo": "Candice Odgers estuda saúde mental de crianças e adolescentes há 25 anos e diz que restrições não são baseadas em evidências científicas e não vão funcionar.",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5b8f/live/0a9546b0-9112-11f1-b8ee-9b3c26ad07bb.jpg",
-      "link": "https://www.bbc.com/portuguese/articles/cn0nkrdgnx2o?at_medium=RSS&at_campaign=rss",
-      "fonte": "BBC Brasil",
-      "encontrada_em": "2026-08-17T12:01:13"
     }
   ],
   "empregos": [
