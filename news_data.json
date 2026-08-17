@@ -921,6 +921,26 @@
   ],
   "internacionais": [
     {
+      "titulo": "Trump Orders Pentagon to Curtail Military Exercises With Ally South Korea",
+      "resumo": "In a social media post, the president scolded South Korea for not helping denuclearize Iran, and also praised North Korea and its leader.",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://static01.nyt.com/images/2026/08/16/multimedia/16DC-trump-korea-vhgm/16DC-trump-korea-vhgm-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/08/16/us/politics/trump-south-korea-military-exercises.html",
+      "fonte": "NYT",
+      "encontrada_em": "2026-08-17T12:41:13"
+    },
+    {
+      "titulo": "Jon Ossoff calls Trump’s handling of Iran war ‘uniquely despicable’ in excoriating speech",
+      "resumo": "Georgia Democratic senator has stoked speculation for 2028 presidency bid by delivering stinging attacks on Trump Democratic senator Jon Ossoff has attacked Donald Trump’s “uniquely despicable” handli",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://i.guim.co.uk/img/media/40c6af48622c3a33126da932c4e6c8cb66d2e1f6/894_617_5772_4618/master/5772.jpg?width=140&quality=85&auto=format&fit=max&s=8d259118773bbc9cedc989e790802c20",
+      "link": "https://www.theguardian.com/us-news/2026/aug/17/jon-ossoff-trump-iran-war-criticism",
+      "fonte": "The Guardian",
+      "encontrada_em": "2026-08-17T12:41:13"
+    },
+    {
       "titulo": "War on Iran: Phase II, Day 37",
       "resumo": "Iran is offering $30,000 for captured or killed US soldiers. Trump cuts back South Korea drills.",
       "categoria": "Amazonas",
@@ -959,26 +979,6 @@
       "link": "https://www.nytimes.com/2026/08/14/world/americas/mexico-visas-lopez-beltran.html",
       "fonte": "NYT",
       "encontrada_em": "2026-08-17T12:26:13"
-    },
-    {
-      "titulo": "How Russian dissidents are being punished by both Russia and Europe",
-      "resumo": "While Moscow is stripping citizenship rights, European states are curbing access to legal status for Russian emigres.",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://www.aljazeera.com/wp-content/uploads/2026/08/2022-04-23T114513Z_1993163814_RC2ZST9BL7BS_RTRMADP_3_UKRAINE-CRISIS-GERMANY-PROTEST-1786979982.jpg?resize=1920%2C1440",
-      "link": "https://www.aljazeera.com/opinions/2026/8/17/how-russian-dissidents-are-being-punished-by-both-russia-and-europe?traffic_source=rss",
-      "fonte": "Al Jazeera",
-      "encontrada_em": "2026-08-17T12:16:12"
-    },
-    {
-      "titulo": "European farmers face ‘unprecedented crisis’ after successive heatwaves",
-      "resumo": "Vegetable and grain growers call for urgent action, warning of ‘catastrophic’ harvests due to continent-wide drought Successive intense heatwaves and an increasingly severe, continent-wide drought hav",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://i.guim.co.uk/img/media/fe0c5f431ce2b22d377fe5c2b1875be7c61ad9e8/0_0_3838_3072/master/3838.jpg?width=140&quality=85&auto=format&fit=max&s=d952df853eb70a425f688d65a875210a",
-      "link": "https://www.theguardian.com/environment/2026/aug/17/european-farmers-unprecedented-crisis-successive-heatwaves",
-      "fonte": "The Guardian",
-      "encontrada_em": "2026-08-17T12:11:14"
     }
   ],
   "empregos": [
