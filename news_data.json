@@ -859,6 +859,26 @@
   ],
   "nacionais": [
     {
+      "titulo": "CNN entrevista Celina Leão, candidata ao governo do DF",
+      "resumo": "Governadora abre série de sabatinas com os concorrentes na corrida ao Palácio do Buriti",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/04/celina-leao-e1784550535723.jpg?w=1200&amp;h=630&amp;crop=1",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/cnn-entrevista-celina-leao/",
+      "fonte": "CNN Brasil",
+      "encontrada_em": "2026-08-17T12:16:11"
+    },
+    {
+      "titulo": "Polícia investiga morte de criança de 4 anos com sinais de agressão no RS",
+      "resumo": "Menina chegou sem vida a uma unidade de saúde da zona Leste da capital gaúcha, nesta segunda-feira (17)",
+      "categoria": "Segurança",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2022/12/28113328_388069_GDO-e1671138363373.jpg?w=544&amp;h=306&amp;crop=1",
+      "link": "https://www.cnnbrasil.com.br/nacional/sul/rs/policia-investiga-morte-de-crianca-de-4-anos-com-sinais-de-agressao-no-rs/",
+      "fonte": "CNN Brasil",
+      "encontrada_em": "2026-08-17T12:16:11"
+    },
+    {
       "titulo": "Motorista de Haddad presta depoimento nesta segunda em SP",
       "resumo": "CNN apurou que condutor mudou ao menos três vezes sua versão sobre episódio envolvendo policiais militares",
       "categoria": "Amazonas",
@@ -897,29 +917,19 @@
       "link": "https://www.cnnbrasil.com.br/economia/money/negocios/casas-bahia-pedem-recuperacao-judicial-entenda-como-funciona-processo/",
       "fonte": "CNN Brasil",
       "encontrada_em": "2026-08-17T11:56:11"
-    },
-    {
-      "titulo": "Fraqueza do setor imobiliário da China se aprofunda em julho",
-      "resumo": "Preços dos imóveis nas 70 maiores cidades do país caíram 0,18% em julho, após recuo de 0,15% em junho",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportBusinessNews/tagreuters.com2024binary_LYNXMPEK4G0C1-FILEDIMAGE.jpg?w=1200&amp;h=630&amp;crop=1",
-      "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/fraqueza-do-setor-imobiliario-da-china-se-aprofunda-em-julho/",
-      "fonte": "CNN Brasil",
-      "encontrada_em": "2026-08-17T11:56:11"
-    },
-    {
-      "titulo": "Análise: Resistência do Discord pode gerar mais sanções",
-      "resumo": "Agência Nacional de Proteção de Dados determinou suspensão de lives no Brasil; de acordo com Clarissa Oliveira, o descumprimento pode gerar multas e até banimento da plataforma",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2022/03/Discord.jpeg?w=1200&amp;h=630&amp;crop=1",
-      "link": "https://www.cnnbrasil.com.br/politica/analise-resistencia-do-discord-pode-gerar-mais-sancoes/",
-      "fonte": "CNN Brasil",
-      "encontrada_em": "2026-08-17T11:56:11"
     }
   ],
   "internacionais": [
+    {
+      "titulo": "How Russian dissidents are being punished by both Russia and Europe",
+      "resumo": "While Moscow is stripping citizenship rights, European states are curbing access to legal status for Russian emigres.",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://www.aljazeera.com/wp-content/uploads/2026/08/2022-04-23T114513Z_1993163814_RC2ZST9BL7BS_RTRMADP_3_UKRAINE-CRISIS-GERMANY-PROTEST-1786979982.jpg?resize=1920%2C1440",
+      "link": "https://www.aljazeera.com/opinions/2026/8/17/how-russian-dissidents-are-being-punished-by-both-russia-and-europe?traffic_source=rss",
+      "fonte": "Al Jazeera",
+      "encontrada_em": "2026-08-17T12:16:12"
+    },
     {
       "titulo": "European farmers face ‘unprecedented crisis’ after successive heatwaves",
       "resumo": "Vegetable and grain growers call for urgent action, warning of ‘catastrophic’ harvests due to continent-wide drought Successive intense heatwaves and an increasingly severe, continent-wide drought hav",
@@ -969,16 +979,6 @@
       "link": "https://www.bbc.com/portuguese/articles/cn0nkrdgnx2o?at_medium=RSS&at_campaign=rss",
       "fonte": "BBC Brasil",
       "encontrada_em": "2026-08-17T12:01:13"
-    },
-    {
-      "titulo": "China’s economy showing signs that slowdown may be extending",
-      "resumo": "Industrial output and retail sales slump in July after one of the country’s weakest quarterly growth rates ever China’s economy is showing signs of extending a slowdown with a slump in industrial outp",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://i.guim.co.uk/img/media/990f70c7faa98b9a8da40ae06ea211f6b29a631d/1113_0_5439_4352/master/5439.jpg?width=140&quality=85&auto=format&fit=max&s=05dd0e0592cfefd892bae6b041c7d6d4",
-      "link": "https://www.theguardian.com/business/2026/aug/17/china-economy-slowdown-signs-extending",
-      "fonte": "The Guardian",
-      "encontrada_em": "2026-08-17T11:56:16"
     }
   ],
   "empregos": [
