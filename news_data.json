@@ -917,6 +917,26 @@
   ],
   "internacionais": [
     {
+      "titulo": "DRC’s fast-growing Ebola outbreak spreads to sixth province",
+      "resumo": "Man dies in Bas-Uele after travelling from Haut-Uele, as head of WHO says outbreak on track to be deadliest ever The Ebola outbreak in the Democratic Republic of the Congo has spread to a sixth provin",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://i.guim.co.uk/img/media/7cdf83c55d79a96a161395d5c73576671830d88a/31_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=69ea3d0c862b6a5b0a713ec4ccab78d2",
+      "link": "https://www.theguardian.com/world/2026/aug/13/ebola-drc-democratic-republic-congo-sixth-province",
+      "fonte": "The Guardian",
+      "encontrada_em": "2026-08-17T17:31:19"
+    },
+    {
+      "titulo": "Palestinian American reunites with family under siege in West Bank",
+      "resumo": "Videos show the first moments Palestinian-American Loui Ridi arrived at his home in Qusra.",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1787000197.jpg?resize=1920%2C1080&amp;quality=80",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/palestinian-american-reunites-with-family-under-siege-in-west-bank?traffic_source=rss",
+      "fonte": "Al Jazeera",
+      "encontrada_em": "2026-08-17T17:31:18"
+    },
+    {
       "titulo": "Election denier Tina Peters to be hired as elections consultant in conservative California county",
       "resumo": "Shasta county, hotbed of US election denialism movement, set to appoint ex-Colorado clerk who served prison term A northern California county that has become a hotbed of activism for those who sow dou",
       "categoria": "Amazonas",
@@ -953,26 +973,6 @@
       "autor": "Paulo Amazonas",
       "imagem": "https://www.aljazeera.com/wp-content/uploads/2026/08/AFP__20260817__C4V989F__v1__HighRes__FilesComboUsPoliticsJusticeTrumpCarroll-1786994601.jpg?resize=1920%2C1440",
       "link": "https://www.aljazeera.com/news/2026/8/17/trump-loses-second-supreme-court-bid-over-e-jean-carroll-sex-abuse-case?traffic_source=rss",
-      "fonte": "Al Jazeera",
-      "encontrada_em": "2026-08-17T17:11:31"
-    },
-    {
-      "titulo": "Torrential rains flood homes and roads across Lima, Peru",
-      "resumo": "Heavy rains have flooded oads in Lima, while river overflows, landslides, and road closures continue to affect Peru.",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://www.aljazeera.com/wp-content/uploads/2026/08/Screenshot-2026-08-17-at-21.36.26-1786999104.png?resize=1200%2C675",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/torrential-rains-flood-homes-and-roads-across-lima-peru?traffic_source=rss",
-      "fonte": "Al Jazeera",
-      "encontrada_em": "2026-08-17T17:11:31"
-    },
-    {
-      "titulo": "Trump’s approval rating sinks to new low",
-      "resumo": "New poll found a majority of US citizens concerned about the US war on Iran.",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://www.aljazeera.com/wp-content/uploads/2026/08/ap_6a836282620e7-1786995330.jpg?resize=1920%2C1440",
-      "link": "https://www.aljazeera.com/economy/2026/8/17/trumps-approval-rating-sinks-to-new-low?traffic_source=rss",
       "fonte": "Al Jazeera",
       "encontrada_em": "2026-08-17T17:11:31"
     }
