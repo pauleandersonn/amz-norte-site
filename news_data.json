@@ -854,6 +854,16 @@
   ],
   "nacionais": [
     {
+      "titulo": "A vida em El Salvador 4 anos sob Bukele: 'O medo agora é outro'",
+      "resumo": "Caminhando por um bairro de El Salvador erguido no alto de um morro, Adélia Rosales aponta para ...",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/17/1988763226-3ba87130-95b5-11f1-a7ab-8b30adf0800a.jpg",
+      "link": "https://www.terra.com.br/noticias/mundo/a-vida-em-el-salvador-4-anos-sob-bukele-o-medo-agora-e-outro,b800aba55a8c336ee448661300329d638empefqv.html",
+      "fonte": "Terra",
+      "encontrada_em": "2026-08-17T03:47:08"
+    },
+    {
       "titulo": "Partidos têm até quarta para responder Dino sobre gestão de emendas",
       "resumo": "Ministro do STF cobrou de 21 legendas informações sobre eventual participação de dirigentes na definição e distribuição de emendas",
       "categoria": "Amazonas",
@@ -902,16 +912,6 @@
       "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/mercado-pede-responsabilidade-fiscal-no-centro-da-discussao-para-2027/",
       "fonte": "CNN Brasil",
       "encontrada_em": "2026-08-17T03:27:08"
-    },
-    {
-      "titulo": "Após reviravoltas, 33 senadores miram reeleição e 10 governo estadual",
-      "resumo": "Candidaturas em Minas Gerais e Alagoas foram definidas perto do fim do prazo de registro; senadores titulares também disputam vagas de suplentes e cadeiras na Câmara dos Deputados",
-      "categoria": "Política",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/07/55393954323_c471783b0e_o.jpg?w=1200&amp;h=630&amp;crop=1",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/apos-reviravoltas-33-senadores-miram-reeleicao-e-10-governo-estadual/",
-      "fonte": "CNN Brasil",
-      "encontrada_em": "2026-08-17T03:22:09"
     }
   ],
   "internacionais": [
