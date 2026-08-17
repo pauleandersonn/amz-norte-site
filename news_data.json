@@ -854,6 +854,46 @@
   ],
   "nacionais": [
     {
+      "titulo": "Casas Bahia pede recuperação judicial após confirmar fechamento de lojas",
+      "resumo": "Após atrasar divulgação de resultados, companhia registrou prejuízo de R$ 10 bilhões no 2º trimestre, 18 vezes maior ante mesmo período do ano passado",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2021/08/31094_4F90E37C9A3EFCF1-2.jpeg?w=1200&amp;h=630&amp;crop=1",
+      "link": "https://www.cnnbrasil.com.br/economia/money/negocios/casas-bahia-pede-recuperacao-judicial-apos-confirmar-fechamento-de-lojas/",
+      "fonte": "CNN Brasil",
+      "encontrada_em": "2026-08-17T05:12:08"
+    },
+    {
+      "titulo": "Morte de Silvio Santos completa 2 anos nesta segunda (17)",
+      "resumo": "Apresentador que se tornou um dos maiores empresários de comunicação do país faleceu aos 93 anos",
+      "categoria": "Segurança",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2024/08/Topa-Tudo-por-Dinheiro-030295-Joao-Batista-da-Silva-SBT-008-e1724051038124.jpg?w=1200&amp;h=630&amp;crop=1",
+      "link": "https://www.cnnbrasil.com.br/pop/tv/morte-de-silvio-santos-completa-2-anos-nesta-segunda-17/",
+      "fonte": "CNN Brasil",
+      "encontrada_em": "2026-08-17T05:12:08"
+    },
+    {
+      "titulo": "Dr. Kalil: Saiba fatores que aumentam as chances de transtornos alimentares",
+      "resumo": "Especialistas do Ambulim do HC-FMUSP explicam ao CNN Sinais Vitais como biologia, genética e redes sociais influenciam o desenvolvimento de transtornos alimentares",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/06/dieta-restritiva-depressao.jpg?w=1200&amp;h=630&amp;crop=1",
+      "link": "https://www.cnnbrasil.com.br/saude/dr-kalil-saiba-fatores-que-aumentam-as-chances-de-transtornos-alimentares/",
+      "fonte": "CNN Brasil",
+      "encontrada_em": "2026-08-17T05:12:08"
+    },
+    {
+      "titulo": "Etanol e biometano avançam no transporte de cargas no Brasil",
+      "resumo": "Novos mercados para biocombustíveis ampliam alternativas para descarbonizar setores de difícil eletrificação",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/COPERSUCAR-CMA-CGM-@R7M7FILMES-2.jpg?w=1200&amp;h=630&amp;crop=1",
+      "link": "https://www.cnnbrasil.com.br/agro/etanol-e-biometano-avancam-no-transporte-de-cargas/",
+      "fonte": "CNN Brasil",
+      "encontrada_em": "2026-08-17T05:12:08"
+    },
+    {
       "titulo": "Anne Hathaway e Jonas Brothers se tornam lendas da Disney; veja como foi",
       "resumo": "Cerimônia foi realizada neste domingo (16) durante a D23; várias artistas subiram ao palco",
       "categoria": "Amazonas",
@@ -872,49 +912,29 @@
       "link": "https://www.terra.com.br/economia/gastometro-de-lula-mostra-que-presidente-ja-gastou-r-2783-bilhoes-para-tentar-reeleicao,af4120652c69e5d6cdc607f488215f32jizx4c9z.html",
       "fonte": "Terra",
       "encontrada_em": "2026-08-17T04:47:09"
-    },
-    {
-      "titulo": "“Fiz de tudo para sair com vida”, diz advogado sequestrado pelo PCC em SP",
-      "resumo": "Rafaell Roque foi mantido refém pela facção criminosa por seis horas após ser atraído para um cativeiro; sete pessoas são investigadas pelo crime",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/ADVOGADO-SEQUESTRADO-PCC.jpg?w=1200&amp;h=630&amp;crop=1",
-      "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/fiz-de-tudo-para-sair-com-vida-diz-advogado-sequestrado-pelo-pcc-em-sp/",
-      "fonte": "CNN Brasil",
-      "encontrada_em": "2026-08-17T04:42:08"
-    },
-    {
-      "titulo": "Lei do Bem: empresas do agro têm até 31 de agosto para reduzir impostos",
-      "resumo": "",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/04/CBS-PIS-Confins.webp?w=1200&amp;h=630&amp;crop=1",
-      "link": "https://www.cnnbrasil.com.br/agro/lei-do-bem-empresas-do-agro-tem-ate-31-de-agosto-para-reduzir-impostos/",
-      "fonte": "CNN Brasil",
-      "encontrada_em": "2026-08-17T04:27:09"
-    },
-    {
-      "titulo": "Se Pablo Marçal está inelegível por 8 anos, por que foi anunciado como candidato à Presidência?",
-      "resumo": "O empresário e influenciador Pablo Marçal entrou na corrida presidencial deste ano no último dia ...",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/17/835533272-9397f6e0-99bb-11f1-9e10-ed121e93aba7.jpg",
-      "link": "https://www.terra.com.br/noticias/brasil/se-pablo-marcal-esta-inelegivel-por-8-anos-por-que-foi-anunciado-como-candidato-a-presidencia,bfee18480b58d5a3bdd02692a38719a2en9iy02z.html",
-      "fonte": "Terra",
-      "encontrada_em": "2026-08-17T04:17:09"
-    },
-    {
-      "titulo": "Pão de queijo de micro-ondas: receita rápida e saudável para o dia a dia",
-      "resumo": "O pão de queijo de micro-ondas é uma alternativa prática para quem quer preparar um lanche ...",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/17/68406801-pao-de-queijo-de-micro-ondas.jpg",
-      "link": "https://www.terra.com.br/vida-e-estilo/degusta/receitas/pao-de-queijo-de-micro-ondas-receita-rapida-e-saudavel-para-o-dia-a-dia,cd16fea5e585ccb5cbd60abbddb070dcmjs3k4ej.html",
-      "fonte": "Terra",
-      "encontrada_em": "2026-08-17T04:17:09"
     }
   ],
   "internacionais": [
+    {
+      "titulo": "Massive Attack and Paris Paloma join musicians urging Burnham to reject new North Sea drilling",
+      "resumo": "Brian Eno and Olly Alexander also among signatories saying exploitation of Rosebank and Jackdaw fields defies reality More than 200 musicians including Massive Attack and Brian Eno have written to And",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://i.guim.co.uk/img/media/211e428b2ab262553737c035baee291e916f53b8/593_0_5928_4743/master/5928.jpg?width=140&quality=85&auto=format&fit=max&s=d7108dbfcbfff4f79efda5d17f50a230",
+      "link": "https://www.theguardian.com/business/2026/aug/17/massive-attack-paris-paloma-musicians-burnham-rosebank-north-sea-drilling",
+      "fonte": "The Guardian",
+      "encontrada_em": "2026-08-17T05:12:12"
+    },
+    {
+      "titulo": "Trump’s Overture to North Korea Strains Alliance With the South",
+      "resumo": "President Trump wants to curtail military exercises with South Korea, saying they were hostile to North Korea. But under Mr. Kim, the North has become increasingly belligerent toward the South.",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://static01.nyt.com/images/2026/08/17/multimedia/17int-skorea-trump-promo-ctkj/17int-skorea-trump-promo-ctkj-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/08/17/world/asia/trump-korea-military-kim-jong-un.html",
+      "fonte": "NYT",
+      "encontrada_em": "2026-08-17T05:12:11"
+    },
     {
       "titulo": "How Japan Averted a Major Earthquake Disaster",
       "resumo": "Japan avoided a major disaster after a 6.8-magnitude earthquake hit last month. Our reporter River Akira Davis visited Kumamoto, a prefecture near the epicenter, to see how it built quake-proof buildi",
@@ -954,26 +974,6 @@
       "link": "https://www.aljazeera.com/sports/2026/8/17/scottie-scheffler-wins-st-jude-championship-by-eight-shots?traffic_source=rss",
       "fonte": "Al Jazeera",
       "encontrada_em": "2026-08-17T04:57:11"
-    },
-    {
-      "titulo": "Hayden Panettiere: o que se sabe sobre a morte da atriz de 'Heroes' aos 36 anos",
-      "resumo": "Ela atuou nas séries de TV 'Heroes' e 'Nashville', além dos filmes 'Duelo de Titãs' e 'Um Presente para Helen'.",
-      "categoria": "Segurança",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/14bb/live/a28c5570-99f1-11f1-828b-990ef72ac649.jpg",
-      "link": "https://www.bbc.com/portuguese/articles/ckg3vnmrx7mo?at_medium=RSS&at_campaign=rss",
-      "fonte": "BBC Brasil",
-      "encontrada_em": "2026-08-17T04:52:09"
-    },
-    {
-      "titulo": "Cincinnati Open: Sabalenka takes six match points to defeat Gibson",
-      "resumo": "Top-ranked Aryna Sabalenka escapes with a nail-biting win while Felix Auger-Aliassime downs ex-champ Stefanos Tsitsipas.",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-16T230730Z_858658742_MT1USATODAY29599298_RTRMADP_3_TENNIS-CINCINNATI-OPEN-1786952617_560e31-1786953232.jpg?resize=1200%2C630&amp;quality=80",
-      "link": "https://www.aljazeera.com/sports/2026/8/17/cincinnati-open-sabalenka-takes-six-match-points-to-defeat-gibson?traffic_source=rss",
-      "fonte": "Al Jazeera",
-      "encontrada_em": "2026-08-17T04:42:10"
     }
   ],
   "empregos": [
