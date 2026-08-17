@@ -854,67 +854,87 @@
   ],
   "nacionais": [
     {
-      "titulo": "Porto Alegre terá semana de chuvas e queda de temperatura; veja previsão",
-      "resumo": "Depois de segunda com sol, previsão indica precipitação de terça a sexta e mínimas de 8°C no domingo.",
+      "titulo": "Previsão semanal aponta calor intenso e tempo seco em Goiânia; confira",
+      "resumo": "Cidade não terá chuva e máximas podem chegar a 36°c; umidade do ar ficará em patamares muito baixos",
       "categoria": "Amazonas",
       "autor": "Paulo Amazonas",
-      "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/09/Foto-1.png?w=1200&amp;h=630&amp;crop=1",
-      "link": "https://www.cnnbrasil.com.br/nacional/sul/rs/porto-alegre-tera-semana-de-chuvas-e-queda-de-temperatura-veja-previsao/",
+      "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2022/07/GettyImages-570855311.jpg?w=1200&amp;h=630&amp;crop=1",
+      "link": "https://www.cnnbrasil.com.br/nacional/centro-oeste/go/previsao-semanal-aponta-calor-intenso-e-tempo-seco-em-goiania-confira/",
       "fonte": "CNN Brasil",
-      "encontrada_em": "2026-08-17T06:22:10"
+      "encontrada_em": "2026-08-17T06:27:08"
     },
     {
-      "titulo": "Real Time: Em Pernambuco, Flávio é rejeitado por 53%; Lula, por 33%",
-      "resumo": "Pesquisa entrevistou 1.600 eleitores no estado entre os dias 12 e 15 de agosto; margem de erro é de 2 pontos percentuais, para mais ou para menos",
+      "titulo": "Chuvas de monção nas Filipinas inundam casas e deixam estradas submersas",
+      "resumo": "Moradores foram vistos caminhando por águas profundas, e algumas casas ficaram alagadas até o segundo andar",
       "categoria": "Amazonas",
       "autor": "Paulo Amazonas",
-      "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/02/Flavio-Bolsonaro-e-Lula.png?w=1200&amp;h=630&amp;crop=1",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/real-time-em-pernambuco-flavio-e-rejeitado-por-53-lula-por-33/",
+      "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/Chuvas-de-moncao-nas-Filipinas-inundam-casas-e-deixam-estradas-submersas.jpg?w=960&amp;h=540&amp;crop=1",
+      "link": "https://www.cnnbrasil.com.br/internacional/chuvas-de-moncao-nas-filipinas-inundam-casas-e-deixam-estradas-submersas/",
       "fonte": "CNN Brasil",
-      "encontrada_em": "2026-08-17T06:22:10"
+      "encontrada_em": "2026-08-17T06:27:08"
     },
     {
-      "titulo": "Real Time PE: Lula tem 60% no 2º turno; Flávio, 35%",
-      "resumo": "Pesquisa entrevistou 1.600 eleitores no estado entre os dias 12 e 15 de agosto; margem de erro é de 2 pontos percentuais, para mais ou para menos",
+      "titulo": "Cuiabá terá uma semana de céu predominantemente aberto e sem chuvas",
+      "resumo": "Temperaturas chegam a 41°C, com umidade do ar muito baixa e risco de UV extremo até quinta-feira",
       "categoria": "Amazonas",
       "autor": "Paulo Amazonas",
-      "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/01/Lula-e-Flavio-.png?w=1200&amp;h=630&amp;crop=1",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/real-time-pe-lula-tem-60-no-2o-turno-flavio-35/",
+      "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2024/09/cuiaba-agora.jpg?w=1200&amp;h=630&amp;crop=1",
+      "link": "https://www.cnnbrasil.com.br/nacional/centro-oeste/mt/cuiaba-tera-uma-semana-de-ceu-predominantemente-aberto-e-sem-chuvas/",
       "fonte": "CNN Brasil",
-      "encontrada_em": "2026-08-17T06:22:10"
+      "encontrada_em": "2026-08-17T06:27:08"
     },
     {
-      "titulo": "Real Time: Em PE, Lula tem 58% e Flávio, 24% no 1º turno",
-      "resumo": "Pesquisa entrevistou 1.600 eleitores no estado entre os dias 12 e 15 de agosto; margem de erro é de 2 pontos percentuais, para mais ou para menos",
-      "categoria": "Amazonas",
+      "titulo": "Operação no RJ mira integrantes do CV suspeitos de tortura contra moradores",
+      "resumo": "Investigação aponta que traficantes do Comando Vermelho ameaçavam moradores e trabalhadores sob suspeita de ligação com facções rivais",
+      "categoria": "Segurança",
       "autor": "Paulo Amazonas",
-      "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/04/1-1-Lula-Flavio-e-Tarcisio.png?w=1059&amp;h=595&amp;crop=1",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/real-time-em-pe-lula-tem-58-e-flavio-24-no-1o-turno/",
+      "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/Captura-de-tela-2026-08-17-065417.png?w=880&amp;h=483&amp;crop=1",
+      "link": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/operacao-no-rj-mira-integrantes-do-cv-suspeitos-de-tortura-contra-moradores/",
       "fonte": "CNN Brasil",
-      "encontrada_em": "2026-08-17T06:22:10"
+      "encontrada_em": "2026-08-17T06:27:08"
     },
     {
-      "titulo": "Florianópolis terá semana marcada por cenários climáticos distintos",
-      "resumo": "O tempo muda progressivamente a partir de sexta-feira, com queda nas temperaturas e possibilidade de precipitação até domingo.",
+      "titulo": "Campo Grande terá extremos de calor e frio na semana; veja previsão",
+      "resumo": "De máximas de 37°C com umidade crítica a mínimas de 13°C e chuva, a capital registra grande variação térmica",
       "categoria": "Amazonas",
       "autor": "Paulo Amazonas",
-      "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/01/1_ad9484-e1748254915698.png?w=962&amp;h=542&amp;crop=1",
-      "link": "https://www.cnnbrasil.com.br/nacional/sul/sc/florianopolis-tera-semana-marcada-por-cenarios-climaticos-distintos/",
+      "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2024/09/Campo-Grande-agora.jpg?w=1200&amp;h=630&amp;crop=1",
+      "link": "https://www.cnnbrasil.com.br/nacional/centro-oeste/ms/campo-grande-tera-extremos-de-calor-e-frio-na-semana-veja-previsao/",
       "fonte": "CNN Brasil",
-      "encontrada_em": "2026-08-17T06:22:10"
+      "encontrada_em": "2026-08-17T06:27:08"
     },
     {
-      "titulo": "Real Time PE: Raquel Lyra é rejeitada por 40%; João Campos, por 35%",
-      "resumo": "Pesquisa entrevistou 1.600 eleitores no estado entre os dias 12 e 15 de agosto; margem de erro é de 2 pontos percentuais, para mais ou para menos",
+      "titulo": "Curitiba terá uma semana marcada por céu aberto e ausência de chuva",
+      "resumo": "As temperaturas oscilarão entre mínimas de 8°C e máximas de 30°C ao longo do período, com índices ultravioleta elevados no início da semana e queda expressiva nas temperaturas a partir de sexta-feira",
       "categoria": "Amazonas",
       "autor": "Paulo Amazonas",
-      "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/05/Renata-18.jpg?w=1200&amp;h=630&amp;crop=1",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/real-time-pe-raquel-lyra-e-rejeitada-por-40-joao-campos-por-35/",
+      "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/05/00345086-e1748870630828.jpg?w=1200&amp;h=630&amp;crop=1",
+      "link": "https://www.cnnbrasil.com.br/nacional/sul/pr/curitiba-tera-uma-semana-marcada-por-ceu-aberto-e-ausencia-de-chuva/",
       "fonte": "CNN Brasil",
-      "encontrada_em": "2026-08-17T06:22:10"
+      "encontrada_em": "2026-08-17T06:27:08"
     }
   ],
   "internacionais": [
+    {
+      "titulo": "Angus Taylor links support for NDIS reform to removal of ‘widow tax’ loophole",
+      "resumo": "Coalition leader tells Antony Albanese that delaying repeal of ‘cruel’ measure is ‘unconscionable’ Get our breaking news email , free app or daily news podcast Angus Taylor says the Coalition will onl",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://i.guim.co.uk/img/media/d56c335e15bde62f76ddf960974bc9e6354c7a91/690_0_2853_2282/master/2853.jpg?width=140&quality=85&auto=format&fit=max&s=7da5720bb117c277a578f5434a3052c7",
+      "link": "https://www.theguardian.com/australia-news/2026/aug/17/angus-taylor-links-support-for-ndis-reform-to-removal-of-widow-tax-loophole",
+      "fonte": "The Guardian",
+      "encontrada_em": "2026-08-17T06:27:11"
+    },
+    {
+      "titulo": "Kushner Meets Netanyahu in Effort to Break Logjam Over Gaza",
+      "resumo": "Prime Minister Benjamin Netanyahu of Israel has refused to pull back the country’s military until Hamas fully disarms. But the Trump administration is under pressure to show progress.",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://static01.nyt.com/images/2026/08/17/multimedia/17int-kushner-netanyah-02-jzpv/17int-kushner-netanyah-02-jzpv-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/08/17/world/middleeast/kushner-netanyahu-gaza-peace-deal.html",
+      "fonte": "NYT",
+      "encontrada_em": "2026-08-17T06:27:10"
+    },
     {
       "titulo": "With Trump’s Hamas Deal in Peril, Kushner Set to Visit Israel for Gaza Talks",
       "resumo": "Jared Kushner, President Trump’s senior aide, is expected to meet with Prime Minister Benjamin Netanyahu of Israel, who has rejected a U.S.-backed deal to disarm Hamas.",
@@ -954,26 +974,6 @@
       "link": "https://www.bbc.com/portuguese/articles/cy5dzl6e09ko?at_medium=RSS&at_campaign=rss",
       "fonte": "BBC Brasil",
       "encontrada_em": "2026-08-17T06:12:09"
-    },
-    {
-      "titulo": "Temperatures to fall across Europe as substantial rain heading for parts of UK",
-      "resumo": "Temperatures could drop by more than 15C compared with last Thursday as cold front moves arrives from Monday Relief from the unrelenting heat is finally arriving this week across western Europe, with ",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://i.guim.co.uk/img/media/b976ac36df6c886e0342e12493364554b3479870/988_0_4918_3935/master/4918.jpg?width=140&quality=85&auto=format&fit=max&s=c16e5b8ed784c8c68031ca7702fe47c0",
-      "link": "https://www.theguardian.com/environment/2026/aug/17/temperatures-fall-europe-rain-uk",
-      "fonte": "The Guardian",
-      "encontrada_em": "2026-08-17T05:57:11"
-    },
-    {
-      "titulo": "Inside the UK’s ‘stressful’ cost of living crisis Burnham hopes to tackle",
-      "resumo": "Britain&#039;s new premier has promised to ease the suffering of millions of families unable to afford basic items.",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://www.aljazeera.com/wp-content/uploads/2026/08/Donna-OHara-1786954828.jpg?resize=1728%2C1080",
-      "link": "https://www.aljazeera.com/news/2026/8/17/who-can-live-on-340-a-month-inside-the-uks-cost-of-living-crisis?traffic_source=rss",
-      "fonte": "Al Jazeera",
-      "encontrada_em": "2026-08-17T05:47:10"
     }
   ],
   "empregos": [
