@@ -858,6 +858,36 @@
   ],
   "nacionais": [
     {
+      "titulo": "Cybercab: Tesla prepara estreia de táxi autônomo no Texas ainda neste mês",
+      "resumo": "Veículo autônomo foi projetado especificamente para ser um táxi sem motorista, sem pedais nem volante",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/cybercab-tesla-e1787009843997.jpg?w=1200&amp;h=630&amp;crop=1",
+      "link": "https://www.cnnbrasil.com.br/auto/cybercab-tesla-prepara-estreia-de-taxi-autonomo-no-texas-ainda-neste-mes/",
+      "fonte": "CNN Brasil",
+      "encontrada_em": "2026-08-17T19:46:11"
+    },
+    {
+      "titulo": "PE: Psol mantém candidatura e contraria João Campos",
+      "resumo": "Executiva do partido chancelou Ivan Moraes, mas pode recuar segundo fontes",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/04/WhatsApp-Image-2025-04-24-at-17.44.21-e1745527508878.jpeg?w=1200&amp;h=630&amp;crop=1",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/pe-psol-mantem-candidatura-e-contraria-joao-campos/",
+      "fonte": "CNN Brasil",
+      "encontrada_em": "2026-08-17T19:46:11"
+    },
+    {
+      "titulo": "VBP da agropecuária chega a R$ 1,39 trilhão em julho de 2026",
+      "resumo": "Valor Bruto da Produção Agropecuária tem 63,9% do total concentrado nas lavouras, enquanto pecuária responde por 36,1%",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/04/WhatsApp-Image-2026-04-20-at-07.59.45.jpeg?w=860&amp;h=484&amp;crop=1",
+      "link": "https://www.cnnbrasil.com.br/agro/vbp-da-agropecuaria-chega-a-r-139-trilhao-em-julho-de-2026/",
+      "fonte": "CNN Brasil",
+      "encontrada_em": "2026-08-17T19:46:11"
+    },
+    {
       "titulo": "EUA trocam chefe de escritório que supervisiona a América Latina",
       "resumo": "Juan Pablo Segura, empresário republicano da Virgínia, ficará responsável por parte da estrutura do Departamento de Estado que atua na relação com países como o Brasil",
       "categoria": "Amazonas",
@@ -886,39 +916,19 @@
       "link": "https://www.cnnbrasil.com.br/nacional/centro-oeste/mt/instrutor-de-jiu-jitsu-morto-em-aula-era-pm-e-tinha-caso-extraconjugal/",
       "fonte": "CNN Brasil",
       "encontrada_em": "2026-08-17T19:31:12"
-    },
-    {
-      "titulo": "Youtube muda forma de contabilizar visualizações de vídeo; entenda",
-      "resumo": "Plataforma padronizou métrica a pedido de criadores de conteúdo",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportTechnologyNews/tagreuters.com2025binary_LYNXMPELB20TE-BASEIMAGE.jpg?w=800&amp;h=534&amp;crop=1",
-      "link": "https://www.cnnbrasil.com.br/economia/money/tecnologia/youtube-muda-forma-de-contabilizar-visualizacoes-de-video-entenda/",
-      "fonte": "CNN Brasil",
-      "encontrada_em": "2026-08-17T19:31:12"
-    },
-    {
-      "titulo": "Sabrina Sato celebra sexto mês de gravidez e exibe barriga durante treino",
-      "resumo": "Apresentadora está à espera do primeiro filho com o ator Nicolas Prattes",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/sabrina-sato-story-gravida-e1787007464374.jpeg?w=982&amp;h=630&amp;crop=1",
-      "link": "https://www.cnnbrasil.com.br/pop/celebridades/sabrina-sato-celebra-sexto-mes-de-gravidez-e-exibe-barriga-durante-treino/",
-      "fonte": "CNN Brasil",
-      "encontrada_em": "2026-08-17T19:21:12"
-    },
-    {
-      "titulo": "Em SP, Nunes planeja agenda de Flávio na periferia e almoço com empresários",
-      "resumo": "Eventos devem ocorrer na próxima quinta-feira (20) e reforçam apoio do prefeito de São Paulo ao candidato à Presidência pelo PL; Tarcísio não deve participar dos compromissos",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/12/GettyImages-2107859802.jpg?w=1200&amp;h=630&amp;crop=1",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/em-sp-nunes-planeja-agenda-de-flavio-na-periferia-e-almoco-com-empresarios/",
-      "fonte": "CNN Brasil",
-      "encontrada_em": "2026-08-17T19:21:12"
     }
   ],
   "internacionais": [
+    {
+      "titulo": "‘We will not allow Gaza to be rebuilt’ until Hamas disarms, Kushner says",
+      "resumo": "Trump&#039;s son-in-law and envoy says US will not &#039;restrict Israel&#039;s right to defend itself&#039; as strikes on Gaza continue.",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://www.aljazeera.com/wp-content/uploads/2026/08/AP26213324967077-1787000120.jpg?resize=1200%2C675",
+      "link": "https://www.aljazeera.com/news/2026/8/17/we-will-not-allow-gaza-to-be-rebuilt-until-hamas-disarms-kushner-says?traffic_source=rss",
+      "fonte": "Al Jazeera",
+      "encontrada_em": "2026-08-17T19:46:12"
+    },
     {
       "titulo": "Why is Australia's mushroom killer back in court this week?",
       "resumo": "The BBC’s Katy Watson explains why triple-murderer Erin Patterson is back in court this week trying to overturn her conviction.",
@@ -966,16 +976,6 @@
       "autor": "Paulo Amazonas",
       "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b9de/live/0576f3e0-980b-11f1-a7ab-8b30adf0800a.jpg",
       "link": "https://www.bbc.co.uk/news/articles/c4gkyez7195o?at_medium=RSS&at_campaign=rss",
-      "fonte": "BBC World",
-      "encontrada_em": "2026-08-17T19:26:15"
-    },
-    {
-      "titulo": "World's Ugliest Dog contest crowns 2026 winner",
-      "resumo": "The annual contest has been taking place in Santa Rosa, California.",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d93/live/aed19be0-98ae-11f1-9a0b-ef36d15fc6b3.jpg",
-      "link": "https://www.bbc.co.uk/news/videos/c39eekgv79ko?at_medium=RSS&at_campaign=rss",
       "fonte": "BBC World",
       "encontrada_em": "2026-08-17T19:26:15"
     }
