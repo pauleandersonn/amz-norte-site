@@ -916,6 +916,36 @@
   ],
   "internacionais": [
     {
+      "titulo": "Kevin Rideout, American Missionary Kidnapped in Niger, Is Released",
+      "resumo": "Kevin Rideout, a pilot, was abducted from his home in the country’s capital, Niamey, last fall. His mission organization said he was in “good health” after his release.",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://static01.nyt.com/images/2026/08/14/multimedia/14int-niger-rideout-pfqg/14int-niger-rideout-pfqg-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/08/14/world/africa/american-missionary-niger-rideout-released.html",
+      "fonte": "NYT",
+      "encontrada_em": "2026-08-16T21:27:13"
+    },
+    {
+      "titulo": "Record-Breaking Rainfall Leaves Eight Dead and Thousands Stranded in Japan",
+      "resumo": "Three months’ worth of rain fell in just 12 hours in a region east of Tokyo, leading to deadly flooding.",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://static01.nyt.com/images/2026/08/14/multimedia/14int-Japan-Rain1-whlj/14int-Japan-Rain1-whlj-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/08/14/world/asia/chiba-tokyo-flood-rain-deaths.html",
+      "fonte": "NYT",
+      "encontrada_em": "2026-08-16T21:27:13"
+    },
+    {
+      "titulo": "American missionary kidnapped in Niger freed after nine months",
+      "resumo": "Kevin Rideout, who was abducted by unknown assailants in Niamey, said to be in good health and in care of US officials An American missionary who was kidnapped in Niger in October has been released, h",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://i.guim.co.uk/img/media/b0b8de4d6a510eeae2d1c3e3b4a748dd233cbb87/0_435_3840_3074/master/3840.jpg?width=140&quality=85&auto=format&fit=max&s=17dd0acd0c6f47f7d76ae9a01b695348",
+      "link": "https://www.theguardian.com/world/2026/aug/14/american-missionary-kevin-rideout-niger-released-kidnapping",
+      "fonte": "The Guardian",
+      "encontrada_em": "2026-08-16T21:27:13"
+    },
+    {
       "titulo": "A onda de protestos que conseguiu barrar a primeira fazenda de polvos do mundo",
       "resumo": "Os planos para a primeira fazenda de polvos do mundo foram abandonados. Enquanto isso, vários países e estados dos EUA estão proibindo a criação de polvos.",
       "categoria": "Amazonas",
@@ -944,36 +974,6 @@
       "link": "https://www.nytimes.com/2026/08/14/world/middleeast/shabjdeed-saint-levant-slv.html",
       "fonte": "NYT",
       "encontrada_em": "2026-08-16T21:07:16"
-    },
-    {
-      "titulo": "After Notre-Dame Fire, France Restored the Cathedral — but Not These Windows",
-      "resumo": "France has faithfully renovated most of what burned at Notre-Dame in 2019. Contentiously, six towering windows will soon be replaced by a new design.",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://static01.nyt.com/images/2026/08/10/world/00int-france-notre-dame-top-art-02/00int-france-notre-dame-top-art-02-mediumSquareAt3X.jpg",
-      "link": "https://www.nytimes.com/2026/08/14/world/europe/notre-dame-windows-glass-tabouret.html",
-      "fonte": "NYT",
-      "encontrada_em": "2026-08-16T21:07:16"
-    },
-    {
-      "titulo": "Russia Campaigned to Derail Moldova’s Pro-Western Government",
-      "resumo": "In Moldova, Moscow paid Orthodox priests, conducted a vote-buying scheme and set up training camps on election interference — all in an effort to derail the Western-leaning government.",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://static01.nyt.com/images/2026/07/22/multimedia/22Moldova-Russia-Interference-06-hpzc/22Moldova-Russia-Interference-06-hpzc-mediumSquareAt3X.jpg",
-      "link": "https://www.nytimes.com/2026/08/14/world/europe/russia-moldova-putin.html",
-      "fonte": "NYT",
-      "encontrada_em": "2026-08-16T20:52:14"
-    },
-    {
-      "titulo": "As Europe Gets Hotter, Its Transportation Systems Struggle to Cope",
-      "resumo": "The continent’s railways and roads “were engineered for a climate that no longer exists,” one expert said.",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://static01.nyt.com/images/2026/07/31/multimedia/00int-europe-heat-transport-lkwv/00int-europe-heat-transport-lkwv-mediumSquareAt3X.jpg",
-      "link": "https://www.nytimes.com/2026/08/14/world/europe/heat-trains-transportation-roads.html",
-      "fonte": "NYT",
-      "encontrada_em": "2026-08-16T20:52:14"
     }
   ],
   "empregos": [
