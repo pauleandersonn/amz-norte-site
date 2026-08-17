@@ -854,6 +854,16 @@
   ],
   "nacionais": [
     {
+      "titulo": "Gastômetro de Lula mostra que presidente já gastou R$ 278,3 bilhões para tentar reeleição",
+      "resumo": "BRASÍLIA E SÃO PAULO — \"Papagaiada desgraçada\". Assim o presidente Luiz Inácio Lula da Silva ...",
+      "categoria": "Política",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
+      "link": "https://www.terra.com.br/economia/gastometro-de-lula-mostra-que-presidente-ja-gastou-r-2783-bilhoes-para-tentar-reeleicao,af4120652c69e5d6cdc607f488215f32jizx4c9z.html",
+      "fonte": "Terra",
+      "encontrada_em": "2026-08-17T04:47:09"
+    },
+    {
       "titulo": "“Fiz de tudo para sair com vida”, diz advogado sequestrado pelo PCC em SP",
       "resumo": "Rafaell Roque foi mantido refém pela facção criminosa por seis horas após ser atraído para um cativeiro; sete pessoas são investigadas pelo crime",
       "categoria": "Amazonas",
@@ -900,16 +910,6 @@
       "autor": "Paulo Amazonas",
       "imagem": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/17/raw-chicken-eggs-egg-box-white-surface-1iephcfd58ew4.jpg",
       "link": "https://www.terra.com.br/vida-e-estilo/degusta/deixar-ovos-fora-da-geladeira-estraga-saiba-como-armazenar-corretamente,55aea217c40e0ee3bfce3691da511db1dunfwh7o.html",
-      "fonte": "Terra",
-      "encontrada_em": "2026-08-17T04:17:09"
-    },
-    {
-      "titulo": "Miguel Nicolelis reflete sobre impacto real da IA: ‘Não faz diferença na vida da pessoa comum’",
-      "resumo": "Você imagina sua vida sem o uso de inteligência artificial? Para Miguel Nicolelis, referência ...",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/14/dr-nicolelis-2-vb6uqcbvd7xh.jpg",
-      "link": "https://www.terra.com.br/planeta/futuro-vivo/miguel-nicolelis-reflete-sobre-impacto-real-da-ia-nao-faz-diferenca-na-vida-da-pessoa-comum,5803c25cb5bee73443c444bdebf1d338qpkgynnd.html",
       "fonte": "Terra",
       "encontrada_em": "2026-08-17T04:17:09"
     }
