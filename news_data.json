@@ -921,6 +921,16 @@
   ],
   "internacionais": [
     {
+      "titulo": "Eleição 2026: quais são as propostas dos candidatos?",
+      "resumo": "A BBC News Brasil preparou um especial interativo com as propostas de todos os candidatos em oito áreas.",
+      "categoria": "Política",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/03a0/live/327df4e0-9a51-11f1-96c4-e7f87215742d.jpg",
+      "link": "https://www.bbc.com/portuguese/articles/cm2gryker9mo?at_medium=RSS&at_campaign=rss",
+      "fonte": "BBC Brasil",
+      "encontrada_em": "2026-08-17T14:41:13"
+    },
+    {
       "titulo": "Mushroom murderer Erin Patterson is appealing - here's what you need to know",
       "resumo": "The Australian, who notoriously poisoned her family members, is trying to overturn her conviction.",
       "categoria": "Amazonas",
@@ -969,16 +979,6 @@
       "link": "https://www.aljazeera.com/news/2026/8/17/cair-slams-texas-governors-anti-muslim-stunt-on-airport-washing-stations?traffic_source=rss",
       "fonte": "Al Jazeera",
       "encontrada_em": "2026-08-17T14:21:19"
-    },
-    {
-      "titulo": "Clashes between government and opposition fighters in Somalia’s Baidoa",
-      "resumo": "Heavy clashes broke out in Baidoa, Somalia between federal troops and armed opposition groups.",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1786988436.jpg?resize=1920%2C1080&amp;quality=80",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/clashes-between-government-and-opposition-fighters-in-somalias-baidoa?traffic_source=rss",
-      "fonte": "Al Jazeera",
-      "encontrada_em": "2026-08-17T14:16:13"
     }
   ],
   "empregos": [
