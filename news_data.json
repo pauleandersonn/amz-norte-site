@@ -921,6 +921,16 @@
   ],
   "internacionais": [
     {
+      "titulo": "Britain’s Farage Takes a Page From Trump’s Playbook Amid Investigations",
+      "resumo": "Nigel Farage, the Reform U.K. leader who resigned from Parliament and won back his seat on Thursday, stays on the offensive and says voters don’t care about allegations of financial impropriety.",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://static01.nyt.com/images/2026/08/14/multimedia/14int-farage-assess-1-wpvc/14int-farage-assess-1-wpvc-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/08/14/world/europe/farage-britain-trump-playbook-analysis.html",
+      "fonte": "NYT",
+      "encontrada_em": "2026-08-17T11:16:12"
+    },
+    {
       "titulo": "3M knew for more than 50 years that its products could harm humans, Australian government alleges in court documents",
       "resumo": "Exclusive: federal government court filings claim internal company documents included warnings about products being toxic Get our breaking news email , free app or daily news podcast Manufacturing com",
       "categoria": "Amazonas",
@@ -967,16 +977,6 @@
       "autor": "Paulo Amazonas",
       "imagem": "https://i.guim.co.uk/img/media/68560645ae625ac7728440008e1f0a0c8f12c6a7/123_0_5160_4128/master/5160.jpg?width=140&quality=85&auto=format&fit=max&s=bcacf41ce17f5ba7e4be05cb5f8b7426",
       "link": "https://www.theguardian.com/politics/2026/aug/17/reform-uk-richard-tice-stop-tackling-climate-crisis-enjoy-heat",
-      "fonte": "The Guardian",
-      "encontrada_em": "2026-08-17T11:11:19"
-    },
-    {
-      "titulo": "Top album releases linked to rise in fatal crashes as ‘distracted’ drivers access music",
-      "resumo": "Harvard study finds traffic fatalities increase by 15% on release dates compared with similar days either side The release of a new album by Taylor Swift might be a cause for celebration among her fan",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://i.guim.co.uk/img/media/ceb6efa5e0b3fa7484a125c58a2363f5c20af2fb/679_0_6142_4912/master/6142.jpg?width=140&quality=85&auto=format&fit=max&s=39fd649dab7f4576aff40d211c16b699",
-      "link": "https://www.theguardian.com/world/2026/aug/17/top-album-releases-linked-to-rise-in-fatal-crashes-as-distracted-drivers-access-music",
       "fonte": "The Guardian",
       "encontrada_em": "2026-08-17T11:11:19"
     }
