@@ -861,6 +861,16 @@
   ],
   "nacionais": [
     {
+      "titulo": "Inadimplência atinge mais de 9,1 milhões de empresas no país e bate recorde",
+      "resumo": "CPNJs acumulam mais de sete dívidas em atraso e valores somam R$ 232 bilhões, segundo dados da Serasa Experian",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/04/juros.webp?w=1200&amp;h=630&amp;crop=1",
+      "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/inadimplencia-atinge-mais-de-91-milhoes-de-empresas-no-pais-e-bate-recorde/",
+      "fonte": "CNN Brasil",
+      "encontrada_em": "2026-08-17T09:36:09"
+    },
+    {
       "titulo": "Inadimplência atinge 9,1 milhões de empresas no Brasil e bate recorde",
       "resumo": "CPNJs acumulam mais de sete dívidas em atraso e valores somam R$ 232 bilhões, segundo dados da Serasa Experian",
       "categoria": "Amazonas",
@@ -909,16 +919,6 @@
       "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-saudita/benzema-quer-deixar-o-al-hilal-mas-rescisao-e-considerada-complicada/",
       "fonte": "CNN Brasil",
       "encontrada_em": "2026-08-17T09:31:09"
-    },
-    {
-      "titulo": "Charles III e William podem gastar até 10 milhões de libras em reformas energéticas",
-      "resumo": "O rei Charles III e o príncipe William podem enfrentar custos de até 10 milhões de libras (cerca ...",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
-      "link": "https://www.terra.com.br/noticias/mundo/charles-iii-e-william-podem-gastar-ate-10-milhoes-de-libras-em-reformas-energeticas,10713950520c4577d01352d61b7cd6125vk18167.html",
-      "fonte": "Terra",
-      "encontrada_em": "2026-08-17T09:21:24"
     }
   ],
   "internacionais": [
