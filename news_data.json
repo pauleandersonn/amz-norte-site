@@ -916,6 +916,16 @@
   ],
   "internacionais": [
     {
+      "titulo": "Heat Is Hammering Europe, Again. Here’s What That Looks Like.",
+      "resumo": "Extreme temperatures and repeated wildfires are pushing infrastructure to the limit and testing the continent’s resolve.",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://static01.nyt.com/images/2026/08/14/multimedia/14int-europe-heat-visuals-01-vzwq/14int-europe-heat-visuals-01-vzwq-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/08/14/world/europe/europe-heat-wave-photos.html",
+      "fonte": "NYT",
+      "encontrada_em": "2026-08-17T05:22:09"
+    },
+    {
       "titulo": "Massive Attack and Paris Paloma join musicians urging Burnham to reject new North Sea drilling",
       "resumo": "Brian Eno and Olly Alexander also among signatories saying exploitation of Rosebank and Jackdaw fields defies reality More than 200 musicians including Massive Attack and Brian Eno have written to And",
       "categoria": "Amazonas",
@@ -964,16 +974,6 @@
       "link": "https://www.bbc.co.uk/news/articles/crl7686r71yo?at_medium=RSS&at_campaign=rss",
       "fonte": "BBC World",
       "encontrada_em": "2026-08-17T04:57:14"
-    },
-    {
-      "titulo": "Scottie Scheffler wins St Jude Championship by eight shots",
-      "resumo": "Scheffler&#039;s 21st career PGA Tour title earns the American $3.6m for his resounding victory at TPC Southwind.",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://www.aljazeera.com/wp-content/uploads/2026/08/AFP__20260816__2290772308__v1__HighRes__FedexStJudeChampionship2026FinalRound-1786954301_fe19f5-1786954577.jpg?resize=1200%2C630&amp;quality=80",
-      "link": "https://www.aljazeera.com/sports/2026/8/17/scottie-scheffler-wins-st-jude-championship-by-eight-shots?traffic_source=rss",
-      "fonte": "Al Jazeera",
-      "encontrada_em": "2026-08-17T04:57:11"
     }
   ],
   "empregos": [
