@@ -920,6 +920,36 @@
   ],
   "internacionais": [
     {
+      "titulo": "American Hiker Dies After Lighting Strike on Mount Etna in Italy",
+      "resumo": "Rescuers found a 29-year-old man in serious condition on the volcano’s eastern slope on Sunday. He was later pronounced dead at a hospital in Catania.",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://static01.nyt.com/images/2026/08/17/multimedia/17xpetna-hiker-kqjf/17xpetna-hiker-kqjf-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/08/17/world/europe/mount-etna-hiker-lightning-strike-death.html",
+      "fonte": "NYT",
+      "encontrada_em": "2026-08-17T10:26:13"
+    },
+    {
+      "titulo": "Iran signals readiness for ‘US ground operations’ as MoU expires",
+      "resumo": "Iran&#039;s more offensive posture follows Trump&#039;s comment that the US would soon make the Strait of Hormuz its territory.",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://www.aljazeera.com/wp-content/uploads/2026/08/getty_6a8247a27b-1786922914.jpg?resize=1920%2C1440",
+      "link": "https://www.aljazeera.com/news/2026/8/17/iran-signals-readiness-for-us-ground-operations-as-mou-expires?traffic_source=rss",
+      "fonte": "Al Jazeera",
+      "encontrada_em": "2026-08-17T10:26:12"
+    },
+    {
+      "titulo": "Boat sets sail from Bristol, aiming to break Israel’s siege of Gaza",
+      "resumo": "Twelve people including the captain are on board the vessel named Kate, in the latest attempt to deliver aid.",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://www.aljazeera.com/wp-content/uploads/2026/08/%D9%81%D8%B1%D8%A7%D9%86%D9%83-%D8%B1%D9%88%D9%85%D8%A7%D9%86%D9%88-%D8%A7%D9%84%D9%85%D8%B5%D8%AF%D8%B1-%D8%A7%D9%84%D8%AC%D8%B2%D9%8A%D8%B1%D8%A9-%D9%86%D8%AA-%D9%A3-1786972046.jpg?resize=1920%2C1440",
+      "link": "https://www.aljazeera.com/news/2026/8/17/boat-sets-sail-from-bristol-aiming-to-break-israels-siege-of-gaza?traffic_source=rss",
+      "fonte": "Al Jazeera",
+      "encontrada_em": "2026-08-17T10:26:12"
+    },
+    {
       "titulo": "A vida de sucesso de Hayden Panettiere nas telas e a dificuldade da atriz para lidar com a fama",
       "resumo": "Ela passou de atriz mirim a estrela de Hollywood, mas enfrentou vícios, assédio e traumas pessoais.",
       "categoria": "Amazonas",
@@ -948,36 +978,6 @@
       "link": "https://www.theguardian.com/us-news/2026/aug/17/storm-lala-hawaii-damage",
       "fonte": "The Guardian",
       "encontrada_em": "2026-08-17T10:11:13"
-    },
-    {
-      "titulo": "Lula and Bolsonaro’s son launch rival bids for Brazil presidency",
-      "resumo": "Brazil’s presidential race is officially underway.",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1786975325.jpg?resize=1920%2C1080&amp;quality=80",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/lula-and-bolsonaros-son-launch-rival-bids-for-brazil-presidency?traffic_source=rss",
-      "fonte": "Al Jazeera",
-      "encontrada_em": "2026-08-17T10:11:12"
-    },
-    {
-      "titulo": "Global condemnation of Israeli settler violence against Palestinians",
-      "resumo": "Global condemnation of Israeli settler violence against Palestinians",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://www.aljazeera.com/wp-content/uploads/2026/08/settler-violence-Horizontal-thumb-1786975126.jpg?resize=1920%2C1080&amp;quality=80",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/global-condemnation-of-israeli-settler-violence-against-palestinians?traffic_source=rss",
-      "fonte": "Al Jazeera",
-      "encontrada_em": "2026-08-17T10:11:12"
-    },
-    {
-      "titulo": "Canadian plasma clinics pause collections after deaths of two donors",
-      "resumo": "Grifols, which runs private chain of clinics, to temporarily stop taking donations after new government investigation A chain of private plasma donation clinics in Canada has said it is pausing collec",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://i.guim.co.uk/img/media/2372fdc8cb2b4510838e8a8f2e1f73d31cb5d001/126_0_506_405/master/506.jpg?width=140&quality=85&auto=format&fit=max&s=ce7d5756551da9f0f87312692ca2891f",
-      "link": "https://www.theguardian.com/world/2026/aug/14/canadian-plasma-clinics-pause-collections-after-deaths-of-donors-grifols",
-      "fonte": "The Guardian",
-      "encontrada_em": "2026-08-17T09:56:14"
     }
   ],
   "empregos": [
