@@ -923,6 +923,16 @@
   ],
   "internacionais": [
     {
+      "titulo": "Teenager charged with murder after mass shooting at Kentucky park",
+      "resumo": "Sixteen-year-old dead and four others wounded including two children at community celebration in Lexington Authorities in Kentucky charged an 18-year-old man with murder and several counts of assault ",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://i.guim.co.uk/img/media/4f70e3f80a12dc2131669cb8c123344b0fe460d2/209_0_2085_1668/master/2085.jpg?width=140&quality=85&auto=format&fit=max&s=7424d105984e90680ba15e21aeb75f36",
+      "link": "https://www.theguardian.com/us-news/2026/aug/17/kentucky-mass-shooting-teenager-charged-murder",
+      "fonte": "The Guardian",
+      "encontrada_em": "2026-08-17T09:11:13"
+    },
+    {
       "titulo": "Zambia Halts Presidential Election Vote Count Over Violence and Fraud Allegations",
       "resumo": "The electoral commission for the southern African nation said poll workers had been attacked and ballots had been stolen.",
       "categoria": "Amazonas",
@@ -969,16 +979,6 @@
       "autor": "Paulo Amazonas",
       "imagem": "https://www.aljazeera.com/wp-content/uploads/2026/08/2023-07-21T165847Z_212147567_RC2S72AKG0T6_RTRMADP_3_CLIMATE-CHANGE-RUSSIA-CRATER-1786964423.jpg?resize=1920%2C1440",
       "link": "https://www.aljazeera.com/news/2026/8/17/no-roads-will-europe-hear-a-landmark-russian-climate-change-case?traffic_source=rss",
-      "fonte": "Al Jazeera",
-      "encontrada_em": "2026-08-17T08:41:17"
-    },
-    {
-      "titulo": "Israel’s religious right is changing the state from within",
-      "resumo": "Religious fundamentalism is advancing through Israel’s institutions, narrowing freedoms and deepening inequality.",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://www.aljazeera.com/wp-content/uploads/2026/08/getty_6a82fb0816-1786968840.jpg?resize=1920%2C1440",
-      "link": "https://www.aljazeera.com/opinions/2026/8/17/israels-religious-right-is-changing-the-state-from-within?traffic_source=rss",
       "fonte": "Al Jazeera",
       "encontrada_em": "2026-08-17T08:41:17"
     }
