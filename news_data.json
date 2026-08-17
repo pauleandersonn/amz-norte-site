@@ -855,6 +855,16 @@
   ],
   "nacionais": [
     {
+      "titulo": "“Motoqueiro Fantasma” ganha data de estreia para 2028",
+      "resumo": "Além de \"Motoqueiro Fantasma\", \"Pantera Negra 3\" e \"X-Men\" chegam aos cinemas no mesmo ano",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/03/ryan-gosling.png?w=1200&amp;h=630&amp;crop=1",
+      "link": "https://www.cnnbrasil.com.br/pop/cinema/motoqueiro-fantasma-ganha-data-de-estreia-para-2028/",
+      "fonte": "CNN Brasil",
+      "encontrada_em": "2026-08-17T17:46:12"
+    },
+    {
       "titulo": "Tecnologia inspirada em borboletas promete revolucionar monitoramento do ar",
       "resumo": "Pesquisadores chineses criam sistema sem bomba, de baixo custo e alta sensibilidade, para detectar poluentes e vírus",
       "categoria": "Amazonas",
@@ -901,16 +911,6 @@
       "autor": "Paulo Amazonas",
       "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2022/07/DjPJXcuWsAA1mhj1-e1658868401150.jpg?w=1200&amp;h=630&amp;crop=1",
       "link": "https://www.cnnbrasil.com.br/esportes/futebol/sao-paulo/organizada-do-sao-paulo-faz-forte-cobranca-antes-de-jogo-com-o-bolivar/",
-      "fonte": "CNN Brasil",
-      "encontrada_em": "2026-08-17T17:26:10"
-    },
-    {
-      "titulo": "City busca reforços no meio-campo com saída de Rodri",
-      "resumo": "Após Rodri fechar com o Barcelona, o time de Manchester avança em negociações por Bouaddi e segue interessado em tirar Enzo Fernández do Chelsea",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/07/enzo_fernandez_gol-e1784151544616.jpg?w=1200&amp;h=630&amp;crop=1",
-      "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-ingles/city-busca-reforcos-no-meio-campo-com-saida-de-rodri/",
       "fonte": "CNN Brasil",
       "encontrada_em": "2026-08-17T17:26:10"
     }
