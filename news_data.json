@@ -916,6 +916,16 @@
   ],
   "internacionais": [
     {
+      "titulo": "8 Matisse Works, Looted from Library in Brazil, Are Recovered",
+      "resumo": "The prints by the French master were taken in São Paulo last year in a brazen daylight heist.",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://static01.nyt.com/images/2026/08/18/multimedia/14xp-matisse-bpfh/14xp-matisse-bpfh-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/08/14/world/americas/matisse-stolen-art-found-sao-paulo-brazil-heist.html",
+      "fonte": "NYT",
+      "encontrada_em": "2026-08-16T23:17:14"
+    },
+    {
       "titulo": "Report supporting Australia’s teen social media ban appears to contain AI hallucinations, Senate hears",
       "resumo": "Exclusive: Guardian analysis finds one section of report includes links to academic articles that do not exist, but authors deny the references were made up by AI Follow our Australia news live blog f",
       "categoria": "Amazonas",
@@ -962,16 +972,6 @@
       "autor": "Paulo Amazonas",
       "imagem": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a7de8a1f313-1786636450.jpg?resize=1920%2C1440",
       "link": "https://www.aljazeera.com/news/2026/8/17/ebola-outbreak-in-dr-congo-becomes-deadliest-in-countrys-history?traffic_source=rss",
-      "fonte": "Al Jazeera",
-      "encontrada_em": "2026-08-16T21:52:13"
-    },
-    {
-      "titulo": "Israeli settlers pitch tents for new illegal outpost in occupied West Bank",
-      "resumo": "UN Special Rapporteur Albanese warns that Israel is &#039;using settlers to advance ethnic cleansing&#039; in the West Bank.",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a8246ad7834-1786922669.jpg?resize=1920%2C1440",
-      "link": "https://www.aljazeera.com/news/2026/8/17/israeli-settlers-pitch-tents-for-new-illegal-outpost-in-occupied-west-bank?traffic_source=rss",
       "fonte": "Al Jazeera",
       "encontrada_em": "2026-08-16T21:52:13"
     }
