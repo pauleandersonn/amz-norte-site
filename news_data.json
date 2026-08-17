@@ -921,6 +921,36 @@
   ],
   "internacionais": [
     {
+      "titulo": "War on Iran: Phase II, Day 37",
+      "resumo": "Iran is offering $30,000 for captured or killed US soldiers. Trump cuts back South Korea drills.",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1786983883.jpg?resize=1920%2C1080&amp;quality=80",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/war-on-iran-phase-ii-day-37?traffic_source=rss",
+      "fonte": "Al Jazeera",
+      "encontrada_em": "2026-08-17T12:36:13"
+    },
+    {
+      "titulo": "Somali army clashes with rebel forces for control of key city Baidoa",
+      "resumo": "Somali forces repel rebel fighters in Baidoa after intense fighting involving explosives and dozens of casualties.",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://www.aljazeera.com/wp-content/uploads/2026/08/reuters_6a82ffc8-1786970056.jpg?resize=1920%2C1440",
+      "link": "https://www.aljazeera.com/news/2026/8/17/somali-army-clashes-with-rebel-forces-for-control-of-key-city-baidoa?traffic_source=rss",
+      "fonte": "Al Jazeera",
+      "encontrada_em": "2026-08-17T12:36:13"
+    },
+    {
+      "titulo": "Democrats rebuke Trump over scaling back military drills with South Korea",
+      "resumo": "Republican Senator Thom Tillis says the decision allows North Korea to provide more support to Russia in Ukraine.",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-03-14T100911Z_1795303102_RC254KAXOQNT_RTRMADP_3_SOUTHKOREA-USA-MILITARY-1786980753.jpg?resize=1920%2C1440",
+      "link": "https://www.aljazeera.com/news/2026/8/17/democrats-rebuke-trump-over-scaling-back-military-drills-with-south-korea?traffic_source=rss",
+      "fonte": "Al Jazeera",
+      "encontrada_em": "2026-08-17T12:36:13"
+    },
+    {
       "titulo": "A Prominent Mexican Politician Says U.S. Revoked His Visa",
       "resumo": "Andrés Manuel López Beltrán, a former president’s son, lashed out at the Trump administration after he said it canceled his visa, another flashpoint in the tense U.S.-Mexico relationship.",
       "categoria": "Amazonas",
@@ -947,36 +977,6 @@
       "autor": "Paulo Amazonas",
       "imagem": "https://i.guim.co.uk/img/media/fe0c5f431ce2b22d377fe5c2b1875be7c61ad9e8/0_0_3838_3072/master/3838.jpg?width=140&quality=85&auto=format&fit=max&s=d952df853eb70a425f688d65a875210a",
       "link": "https://www.theguardian.com/environment/2026/aug/17/european-farmers-unprecedented-crisis-successive-heatwaves",
-      "fonte": "The Guardian",
-      "encontrada_em": "2026-08-17T12:11:14"
-    },
-    {
-      "titulo": "Can Trump’s peace plan for Gaza be saved? – The Latest",
-      "resumo": "Donald Trump’s son-in-law Jared Kushner is on a diplomatic mission in the Middle East to meet Hamas officials and the Israeli prime minister, Benjamin Netanyahu, in an attempt to salvage a ceasefire i",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://i.guim.co.uk/img/media/8c3dc801bae95d53d4487d1870e2b5c2d8494926/202_0_2222_1777/master/2222.jpg?width=140&quality=85&auto=format&fit=max&s=dace3b9b2b1c07c9e8ce899e66f12c78",
-      "link": "https://www.theguardian.com/news/audio/2026/aug/17/can-trumps-peace-plan-for-gaza-be-saved-the-latest",
-      "fonte": "The Guardian",
-      "encontrada_em": "2026-08-17T12:11:14"
-    },
-    {
-      "titulo": "Louisiana man allegedly killed his wife and drove her body across states before arrest",
-      "resumo": "Authorities say man, 50, shot wife in Louisiana and put her body in car before driving and being stopped in Tennessee A man in Louisiana killed his wife and then took her body on a driving tour throug",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://i.guim.co.uk/img/media/c7512af9ba91c4323ac8bfcf3670cabf6349ad5c/0_70_1302_1041/master/1302.jpg?width=140&quality=85&auto=format&fit=max&s=3dd0ce112d5b21ab3932b9a2c602917e",
-      "link": "https://www.theguardian.com/us-news/2026/aug/17/louisiana-killing-wife-passenger-seat",
-      "fonte": "The Guardian",
-      "encontrada_em": "2026-08-17T12:11:14"
-    },
-    {
-      "titulo": "US gas prices reach highest ever recorded for August amid stalled talks with Iran",
-      "resumo": "Energy prices have been high since the US-Israel war with Iran began and the strait of Hormuz was blocked US gas prices this month are so far the highest ever recorded for August as peace talks betwee",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://i.guim.co.uk/img/media/24af72b71f79b33388aba42419e5996e19a78bc8/724_546_6520_5216/master/6520.jpg?width=140&quality=85&auto=format&fit=max&s=e3e2200dfbafa15479ce76d87c2d220e",
-      "link": "https://www.theguardian.com/us-news/2026/aug/17/gas-prices-august-record-iran-war",
       "fonte": "The Guardian",
       "encontrada_em": "2026-08-17T12:11:14"
     }
