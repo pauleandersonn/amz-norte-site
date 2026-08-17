@@ -918,6 +918,16 @@
   ],
   "internacionais": [
     {
+      "titulo": "Andy Burnham, UK Prime Minister, Exchanged Texts With Someone Posing as Trump’s Chief of Staff",
+      "resumo": "Prime Minister Andy Burnham messaged briefly with a person impersonating Susie Wiles, a British government official said.",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://static01.nyt.com/images/2026/08/17/multimedia/17int-uk-burnham-text-1-cvbt/17int-uk-burnham-text-1-cvbt-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/08/17/world/europe/andy-burnham-prime-minister-uk-fake-texts-trump.html",
+      "fonte": "NYT",
+      "encontrada_em": "2026-08-17T08:36:12"
+    },
+    {
       "titulo": "Jason Arday’s death is institutional murder",
       "resumo": "Arday was subjected to a vicious campaign fuelled by anti-Black racism.",
       "categoria": "Amazonas",
@@ -966,16 +976,6 @@
       "link": "https://www.aljazeera.com/sports/2026/8/17/arsenal-preview-key-questions-heading-into-2026-27-premier-league-season?traffic_source=rss",
       "fonte": "Al Jazeera",
       "encontrada_em": "2026-08-17T08:06:11"
-    },
-    {
-      "titulo": "BP to develop offshore gasfield in Venezuela with firms linked to Trump administration",
-      "resumo": "Move will be one of first large-scale foreign investments in country since US ousted leader Nicolás Maduro in January BP has answered Donald Trump’s call for oil companies to help rebuild Venezuela’s ",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://i.guim.co.uk/img/media/8f7d2b49b727e55d0f750fcf85afdd20aac8e3d7/338_27_2589_2072/master/2589.jpg?width=140&quality=85&auto=format&fit=max&s=44cb171b3bae1a37488d77c5030abf31",
-      "link": "https://www.theguardian.com/business/2026/aug/14/bp-offshore-gasfield-venezuela-donald-trump",
-      "fonte": "The Guardian",
-      "encontrada_em": "2026-08-17T07:46:17"
     }
   ],
   "empregos": [
