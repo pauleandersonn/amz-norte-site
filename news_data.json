@@ -859,6 +859,36 @@
   ],
   "nacionais": [
     {
+      "titulo": "À CNN, João Gomes revela sonho de reunir veteranos e novatos em disco",
+      "resumo": "Cantor falou sobre a relação com o público, as raízes nordestinas e os planos para a carreira",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/05/GettyImages-1986477630-e1779410475975.jpg?w=1024&amp;h=577&amp;crop=1",
+      "link": "https://www.cnnbrasil.com.br/pop/musica/a-cnn-joao-gomes-revela-sonho-de-reunir-veteranos-e-novatos-em-disco/",
+      "fonte": "CNN Brasil",
+      "encontrada_em": "2026-08-17T12:31:13"
+    },
+    {
+      "titulo": "Hayden Panettiere abriu mão da guarda da filha; entenda",
+      "resumo": "Atriz de \"Heroes\", que morreu nesta segunda (17), era mãe de Kaya, de 11 anos",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/hayden-panettiere-relembrou-decisao-sobre-a-guarda-da-filha-11040.jpg?w=1200&amp;h=630&amp;crop=1",
+      "link": "https://www.cnnbrasil.com.br/pop/celebridades/hayden-panettiere-abriu-mao-da-guarda-da-filha-entenda/",
+      "fonte": "CNN Brasil",
+      "encontrada_em": "2026-08-17T12:31:13"
+    },
+    {
+      "titulo": "Lula e Flávio evitam assuntos espinhosos durante lançamento de campanha",
+      "resumo": "Ao Live CNN, Larissa Rodrigues aponta que candidatos à Presidência deixaram de lado assuntos considerados pontos vulneráveis nos discursos inaugurais de campanha",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/Renata-4.jpg?w=1200&amp;h=630&amp;crop=1",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/lula-e-flavio-evitam-assuntos-espinhosos-durante-lancamento-de-campanha/",
+      "fonte": "CNN Brasil",
+      "encontrada_em": "2026-08-17T12:31:13"
+    },
+    {
       "titulo": "Núbia de Oliveira e Nicolas Kosgei são bicampeões da Meia Maratona do Rio",
       "resumo": "A 28ª Meia Maratona Internacional do Rio de Janeiro teve uma manhã de disputas apertadas neste ...",
       "categoria": "Amazonas",
@@ -885,36 +915,6 @@
       "autor": "Paulo Amazonas",
       "imagem": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/17/1271369226-mae-de-viih-tube.jpg",
       "link": "https://www.terra.com.br/diversao/gente/vestido-da-mae-de-viih-tube-em-casamento-da-filha-causa-alvoroco-na-web-nossa,b10ad292d0b7cc27f24845df936ade8d9xdup8kj.html",
-      "fonte": "Terra",
-      "encontrada_em": "2026-08-17T12:21:12"
-    },
-    {
-      "titulo": "Devastados pela guerra, governantes do Irã temem mais dificuldades econômicas e agitação social caso EUA intensifiquem pressão",
-      "resumo": "Mesmo enquanto o Irã demonstra resiliência na guerra com os Estados Unidos, seus líderes temem ...",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
-      "link": "https://www.terra.com.br/noticias/mundo/devastados-pela-guerra-governantes-do-ira-temem-mais-dificuldades-economicas-e-agitacao-social-caso-eua-intensifiquem-pressao,d5cd4079353fe15a4e0266784791913d0frj6x37.html",
-      "fonte": "Terra",
-      "encontrada_em": "2026-08-17T12:21:12"
-    },
-    {
-      "titulo": "Raphael Veiga tem noite de gala no América e destaca evolução no México",
-      "resumo": "Raphael Veiga viveu uma noite de protagonista no América-MEX. Na vitória por 3 a 0 sobre o ...",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/17/254630916-raphael-veiga-no-mexico-1-610x400.jpg",
-      "link": "https://www.terra.com.br/esportes/futebol/internacional/mexico/campeonato-mexicano/raphael-veiga-tem-noite-de-gala-no-america-e-destaca-evolucao-no-mexico,c1ad163185d828b03ec65aebc7998b58vcczxtdm.html",
-      "fonte": "Terra",
-      "encontrada_em": "2026-08-17T12:21:12"
-    },
-    {
-      "titulo": "Aos 13 anos, ele dedicou 300 horas das suas férias para criar uma cadeira de rodas na impressora 3D para uma bebê de 21 meses",
-      "resumo": "Morador de Utah, nos Estados Unidos, Zac Waters, de 13 anos, passou cerca de 300 horas das ...",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/17/1195974862-13662000.jpeg",
-      "link": "https://www.terra.com.br/byte/aos-13-anos-ele-dedicou-300-horas-das-suas-ferias-para-criar-uma-cadeira-de-rodas-na-impressora-3d-para-uma-bebe-de-21-meses,eac58a846e0a43f72dafad961dda6437cv1xaqto.html",
       "fonte": "Terra",
       "encontrada_em": "2026-08-17T12:21:12"
     }
