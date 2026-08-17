@@ -854,6 +854,16 @@
   ],
   "nacionais": [
     {
+      "titulo": "Após descoberta da Petrobras e reunião com Alcolumbre, Lula vai ao Amapá",
+      "resumo": "O presidente visitará o navio-sonda da empresa em Oiapoque para ver de perto o local em que foram descobertos os hidrocarbonetos na Margem Equatorial",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/05/WhatsApp-Image-2026-05-12-at-20.50.55.jpeg?w=498&amp;h=282&amp;crop=1",
+      "link": "https://www.cnnbrasil.com.br/politica/apos-descoberta-da-petrobras-e-reuniao-com-alcolumbre-lula-vai-ao-amapa/",
+      "fonte": "CNN Brasil",
+      "encontrada_em": "2026-08-16T22:57:11"
+    },
+    {
       "titulo": "Gabigol cita o Flamengo, provocação de Marcos Braz e Samuel Lino ganha destaque: as últimas notícias do Mengão",
       "resumo": "Sabemos que nem sempre é possível acompanhar tudo o que acontece com o Flamengo ao longo do dia. ...",
       "categoria": "Amazonas",
@@ -900,16 +910,6 @@
       "autor": "Paulo Amazonas",
       "imagem": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/17/1045736890-lucas-paqueta-flamengo.jpg",
       "link": "https://www.terra.com.br/esportes/flamengo/saida-encaminhada-risco-de-demissao-e-paqueta-viraliza-as-ultimas-noticias-do-flamengo,805da8021b7b80c3db1b072c96641a6dozsyxfrx.html",
-      "fonte": "Terra",
-      "encontrada_em": "2026-08-16T22:42:11"
-    },
-    {
-      "titulo": "Contratação confirmada, diretoria revolta torcedores e declaração de Craque Neto: as últimas notícias do Flamengo",
-      "resumo": "Sabemos que nem sempre é possível acompanhar tudo o que acontece com o Flamengo ao longo do dia. ...",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/17/737031344-55220079660ad296d9eeek.jpg",
-      "link": "https://www.terra.com.br/esportes/flamengo/contratacao-confirmada-diretoria-revolta-torcedores-e-declaracao-de-craque-neto-as-ultimas-noticias-do-flamengo,86e4ed1709fa565e7db10b0c553965b3qkio92x9.html",
       "fonte": "Terra",
       "encontrada_em": "2026-08-16T22:42:11"
     }
