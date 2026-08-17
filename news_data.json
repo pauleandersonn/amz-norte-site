@@ -854,6 +854,16 @@
   ],
   "nacionais": [
     {
+      "titulo": "Copacol cria cooperativa de crédito para associados",
+      "resumo": "A CrediSIS Copacol nasce de um desejo antigo dos 1.430 sócios fundadores da cooperativa paranaense do agronegócio",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/copacol.avif?w=888&amp;h=501&amp;crop=1",
+      "link": "https://www.cnnbrasil.com.br/agro/copacol-cria-cooperativa-de-credito-para-associados/",
+      "fonte": "CNN Brasil",
+      "encontrada_em": "2026-08-17T05:42:08"
+    },
+    {
       "titulo": "Fogo leva centenas a deixarem suas casas na Bélgica e na Alemanha",
       "resumo": "Bélgica combate o maior incêndio florestal de sua história e autoridades alemãs ordenam retirada ...",
       "categoria": "Amazonas",
@@ -900,16 +910,6 @@
       "autor": "Paulo Amazonas",
       "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/06/dieta-restritiva-depressao.jpg?w=1200&amp;h=630&amp;crop=1",
       "link": "https://www.cnnbrasil.com.br/saude/dr-kalil-saiba-fatores-que-aumentam-as-chances-de-transtornos-alimentares/",
-      "fonte": "CNN Brasil",
-      "encontrada_em": "2026-08-17T05:12:08"
-    },
-    {
-      "titulo": "Etanol e biometano avançam no transporte de cargas no Brasil",
-      "resumo": "Novos mercados para biocombustíveis ampliam alternativas para descarbonizar setores de difícil eletrificação",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/COPERSUCAR-CMA-CGM-@R7M7FILMES-2.jpg?w=1200&amp;h=630&amp;crop=1",
-      "link": "https://www.cnnbrasil.com.br/agro/etanol-e-biometano-avancam-no-transporte-de-cargas/",
       "fonte": "CNN Brasil",
       "encontrada_em": "2026-08-17T05:12:08"
     }
