@@ -921,6 +921,16 @@
   ],
   "internacionais": [
     {
+      "titulo": "People with severe intellectual disabilities live 24 years less on average",
+      "resumo": "Exclusive: Research also finds stark ethnic disparities, and 40% of deaths among group classed as avoidable People living with severe intellectual disabilities are dying 24 years younger on average th",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://i.guim.co.uk/img/media/b4e12fac3da54c3c7049fd49c793d7dea6af65ef/102_73_1826_1461/master/1826.jpg?width=140&quality=85&auto=format&fit=max&s=5ebeaf2a20f92ce453dc788e4fac2cf8",
+      "link": "https://www.theguardian.com/society/2026/aug/17/severe-intellectual-disabilities-life-expectancy-study",
+      "fonte": "The Guardian",
+      "encontrada_em": "2026-08-17T14:11:13"
+    },
+    {
       "titulo": "Turquia, Arábia Saudita e Paquistão poderão formar uma 'Otan muçulmana'?",
       "resumo": "O pacto de defesa entre a Turquia, a Arábia Saudita e o Paquistão está sendo chamado de 'Otan muçulmana'. Mas como ele irá funcionar na prática?",
       "categoria": "Amazonas",
@@ -967,16 +977,6 @@
       "autor": "Paulo Amazonas",
       "imagem": "https://www.aljazeera.com/wp-content/uploads/2026/08/reuters_6a833d44-1786985796.jpg?resize=1920%2C1440",
       "link": "https://www.aljazeera.com/news/2026/8/17/explosion-reported-at-school-in-afghan-capital-kabul?traffic_source=rss",
-      "fonte": "Al Jazeera",
-      "encontrada_em": "2026-08-17T13:46:13"
-    },
-    {
-      "titulo": "Britain deploys military as wildfires spread across Europe",
-      "resumo": "Britain deploys military as wildfires spread across Europe",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1786987520.jpg?resize=1920%2C1080&amp;quality=80",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/britain-deploys-military-as-wildfires-spread-across-europe?traffic_source=rss",
       "fonte": "Al Jazeera",
       "encontrada_em": "2026-08-17T13:46:13"
     }
