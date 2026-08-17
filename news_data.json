@@ -854,6 +854,16 @@
   ],
   "nacionais": [
     {
+      "titulo": "Tumulto em templo deixa ao menos seis mortos e vários feridos na Índia",
+      "resumo": "Episódio aconteceu no complexo de Ashok Dham, no distrito de Lakhisarai, em Bihar",
+      "categoria": "Segurança",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/2026-08-17T042937Z_1_LOP592517082026RP1_RTRMADP_BASEIMAGE-960X540_INDIA-ACCIDENT-e1786941330172.jpg?w=896&amp;h=427&amp;crop=1",
+      "link": "https://www.cnnbrasil.com.br/internacional/tumulto-em-templo-deixa-mortos-e-varios-feridos-na-india/",
+      "fonte": "CNN Brasil",
+      "encontrada_em": "2026-08-17T00:57:10"
+    },
+    {
       "titulo": "Hayden Panettiere, estrela de ‘Heroes’ e ‘Nashville’, morre aos 36 anos",
       "resumo": "A atriz americana Hayden Panettiere, conhecida mundialmente por interpretar Claire Bennet na ...",
       "categoria": "Amazonas",
@@ -902,19 +912,49 @@
       "link": "https://www.cnnbrasil.com.br/pop/hayden-panettiere-atriz-de-heroes-e-nashville-morre-aos-36-anos/",
       "fonte": "CNN Brasil",
       "encontrada_em": "2026-08-17T00:27:09"
-    },
-    {
-      "titulo": "Neymar é provocado com máscaras de Bruna Marquezine, ignorado por jogador e dá a melhor resposta em jogo do Santos. Veja!",
-      "resumo": "Há quase 8 anos Neymar e Bruna Marquezine não estão mais juntos . De lá pra cá a atriz já viveu ...",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/17/639841473-273b5abbba505100-1400x823-1.jpg",
-      "link": "https://www.terra.com.br/diversao/gente/neymar-e-provocado-com-mascaras-de-bruna-marquezine-ignorado-por-jogador-e-da-a-melhor-resposta-em-jogo-do-santos-veja,5543f2e719bf0adafac7cd4d33ca01902aumbkno.html",
-      "fonte": "Terra",
-      "encontrada_em": "2026-08-17T00:17:10"
     }
   ],
   "internacionais": [
+    {
+      "titulo": "Ebola outbreak in DR Congo becomes deadliest in its history",
+      "resumo": "The outbreak was already the fastest growing on record, caused by a rare species of Ebola called Bundibugyo.",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6968/live/176af9c0-99f5-11f1-8ffd-896dfa12c5fd.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/cvgll74vvydo?at_medium=RSS&at_campaign=rss",
+      "fonte": "BBC World",
+      "encontrada_em": "2026-08-17T00:57:13"
+    },
+    {
+      "titulo": "Landslide in South Korea kills one as record rain lashes south",
+      "resumo": "It comes as large swathes of East and South East Asia have been pummelled by dats of heavy rain.",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b96/live/e2371780-99f3-11f1-8ffd-896dfa12c5fd.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/cvgww971nn2o?at_medium=RSS&at_campaign=rss",
+      "fonte": "BBC World",
+      "encontrada_em": "2026-08-17T00:57:13"
+    },
+    {
+      "titulo": "Aussie rules footy players referred to police as detectives investigate sexual assault",
+      "resumo": "The \"disappointed\" Sydney Swans CEO wouldn't say what the incident was or how many players were involved.",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b029/live/c82beaa0-99f3-11f1-870d-5d08c49babb2.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/cg4dd420ezlo?at_medium=RSS&at_campaign=rss",
+      "fonte": "BBC World",
+      "encontrada_em": "2026-08-17T00:57:13"
+    },
+    {
+      "titulo": "Hayden Panettiere, actor in Heroes and Nashville, dies aged 36",
+      "resumo": "Panettiere’s death was announced by her father, who called her ‘an incredible light and a force of nature who brought immeasurable love and joy to all who knew her’ Hayden Panettiere, the actor known ",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://i.guim.co.uk/img/media/38ac251e192b8dc5b9698a88d54984bbecf1d95f/375_0_3750_3000/master/3750.jpg?width=140&quality=85&auto=format&fit=max&s=26c54c293c040a7da4683c49d515f586",
+      "link": "https://www.theguardian.com/tv-and-radio/2026/aug/17/hayden-panettiere-death-heroes-nashville-scream-star-dies-at-36",
+      "fonte": "The Guardian",
+      "encontrada_em": "2026-08-17T00:57:12"
+    },
     {
       "titulo": "Asking prices for newly listed homes in UK’s richest borough fall by £100k in one month",
       "resumo": "Fierce competition in some areas of London means landlord purchasers are making successful lowball offers The average price of a home coming up for sale in Britain’s richest borough has dropped by alm",
@@ -934,46 +974,6 @@
       "link": "https://www.theguardian.com/politics/2026/aug/17/loosening-planning-rules-england-more-homes-train-stations-rayner",
       "fonte": "The Guardian",
       "encontrada_em": "2026-08-17T00:12:12"
-    },
-    {
-      "titulo": "Actress Hayden Panettiere dies aged 36, US media report",
-      "resumo": "A representative for the actress confirmed the news to US outlet ABC News, but did not provide further details of her death.",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f2c/live/60f697b0-1203-11ef-82e8-cd354766a224.png",
-      "link": "https://www.bbc.co.uk/news/articles/cq5665zgg1po?at_medium=RSS&at_campaign=rss",
-      "fonte": "BBC World",
-      "encontrada_em": "2026-08-17T00:07:12"
-    },
-    {
-      "titulo": "Thieves steal Renaissance artworks in museum heist during Italian holiday",
-      "resumo": "As Messina celebrated Sicilian holiday Ferragosto, thieves struck the MuMe museum to steal the masterworks by Antonello.",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://www.aljazeera.com/wp-content/uploads/2026/08/ap_6a827c7d41416-1786936445.jpg?resize=1920%2C1440",
-      "link": "https://www.aljazeera.com/news/2026/8/17/thieves-steal-renaissance-artworks-in-museum-heist-during-italian-holiday?traffic_source=rss",
-      "fonte": "Al Jazeera",
-      "encontrada_em": "2026-08-17T00:07:10"
-    },
-    {
-      "titulo": "Palestinian-American travels to West Bank home encircled by Israeli settler",
-      "resumo": "Palestinian-American Loui Ridi is flying from the US to Qusra, where Israeli settlers have encircled his family’s home.",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1786937980.jpg?resize=1200%2C675",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/08-17-26-pal-american-qusra-sv-mp4?traffic_source=rss",
-      "fonte": "Al Jazeera",
-      "encontrada_em": "2026-08-17T00:07:10"
-    },
-    {
-      "titulo": "U.S. and Iran Blow Through Deadline to Agree to a Broad Deal to End War",
-      "resumo": "President Trump said a cease-fire agreed in June would lead to limits on Iran’s nuclear program and finish the conflict, but the countries appear far apart.",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://static01.nyt.com/images/2026/08/17/multimedia/17int-iran-mou-hfo-1-klhg/17int-iran-mou-hfo-1-klhg-mediumSquareAt3X.jpg",
-      "link": "https://www.nytimes.com/2026/08/17/world/middleeast/iran-mou-deadline.html",
-      "fonte": "NYT",
-      "encontrada_em": "2026-08-17T00:07:10"
     }
   ],
   "empregos": [
