@@ -917,6 +917,16 @@
   ],
   "internacionais": [
     {
+      "titulo": "Is the world experiencing more earthquakes now than before?",
+      "resumo": "Al Jazeera examines a decade of earthquake data to see how 2026 compares and explains how and where earthquakes strike.",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://www.aljazeera.com/wp-content/uploads/2026/08/INTERACTIVE-Earthquake-thumbnail-1786959550.png?resize=1200%2C630",
+      "link": "https://www.aljazeera.com/news/2026/8/17/is-the-world-experiencing-more-earthquakes-now-than-before?traffic_source=rss",
+      "fonte": "Al Jazeera",
+      "encontrada_em": "2026-08-17T07:31:10"
+    },
+    {
       "titulo": "USS Lincoln crisis: How it compares to past aircraft carrier deployments",
       "resumo": "The USS Abraham Lincoln crisis highlights the toll of lengthy deployments on crew morale and operational readiness.",
       "categoria": "Amazonas",
@@ -963,16 +973,6 @@
       "autor": "Paulo Amazonas",
       "imagem": "https://i.guim.co.uk/img/media/f25d80fdd4eb21172be835d121eab4cfa52798cd/700_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=51356ee0a936425a8ed32e0c1d75e4dc",
       "link": "https://www.theguardian.com/technology/2026/aug/17/raul-torrez-new-mexico-meta-social-media-safety-laws",
-      "fonte": "The Guardian",
-      "encontrada_em": "2026-08-17T07:16:18"
-    },
-    {
-      "titulo": "How ‘forensic fandom’ in Lindsay Clancy trial threaten postpartum psychosis awareness",
-      "resumo": "Clancy’s live-streamed trial has become fodder for amateur sleuths to push viral conspiracy theories that threaten to undermine efforts to de-stigmatize illness, experts say Meghan Cliffel was riding ",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://i.guim.co.uk/img/media/f0554062b4ac22962a1553a2df56233cdf09bfad/930_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=bc007d00b7ba127484e1ab2edb330279",
-      "link": "https://www.theguardian.com/us-news/2026/aug/17/lindsay-clancy-trial-conspiracy-theories-postpartum-psychosis",
       "fonte": "The Guardian",
       "encontrada_em": "2026-08-17T07:16:18"
     }
