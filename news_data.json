@@ -923,6 +923,26 @@
   ],
   "internacionais": [
     {
+      "titulo": "‘Humiliated’: Sainsbury’s store pauses AI scanning after false shoplifting accusation",
+      "resumo": "Supermarket chain says ‘human error’, not its Facewatch technology, to blame for ejecting a customer Sainsbury’s has paused the use of AI face scanning in one of its stores after a customer was wrongl",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://i.guim.co.uk/img/media/cb9ddc9d832eb5fde840ea1b3f8bcf84793c69bb/0_0_3808_3046/master/3808.jpg?width=140&quality=85&auto=format&fit=max&s=3fb15e2b0f29321597876fa0b0f48d9f",
+      "link": "https://www.theguardian.com/technology/2026/aug/17/humiliated-sainsburys-store-pauses-ai-scanning-after-false-shoplifting-accusation",
+      "fonte": "The Guardian",
+      "encontrada_em": "2026-08-17T09:41:17"
+    },
+    {
+      "titulo": "US tourist dies after being struck by lightning on Italy’s Mount Etna",
+      "resumo": "Italian firefighters say a man, 29, was killed by a lightning strike on the Sicily volcano while hiking in a restricted area A tourist from the US was killed by a lightning strike on Sicily’s Mount Et",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://i.guim.co.uk/img/media/47e0937a3f791919f07e3b4278faa66530551c44/575_0_5018_4016/master/5018.jpg?width=140&quality=85&auto=format&fit=max&s=6ccf6f383b98e4283f7b155bc48b3357",
+      "link": "https://www.theguardian.com/world/2026/aug/17/tourist-dies-lightning-strike-italy-mount-etna",
+      "fonte": "The Guardian",
+      "encontrada_em": "2026-08-17T09:41:17"
+    },
+    {
       "titulo": "Beatles film recreates iconic Abbey Road album cover",
       "resumo": "Social media footage this weekend revealed the cast of Sam Mendes’ four-film band biopic on the zebra crossing near the studio, posing for the famous image The production team behind the forthcoming f",
       "categoria": "Amazonas",
@@ -959,26 +979,6 @@
       "autor": "Paulo Amazonas",
       "imagem": "https://www.aljazeera.com/wp-content/uploads/2018/07/d445ddf683af40e59eeccdfc98acf387_18.jpeg?resize=1200%2C675",
       "link": "https://www.aljazeera.com/news/2026/8/17/why-kushner-met-hamas-leaders-and-what-it-means-for-trumps-gaza-roadmap?traffic_source=rss",
-      "fonte": "Al Jazeera",
-      "encontrada_em": "2026-08-17T09:16:20"
-    },
-    {
-      "titulo": "Cameroon celebrates after winning first ever WAFCON title",
-      "resumo": "Cameroon wins its first WAFCON title, beating Malawi 3–0 in the final.",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1786971987.jpg?resize=1920%2C1080&amp;quality=80",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/cameroon-celebrates-after-winning-first-ever-wafcon-title?traffic_source=rss",
-      "fonte": "Al Jazeera",
-      "encontrada_em": "2026-08-17T09:16:20"
-    },
-    {
-      "titulo": "Yemen’s drone war: Rivals flex growing aerial muscle",
-      "resumo": "Houthi and government forces exchange drone attacks, marking a major shift in war tactics.",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-11T014155Z_920576559_RC2JVMALG6M4_RTRMADP_3_IRAN-CRISIS-YEMEN-MOCHA-1786800659.jpg?resize=1920%2C1440",
-      "link": "https://www.aljazeera.com/news/2026/8/17/yemens-drone-war-rivals-flex-growing-aerial-muscle?traffic_source=rss",
       "fonte": "Al Jazeera",
       "encontrada_em": "2026-08-17T09:16:20"
     }
