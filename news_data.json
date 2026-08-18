@@ -860,6 +860,16 @@
   ],
   "nacionais": [
     {
+      "titulo": "Barcelona anuncia contratação de Rodri, melhor jogador da Copa de 2026",
+      "resumo": "Volante espanhol de 30 anos chega ao clube catalão após disputa com o Real Madrid",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/rodri-barcelona-e1787074878373.jpg?w=510&amp;h=288&amp;crop=1",
+      "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-espanhol/barcelona-anuncia-contratacao-de-rodri-melhor-jogador-da-copa-de-2026/",
+      "fonte": "CNN Brasil",
+      "encontrada_em": "2026-08-18T13:46:11"
+    },
+    {
       "titulo": "Análise: Alcolumbre acena, mas mantém controle sobre 6×1",
       "resumo": "Senado deve avançar na tramitação da escala 6x1 e Segurança Pública, mas votação em plenário deve ficar para depois do segundo turno das eleições, de acordo com analista de Política da CNN Isabel Mega",
       "categoria": "Amazonas",
@@ -906,16 +916,6 @@
       "autor": "Paulo Amazonas",
       "imagem": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/18/866500164-d7d5bbac-d1dc-4772-bf42-682040ebfb8a.jpg",
       "link": "https://www.terra.com.br/vida-e-estilo/sus-regulamenta-centrais-de-diluicao-de-remedios-de-alto-custo-para-cancer,9cac08979278346c562557d2cdf14ee203ggunst.html",
-      "fonte": "Terra",
-      "encontrada_em": "2026-08-18T13:31:12"
-    },
-    {
-      "titulo": "Decisão final sobre Depay, situação de Yuri Alberto e Fagner manda recado para torcida: as últimas notícias do Corinthians",
-      "resumo": "Sabemos que nem sempre é possível acompanhar tudo o que acontece com o Corinthians ao longo do ...",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/18/1576555336-memphis-depay.jpg",
-      "link": "https://www.terra.com.br/esportes/corinthians/decisao-final-sobre-depay-situacao-de-yuri-alberto-e-fagner-manda-recado-para-torcida-as-ultimas-noticias-do-corinthians,698303eaf95d0a5dd8a38cd869123d4fasq6uh90.html",
       "fonte": "Terra",
       "encontrada_em": "2026-08-18T13:31:12"
     }
