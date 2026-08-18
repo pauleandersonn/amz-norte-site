@@ -920,6 +920,46 @@
   ],
   "internacionais": [
     {
+      "titulo": "Bou Meng, Rare Survivor of Khmer Rouge Torture House, Dies at 85",
+      "resumo": "Saved by his ability to paint, he was one of only a handful of prisoners to make it out of the brutal prison Tuol Sleng.",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://static01.nyt.com/images/2019/12/12/obituaries/00bou-toppix/00bou-toppix-moth.jpg",
+      "link": "https://www.nytimes.com/2026/08/15/world/asia/bou-meng-dead.html",
+      "fonte": "NYT",
+      "encontrada_em": "2026-08-17T20:16:14"
+    },
+    {
+      "titulo": "Israeli Strikes in Lebanon Kill 11, Health Officials Say",
+      "resumo": "The Lebanese health ministry said children were among those killed. The Israeli prime minister’s office said Hezbollah had struck first, injuring three Israeli soldiers.",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://static01.nyt.com/images/2026/08/15/multimedia/15int-lebanon-strike-01-vmgc/15int-lebanon-strike-01-vmgc-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/08/15/world/middleeast/israel-strikes-lebanon-ansar.html",
+      "fonte": "NYT",
+      "encontrada_em": "2026-08-17T20:16:14"
+    },
+    {
+      "titulo": "At Least 47 Dead as 7.7-Magnitude Earthquake Rocks Indonesia",
+      "resumo": "The temblor was one of the strongest the area had experienced in decades, an official said.",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://static01.nyt.com/images/2026/08/15/multimedia/15int-indonesia-quake-photo-01-cvqh/15int-indonesia-quake-photo-01-cvqh-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/08/15/world/asia/earthquake-indonesia-flores-tsunami.html",
+      "fonte": "NYT",
+      "encontrada_em": "2026-08-17T20:16:14"
+    },
+    {
+      "titulo": "Heat Deaths in a ‘Cold’ Country Are a Warning to the Rest of Europe",
+      "resumo": "A June heat wave in Belgium and neighboring countries exposed a lethal lack of readiness. That’s a risk as another wave hits Europe.",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://static01.nyt.com/images/2026/08/15/multimedia/15int-belgium-heat-deaths-01-vmlz/15int-belgium-heat-deaths-01-vmlz-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/08/15/world/europe/belgium-heat-wave-deaths.html",
+      "fonte": "NYT",
+      "encontrada_em": "2026-08-17T20:16:14"
+    },
+    {
       "titulo": "Quit Lit",
       "resumo": "There are good reasons to abandon books we’re not enjoying, but our attenuated attention might lead us to tap out too early.",
       "categoria": "Amazonas",
@@ -938,46 +978,6 @@
       "link": "https://www.nytimes.com/2026/08/15/world/canada/sleepaway-summer-camp-children-ontario-canada.html",
       "fonte": "NYT",
       "encontrada_em": "2026-08-17T20:11:13"
-    },
-    {
-      "titulo": "How Cyclospora Evaded the U.S. Food Safety System to Sicken Thousands",
-      "resumo": "The Trump administration delayed a rule last year that could have sped up the effort to pinpoint the source of the contamination. Critics charge that food safety oversight has eroded overall.",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://static01.nyt.com/images/2026/08/14/multimedia/00dc-cyclospora-how-fda-gvfc/00dc-cyclospora-how-fda-gvfc-mediumSquareAt3X.jpg",
-      "link": "https://www.nytimes.com/2026/08/15/health/cyclospora-invesigation-fda.html",
-      "fonte": "NYT",
-      "encontrada_em": "2026-08-17T20:11:13"
-    },
-    {
-      "titulo": "As China Pushes to Expand in Asia, Trump Focuses on Iran",
-      "resumo": "Asian allies are beginning to wonder whether the United States would or could defend them in a war.",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://static01.nyt.com/images/2026/08/12/multimedia/00dc-trump-asia-01-vczm/00dc-trump-asia-01-vczm-mediumSquareAt3X.jpg",
-      "link": "https://www.nytimes.com/2026/08/15/us/politics/china-expansion-asia-trump-iran.html",
-      "fonte": "NYT",
-      "encontrada_em": "2026-08-17T20:11:13"
-    },
-    {
-      "titulo": "Where Future Champions Race Against the Tide",
-      "resumo": "An uninhabited Irish island fills up one day each summer for a treasured amateur horse race in which young jockeys ride across the shifting sands.",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://static01.nyt.com/images/2026/08/06/multimedia/00xp-omey-08-gwmq-Promo/00xp-omey-08-gwmq-Promo-mediumSquareAt3X.jpg",
-      "link": "https://www.nytimes.com/2026/08/15/world/europe/omey-island-races-horse-racing-ireland.html",
-      "fonte": "NYT",
-      "encontrada_em": "2026-08-17T20:06:15"
-    },
-    {
-      "titulo": "Where to Eat and Drink at a Barcelona Bar Like a Local",
-      "resumo": "The classic bars, known as bodegas, are where locals in the Catalan capital take their rituals seriously. If you know where to look, you can join them.",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://static01.nyt.com/images/2026/08/14/multimedia/14trav-barcelona-bars-promo/14trav-barcelona-bars-promo-mediumSquareAt3X.jpg",
-      "link": "https://www.nytimes.com/2026/08/15/travel/barcelona-bars-bodegas.html",
-      "fonte": "NYT",
-      "encontrada_em": "2026-08-17T20:06:15"
     }
   ],
   "empregos": [
