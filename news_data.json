@@ -854,6 +854,26 @@
   ],
   "nacionais": [
     {
+      "titulo": "Fred relata insistência de colegas para acerto com Atlético-MG",
+      "resumo": "Meio-campista reencontrará Bernard, Léo Duarte e Renan Lodi no Galo; Lodi teria ligado \"todo dia\" para convencer o amigo",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/Fred-em-entrevista-ao-canal-oficial-do-Atletico.webp?w=659&amp;h=418&amp;crop=1",
+      "link": "https://www.cnnbrasil.com.br/esportes/futebol/atletico-mineiro/fred-relata-insistencia-de-colegas-para-acerto-com-atletico-mg/",
+      "fonte": "CNN Brasil",
+      "encontrada_em": "2026-08-18T14:16:12"
+    },
+    {
+      "titulo": "Animais de zoológico em Gaza sofrem com os efeitos da guerra",
+      "resumo": "Apesar das dificuldades, um zoológico reabriu em Nuseirat para oferecer um raro momento de distração a crianças traumatizadas pelo conflito",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/Leoes-do-zoo-de-Gaza.jpg?w=960&amp;h=540&amp;crop=1",
+      "link": "https://www.cnnbrasil.com.br/internacional/animais-de-zoologico-em-gaza-sofrem-com-os-efeitos-da-guerra/",
+      "fonte": "CNN Brasil",
+      "encontrada_em": "2026-08-18T14:16:12"
+    },
+    {
       "titulo": "JAC Motors apresenta caminhão a diesel de 9 toneladas ao mercado brasileiro",
       "resumo": "A JAC Motors acaba de anunciar a chegada de seu caminhão leve de 9 toneladas ao mercado ...",
       "categoria": "Amazonas",
@@ -892,29 +912,39 @@
       "link": "https://www.terra.com.br/esportes/automobilismo/formula1/f1-racing-bulls-estabelece-regra-para-disputa-entre-lawson-e-lindblad-nao-se-toquem,aedf8f2b8172e55e8a293e92b87d450d8tufo777.html",
       "fonte": "Terra",
       "encontrada_em": "2026-08-18T14:01:13"
-    },
-    {
-      "titulo": "MenuDino é o segundo maior em acessos de delivery",
-      "resumo": "O avanço dos canais próprios de venda dos restaurantes ganhou um novo indicador de dimensão. O ...",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/18/1961601431-6463e73d-766e-42f7-89f3-5bd4cc4b3822.png",
-      "link": "https://www.terra.com.br/noticias/menudino-e-o-segundo-maior-em-acessos-de-delivery,8432f27f709cbc5aef3e2aa81faa8061fjdgf3gq.html",
-      "fonte": "Terra",
-      "encontrada_em": "2026-08-18T14:01:13"
-    },
-    {
-      "titulo": "BLACKPINK: YG Entertainment se pronuncia sobre rumores de separação do grupo",
-      "resumo": "A paisagem digital do K-pop foi recentemente varrida por um turbilhão de especulações e ...",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/18/2140355625-1787074547034-3k7ero.jpg",
-      "link": "https://www.terra.com.br/diversao/musica/meu-sonora/pop-internacional/blackpink-yg-entertainment-se-pronuncia-sobre-rumores-de-separacao-do-grupo,4a78c23e1601f7d30a10a8e02cd0b3eea3yb7ir8.html",
-      "fonte": "Terra",
-      "encontrada_em": "2026-08-18T14:01:13"
     }
   ],
   "internacionais": [
+    {
+      "titulo": "US mother begged for help before her children's killings, mother-in-law testifies",
+      "resumo": "Lindsay Clancy has admitted killing her daughter and two sons but has pleaded not guilty to murder, saying she was experiencing postpartum psychosis.",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c217/live/f1ad3a40-9b1b-11f1-a8a4-83462463c9fa.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/c62emm4yp8go?at_medium=RSS&at_campaign=rss",
+      "fonte": "BBC World",
+      "encontrada_em": "2026-08-18T14:16:17"
+    },
+    {
+      "titulo": "San Diego Padres minor-league staffer detained by ICE after arrest in Texas",
+      "resumo": "Family says Venezuelan has pending asylum claim DHS says 34-year-old faces removal proceedings San Diego Padres minor-league catching coordinator Oswaldo Pirela remained in federal immigration custody",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://i.guim.co.uk/img/media/4e6f318c6591d463cbfd0ff45427770a79ab1cf4/688_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=34bf2fe54e55d22d3fc89c1f3b6678ba",
+      "link": "https://www.theguardian.com/sport/2026/aug/18/padres-coach-oswaldo-pirela-detained-ice-el-paso",
+      "fonte": "The Guardian",
+      "encontrada_em": "2026-08-18T14:16:15"
+    },
+    {
+      "titulo": "US to levy sanctions against the president and a prosecutor of international criminal court",
+      "resumo": "Marco Rubio announced measures against Tomoko Akane and Abdoulaye Seye, who was investigating Israel’s war crimes in Gaza The US will sanction the president of the international criminal court (ICC) a",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://i.guim.co.uk/img/media/0cbe1ff08a51d4068e0c1b84611c3057a08cc497/730_0_3880_3106/master/3880.jpg?width=140&quality=85&auto=format&fit=max&s=af13bf3a1fd541188abc6d80d2777c03",
+      "link": "https://www.theguardian.com/us-news/2026/aug/18/us-icc-sanctions",
+      "fonte": "The Guardian",
+      "encontrada_em": "2026-08-18T14:16:15"
+    },
     {
       "titulo": "Ebola outbreak in Democratic Republic of the Congo now deadliest in country’s history",
       "resumo": "At least 2,325 people have died from the virus, according to official data, with outbreak on track to be biggest in history The Ebola outbreak in the Democratic Republic of the Congo is now the deadli",
@@ -944,36 +974,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cnvnl0elz47o?at_medium=RSS&at_campaign=rss",
       "fonte": "BBC World",
       "encontrada_em": "2026-08-18T13:51:16"
-    },
-    {
-      "titulo": "Teenager dies after falling in abandoned high-rise tower in New Orleans",
-      "resumo": "Jacque St Ann, 17, and his friends broke into Plaza Tower and he fell as they were descending an interior staircase A high school student recently fell to his death after entering an abandoned high-ri",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://i.guim.co.uk/img/media/5125f5960e6321dae30534d4ce1de5d0afab52e2/0_71_1264_1011/master/1264.jpg?width=140&quality=85&auto=format&fit=max&s=f36b0d4c461437e0d8e9c69dc239596c",
-      "link": "https://www.theguardian.com/us-news/2026/aug/18/teen-dies-abandoned-high-rise-new-orleans",
-      "fonte": "The Guardian",
-      "encontrada_em": "2026-08-18T13:41:13"
-    },
-    {
-      "titulo": "Former Mexican governor charged in case of 43 students who vanished in 2014",
-      "resumo": "Ángel Aguirre indicted in case that rocked Mexico and became symbol of its brutal cartel violence The former governor of Guerrero state in Mexico has been formally charged over his alleged involvement",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://i.guim.co.uk/img/media/e8272fdfdc72d9275bc837f0f3da79df400f7a48/200_0_2973_2378/master/2973.jpg?width=140&quality=85&auto=format&fit=max&s=3171ae761db8df9847ac35d7463d822b",
-      "link": "https://www.theguardian.com/world/2026/aug/12/former-mexican-governor-charged-in-case-of-43-students-who-vanished-in-2014",
-      "fonte": "The Guardian",
-      "encontrada_em": "2026-08-18T13:36:14"
-    },
-    {
-      "titulo": "Tropical Storm Lala leaves Hawaii flooded and without power",
-      "resumo": "Tropical Storm Lala leaves Hawaii flooded and without power",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1787073743.jpg?resize=1920%2C1080&amp;quality=80",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/tropical-storm-lala-leaves-hawaii-flooded-and-without-power?traffic_source=rss",
-      "fonte": "Al Jazeera",
-      "encontrada_em": "2026-08-18T13:36:13"
     }
   ],
   "empregos": [
