@@ -855,6 +855,16 @@
   ],
   "nacionais": [
     {
+      "titulo": "STF decide que área do imóvel não pode definir alíquota do IPTU",
+      "resumo": "Corte derrubou lei de Chapecó e reafirmou que a progressividade do imposto deve considerar o valor do imóvel, a localização e o uso da propriedade",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/06/plenario-stf.jpg?w=1200&amp;h=630&amp;crop=1",
+      "link": "https://www.cnnbrasil.com.br/politica/stf-decide-que-area-do-imovel-nao-pode-definir-aliquota-do-iptu/",
+      "fonte": "CNN Brasil",
+      "encontrada_em": "2026-08-18T15:36:11"
+    },
+    {
       "titulo": "Barboza destaca união do Palmeiras antes de jogo decisivo na Libertadores",
       "resumo": "O Palmeiras encerrou nesta terça-feira (18), na Academia de Futebol, a preparação para o duelo ...",
       "categoria": "Amazonas",
@@ -903,19 +913,19 @@
       "link": "https://www.terra.com.br/esportes/futebol/internacional/chefe-da-premier-league-ataca-projeto-de-infantino-e-pede-reforma-na-fifa,a47ab049a17071130524787f8b7f6a997s27ms7v.html",
       "fonte": "Terra",
       "encontrada_em": "2026-08-18T15:31:13"
-    },
-    {
-      "titulo": "Marina Sena quebra o silêncio sobre término com Juliano Floss: 'Guarda com carinho tudo o que viveram'",
-      "resumo": "Marina Sena se pronunciou pela primeira vez sobre o término com Juliano Floss, anunciado pelo ...",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/18/643913351-marina-sena-e-juliano-floss-1.jpg",
-      "link": "https://www.terra.com.br/diversao/gente/marina-sena-quebra-o-silencio-sobre-termino-com-juliano-floss-guarda-com-carinho-tudo-o-que-viveram,ea1db1e6c41bfef7f3144dbb0853f0bdu8cn2pcq.html",
-      "fonte": "Terra",
-      "encontrada_em": "2026-08-18T15:31:13"
     }
   ],
   "internacionais": [
+    {
+      "titulo": "U.S. and Iran Blow Through Deadline to Agree to a Broad Deal to End War",
+      "resumo": "President Trump said a cease-fire agreed in June would lead to limits on Iran’s nuclear program and finish the conflict, but the countries appear far apart.",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://static01.nyt.com/images/2026/08/17/multimedia/17int-iran-mou-hfo-1-klhg/17int-iran-mou-hfo-1-klhg-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/08/17/world/middleeast/iran-mou-deadline.html",
+      "fonte": "NYT",
+      "encontrada_em": "2026-08-18T15:36:13"
+    },
     {
       "titulo": "China Wants Its Data to Power the World’s A.I.",
       "resumo": "China is exporting more than A.I. models. It wants its data to influence the world’s chatbots, raising fears that Beijing’s narratives will spread with the technology.",
@@ -965,16 +975,6 @@
       "link": "https://www.theguardian.com/us-news/2026/aug/18/trump-administration-growth-forests",
       "fonte": "The Guardian",
       "encontrada_em": "2026-08-18T15:11:20"
-    },
-    {
-      "titulo": "O julgamento que pode mudar como Facebook e Instagram funcionam para mais jovens",
-      "resumo": "Tribunal federal da Califórnia começa a julgar ação de 29 Estados americanos, que pedem mudanças no funcionamento das redes sociais da Meta.",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3f58/live/24ec1660-9b35-11f1-a291-b542ee92de7c.jpg",
-      "link": "https://www.bbc.com/portuguese/articles/cx27zvg0vpro?at_medium=RSS&at_campaign=rss",
-      "fonte": "BBC Brasil",
-      "encontrada_em": "2026-08-18T15:06:13"
     }
   ],
   "empregos": [
