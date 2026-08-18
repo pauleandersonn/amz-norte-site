@@ -921,6 +921,36 @@
   ],
   "internacionais": [
     {
+      "titulo": "Qual a situação de todos os candidatos neste início de campanha? Veja no agregador de pesquisas da BBC News Brasil",
+      "resumo": "Acompanhe as últimas estimativas de intenção de voto para Lula x Flávio na eleição presidencial de 2026 reunidas no agregador de pesquisas eleitorais da BBC News Brasil.",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5379/live/8df8b7e0-485a-11f1-ac78-2112837ce2aa.jpg",
+      "link": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss",
+      "fonte": "BBC Brasil",
+      "encontrada_em": "2026-08-18T10:41:12"
+    },
+    {
+      "titulo": "O lado sombrio dos anúncios do Instagram",
+      "resumo": "Investigação da BBC mostra como anúncios que promovem material de exploração infantil na Índia estão sendo veiculados no Instagram e gerando lucro.",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/cec9/live/6cb226e0-94a7-11f1-b2ab-0dd01740f9f6.jpg",
+      "link": "https://www.bbc.com/portuguese/articles/cx2jdd94z52o?at_medium=RSS&at_campaign=rss",
+      "fonte": "BBC Brasil",
+      "encontrada_em": "2026-08-18T10:41:12"
+    },
+    {
+      "titulo": "Canetas emagrecedoras: como Mounjaro e Wegovy estão transformando o mundo",
+      "resumo": "Medicamentos representam a primeira geração de tratamentos a fazer frente à epidemia global de obesidade.",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f7dc/live/08752750-94ab-11f1-b2ab-0dd01740f9f6.jpg",
+      "link": "https://www.bbc.com/portuguese/articles/c4g3rl5n52wo?at_medium=RSS&at_campaign=rss",
+      "fonte": "BBC Brasil",
+      "encontrada_em": "2026-08-18T10:41:12"
+    },
+    {
       "titulo": "Os médicos falsos feitos por IA que viralizam entre idosos no Brasil",
       "resumo": "Vídeos compartilhados no YouTube exploram o medo para atrair audiência.",
       "categoria": "Amazonas",
@@ -947,36 +977,6 @@
       "autor": "Paulo Amazonas",
       "imagem": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3d4b/live/2a0e2a30-7997-11f1-b976-0b9c15b0ccfc.png",
       "link": "https://www.bbc.com/portuguese/articles/c75yy56153xo?at_medium=RSS&at_campaign=rss",
-      "fonte": "BBC Brasil",
-      "encontrada_em": "2026-08-18T10:36:12"
-    },
-    {
-      "titulo": "A rede oculta de Jeffrey Epstein no Brasil",
-      "resumo": "A BBC News Brasil vem investigando a atuação de Epstein no país desde que milhões de documentos sobre o caso foram divulgados nas últimas semanas.",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/609e/live/0a935a60-1ee1-11f1-9120-a910fc22c6ac.jpg",
-      "link": "https://www.bbc.com/portuguese/articles/c5y5w29x2rro?at_medium=RSS&at_campaign=rss",
-      "fonte": "BBC Brasil",
-      "encontrada_em": "2026-08-18T10:36:12"
-    },
-    {
-      "titulo": "Como apartamentos em São Paulo financiados pelo Minha Casa Minha Vida vão parar no Airbnb",
-      "resumo": "Investigação da BBC News Brasil revela formas de burlar programas de moradia e brechas legais que possibilitam a imóveis financiados pelo Minha Casa, Minha Vida serem anunciados em plataformas de alug",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ecdc/live/ce50ccc0-f7d2-11f0-b385-5f48925de19a.jpg",
-      "link": "https://www.youtube.com/watch?v=qboPJFe_U0Y&at_medium=RSS&at_campaign=rss",
-      "fonte": "BBC Brasil",
-      "encontrada_em": "2026-08-18T10:36:12"
-    },
-    {
-      "titulo": "CLIQUE PARA SE INSCREVER",
-      "resumo": "Receba as principais notícias, análises e áudios produzidos pelas nossas equipes em São Paulo e Londres e seja o primeiro a saber dos fatos mais importantes e interessantes no Brasil e no mundo.",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/45da/live/56e64420-2264-11ef-80aa-699d54c46324.png",
-      "link": "https://bbc.in/3UkB2wH?at_medium=RSS&at_campaign=rss",
       "fonte": "BBC Brasil",
       "encontrada_em": "2026-08-18T10:36:12"
     }
