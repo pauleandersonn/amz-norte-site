@@ -858,6 +858,26 @@
   ],
   "nacionais": [
     {
+      "titulo": "Waack: Petróleo na Foz repete promessa do pré-sal de Lula",
+      "resumo": "Ao falar pela segunda vez depois de uma segunda descoberta de petróleo de passaporte para o futuro, o presidente revela o que faltou naquele passado recente onde sobrou corrupção",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/lula1-e1785696206489.jpg?w=1200&amp;h=630&amp;crop=1",
+      "link": "https://www.cnnbrasil.com.br/politica/waack-petroleo-na-foz-repete-promessa-do-pre-sal-de-lula/",
+      "fonte": "CNN Brasil",
+      "encontrada_em": "2026-08-17T21:31:11"
+    },
+    {
+      "titulo": "“Acotar”: autora Sarah J. Maas revela capas e títulos dos próximos livros",
+      "resumo": "6° volume da série será lançado no dia 27 de outubro, enquanto o 7° chega às prateleiras no dia 12 de janeiro de 2027",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/acotar-livros-novos.jpg?w=1200&amp;h=630&amp;crop=1",
+      "link": "https://www.cnnbrasil.com.br/pop/acotar-autora-sarah-j-maas-revela-capas-e-titulos-dos-proximos-livros/",
+      "fonte": "CNN Brasil",
+      "encontrada_em": "2026-08-17T21:31:11"
+    },
+    {
       "titulo": "Jair sofre lesão grave na coxa e desfalca o Vasco por mais de um mês",
       "resumo": "O departamento médico do Vasco confirmou uma péssima notícia para a comissão técnica e para a ...",
       "categoria": "Amazonas",
@@ -894,26 +914,6 @@
       "autor": "Paulo Amazonas",
       "imagem": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
       "link": "https://www.terra.com.br/economia/paramount-pede-garantia-de-us-19-bilhao-em-acao-sobre-aquisicao-da-warner-bros,0b8aa6fc990d7c4069a2b86b8e6ad39a9jfq3o5u.html",
-      "fonte": "Terra",
-      "encontrada_em": "2026-08-17T21:21:12"
-    },
-    {
-      "titulo": "Zema diz que programas sociais criam 'geração de imprestáveis'",
-      "resumo": "O candidato à Presidência Romeu Zema (Novo) disse nesta segunda-feira, 17, que os programas ...",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/18/454131126-x5zdcjrhibaftfysnks6l223hm.jpeg",
-      "link": "https://www.terra.com.br/noticias/brasil/politica/zema-diz-que-programas-sociais-criam-geracao-de-imprestaveis,4aedb0bffb090d9d2c29340689a1ec34obbt99ou.html",
-      "fonte": "Terra",
-      "encontrada_em": "2026-08-17T21:21:12"
-    },
-    {
-      "titulo": "Treino de força: estudo revela tempo ideal por semana para viver mais",
-      "resumo": "Passar horas na academia todos os dias pode não ser necessário quando o objetivo é aproveitar os ...",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/18/658508399-capa-bons-fluidos-2026-08-17t170157222.jpg",
-      "link": "https://www.terra.com.br/vida-e-estilo/treino-de-forca-estudo-revela-tempo-ideal-por-semana-para-viver-mais,349ad6e800d0ec2c2cf4cef37782d2cddzgs3zrx.html",
       "fonte": "Terra",
       "encontrada_em": "2026-08-17T21:21:12"
     }
