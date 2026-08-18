@@ -859,6 +859,16 @@
   ],
   "nacionais": [
     {
+      "titulo": "Novas imagens mostram empresário agredindo esposa em SP; Ivo Kos está preso",
+      "resumo": "Câmera de segurança registrou momento que empresário desfere golpes contra a dentista Giullia Falcão; defesa da vítima afirma que vídeo comprova relato de agressões",
+      "categoria": "Segurança",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/EMPRESARIO-AGRIDE-ESPOSA.png?w=1200&amp;h=630&amp;crop=1",
+      "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/novas-imagens-mostram-empresario-agredindo-esposa-em-sp-ivo-kos-esta-preso/",
+      "fonte": "CNN Brasil",
+      "encontrada_em": "2026-08-18T10:56:11"
+    },
+    {
       "titulo": "Thiago Lacerda fala sobre rótulo de galã, paternidade e volta às novelas: 'Me sinto em casa'",
       "resumo": "Por Você, nova trama das 7 da TV Globo, que estreia nesta segunda-feira, 17, marca o retorno de ...",
       "categoria": "Amazonas",
@@ -907,19 +917,19 @@
       "link": "https://www.terra.com.br/diversao/de-acordo-com-a-psicologia-essas-8-experiencias-da-infancia-explicam-por-que-voce-nao-confia-facilmente-nas-pessoas,66b36444701adcbbffd2a05e70edcaa2kki8l2d4.html",
       "fonte": "Terra",
       "encontrada_em": "2026-08-18T10:31:12"
-    },
-    {
-      "titulo": "Neymar comenta emoção em apresentação de balé da filha: 'Foi especial demais'",
-      "resumo": "A primeira apresentação de balé de Mavie, de quase 3 anos, marcou Neymar de uma maneira especial ...",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/18/neymar-emocionado-urxhxz5og3sl.jpg",
-      "link": "https://www.terra.com.br/diversao/gente/neymar-comenta-emocao-em-apresentacao-de-bale-da-filha-foi-especial-demais,2ba6591b9c666a180190fbe3c5da708fx0ff3bdm.html",
-      "fonte": "Terra",
-      "encontrada_em": "2026-08-18T10:31:12"
     }
   ],
   "internacionais": [
+    {
+      "titulo": "Brazil's President Lula hails oil discovery near Amazon river",
+      "resumo": "Environmentalists have heavily criticised the exploratory drilling in the sea off the mouth of the Amazon.",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5240/live/17e6ceb0-9ae0-11f1-b2f7-5d1639b20e22.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/c4gd7xd8e8lo?at_medium=RSS&at_campaign=rss",
+      "fonte": "BBC World",
+      "encontrada_em": "2026-08-18T10:56:16"
+    },
     {
       "titulo": "What to watch in the Alaska and Wyoming primary elections",
       "resumo": "Republican-led states face leadership shuffling.",
@@ -967,16 +977,6 @@
       "autor": "Paulo Amazonas",
       "imagem": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/fc72/live/f606a070-7caa-11f1-bee8-53ce494e1abc.jpg",
       "link": "https://www.bbc.com/portuguese/articles/c4gy1e0m6l4o?at_medium=RSS&at_campaign=rss",
-      "fonte": "BBC Brasil",
-      "encontrada_em": "2026-08-18T10:36:12"
-    },
-    {
-      "titulo": "'Somos oprimidos no Brasil': a onda de brasileiros rumo ao Paraguai em busca de 'sonho de direita'",
-      "resumo": "Número recorde de brasileiros tem buscado residência no Paraguai nos últimos meses, motivados por ideologia política, baixos impostos e por vídeos nas redes sociais. BBC News Brasil acompanhou a rotin",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4141/live/51d94930-3772-11f1-8606-05fe34b06e1b.jpg",
-      "link": "https://www.bbc.com/portuguese/articles/cwyw7696n1zo?at_medium=RSS&at_campaign=rss",
       "fonte": "BBC Brasil",
       "encontrada_em": "2026-08-18T10:36:12"
     }
