@@ -920,6 +920,36 @@
   ],
   "internacionais": [
     {
+      "titulo": "Russia warns UK over supplying drones to Ukraine",
+      "resumo": "An MoD spokesperson responds by saying Britain stands \"shoulder to shoulder\" with Ukraine.",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c2f/live/4a051380-9a94-11f1-b9fd-b3eaf80a00d7.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
+      "fonte": "BBC World",
+      "encontrada_em": "2026-08-17T21:36:18"
+    },
+    {
+      "titulo": "BBC breaks down Trump's latest shift on North and South Korea",
+      "resumo": "Trump said the US will \"substantially reduce\" joint military exercises with South Korea, citing his \"very good relationship\" with Kim Jong Un.",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1bb7/live/b807c3f0-9a94-11f1-a291-b542ee92de7c.jpg",
+      "link": "https://www.bbc.co.uk/news/videos/cy45zjw424xo?at_medium=RSS&at_campaign=rss",
+      "fonte": "BBC World",
+      "encontrada_em": "2026-08-17T21:36:18"
+    },
+    {
+      "titulo": "Norway's king admitted to hospital and put on sick leave",
+      "resumo": "The 89-year-old - one of Europe's longest-serving monarchs - is suffering from a rare blood condition.",
+      "categoria": "Saúde",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd62/live/e5a7dd60-9a79-11f1-a291-b542ee92de7c.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/c4g3qdj1z77o?at_medium=RSS&at_campaign=rss",
+      "fonte": "BBC World",
+      "encontrada_em": "2026-08-17T21:36:18"
+    },
+    {
       "titulo": "Trump reportedly casts mail-in ballot in Florida Republican primary",
       "resumo": "President, who has decried mail-in ballots amid false claims of election fraud, issued March order to curb voting by mail Donald Trump voted by mail in Florida’s Republican primary, Politico reports, ",
       "categoria": "Amazonas",
@@ -948,36 +978,6 @@
       "link": "https://www.bbc.com/portuguese/articles/c3302x6gm5yo?at_medium=RSS&at_campaign=rss",
       "fonte": "BBC Brasil",
       "encontrada_em": "2026-08-17T21:01:13"
-    },
-    {
-      "titulo": "Torrential rains kill one in South Korea while Philippine capital battles major flooding",
-      "resumo": "More than 800mm of rain was recorded in the South Korean city of Geoje, which triggered a landslide that killed one person Torrential downpours that have pounded southern parts of South Korea have kil",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://i.guim.co.uk/img/media/e08ba5aded94da9bd89a537e9a855562f93d3738/558_0_3920_3136/master/3920.jpg?width=140&quality=85&auto=format&fit=max&s=d00e56155ade9450782aea09279359d5",
-      "link": "https://www.theguardian.com/world/2026/aug/18/south-korea-rain-deadly-landslide-philippines-major-flooding",
-      "fonte": "The Guardian",
-      "encontrada_em": "2026-08-17T20:56:14"
-    },
-    {
-      "titulo": "Iran war live: Trump rejects MoU extension as US claims control of Hormuz",
-      "resumo": "US president says Iran should &#039;put up the white flag of surrender&#039; as the two nations’ MoU expired on Monday.",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://www.aljazeera.com/wp-content/uploads/2026/08/AFP__20260817__C4VK6XW__v1__HighRes__776547240-1787006113.jpg?resize=1920%2C1440",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/8/18/iran-war-live-trump-rejects-mou-extension-as-us-claims-control-of-hormuz?traffic_source=rss",
-      "fonte": "Al Jazeera",
-      "encontrada_em": "2026-08-17T20:31:15"
-    },
-    {
-      "titulo": "$10 Million in Gold Found Buried Under Former Brewery in Belgium",
-      "resumo": "A construction worker’s drill struck gold during a renovation project in East Flanders, setting off a search for the owners of the stashed fortune.",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://static01.nyt.com/images/2026/08/15/world/15Belgium-gold/15Belgium-gold-mediumSquareAt3X.jpg",
-      "link": "https://www.nytimes.com/2026/08/15/world/europe/gold-bars-coins-belgium.html",
-      "fonte": "NYT",
-      "encontrada_em": "2026-08-17T20:21:13"
     }
   ],
   "empregos": [
