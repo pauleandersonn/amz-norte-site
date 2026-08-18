@@ -860,6 +860,16 @@
   ],
   "nacionais": [
     {
+      "titulo": "Análise: Alcolumbre acena, mas mantém controle sobre 6×1",
+      "resumo": "Senado deve avançar na tramitação da escala 6x1 e Segurança Pública, mas votação em plenário deve ficar para depois do segundo turno das eleições, de acordo com analista de Política da CNN Isabel Mega",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/05/DAVI-ALCOLUMBRE-19-05-26.jpg?w=1200&amp;h=630&amp;crop=1",
+      "link": "https://www.cnnbrasil.com.br/politica/analise-alcolumbre-acena-mas-mantem-controle-sobre-6x1/",
+      "fonte": "CNN Brasil",
+      "encontrada_em": "2026-08-18T13:36:12"
+    },
+    {
       "titulo": "O que diferencia os incêndios florestais do Brasil e da Europa",
       "resumo": "Especialistas apontam que fatores como o tipo de vegetação, os impactos de fenômenos climáticos ...",
       "categoria": "Amazonas",
@@ -908,19 +918,29 @@
       "link": "https://www.terra.com.br/esportes/corinthians/decisao-final-sobre-depay-situacao-de-yuri-alberto-e-fagner-manda-recado-para-torcida-as-ultimas-noticias-do-corinthians,698303eaf95d0a5dd8a38cd869123d4fasq6uh90.html",
       "fonte": "Terra",
       "encontrada_em": "2026-08-18T13:31:12"
-    },
-    {
-      "titulo": "Diretoria toma decisão sobre Abel, atualização sobre o DM e declaração de Marlon Freitas: as últimas notícias do Palmeiras",
-      "resumo": "Sabemos que nem sempre é possível acompanhar tudo o que acontece com o Palmeiras ao longo do ...",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/18/1601552257-15082026cgpalmeiras292478-1.png",
-      "link": "https://www.terra.com.br/esportes/palmeiras/diretoria-toma-decisao-sobre-abel-atualizacao-sobre-o-dm-e-declaracao-de-marlon-freitas-as-ultimas-noticias-do-palmeiras,b8426ed4db135436a3ac811364e6d2bb0kcmfc5p.html",
-      "fonte": "Terra",
-      "encontrada_em": "2026-08-18T13:31:12"
     }
   ],
   "internacionais": [
+    {
+      "titulo": "Former Mexican governor charged in case of 43 students who vanished in 2014",
+      "resumo": "Ángel Aguirre indicted in case that rocked Mexico and became symbol of its brutal cartel violence The former governor of Guerrero state in Mexico has been formally charged over his alleged involvement",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://i.guim.co.uk/img/media/e8272fdfdc72d9275bc837f0f3da79df400f7a48/200_0_2973_2378/master/2973.jpg?width=140&quality=85&auto=format&fit=max&s=3171ae761db8df9847ac35d7463d822b",
+      "link": "https://www.theguardian.com/world/2026/aug/12/former-mexican-governor-charged-in-case-of-43-students-who-vanished-in-2014",
+      "fonte": "The Guardian",
+      "encontrada_em": "2026-08-18T13:36:14"
+    },
+    {
+      "titulo": "Tropical Storm Lala leaves Hawaii flooded and without power",
+      "resumo": "Tropical Storm Lala leaves Hawaii flooded and without power",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1787073743.jpg?resize=1920%2C1080&amp;quality=80",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/tropical-storm-lala-leaves-hawaii-flooded-and-without-power?traffic_source=rss",
+      "fonte": "Al Jazeera",
+      "encontrada_em": "2026-08-18T13:36:13"
+    },
     {
       "titulo": "Florida to carry out its 13th execution this year in US’s busiest death chamber",
       "resumo": "US supreme court declined to halt execution of William Frances Silvia, and state has two executions next month A Florida man convicted of fatally shooting his estranged wife and wounding his mother-in",
@@ -960,26 +980,6 @@
       "link": "https://www.bbc.com/portuguese/articles/c4g6m2e4ylro?at_medium=RSS&at_campaign=rss",
       "fonte": "BBC Brasil",
       "encontrada_em": "2026-08-18T12:56:11"
-    },
-    {
-      "titulo": "Disney and ABC sue Trump's media regulator to stop early licence renewal",
-      "resumo": "The network accuses the administration of retaliation against ABC, as it \"disapproves of what ABC broadcasts\".",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32bd/live/f9b07010-9b1e-11f1-afea-3b9b9f2d3a59.jpg",
-      "link": "https://www.bbc.co.uk/news/articles/cx2rzr49vr2o?at_medium=RSS&at_campaign=rss",
-      "fonte": "BBC World",
-      "encontrada_em": "2026-08-18T12:41:15"
-    },
-    {
-      "titulo": "Nigeria influencer arrested after seizure of cocaine worth $28m destined for the UK",
-      "resumo": "Afolabi Kazeem Micheal has not commented on allegations he is linked to a global drug trafficking network.",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e507/live/933b7b80-9b1a-11f1-b792-a710e56a11dc.jpg",
-      "link": "https://www.bbc.co.uk/news/articles/c1e155428qyo?at_medium=RSS&at_campaign=rss",
-      "fonte": "BBC World",
-      "encontrada_em": "2026-08-18T12:41:15"
     }
   ],
   "empregos": [
