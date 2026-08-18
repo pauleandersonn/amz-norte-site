@@ -858,6 +858,46 @@
   ],
   "nacionais": [
     {
+      "titulo": "O Grande Debate: Mandato de 12 anos no STF seria positivo ou negativo?",
+      "resumo": "Proposta da OAB-SP sugere mandato fixo, representatividade e menos decisões monocráticas no Judiciário brasileiro",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/BR_CNN_170826_OGD_CLEAN_frame_59799-e1787054649609.jpeg?w=1200&amp;h=630&amp;crop=1",
+      "link": "https://www.cnnbrasil.com.br/politica/o-grande-debate-mandato-de-12-anos-no-stf-seria-positivo-ou-negativo/",
+      "fonte": "CNN Brasil",
+      "encontrada_em": "2026-08-18T08:16:11"
+    },
+    {
+      "titulo": "Trump publica imagem do Estreito de Ormuz como “novo território dos EUA”",
+      "resumo": "Publicação foi feita um dia depois do presidente americano dizer que declarar a hidrovia como um território do país era uma \"ótima ideia\"",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/06/trump-lisa-cook-fed.jpg?w=1200&amp;h=630&amp;crop=1",
+      "link": "https://www.cnnbrasil.com.br/internacional/trump-publica-imagem-do-estreito-de-ormuz-como-novo-territorio-dos-eua/",
+      "fonte": "CNN Brasil",
+      "encontrada_em": "2026-08-18T08:16:11"
+    },
+    {
+      "titulo": "Da liderança no GLP às soluções que impulsionam a transição energética",
+      "resumo": "Ultragaz expande atuação em soluções energéticas e combustíveis renováveis, alinhada à estratégia de geração de valor de longo prazo da Ultrapar",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://admin.cnnbrasil.com.br/wp-content/themes/master-theme/assets/img/fallbackImage.jpg",
+      "link": "https://www.cnnbrasil.com.br/branded-content/nacional/da-lideranca-no-glp-as-solucoes-que-impulsionam-a-transicao-energetica/",
+      "fonte": "CNN Brasil",
+      "encontrada_em": "2026-08-18T08:16:11"
+    },
+    {
+      "titulo": "Contra o Bolívar, São Paulo busca encerrar jejum incômodo pós-Copa",
+      "resumo": "Tricolor Paulista ainda não venceu desde o retorno do futebol brasileiro após a Copa do Mundo",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/calleri_treino-e1787054704472.jpg?w=1200&amp;h=630&amp;crop=1",
+      "link": "https://www.cnnbrasil.com.br/esportes/futebol/sao-paulo/contra-o-bolivar-sao-paulo-busca-encerrar-jejum-incomodo-pos-copa/",
+      "fonte": "CNN Brasil",
+      "encontrada_em": "2026-08-18T08:16:11"
+    },
+    {
       "titulo": "Corinthians: redução de valores e reunião garantiram renovação de Memphis",
       "resumo": "Jogador holandês reduziu cerca de R$ 13,5 milhões para seguir no Timão",
       "categoria": "Amazonas",
@@ -876,49 +916,29 @@
       "link": "https://www.cnnbrasil.com.br/nacional/brasil/de-35c-a-5c-apos-ciclone-frente-fria-derruba-temperaturas-pelo-brasil/",
       "fonte": "CNN Brasil",
       "encontrada_em": "2026-08-18T08:01:11"
-    },
-    {
-      "titulo": "Guardiola expôs drama de divórcio em vestiário do City: “Perdemos a paixão”",
-      "resumo": "Técnico espanhol tem vida detalhada em documentário que será exibido no Reino Unido",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/05/Bournemouth-Manchester-City-2.jpg?w=1200&amp;h=630&amp;crop=1",
-      "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/guardiola-expos-drama-de-divorcio-em-vestiario-do-city-perdemos-a-paixao/",
-      "fonte": "CNN Brasil",
-      "encontrada_em": "2026-08-18T08:01:11"
-    },
-    {
-      "titulo": "Braskem Idesa entra com pedido de recuperação judicial nos EUA",
-      "resumo": "Empresa informou que pretende encerrar o processo de recuperação em um prazo de 60 a 90 dias e que a operação não será afetada pela reestruturação",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2021/06/6120_B02396FC2CAB6E05-8.png?w=1200&amp;h=630&amp;crop=1",
-      "link": "https://www.cnnbrasil.com.br/economia/money/negocios/braskem-idesa-entra-com-pedido-de-recuperacao-judicial-nos-eua/",
-      "fonte": "CNN Brasil",
-      "encontrada_em": "2026-08-18T08:01:11"
-    },
-    {
-      "titulo": "Ucrânia lança grande ataque com drones contra a Rússia",
-      "resumo": "Prefeito de Moscou afirma que centenas de drones voaram em direção à região durante a noite",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/07/2026-07-22T052354Z_1_LOP987522072026RP1_RTRMADP_BASEIMAGE-960X540_UKRAINE-CRISIS-RUSSIA-WB-ATTACK-UGC1-e1784700383937.jpg?w=304&amp;h=232&amp;crop=1",
-      "link": "https://www.cnnbrasil.com.br/internacional/ucrania-lanca-grande-ataque-com-drones-contra-a-russia/",
-      "fonte": "CNN Brasil",
-      "encontrada_em": "2026-08-18T08:01:11"
-    },
-    {
-      "titulo": "Galatasaray oferece o dobro do salário para tirar Bruno Fernandes do United",
-      "resumo": "Time turco está disposto a pagar 50 milhões de euros (R$ 300 milhões) pelo meio-campista português",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/05/brunofernandes-e1779538981437.jpg?w=1200&amp;h=630&amp;crop=1",
-      "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/galatasaray-oferece-dobro-do-salario-para-tirar-bruno-fernandes-do-united/",
-      "fonte": "CNN Brasil",
-      "encontrada_em": "2026-08-18T08:01:11"
     }
   ],
   "internacionais": [
+    {
+      "titulo": "Kariba ferry death toll rises to 93, making it Zimbabwe's deadliest transport disaster",
+      "resumo": "Recovery efforts continue in what is the country's deadliest transport disaster.",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/625e/live/bc428900-9af8-11f1-a291-b542ee92de7c.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/cjwx58n1153o?at_medium=RSS&at_campaign=rss",
+      "fonte": "BBC World",
+      "encontrada_em": "2026-08-18T08:16:14"
+    },
+    {
+      "titulo": "'Nossa amizade é tão forte que decidimos casar': as amigas que optaram por união platônica",
+      "resumo": "Renee e April se conheceram aos 12 anos e se tornaram melhores amigas; o relacionamento é tão importante para as duas que elas resolveram se casar judicialmente — mesmo sem romance ou sexo.",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d78b/live/9bbe89c0-90d7-11f1-a5b9-331adf7bef90.jpg",
+      "link": "https://www.bbc.com/portuguese/articles/cx2v452enp1o?at_medium=RSS&at_campaign=rss",
+      "fonte": "BBC Brasil",
+      "encontrada_em": "2026-08-18T08:16:12"
+    },
     {
       "titulo": "‘Our task is to laugh at these enemies’: the Ukrainian unit posting drone videos of Russian soldiers’ last moments",
       "resumo": "Creators of chase compilations reject any moral qualms and say they show ‘death is waiting’ for those who join war To many observers they will appear dehumanising and offensive. To many Ukrainians, ho",
@@ -958,26 +978,6 @@
       "link": "https://www.aljazeera.com/news/2026/8/18/why-has-trump-threatened-to-bomb-oman-for-a-second-time?traffic_source=rss",
       "fonte": "Al Jazeera",
       "encontrada_em": "2026-08-18T07:56:12"
-    },
-    {
-      "titulo": "Premier League what to know: Schedule, prediction, transfers and more",
-      "resumo": "Matchday 1 fixtures, title predictions, where to watch and latest transfer news ahead of the new Premier League season.",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://www.aljazeera.com/wp-content/uploads/2026/06/2026-05-24T182305Z_1033153081_UP1EM5O1F2GZY_RTRMADP_3_SOCCER-ENGLAND-CRY-ARS-1781863881_3ebf0d-1781865097.jpg?resize=1200%2C630&amp;quality=80",
-      "link": "https://www.aljazeera.com/sports/2026/8/18/premier-league-football-what-to-know-schedule-prediction-transfers-2026-27-season?traffic_source=rss",
-      "fonte": "Al Jazeera",
-      "encontrada_em": "2026-08-18T07:56:12"
-    },
-    {
-      "titulo": "First Thing: Meta’s treatment of children on social media in spotlight as landmark trial set to begin",
-      "resumo": "Several US states have accused Instagram and Facebook’s parent company of deliberately causing young people harm with its products. Plus: the Italian nuns fighting to keep control of their spot in the",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://i.guim.co.uk/img/media/ea2305ab1653d12dcaccb85c1a235e83c5938a49/992_0_3008_2406/master/3008.jpg?width=140&quality=85&auto=format&fit=max&s=deacd4a0ebc4d68cb784415b61b914a3",
-      "link": "https://www.theguardian.com/us-news/2026/aug/18/first-thing-meta-treatment-children-social-media-landmark-trial",
-      "fonte": "The Guardian",
-      "encontrada_em": "2026-08-18T07:46:15"
     }
   ],
   "empregos": [
