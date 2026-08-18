@@ -858,6 +858,26 @@
   ],
   "nacionais": [
     {
+      "titulo": "Homem que matou companheira em mercado tem prisão convertida em preventiva",
+      "resumo": "Lafayete Gonzaga da Silva atacou Angelita Manoela Rodrigues com facadas na zona norte de São Paulo",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/MULHER-MORTA-MERCADO.jpg?w=1200&amp;h=630&amp;crop=1",
+      "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/homem-que-matou-companheira-em-mercado-tem-prisao-convertida-em-preventiva/",
+      "fonte": "CNN Brasil",
+      "encontrada_em": "2026-08-17T21:06:11"
+    },
+    {
+      "titulo": "TRE define ordem do horário eleitoral para governador em São Paulo",
+      "resumo": "Tarcísio abrirá propaganda no rádio e na TV; Haddad será o segundo a aparecer",
+      "categoria": "Política",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2022/08/1080x1920-1-1-e1724984602784.png?w=1200&amp;h=630&amp;crop=1",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/tre-define-ordem-do-horario-eleitoral-para-governador-em-sao-paulo/",
+      "fonte": "CNN Brasil",
+      "encontrada_em": "2026-08-17T21:06:11"
+    },
+    {
       "titulo": "BHP tem lucro anual de US$ 9,83 bilhões, alta de 9%",
       "resumo": "Lucro por ação diluída foi de US$ 1,932 no ano, ante US$ 1,774 em 2025",
       "categoria": "Amazonas",
@@ -894,26 +914,6 @@
       "autor": "Paulo Amazonas",
       "imagem": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/18/1283991802-sem-titulo-6.jpg",
       "link": "https://www.terra.com.br/esportes/internacional/internacional-acerta-contratacao-do-atacante-antonio-sanabria,a4966647bf1819c9821519069063f275rw02e8pm.html",
-      "fonte": "Terra",
-      "encontrada_em": "2026-08-17T20:56:12"
-    },
-    {
-      "titulo": "'Por Você' estreia com homenagem a Manoel Carlos, crossover com 'Coração Acelerado' e dramalhão de respeito: 6 acertos e 1 erro no primeiro capítulo d",
-      "resumo": "Depois de \"Coração Acelerado\", novela das 19h que terminou sua passagem pela TV Globo com ...",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/18/371675145-e95347f9a848ad69-1400x823-2.png",
-      "link": "https://www.terra.com.br/diversao/tv/por-voce-estreia-com-homenagem-a-manoel-carlos-crossover-com-coracao-acelerado-e-dramalhao-de-respeito-6-acertos-e-1-erro-no-primeiro-capitulo-da-novela,f938e3f727b3f8a27022c145caa53845ugtvxxw4.html",
-      "fonte": "Terra",
-      "encontrada_em": "2026-08-17T20:56:12"
-    },
-    {
-      "titulo": "Festival americano Levitation terá edição no Brasil: 'Artistas escolhidos pela música'; saiba mais",
-      "resumo": "O festival americano de música alternativa Levitation terá uma edição no Brasil pela primeira ...",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/18/1867747725-agsad7cdwzflpprhy6n3zgzi7q.jpeg",
-      "link": "https://www.terra.com.br/diversao/musica/festival-americano-levitation-tera-edicao-no-brasil-artistas-escolhidos-pela-musica-saiba-mais,168877f603afc3c8b661555d4210ced3jab64tfw.html",
       "fonte": "Terra",
       "encontrada_em": "2026-08-17T20:56:12"
     }
