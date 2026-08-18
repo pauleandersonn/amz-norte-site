@@ -921,6 +921,16 @@
   ],
   "internacionais": [
     {
+      "titulo": "What to watch in the Alaska and Wyoming primary elections",
+      "resumo": "Republican-led states face leadership shuffling.",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://www.aljazeera.com/wp-content/uploads/2026/08/AFP__20220913__1423463527__v2__HighRes__PelosiHoldsCeremonialSwearingInForMembersEle-2-1786989788.jpg?resize=1200%2C630",
+      "link": "https://www.aljazeera.com/news/2026/8/18/what-to-watch-in-the-alaska-and-wyoming-primary-elections?traffic_source=rss",
+      "fonte": "Al Jazeera",
+      "encontrada_em": "2026-08-18T10:46:12"
+    },
+    {
       "titulo": "Qual a situação de todos os candidatos neste início de campanha? Veja no agregador de pesquisas da BBC News Brasil",
       "resumo": "Acompanhe as últimas estimativas de intenção de voto para Lula x Flávio na eleição presidencial de 2026 reunidas no agregador de pesquisas eleitorais da BBC News Brasil.",
       "categoria": "Amazonas",
@@ -967,16 +977,6 @@
       "autor": "Paulo Amazonas",
       "imagem": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4141/live/51d94930-3772-11f1-8606-05fe34b06e1b.jpg",
       "link": "https://www.bbc.com/portuguese/articles/cwyw7696n1zo?at_medium=RSS&at_campaign=rss",
-      "fonte": "BBC Brasil",
-      "encontrada_em": "2026-08-18T10:36:12"
-    },
-    {
-      "titulo": "Como os Estados Unidos viraram um país",
-      "resumo": "EUA comemoraram seus 250 anos no último sábado (4/7). Mas sua história começou bem antes, em 1492.",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3d4b/live/2a0e2a30-7997-11f1-b976-0b9c15b0ccfc.png",
-      "link": "https://www.bbc.com/portuguese/articles/c75yy56153xo?at_medium=RSS&at_campaign=rss",
       "fonte": "BBC Brasil",
       "encontrada_em": "2026-08-18T10:36:12"
     }
