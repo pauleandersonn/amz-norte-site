@@ -858,6 +858,16 @@
   ],
   "nacionais": [
     {
+      "titulo": "Flávio diz que “seleção” feita em MG vai garantir sua vitória ao Planalto",
+      "resumo": "Candidato do PL voltou a dizer que Cleitinho, do Republicanos, é um \"grande líder\", mas ressaltou que Roscoe, candidato do partido, está \"preparado\" para governar o estado mineiro",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/Flavio-PLMG.jpeg?w=1016&amp;h=578&amp;crop=1",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/flavio-diz-que-selecao-feita-em-mg-vai-garantir-sua-vitoria-ao-planalto/",
+      "fonte": "CNN Brasil",
+      "encontrada_em": "2026-08-17T20:46:11"
+    },
+    {
       "titulo": "Palhaços tentam dar golpe pedindo doação com máquinas de cartão no trânsito",
       "resumo": "Eles estavam nas ruas de Enseada do Suá, em Vitória, no Espírito Santo, e foram parar atrás das grades",
       "categoria": "Amazonas",
@@ -904,16 +914,6 @@
       "autor": "Paulo Amazonas",
       "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/BR_CNN_170826_ZOOM_MONEY_MARCOS_MENDES_frame_27454.jpeg?w=1200&amp;h=630&amp;crop=1",
       "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/arcabouco-fiscal-perdeu-a-credibilidade-diz-marcos-mendes/",
-      "fonte": "CNN Brasil",
-      "encontrada_em": "2026-08-17T20:31:13"
-    },
-    {
-      "titulo": "Análise: “Fator Lulinha” gera desgaste na campanha de Lula à Presidência",
-      "resumo": "Investigações contra filho de Lula são apontadas como causa de variação nas pesquisas eleitorais e empate técnico na corrida presidencial; a avaliação é do analista de Política da CNN Caio Junqueira",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/01/lulinha6.124501-e1772188082208.jpg?w=1200&amp;h=630&amp;crop=1",
-      "link": "https://www.cnnbrasil.com.br/politica/analise-fator-lulinha-gera-desgaste-na-campanha-de-lula-a-presidencia/",
       "fonte": "CNN Brasil",
       "encontrada_em": "2026-08-17T20:31:13"
     }
