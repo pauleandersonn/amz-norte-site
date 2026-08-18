@@ -860,6 +860,36 @@
   ],
   "nacionais": [
     {
+      "titulo": "Anitta é indicada ao VMA 2026 ao lado de Shakira",
+      "resumo": "Brasileira e colombiana foram destaque na categoria de Música Latina na Premiação",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/05/Shakira-e-anitta-show-todo-mundo-no-rio-copacabana-2.jpg?w=1200&amp;h=630&amp;crop=1",
+      "link": "https://www.cnnbrasil.com.br/pop/musica/anitta-e-indicada-ao-vma-2026-ao-lado-de-shakira/",
+      "fonte": "CNN Brasil",
+      "encontrada_em": "2026-08-18T12:36:11"
+    },
+    {
+      "titulo": "Especialista defende política integral no combate à violência contra mulher",
+      "resumo": "Em entrevista ao Live CNN, Beatriz Accioly afirmou que combate à violência de gênero deve envolver diferentes setores da política pública",
+      "categoria": "Política",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/12/violencia-contra-a-mulher-e1780310872173.jpg?w=1200&amp;h=630&amp;crop=1",
+      "link": "https://www.cnnbrasil.com.br/nacional/especialista-defende-politica-integral-no-combate-a-violencia-contra-mulher/",
+      "fonte": "CNN Brasil",
+      "encontrada_em": "2026-08-18T12:36:11"
+    },
+    {
+      "titulo": "Garoto de 13 anos recolheu 1,5 milhão de latinhas; veja o que ele salvou",
+      "resumo": "Iniciativa de jovem britânico evitou a extração de dezenas de toneladas de bauxita e gerou recursos financeiros para instituições sociais",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/Ryan-Hulance-o-jovem-que-reciclou-15-milhao-de-latas-de-aluminio.jpg?w=1200&amp;h=630&amp;crop=1",
+      "link": "https://www.cnnbrasil.com.br/ciencia/garoto-de-13-anos-recolheu-15-milhao-de-latinhas-veja-o-que-ele-salvou/",
+      "fonte": "CNN Brasil",
+      "encontrada_em": "2026-08-18T12:36:11"
+    },
+    {
       "titulo": "Susto! Turistas são surpreendidos e escapam de crocodilo 'no último segundo' durante banho noturno em Belize",
       "resumo": "",
       "categoria": "Amazonas",
@@ -888,39 +918,19 @@
       "link": "https://www.terra.com.br/noticias/brasil/lula-diz-que-petroleo-brasileiro-pode-ser-opcao-se-trump-fechar-ormuz,58340d6a145e2faf99a33eb7ad1d8b7cjco6ngft.html",
       "fonte": "Terra",
       "encontrada_em": "2026-08-18T12:31:12"
-    },
-    {
-      "titulo": "Negociação pode melar, Neymar faz publicação envolvendo Thiago Mendes e Santos provoca rival: as últimas notícias do Peixe",
-      "resumo": "Sabemos que nem sempre é possível acompanhar tudo o que acontece com o Santos ao longo do dia. ...",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/18/1233027664-neymar-atacante-santos.jpg",
-      "link": "https://www.terra.com.br/esportes/santos/negociacao-pode-melar-neymar-faz-publicacao-envolvendo-thiago-mendes-e-santos-provoca-rival-as-ultimas-noticias-do-peixe,165ff5bf23993399706f930473d9f258dvluzdfq.html",
-      "fonte": "Terra",
-      "encontrada_em": "2026-08-18T12:31:12"
-    },
-    {
-      "titulo": "Salário de Jamie Vardy, resultado causa protesto e ídolo faz cobrança: as últimas notícias do São Paulo",
-      "resumo": "Sabemos que nem sempre é possível acompanhar tudo o que acontece com o São Paulo ao longo do ...",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/18/1500750250-vardy.jpeg",
-      "link": "https://www.terra.com.br/esportes/sao-paulo/salario-de-jamie-vardy-resultado-causa-protesto-e-idolo-faz-cobranca-as-ultimas-noticias-do-sao-paulo,6e9b0710b5e48a2b791de73bb652c3fayefzclp6.html",
-      "fonte": "Terra",
-      "encontrada_em": "2026-08-18T12:31:12"
-    },
-    {
-      "titulo": "Preço do café expresso na Itália sobe 25% em 5 anos",
-      "resumo": "Um café expresso na Itália, ícone da cultura local, custa hoje cerca de 25% a mais do que há ...",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
-      "link": "https://www.terra.com.br/diversao/arte-e-cultura/preco-do-cafe-expresso-na-italia-sobe-25-em-5-anos,cd51ec0613a5c270fa1bfcab2477fff4gzzguzp0.html",
-      "fonte": "Terra",
-      "encontrada_em": "2026-08-18T12:31:12"
     }
   ],
   "internacionais": [
+    {
+      "titulo": "Iran prepares to keep economy alive as US threatens further sanctions",
+      "resumo": "Iran’s authorities say they could shift to offensive operations as Washington considers further sanctions.",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://www.aljazeera.com/wp-content/uploads/2026/08/getty_6a8462b509-1787060917.jpg?resize=1920%2C1440",
+      "link": "https://www.aljazeera.com/news/2026/8/18/iran-prepares-to-keep-economy-alive-as-us-threatens-further-sanctions?traffic_source=rss",
+      "fonte": "Al Jazeera",
+      "encontrada_em": "2026-08-18T12:36:12"
+    },
     {
       "titulo": "Penn State students accused of running cocaine trafficking ring at fraternity houses",
       "resumo": "Delta Upsilon and Sigma Chi were off campus, with Delta Upsilon placed on interim probation More than a dozen Penn State University students ran a cocaine trafficking ring that cut and packaged the po",
@@ -968,16 +978,6 @@
       "autor": "Paulo Amazonas",
       "imagem": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1787068355.jpg?resize=1920%2C1080&amp;quality=80",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/palestinian-living-in-caves-older-than-israel?traffic_source=rss",
-      "fonte": "Al Jazeera",
-      "encontrada_em": "2026-08-18T12:16:13"
-    },
-    {
-      "titulo": "“I fear for my family’s lives” says Loui Ridi as settlers besiege home",
-      "resumo": "Palestinian-American Loui Ridi expressed distress over how Israeli settlers have roamed around Qusra unchallenged.",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1787068373.jpg?resize=1920%2C1080&amp;quality=80",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/i-fear-for-my-familys-lives-says-loui-ridi-as-settlers-besiege-home?traffic_source=rss",
       "fonte": "Al Jazeera",
       "encontrada_em": "2026-08-18T12:16:13"
     }
