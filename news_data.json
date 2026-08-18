@@ -920,6 +920,16 @@
   ],
   "internacionais": [
     {
+      "titulo": "Trump reportedly casts mail-in ballot in Florida Republican primary",
+      "resumo": "President, who has decried mail-in ballots amid false claims of election fraud, issued March order to curb voting by mail Donald Trump voted by mail in Florida’s Republican primary, Politico reports, ",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://i.guim.co.uk/img/media/003e9202effcf1a9debbeb583f57a1dd546a3250/643_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=368ba23fe7d969dc129c451494722802",
+      "link": "https://www.theguardian.com/us-news/2026/aug/17/trump-mail-vote-florida-republican-primary",
+      "fonte": "The Guardian",
+      "encontrada_em": "2026-08-17T21:26:14"
+    },
+    {
       "titulo": "Bondi library removes book How to Sell a Genocide from shelves after complaint",
       "resumo": "Author Adam Johnson criticises Waverley council saying ‘reality is often upsetting’ while Palestinian group says libraries should hold ‘challenging’ books Get our breaking news email , free app or dai",
       "categoria": "Amazonas",
@@ -966,16 +976,6 @@
       "autor": "Paulo Amazonas",
       "imagem": "https://static01.nyt.com/images/2026/08/15/world/15Belgium-gold/15Belgium-gold-mediumSquareAt3X.jpg",
       "link": "https://www.nytimes.com/2026/08/15/world/europe/gold-bars-coins-belgium.html",
-      "fonte": "NYT",
-      "encontrada_em": "2026-08-17T20:21:13"
-    },
-    {
-      "titulo": "Syrian Convicted in Austria of Civil War Abuses Is Detained in Syria",
-      "resumo": "Musab Abu Rukbah, a former police chief, left Austria after appealing his eight-year sentence for crimes committed during Syria’s civil war.",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://static01.nyt.com/images/2026/08/15/world/15int-syria-arrest-amgaolag/15int-syria-arrest-amgaolag-mediumSquareAt3X.jpg",
-      "link": "https://www.nytimes.com/2026/08/15/world/middleeast/syria-austria-arrest-civil-war-crimes.html",
       "fonte": "NYT",
       "encontrada_em": "2026-08-17T20:21:13"
     }
