@@ -860,6 +860,36 @@
   ],
   "nacionais": [
     {
+      "titulo": "Caiado defende vacinas e modernizar o SUS ao lançar medidas para saúde",
+      "resumo": "Programa estabelece metas para vacinação, SAMU e digitalização do SUS",
+      "categoria": "Saúde",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/WhatsApp-Image-2026-08-10-at-12.17.28.jpeg?w=1200&amp;h=630&amp;crop=1",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/caiado-defende-vacinas-e-modernizar-o-sus-ao-lancar-medidas-para-saude/",
+      "fonte": "CNN Brasil",
+      "encontrada_em": "2026-08-18T12:16:12"
+    },
+    {
+      "titulo": "Queda de passarela interdita Fernão Dias nos dois sentidos; veja desvios",
+      "resumo": "Caminhão colidiu com estrutura no km 4,1 da Rodovia Fernão Dias (BR-381), no município de Vargem, interior de São Paulo; duas pessoas morreram",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/DESABA-PASSARELA-2.jpg?w=1200&amp;h=630&amp;crop=1",
+      "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/queda-de-passarela-interdita-fernao-dias-nos-dois-sentidos-veja-desvios/",
+      "fonte": "CNN Brasil",
+      "encontrada_em": "2026-08-18T12:16:12"
+    },
+    {
+      "titulo": "CNN entrevista José Roberto Arruda, candidato ao governo do DF",
+      "resumo": "Ex-governador participa de sabatina realizada pelo canal com os concorrentes na corrida ao Palácio do Buriti",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2022/07/Arruda-e1658066701333.jpg?w=1200&amp;h=630&amp;crop=1",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/cnn-entrevista-jose-roberto-arruda/",
+      "fonte": "CNN Brasil",
+      "encontrada_em": "2026-08-18T12:16:12"
+    },
+    {
       "titulo": "VÍDEO: Neymar chora com apresentação de balé de Mavie",
       "resumo": "Neymar se emocionou ao acompanhar uma apresentação de balé de Mavie em homenagem ao Dia dos ...",
       "categoria": "Amazonas",
@@ -888,98 +918,68 @@
       "link": "https://www.terra.com.br/vida-e-estilo/horoscopo/numero-8-significado-e-como-usar-sua-energia-para-alcancar-suas-metas,873f3f3a5c4dbe7d8ffdeb7d2d4434a3c5rxy4jl.html",
       "fonte": "Terra",
       "encontrada_em": "2026-08-18T12:01:15"
-    },
-    {
-      "titulo": "Flávio Bolsonaro diz que usará imagem do pai na campanha dentro dos limites da lei",
-      "resumo": "A candidatura de Flávio Bolsonaro à Presidência da República busca manter Jair Bolsonaro como ...",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
-      "link": "https://www.terra.com.br/noticias/brasil/politica/flavio-bolsonaro-diz-que-usara-imagem-do-pai-na-campanha-dentro-dos-limites-da-lei,09056334d55191c524e0251d4f067f26nvsohx1f.html",
-      "fonte": "Terra",
-      "encontrada_em": "2026-08-18T12:01:15"
-    },
-    {
-      "titulo": "A frase de três palavras que Simone Biles repete antes de cada exercício e que ajuda a reduzir o estresse e melhorar o desempenho",
-      "resumo": "Está comprovado que o diálogo interno negativo pode ter um efeito devastador sobre nossa saúde ...",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/18/1988732303-simone-biles-orig-1.jpg",
-      "link": "https://www.terra.com.br/vida-e-estilo/a-frase-de-tres-palavras-que-simone-biles-repete-antes-de-cada-exercicio-e-que-ajuda-a-reduzir-o-estresse-e-melhorar-o-desempenho,1ada2804c27db096ad5f9c9f8e980f44fyw6rasi.html",
-      "fonte": "Terra",
-      "encontrada_em": "2026-08-18T12:01:15"
-    },
-    {
-      "titulo": "Ex-jogador critica política no Corinthians e cobra mudança interna",
-      "resumo": "De uns anos para cá, o Corinthians parece que passou a viver em um looping de crises: quando ...",
-      "categoria": "Política",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/18/1705512592-239406-610x400.jpg",
-      "link": "https://www.terra.com.br/esportes/corinthians/ex-jogador-critica-politica-no-corinthians-e-cobra-mudanca-interna,d648c824582136c7b167f04d32e17f803ie6e3hk.html",
-      "fonte": "Terra",
-      "encontrada_em": "2026-08-18T12:01:15"
     }
   ],
   "internacionais": [
     {
-      "titulo": "Death and alleged torture of man in detention sparks protests in Syria",
-      "resumo": "Picture showing White Helmets volunteer unconscious and with bruises on his body went viral Syrians have protested over the death of a man who was arrested and allegedly beaten by security forces, spa",
-      "categoria": "Amazonas",
+      "titulo": "Disney sues US regulator, claiming political retaliation over ABC stations",
+      "resumo": "FCC faces scrutiny as Disney claims licence renewal order is tied to political motives against ABC&#039;s coverage.",
+      "categoria": "Política",
       "autor": "Paulo Amazonas",
-      "imagem": "https://i.guim.co.uk/img/media/074daf37376fc15d752556703fdd6dfb5ac323c1/307_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=6a6d1601e55845757b5b77e649ed6669",
-      "link": "https://www.theguardian.com/world/2026/aug/18/death-alleged-torture-man-detention-sparks-protests-syria",
-      "fonte": "The Guardian",
-      "encontrada_em": "2026-08-18T12:11:14"
-    },
-    {
-      "titulo": "Pakistan top court orders ex-PM Imran Khan be moved to hospital from jail",
-      "resumo": "Imran Khan has been imprisoned since 2023 on corruption charges which he says were politically motivated.",
-      "categoria": "Saúde",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0b1/live/b309d2e0-9b15-11f1-ae25-295c0447cea3.jpg",
-      "link": "https://www.bbc.co.uk/news/articles/cy4kzzlydrro?at_medium=RSS&at_campaign=rss",
-      "fonte": "BBC World",
-      "encontrada_em": "2026-08-18T12:06:16"
-    },
-    {
-      "titulo": "Brazil’s Lula launches historic fourth term bid – but son of jailed Bolsonaro stands in his way",
-      "resumo": "President, 80, vows to keep far-right from power as Flávio Bolsonaro tells supporters he will ‘fight this system’ Brazil’s leftwing president, Luiz Inácio Lula da Silva, has launched his campaign for ",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://i.guim.co.uk/img/media/3e2ace44178f44321232918e4c929d66067c6ce5/0_0_2585_2068/master/2585.jpg?width=140&quality=85&auto=format&fit=max&s=e8b9a4556c48e5e7b511fd2217fb0080",
-      "link": "https://www.theguardian.com/world/2026/aug/16/lula-brazil-president-fourth-term-jair-flavio-bolsonaro",
-      "fonte": "The Guardian",
-      "encontrada_em": "2026-08-18T11:41:24"
-    },
-    {
-      "titulo": "OpenAI launches ChatGPT for Teens with stronger safeguards",
-      "resumo": "Teen version is intended for children aged 13 to 17 and includes content protections on self-harm and sexual chats OpenAI is launching a version of ChatGPT designed for teenagers – the first generatio",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://i.guim.co.uk/img/media/f60de82acdf518360559012a8befee837437552b/659_559_2572_2057/master/2572.jpg?width=140&quality=85&auto=format&fit=max&s=6500e37e03330a73d94fb1d76e0df7aa",
-      "link": "https://www.theguardian.com/technology/2026/aug/18/openai-chatgpt-for-teens",
-      "fonte": "The Guardian",
-      "encontrada_em": "2026-08-18T11:41:24"
-    },
-    {
-      "titulo": "Iran clubs face Qatar and UAE sides at neutral venues in Champions League",
-      "resumo": "Following the start of the US-Israel war on Iran, the first match of the Iranian league was played last week.",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://www.aljazeera.com/wp-content/uploads/2026/08/2025-03-03T184831Z_1521568093_RC2U5DAUOPVJ_RTRMADP_3_SOCCER-AFCCHAMPIONS-EST-NSR-REPORT-1787064638.jpg?resize=1920%2C1440",
-      "link": "https://www.aljazeera.com/sports/2026/8/18/iran-clubs-to-play-qatar-and-uae-champions-league-games-at-neutral-venues?traffic_source=rss",
+      "imagem": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a8466bf5eed-1787061951.jpg?resize=1920%2C1440",
+      "link": "https://www.aljazeera.com/economy/2026/8/18/disney-sues-us-regulator-claiming-political-retaliation-over-abc-stations?traffic_source=rss",
       "fonte": "Al Jazeera",
-      "encontrada_em": "2026-08-18T11:41:23"
+      "encontrada_em": "2026-08-18T12:16:13"
     },
     {
-      "titulo": "Liechtenstein Changes Its Law to Allow Women to Ascend the Throne",
-      "resumo": "The move puts the principality in the majority among nearby nations with royal families.",
+      "titulo": "Real Madrid officially present Mourinho in bizarre closed-door ceremony",
+      "resumo": "Jose Mourinho makes first official Real Madrid statements since returning as manager in unusually low-key ceremony.",
       "categoria": "Amazonas",
       "autor": "Paulo Amazonas",
-      "imagem": "https://static01.nyt.com/images/2026/08/16/multimedia/16int-Liechtenstein-Royals-blhq/16int-Liechtenstein-Royals-blhq-mediumSquareAt3X.jpg",
-      "link": "https://www.nytimes.com/2026/08/16/world/europe/liechtenstein-royal-succession-women.html",
+      "imagem": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-08T170605Z_1621705187_UP1EM881BI4GA_RTRMADP_3_SOCCER-FRIENDLY-FTC-RMA-1787066911.jpg?resize=1920%2C1440",
+      "link": "https://www.aljazeera.com/sports/2026/8/18/real-madrid-officially-presents-mourinho-in-bizarre-closed-door-ceremony?traffic_source=rss",
+      "fonte": "Al Jazeera",
+      "encontrada_em": "2026-08-18T12:16:13"
+    },
+    {
+      "titulo": "Spain builds tent cities for the thousands stuck in Ceuta",
+      "resumo": "Spain is building four temporary reception sites with 1,500 places as an estimated 5,000 migrants remain in Ceuta.",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://www.aljazeera.com/wp-content/uploads/2026/08/Screenshot-2026-08-18-at-16.13.44-1787068343.png?resize=1200%2C675",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/spain-builds-tent-cities-for-the-thousands-stuck-in-ceuta?traffic_source=rss",
+      "fonte": "Al Jazeera",
+      "encontrada_em": "2026-08-18T12:16:13"
+    },
+    {
+      "titulo": "Palestinian living in caves older than Israel",
+      "resumo": "Farhan al Rashaydeh lives in a cave in the occupied West Bank with his family.",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1787068355.jpg?resize=1920%2C1080&amp;quality=80",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/palestinian-living-in-caves-older-than-israel?traffic_source=rss",
+      "fonte": "Al Jazeera",
+      "encontrada_em": "2026-08-18T12:16:13"
+    },
+    {
+      "titulo": "“I fear for my family’s lives” says Loui Ridi as settlers besiege home",
+      "resumo": "Palestinian-American Loui Ridi expressed distress over how Israeli settlers have roamed around Qusra unchallenged.",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1787068373.jpg?resize=1920%2C1080&amp;quality=80",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/i-fear-for-my-familys-lives-says-loui-ridi-as-settlers-besiege-home?traffic_source=rss",
+      "fonte": "Al Jazeera",
+      "encontrada_em": "2026-08-18T12:16:13"
+    },
+    {
+      "titulo": "Israel Strikes Air Base in Syria, Drawing Ire From the U.S.",
+      "resumo": "The attack follows a series of military interventions in Syria over the past two years, and spurred the latest American rebuke of Israeli actions in recent weeks.",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://static01.nyt.com/images/2026/08/18/multimedia/18int-syria-strikes-cjwb/18int-syria-strikes-cjwb-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/08/18/world/middleeast/israel-airstrikes-syria-air-base.html",
       "fonte": "NYT",
-      "encontrada_em": "2026-08-18T11:41:23"
+      "encontrada_em": "2026-08-18T12:16:13"
     }
   ],
   "empregos": [
