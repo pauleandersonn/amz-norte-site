@@ -863,6 +863,16 @@
       "categoria": "Educação",
       "autor": "Paulo Amazonas",
       "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/02/GettyImages-2157386966.jpg?w=1200&amp;h=630&amp;crop=1",
+      "link": "https://www.cnnbrasil.com.br/internacional/ataque-a-tiros-em-escola-deixa-mortos-nas-filipinas/",
+      "fonte": "CNN Brasil",
+      "encontrada_em": "2026-08-18T00:16:09"
+    },
+    {
+      "titulo": "Estudante morre após ataque a tiros em escola nas Filipinas",
+      "resumo": "Autoridades afirmam que a situação foi controlada; este é o segundo caso semelhante no país em menos de dois meses",
+      "categoria": "Educação",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/02/GettyImages-2157386966.jpg?w=1200&amp;h=630&amp;crop=1",
       "link": "https://www.cnnbrasil.com.br/internacional/ataque-a-tiros-em-escola-deixa-morto-nas-filipinas/",
       "fonte": "CNN Brasil",
       "encontrada_em": "2026-08-18T00:11:08"
@@ -906,16 +916,6 @@
       "link": "https://www.terra.com.br/esportes/remo/veja-o-que-leo-conde-disse-apos-empate-do-remo-com-o-inter,62ba77f58c7db781f058acc38d69f0a9gqn1kg8f.html",
       "fonte": "Terra",
       "encontrada_em": "2026-08-17T23:56:21"
-    },
-    {
-      "titulo": "Vídeo: Mulher é quase arrastada pela água enquanto pilotava moto na Índia",
-      "resumo": "Motociclista escapou por pouco após a scooter ser derrubada em meio às fortes chuvas que atingiram a região de Upper Dharamshala",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/1_56590f.png?w=1144&amp;h=630&amp;crop=1",
-      "link": "https://www.cnnbrasil.com.br/internacional/video-mulher-e-quase-arrastada-pela-agua-enquanto-pilotava-moto-na-india/",
-      "fonte": "CNN Brasil",
-      "encontrada_em": "2026-08-17T23:31:11"
     }
   ],
   "internacionais": [
