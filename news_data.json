@@ -858,6 +858,16 @@
   ],
   "nacionais": [
     {
+      "titulo": "Inter leva empate do Remo nos acréscimos, mas deixa a zona de rebaixamento",
+      "resumo": "Equipes empataram em 1 a 1 na noite desta segunda-feira, no estádio Beira-Rio, no fechamento da rodada",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/Internacional-x-Remo.jpg?w=1200&amp;h=630&amp;crop=1",
+      "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/inter-leva-empate-do-remo-nos-acrescimos-mas-deixa-a-zona-de-rebaixamento/",
+      "fonte": "CNN Brasil",
+      "encontrada_em": "2026-08-17T21:11:12"
+    },
+    {
       "titulo": "Homem que matou companheira em mercado tem prisão convertida em preventiva",
       "resumo": "Lafayete Gonzaga da Silva atacou Angelita Manoela Rodrigues com facadas na zona norte de São Paulo",
       "categoria": "Amazonas",
@@ -906,19 +916,19 @@
       "link": "https://www.terra.com.br/esportes/internacional/inter-encaminha-contratacao-de-atacante-paraguaio-e-prepara-chegada-a-porto-alegre,b1c4323fea0b4b2f9dacc379daae32e5inh6lxhe.html",
       "fonte": "Terra",
       "encontrada_em": "2026-08-17T20:56:12"
-    },
-    {
-      "titulo": "Internacional acerta contratação do atacante Antonio Sanabria",
-      "resumo": "O Internacional encaminhou mais um movimento importante no mercado da bola nesta segunda-feira ...",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/18/1283991802-sem-titulo-6.jpg",
-      "link": "https://www.terra.com.br/esportes/internacional/internacional-acerta-contratacao-do-atacante-antonio-sanabria,a4966647bf1819c9821519069063f275rw02e8pm.html",
-      "fonte": "Terra",
-      "encontrada_em": "2026-08-17T20:56:12"
     }
   ],
   "internacionais": [
+    {
+      "titulo": "Bondi library removes book How to Sell a Genocide from shelves after complaint",
+      "resumo": "Author Adam Johnson criticises Waverley council saying ‘reality is often upsetting’ while Palestinian group says libraries should hold ‘challenging’ books Get our breaking news email , free app or dai",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://i.guim.co.uk/img/media/b056db7ab05362c43d8f671aa547451d98764a52/160_0_5355_4284/master/5355.jpg?width=140&quality=85&auto=format&fit=max&s=4535e94d87f12a56063c037f55aa342a",
+      "link": "https://www.theguardian.com/culture/2026/aug/18/sydney-waverley-library-removes-book-how-to-sell-a-genocide-from-shelves-ntwnfb",
+      "fonte": "The Guardian",
+      "encontrada_em": "2026-08-17T21:11:15"
+    },
     {
       "titulo": "O passado da Vila Euclides, lugar escolhido por Lula e pelo PT para lançar campanha neste domingo",
       "resumo": "Partido dos Trabalhadores realiza comício no primeiro dia oficial da campanha, em São Bernardo do Campo (SP), onde o presidente comandou a “Grande Greve do ABC”. Ato será teste para os apoiadores em m",
@@ -966,16 +976,6 @@
       "autor": "Paulo Amazonas",
       "imagem": "https://static01.nyt.com/images/2026/08/15/world/15int-syria-arrest-amgaolag/15int-syria-arrest-amgaolag-mediumSquareAt3X.jpg",
       "link": "https://www.nytimes.com/2026/08/15/world/middleeast/syria-austria-arrest-civil-war-crimes.html",
-      "fonte": "NYT",
-      "encontrada_em": "2026-08-17T20:21:13"
-    },
-    {
-      "titulo": "Iran Says Qatar Captured Its Pilots Months Ago, a Claim Qatar Rejects",
-      "resumo": "Iran said the airmen have been held since March 2 when their fighter jets were shot down. The Qatari government denies detaining any Iranian pilots.",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://static01.nyt.com/images/2026/08/15/multimedia/15int-iran-qatar-wjhm/15int-iran-qatar-wjhm-mediumSquareAt3X.jpg",
-      "link": "https://www.nytimes.com/2026/08/15/world/middleeast/iran-missing-pilots-qatar.html",
       "fonte": "NYT",
       "encontrada_em": "2026-08-17T20:21:13"
     }
