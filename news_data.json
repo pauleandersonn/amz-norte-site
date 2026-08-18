@@ -922,6 +922,16 @@
   ],
   "internacionais": [
     {
+      "titulo": "Death and alleged torture of man in detention sparks protests in Syria",
+      "resumo": "Picture showing White Helmets volunteer unconscious and with bruises on his body went viral Syrians have protested over the death of a man who was arrested and allegedly beaten by security forces, spa",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://i.guim.co.uk/img/media/074daf37376fc15d752556703fdd6dfb5ac323c1/307_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=6a6d1601e55845757b5b77e649ed6669",
+      "link": "https://www.theguardian.com/world/2026/aug/18/death-alleged-torture-man-detention-sparks-protests-syria",
+      "fonte": "The Guardian",
+      "encontrada_em": "2026-08-18T12:11:14"
+    },
+    {
       "titulo": "Pakistan top court orders ex-PM Imran Khan be moved to hospital from jail",
       "resumo": "Imran Khan has been imprisoned since 2023 on corruption charges which he says were politically motivated.",
       "categoria": "Saúde",
@@ -968,16 +978,6 @@
       "autor": "Paulo Amazonas",
       "imagem": "https://static01.nyt.com/images/2026/08/16/multimedia/16int-Liechtenstein-Royals-blhq/16int-Liechtenstein-Royals-blhq-mediumSquareAt3X.jpg",
       "link": "https://www.nytimes.com/2026/08/16/world/europe/liechtenstein-royal-succession-women.html",
-      "fonte": "NYT",
-      "encontrada_em": "2026-08-18T11:41:23"
-    },
-    {
-      "titulo": "No Way Out",
-      "resumo": "The U.S. is building an archipelago of overseas detention sites where deportees are often held indefinitely without charge.",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://static01.nyt.com/images/2026/08/23/magazine/17int-theworld-eswatini-promo/17int-theworld-eswatini-promo-mediumSquareAt3X.jpg",
-      "link": "https://www.nytimes.com/2026/08/16/world/deportations-eswatini-italy-heist.html",
       "fonte": "NYT",
       "encontrada_em": "2026-08-18T11:41:23"
     }
