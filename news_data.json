@@ -860,6 +860,36 @@
   ],
   "nacionais": [
     {
+      "titulo": "Fora de Cincinnati, veja qual deve ser o próximo torneio de João Fonseca",
+      "resumo": "Tenista brasileiro precisa se recuperar a tempo de disputar o último Grand Slam da temporada 2026",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/06/Joao-Fonseca-Roland-Garros-Mensik-e1780434054894.jpg?w=1200&amp;h=630&amp;crop=1",
+      "link": "https://www.cnnbrasil.com.br/esportes/tenis/fora-de-cincinnati-veja-qual-deve-ser-o-proximo-torneio-de-joao-fonseca/",
+      "fonte": "CNN Brasil",
+      "encontrada_em": "2026-08-18T13:26:11"
+    },
+    {
+      "titulo": "Globo muda programação para exibir tributo a Laura Cardoso",
+      "resumo": "Atriz será homenageada com documentário, gravado originalmente em 2024",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/laura-cardoso-tributo-matheus-malafala-tv-globo.webp?w=990&amp;h=619&amp;crop=1",
+      "link": "https://www.cnnbrasil.com.br/pop/tv/globo-muda-programacao-para-exibir-tributo-a-laura-cardoso/",
+      "fonte": "CNN Brasil",
+      "encontrada_em": "2026-08-18T13:26:11"
+    },
+    {
+      "titulo": "Advogado sequestrado pelo PCC relata ameaças após “tribunal do crime”",
+      "resumo": "Rafaell Roque disse à CNN Brasil que facção decretou sua morte três dias após libertá-lo; após o crime, operação prendeu três suspeitos e matou outro em confronto",
+      "categoria": "Segurança",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/ADVOGADO-SEQUESTRADO-PCC.jpg?w=1200&amp;h=630&amp;crop=1",
+      "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/advogado-sequestrado-pelo-pcc-relata-ameacas-apos-tribunal-do-crime/",
+      "fonte": "CNN Brasil",
+      "encontrada_em": "2026-08-18T13:26:11"
+    },
+    {
       "titulo": "Carlos Cesare, intérprete de Pablo do 'Qual é a Música?', morre aos 60 anos",
       "resumo": "O ator Carlos José Cesare, conhecido por interpretar Pablo no quadro Qual é a Música?, do ...",
       "categoria": "Amazonas",
@@ -886,36 +916,6 @@
       "autor": "Paulo Amazonas",
       "imagem": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
       "link": "https://www.terra.com.br/noticias/mundo/suica-anuncia-retomada-de-transferencias-de-solicitantes-de-refugio-a-italia,6cb544c47c7adfdc34a73a75417036c6kr2fiauf.html",
-      "fonte": "Terra",
-      "encontrada_em": "2026-08-18T13:01:13"
-    },
-    {
-      "titulo": "Sueca Einride vai colocar em operação 500 caminhões elétricos da Tesla nos EUA",
-      "resumo": "A Einride ‌AB anunciou nesta terça-feira que planeja implantar ​500 caminhões Tesla ​em suas ...",
-      "categoria": "Segurança",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
-      "link": "https://www.terra.com.br/byte/sueca-einride-vai-colocar-em-operacao-500-caminhoes-eletricos-da-tesla-nos-eua,c070817a98afb268da0e667fa3fb7b37oq8b4u7s.html",
-      "fonte": "Terra",
-      "encontrada_em": "2026-08-18T13:01:13"
-    },
-    {
-      "titulo": "STOXX 600 cai a menor nível em 2 semanas com alta de rendimentos dos títulos e incerteza geopolítica",
-      "resumo": "O índice de referência europeu STOXX ‌600 caiu nesta terça-feira para o menor nível em mais de ...",
-      "categoria": "Política",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
-      "link": "https://www.terra.com.br/economia/stoxx-600-cai-a-menor-nivel-em-2-semanas-com-alta-de-rendimentos-dos-titulos-e-incerteza-geopolitica,ea82522bb17a553094d3bc9144d9ce7dt5pinsgz.html",
-      "fonte": "Terra",
-      "encontrada_em": "2026-08-18T13:01:13"
-    },
-    {
-      "titulo": "Ator de 'White Lotus' diz que prefere Oasis do que Beatles: 'Liam é o vocalista mais legal que já existiu'",
-      "resumo": "O ator britânico Leo Woodall rivalizou a música britânica em entrevista recente ao The New York ...",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/18/1289537817-gettyimages-2277369244-scaled-e1787069828397.jpg",
-      "link": "https://www.terra.com.br/diversao/musica/ator-de-white-lotus-diz-que-prefere-oasis-do-que-beatles-liam-e-o-vocalista-mais-legal-que-ja-existiu,45174e8a1f305ab8f2aff1770514a63bpegocq44.html",
       "fonte": "Terra",
       "encontrada_em": "2026-08-18T13:01:13"
     }
