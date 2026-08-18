@@ -920,6 +920,46 @@
   ],
   "internacionais": [
     {
+      "titulo": "Where Future Champions Race Against the Tide",
+      "resumo": "An uninhabited Irish island fills up one day each summer for a treasured amateur horse race in which young jockeys ride across the shifting sands.",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://static01.nyt.com/images/2026/08/06/multimedia/00xp-omey-08-gwmq-Promo/00xp-omey-08-gwmq-Promo-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/08/15/world/europe/omey-island-races-horse-racing-ireland.html",
+      "fonte": "NYT",
+      "encontrada_em": "2026-08-17T20:06:15"
+    },
+    {
+      "titulo": "Where to Eat and Drink at a Barcelona Bar Like a Local",
+      "resumo": "The classic bars, known as bodegas, are where locals in the Catalan capital take their rituals seriously. If you know where to look, you can join them.",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://static01.nyt.com/images/2026/08/14/multimedia/14trav-barcelona-bars-promo/14trav-barcelona-bars-promo-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/08/15/travel/barcelona-bars-bodegas.html",
+      "fonte": "NYT",
+      "encontrada_em": "2026-08-17T20:06:15"
+    },
+    {
+      "titulo": "Zimbabwe boat accident death toll hits 68 as 22 more bodies recovered",
+      "resumo": "Eighteen children among the people killed after ferry capsized on Lake Kariba Twenty-two more bodies have been recovered after a boat accident in Zimbabwe, taking the death toll to 68, police said on ",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://i.guim.co.uk/img/media/b14768a4016a3eb7461634532d5a9f3c7c039c61/668_0_4853_3883/master/4853.jpg?width=140&quality=85&auto=format&fit=max&s=fb5e8e7beec54c6ef27f17ca3ee48446",
+      "link": "https://www.theguardian.com/world/2026/aug/15/more-bodies-recovered-after-zimbabwe-boat-accident",
+      "fonte": "The Guardian",
+      "encontrada_em": "2026-08-17T20:06:15"
+    },
+    {
+      "titulo": "Moroccan police arrest more than 100 people attempting to enter Ceuta",
+      "resumo": "Border security tightened after social media posts call for another mass crossing into Spain’s north African territory Moroccan police have arrested 111 people as they tried to enter Spain’s north Afr",
+      "categoria": "Amazonas",
+      "autor": "Paulo Amazonas",
+      "imagem": "https://i.guim.co.uk/img/media/16e26ebc9e7e6768f1247ec08c0e829ad225db8c/222_0_2475_1980/master/2475.jpg?width=140&quality=85&auto=format&fit=max&s=c4b0308effadffb153d384ea76f1def0",
+      "link": "https://www.theguardian.com/world/2026/aug/15/moroccan-police-arrest-more-than-100-people-as-they-attempt-to-enter-ceuta",
+      "fonte": "The Guardian",
+      "encontrada_em": "2026-08-17T20:06:15"
+    },
+    {
       "titulo": "As conflict in the Middle East intensifies, India’s relationship with Israel deepens",
       "resumo": "An Amnesty International report reveals that the country is now a key part of Israel’s weapons supply chain. Plus, Assam floods, student anger spreads and a song to put in rotation • Don’t get This is",
       "categoria": "Amazonas",
@@ -938,46 +978,6 @@
       "link": "https://www.aljazeera.com/news/2026/8/17/we-will-not-allow-gaza-to-be-rebuilt-until-hamas-disarms-kushner-says?traffic_source=rss",
       "fonte": "Al Jazeera",
       "encontrada_em": "2026-08-17T19:46:12"
-    },
-    {
-      "titulo": "Why is Australia's mushroom killer back in court this week?",
-      "resumo": "The BBC’s Katy Watson explains why triple-murderer Erin Patterson is back in court this week trying to overturn her conviction.",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ccf/live/24e92cb0-97b2-11f1-a7ab-8b30adf0800a.jpg",
-      "link": "https://www.bbc.co.uk/news/videos/c62e1v8p07go?at_medium=RSS&at_campaign=rss",
-      "fonte": "BBC World",
-      "encontrada_em": "2026-08-17T19:31:16"
-    },
-    {
-      "titulo": "Many Canadians are boycotting the US, so this is where they're travelling instead",
-      "resumo": "From exploring their own backyard to travelling abroad, many Canadians are spending their money elsewhere to send a message to the US president.",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ff2/live/1ac3c9a0-97f0-11f1-a579-3beb34ebe76c.jpg",
-      "link": "https://www.bbc.co.uk/news/articles/c8jnwnw22ngo?at_medium=RSS&at_campaign=rss",
-      "fonte": "BBC World",
-      "encontrada_em": "2026-08-17T19:26:15"
-    },
-    {
-      "titulo": "Five years after the Taliban swept to power, does the West have any influence?",
-      "resumo": "Five years after the Taliban swept to power, many are asking whether the West has any bargaining chips left",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e6df/live/5cf107f0-97de-11f1-a7ab-8b30adf0800a.jpg",
-      "link": "https://www.bbc.co.uk/news/articles/cm2gp5g0xngo?at_medium=RSS&at_campaign=rss",
-      "fonte": "BBC World",
-      "encontrada_em": "2026-08-17T19:26:15"
-    },
-    {
-      "titulo": "Secondhand book sales are booming. Is it because of AI?",
-      "resumo": "Booksellers are reporting mysterious bulk orders. It's thought the books are being used to train AI - and ending up pulped.",
-      "categoria": "Amazonas",
-      "autor": "Paulo Amazonas",
-      "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/feb2/live/91ecfb30-97e8-11f1-a76b-f1c27c51f3da.jpg",
-      "link": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o?at_medium=RSS&at_campaign=rss",
-      "fonte": "BBC World",
-      "encontrada_em": "2026-08-17T19:26:15"
     }
   ],
   "empregos": [
