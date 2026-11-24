@@ -320,7 +320,7 @@ def update_index_html():
     )
     html_content = re.sub(
         r'● Por [^<]*<span>•</span> [^<]+',
-        f"● Por Paulo Amazonas <span>•</span> {hoje}",
+        f"● Por Paulo Amazonas <span>•</span> {hoje} ",
         html_content, count=1,
     )
 
@@ -340,8 +340,9 @@ def update_index_html():
         )
         if primeira.get('imagem'):
             html_content = re.sub(
-                r'(<article class="hero fade-in" id="heroArticle">\s*<img src=")[^"]*(")',
-                rf'\g<1>{primeira["imagem"]}\g<2>',
+                r'(<article class="hero fade-in" id="heroArticle">\s*<img src=")[^"]*(" alt=")[^"]*',
+                lambda m: m.group(1) + primeira["imagem"] + m.group(2)
+                + esc(primeira.get("titulo", ""))[:90],
                 html_content, count=1,
             )
 
