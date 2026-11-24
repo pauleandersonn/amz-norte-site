@@ -105,6 +105,18 @@ def noticias_priorizadas(noticias):
     return sorted(noticias, key=prioridade_noticia)
 
 
+def noticia_destaque(news_data):
+    """Notícia do hero: o destaque fixo (pauta própria) se houver, senão a
+    primeira priorizada (Manaus/Amazonas). Sem destaque fixo a automação de
+    5 min escolhe a manchete sozinha."""
+    fixo = news_data.get("destaque") or {}
+    if fixo.get("titulo"):
+        return fixo
+    if news_data.get("ultimas_noticias"):
+        return noticias_priorizadas(news_data["ultimas_noticias"])[0]
+    return {}
+
+
 def link_noticia(noticia) -> str:
     """URL da página da notícia (noticia.html) com os dados codificados."""
     q = {
@@ -324,9 +336,9 @@ def update_index_html():
         html_content, count=1,
     )
 
-    # Hero: usa a primeira notícia priorizada (Manaus/Amazonas primeiro)
+    # Hero: destaque fixo (pauta própria) ou a primeira priorizada (Manaus/Amazonas)
     if news_data["ultimas_noticias"]:
-        primeira = noticias_priorizadas(news_data["ultimas_noticias"])[0]
+        primeira = noticia_destaque(news_data)
         link_hero = link_noticia(primeira)
         html_content = re.sub(
             r'<h1 id="heroTitle">.*?</h1>',
@@ -346,9 +358,9 @@ def update_index_html():
                 html_content, count=1,
             )
 
-    # Ticker: texto da notícia mais recente (priorizada), clicável
+    # Ticker: mesma manchete do hero, clicável
     if news_data["ultimas_noticias"]:
-        topo = noticias_priorizadas(news_data["ultimas_noticias"])[0]
+        topo = noticia_destaque(news_data)
         link_ticker = link_noticia(topo)
         html_content = re.sub(
             r'(<p id="tickerText">).*?(</p>)',

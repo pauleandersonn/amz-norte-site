@@ -270,7 +270,8 @@ def remover(alvo: str, publicar: bool):
 
 def adicionar(titulo: str, resumo: str, categoria: str, autor: str,
               imagem: str | None, urgente: bool, publicar: bool,
-              link: str | None = None, texto: str | None = None):
+              link: str | None = None, texto: str | None = None,
+              destaque: bool = False):
     titulo = titulo.strip()
     resumo = resumo.strip()
     if not titulo:
@@ -302,6 +303,10 @@ def adicionar(titulo: str, resumo: str, categoria: str, autor: str,
     # grava a data em pt-BR (add_new_noticia usa nome do mês em inglês)
     dados = post_news.load_news_data()
     dados["ultimas_noticias"][0]["data"] = nova["data"]
+    if destaque:
+        # fica no hero mesmo com a automação de 5 min publicando por cima
+        dados["destaque"] = dados["ultimas_noticias"][0]
+        print("⭐ Marcada como destaque fixo do hero.")
     post_news.save_news_data(dados)
 
     if not regenerar_site():
@@ -383,6 +388,8 @@ def main():
     parser.add_argument("--link", "--fonte", dest="link", default=None, help="URL da matéria original (fonte)")
     parser.add_argument("--texto", dest="texto", default=None, help="Texto completo da matéria (reescrito pelo AMZ Norte)")
     parser.add_argument("--urgente", action="store_true", help="Marca como urgente")
+    parser.add_argument("--destaque", action="store_true", help="Fixa a notícia como manchete do hero (pauta própria)")
+    parser.add_argument("--sem-destaque", action="store_true", help="Remove o destaque fixo (hero volta a ser automático)")
     parser.add_argument("--listar", action="store_true", help="Lista as notícias publicadas")
     parser.add_argument("--remover", metavar="N|TÍTULO", help="Remove a notícia (número ou trecho do título)")
     parser.add_argument("--atualizar", action="store_true", help="Só regenera o index.html local (use --publicar para subir)")
@@ -406,9 +413,21 @@ def main():
         remover(args.remover, publicar)
         return
 
+    if args.sem_destaque:
+        dados = post_news.load_news_data()
+        if dados.pop("destaque", None):
+            post_news.save_news_data(dados)
+            print("✅ Destaque fixo removido — hero volta a ser automático.")
+        else:
+            print("ℹ️ Não havia destaque fixo.")
+        if regenerar_site() and publicar:
+            publicar_no_netlify("destaque: volta ao automático")
+        return
+
     if args.titulo:
         adicionar(args.titulo, args.resumo or "", args.categoria, args.autor,
-                  args.imagem, args.urgente, publicar, args.link, args.texto)
+                  args.imagem, args.urgente, publicar, args.link, args.texto,
+                  destaque=args.destaque)
     else:
         assistente(publicar_default=publicar)
 

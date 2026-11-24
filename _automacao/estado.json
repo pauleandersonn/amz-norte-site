@@ -1,0 +1,48 @@
+{
+  "links": [
+    "https://emtempo.com.br/613215/policia/acidente-na-br-174-mata-sargento-da-pm-de-roraima-e-deixa-soldado-ferido",
+    "https://emtempo.com.br/613221/policia/video-casal-e-rendido-por-criminosos-armados-e-tem-moto-roubada-na-compensa",
+    "https://emtempo.com.br/613226/policia/influenciador-teria-discutido-com-homem-antes-de-ser-morto-a-tiros-no-sambodromo-dizem-testemunhas",
+    "https://emtempo.com.br/613246/policia/suspeito-agredir-mulher-torturado-tribunal-crime-manaus",
+    "https://d24am.com/amazonas/multas-por-crimes-ambientais-ultrapassam-r-64-milhoes-no-am-em-uma-semana",
+    "https://emtempo.com.br/613271/amazonas/flavio-bolsonaro-nao-tem-provas-fraude-eleitoral-brasil",
+    "https://amazonas1.com.br/falta-de-insumos-no-complexo-hospitalar-sul-leva-profissionais-a-comprar-mascaras-do-proprio-bolso",
+    "https://d24am.com/esportes/futebol/amazonas-vence-o-distrito-federal-e-avanca-as-quartas-da-taca-das-favelas",
+    "https://d24am.com/politica/governo-regulamenta-escala-5x2-e-define-novas-regras-para-jornada-de-trabalho",
+    "https://d24am.com/concursos/crea-am-anuncia-concurso-publico-com-provas-previstas-para-2027",
+    "https://www.cnnbrasil.com.br/economia/money/negocios/jensen-huang-enriquece-mais-de-us-30-bilhoes-apos-retorno-a-nvidia",
+    "https://news.un.org/feed/view/pt/story/2026/11/1854982",
+    "https://d24am.com/economia/amazonas-oferece-147-vagas-de-emprego-nesta-terca-veja-como-se-candidatar",
+    "https://amazonas1.com.br/alunos-da-rede-estadual-do-am-precisam-regularizar-cpf-para-matricula-2027",
+    "https://www.cnnbrasil.com.br/internacional/cop31-inovacoes-nao-foram-bem-sucedidas-mas-houve-avancos-diz-ministro",
+    "https://pt.euronews.com/2026/11/23/espanha-blinda-eleicoes-de-29-de-novembro-contra-ameacas-hibridas"
+  ],
+  "titulos": [
+    "acidente na br174 mata sargento da pm de roraima e deixa soldado ferido",
+    "video casal e rendido por criminosos armados e tem moto roubada na compensa",
+    "influenciador teria discutido com homem antes de ser morto a tiros no sambodromo dizem tes",
+    "videos suspeito de agredir mulher e torturado por tribunal do crime e fica com a mao estra",
+    "multas ambientais somam r 64 milhoes no amazonas em uma semana",
+    "flavio bolsonaro diz nao ter provas de fraude na eleicao no brasil pois e proibido de inve",
+    "falta de insumos no complexo hospitalar sul leva profissionais a comprar mascaras do propr",
+    "amazonas vence o distrito federal e avanca as quartas da taca das favelas",
+    "governo regulamenta escala 52 e define novas regras para jornada de trabalho",
+    "creaam anuncia concurso publico com provas previstas para 2027",
+    "jensen huang enriquece mais de us 30 bilhoes apos retorno a nvidia",
+    "cop31 termina sem acordo climatico em desfecho decepcionante",
+    "amazonas oferece 147 vagas de emprego nesta terca veja como se candidatar",
+    "alunos da rede estadual do am precisam regularizar cpf para matricula 2027",
+    "cop31 inovacoes nao foram bemsucedidas mas houve avancos diz ministro",
+    "espanha blinda eleicoes de 29 de novembro contra ameacas hibridas"
+  ],
+  "posts_por_dia": {
+    "2026-11-23": {
+      "local": 12,
+      "total": 16,
+      "nacional": 2,
+      "internacional": 2
+    }
+  },
+  "ultimo_deploy": "2026-11-23T23:10:18",
+  "ultima_rodada": "2026-11-23T23:21:14"
+}

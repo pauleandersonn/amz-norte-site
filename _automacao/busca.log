@@ -1,0 +1,77 @@
+[2026-11-23 23:09:32] ── rodada ──
+[2026-11-23 23:09:35]   local: 60 itens nos feeds, 42 novos
+[2026-11-23 23:09:37]   nacional: 145 itens nos feeds, 132 novos
+[2026-11-23 23:09:38]   internacional: 54 itens nos feeds, 47 novos
+[2026-11-23 23:09:38] 4 nova(s) matéria(s) para publicar
+[2026-11-23 23:09:38]   + [local] Acidente na BR-174 mata sargento da PM de Roraima e deixa soldado ferido
+[2026-11-23 23:09:38]   + [local] VÍDEO: Casal é rendido por criminosos armados e tem moto roubada na Compensa
+[2026-11-23 23:09:38]   + [local] Influenciador teria discutido com homem antes de ser morto a tiros no Sambódromo
+[2026-11-23 23:09:38]   + [local] VÍDEOS: Suspeito de agredir mulher é torturado por ‘tribunal do crime’ e fica co
+[2026-11-23 23:09:38] (--dry-run: nada gravado, nada publicado)
+[2026-11-23 23:09:51] ── rodada ──
+[2026-11-23 23:09:53]   local: 60 itens nos feeds, 42 novos
+[2026-11-23 23:09:55]   nacional: 59 itens nos feeds, 54 novos
+[2026-11-23 23:09:55]   internacional: 54 itens nos feeds, 47 novos
+[2026-11-23 23:09:55] 4 nova(s) matéria(s) para publicar
+[2026-11-23 23:09:55]   + [local] Acidente na BR-174 mata sargento da PM de Roraima e deixa soldado ferido
+[2026-11-23 23:09:56]   + [local] VÍDEO: Casal é rendido por criminosos armados e tem moto roubada na Compensa
+[2026-11-23 23:09:57]   + [local] Influenciador teria discutido com homem antes de ser morto a tiros no Sambódromo
+[2026-11-23 23:09:58]   + [local] VÍDEOS: Suspeito de agredir mulher é torturado por ‘tribunal do crime’ e fica co
+[2026-11-23 23:09:59]   🚀 deploy: cmd /c C:\Users\paule\AppData\Roaming\npm\netlify.cmd ...
+[2026-11-23 23:10:18]   ✅ deploy ok Production URL: <https://amznorte.netlify.app>
+[2026-11-23 23:10:18] hoje: total 4 · local 4/60 · nacional 0/24 · internacional 0/16
+[2026-11-23 23:11:01] ── rodada ──
+[2026-11-23 23:11:02] rodada anterior ainda em andamento — saindo
+[2026-11-23 23:11:03]   local: 60 itens nos feeds, 38 novos
+[2026-11-23 23:11:05]   nacional: 145 itens nos feeds, 132 novos
+[2026-11-23 23:11:06]   internacional: 54 itens nos feeds, 47 novos
+[2026-11-23 23:11:06] 4 nova(s) matéria(s) para publicar
+[2026-11-23 23:11:06]   + [local] Multas ambientais somam R$ 6,4 milhões no Amazonas em uma semana
+[2026-11-23 23:11:06]   + [local] Flávio Bolsonaro diz não ter provas de fraude na eleição no Brasil pois é “proib
+[2026-11-23 23:11:07]   + [local] Falta de insumos no Complexo Hospitalar Sul leva profissionais a comprar máscara
+[2026-11-23 23:11:08]   + [local] Amazonas vence o Distrito Federal e avança às quartas da Taça das Favelas
+[2026-11-23 23:11:09]   deploy adiado (1 min < 15) — sobe na próxima
+[2026-11-23 23:11:09] hoje: total 8 · local 8/60 · nacional 0/24 · internacional 0/16
+[2026-11-23 23:13:12] ── rodada ──
+[2026-11-23 23:13:14]   local: 60 itens nos feeds, 32 novos
+[2026-11-23 23:13:16]   nacional: 59 itens nos feeds, 54 novos
+[2026-11-23 23:13:17]   internacional: 54 itens nos feeds, 47 novos
+[2026-11-23 23:13:17] 4 nova(s) matéria(s) para publicar
+[2026-11-23 23:13:17]   + [local] Governo regulamenta escala 5×2 e define novas regras para jornada de trabalho
+[2026-11-23 23:13:17]   + [local] Crea-AM anuncia concurso público com provas previstas para 2027
+[2026-11-23 23:13:17]   + [nacional] Trump publica montagem de Huang com sutiã nas mãos após retorno à Nvidia
+[2026-11-23 23:13:17]   + [internacional] COP31 termina sem acordo climático, em desfecho “decepcionante”
+[2026-11-23 23:13:17] (--dry-run: nada gravado, nada publicado)
+[2026-11-23 23:16:01] ── rodada ──
+[2026-11-23 23:16:04]   local: 60 itens nos feeds, 32 novos
+[2026-11-23 23:16:05]   nacional: 59 itens nos feeds, 54 novos
+[2026-11-23 23:16:06]   internacional: 54 itens nos feeds, 47 novos
+[2026-11-23 23:16:06] 4 nova(s) matéria(s) para publicar
+[2026-11-23 23:16:06]   + [local] Governo regulamenta escala 5×2 e define novas regras para jornada de trabalho
+[2026-11-23 23:16:06]   + [local] Crea-AM anuncia concurso público com provas previstas para 2027
+[2026-11-23 23:16:07]   + [nacional] Jensen Huang enriquece mais de US$ 30 bilhões após retorno à Nvidia
+[2026-11-23 23:16:07]   + [internacional] COP31 termina sem acordo climático, em desfecho “decepcionante”
+[2026-11-23 23:16:07]   deploy adiado (6 min < 15) — sobe na próxima
+[2026-11-23 23:16:07] hoje: total 12 · local 10/60 · nacional 1/24 · internacional 1/16
+[2026-11-23 23:21:01] ── rodada ──
+[2026-11-23 23:21:04]   local: 60 itens nos feeds, 30 novos
+[2026-11-23 23:21:06]   nacional: 149 itens nos feeds, 135 novos
+[2026-11-23 23:21:07]   internacional: 54 itens nos feeds, 46 novos
+[2026-11-23 23:21:07] 4 nova(s) matéria(s) para publicar
+[2026-11-23 23:21:07]   + [local] Amazonas oferece 147 vagas de emprego nesta terça; veja como se candidatar
+[2026-11-23 23:21:07]   + [local] Alunos da rede estadual do AM precisam regularizar CPF para matrícula 2027
+[2026-11-23 23:21:09]   + [nacional] COP31: inovações não foram bem-sucedidas, mas houve avanços, diz ministro
+[2026-11-23 23:21:10]   + [internacional] Espanha blinda eleições de 29 de novembro contra ameaças híbridas
+[2026-11-23 23:21:11]   🚀 deploy: cmd /c C:\Users\paule\AppData\Roaming\npm\netlify.cmd ...
+[2026-11-23 23:21:14]   ⚠️ deploy retornou 3221225786: 
+[2026-11-23 23:21:14] hoje: total 16 · local 12/60 · nacional 2/24 · internacional 2/16
+[2026-11-23 23:26:01] ── rodada ──
+[2026-11-23 23:26:04]   local: 60 itens nos feeds, 28 novos
+[2026-11-23 23:26:06]   nacional: 59 itens nos feeds, 53 novos
+[2026-11-23 23:26:07]   internacional: 54 itens nos feeds, 45 novos
+[2026-11-23 23:26:07] 4 nova(s) matéria(s) para publicar
+[2026-11-23 23:26:07]   + [local] INSS começa a pagar benefícios e 13º salário nesta terça; veja o calendário
+[2026-11-23 23:26:07]   + [local] Homem ameaça matar ex e toma celular para impedi-la de chamar a polícia
+[2026-11-23 23:26:07]   + [nacional] Black Friday em sites internacionais: como pagar menos taxas e economizar
+[2026-11-23 23:26:08]   + [internacional] Indonésia: equipas de resgate recuperam 24 sacos com corpos de fábrica devastada
+[2026-11-23 23:26:09]   🚀 deploy: cmd /c C:\Users\paule\AppData\Roaming\npm\netlify.cmd ...
